@@ -1,0 +1,162 @@
+number,name,office,district,party,candidate,total,
+101,Gardiner 1,,,,,181,
+102,Gardiner 2,,,,,69,
+103,Gardiner 3,,,,,55,
+104,Cape George,,,,,1338,
+105,S Discovery,,,,,879,
+106,North Jacob,,,,,300,
+107,Eaglemount,,,,,49,
+108,Port Discovery,,,,,167,
+109,Crocker Lake,,,,,96,
+110,Leland,,,,,110,
+200,Coyle 1,,,,,158,
+201,Quilcene,,,,,774,
+203,Coyle 2,,,,,90,
+204,Brinnon,,,,,955,
+206,Thorndyke,,,,,61,
+301,Chimacum,,,,,778,
+302,Center,,,,,669,
+303,Hadlock,,,,,1460,
+304,Kala Point,,,,,997,
+305,Irondale,,,,,660,
+401,Nordland,,,,,746,
+501,N Port Ludlow,,,,,1697,
+502,S Port Ludlow,,,,,1334,
+503,Shine,,,,,560,
+600,Hoh,,,,,149,
+601,Queets,,,,,111,
+701,Port Townsend 1,,,,,1246,
+702,Port Townsend 2,,,,,1649,
+703,Port Townsend 3,,,,,1299,
+704,Port Townsend 4,,,,,910,
+705,Port Townsend 5,,,,,1618,
+JEFFERSON WA,JEFFERSON WA,,,,,21165,
+number,name,office,district,party,candidate,total,hand
+101,Gardiner 1,,,,Ballots,,163
+102,Gardiner 2,,,,Ballots,,61
+103,Gardiner 3,,,,Ballots,,50
+104,Cape George,,,,Ballots,,1249
+105,S Discovery,,,,Ballots,,722
+106,North Jacob,,,,Ballots,,267
+107,Eaglemount,,,,Ballots,,47
+108,Port Discovery,,,,Ballots,,151
+109,Crocker Lake,,,,Ballots,,78
+110,Leland,,,,Ballots,,100
+200,Coyle 1,,,,Ballots,,149
+201,Quilcene,,,,Ballots,,646
+203,Coyle 2,,,,Ballots,,78
+204,Brinnon,,,,Ballots,,840
+206,Thorndyke,,,,Ballots,,55
+301,Chimacum,,,,Ballots,,652
+302,Center,,,,Ballots,,592
+303,Hadlock,,,,Ballots,,1203
+304,Kala Point,,,,Ballots,,898
+305,Irondale,,,,Ballots,,541
+401,Nordland,,,,Ballots,,684
+501,N Port Ludlow,,,,Ballots,,1559
+502,S Port Ludlow,,,,Ballots,,1258
+503,Shine,,,,Ballots,,495
+600,Hoh,,,,Ballots,,99
+601,Queets,,,,Ballots,,76
+701,Port Townsend 1,,,,Ballots,,1138
+702,Port Townsend 2,,,,Ballots,,1500
+703,Port Townsend 3,,,,Ballots,,1140
+704,Port Townsend 4,,,,Ballots,,804
+705,Port Townsend 5,,,,Ballots,,1477
+JEFFERSON WA,JEFFERSON WA,,,,Ballots,,18772
+101,Gardiner 1,Governor,,D,Christine Gregoire,74,74
+102,Gardiner 2,Governor,,D,Christine Gregoire,49,49
+103,Gardiner 3,Governor,,D,Christine Gregoire,21,21
+104,Cape George,Governor,,D,Christine Gregoire,790,791
+105,S Discovery,Governor,,D,Christine Gregoire,436,436
+106,North Jacob,Governor,,D,Christine Gregoire,148,149
+107,Eaglemount,Governor,,D,Christine Gregoire,32,32
+108,Port Discovery,Governor,,D,Christine Gregoire,71,71
+109,Crocker Lake,Governor,,D,Christine Gregoire,37,37
+110,Leland,Governor,,D,Christine Gregoire,52,52
+200,Coyle 1,Governor,,D,Christine Gregoire,91,91
+201,Quilcene,Governor,,D,Christine Gregoire,287,287
+203,Coyle 2,Governor,,D,Christine Gregoire,58,58
+204,Brinnon,Governor,,D,Christine Gregoire,362,363
+206,Thorndyke,Governor,,D,Christine Gregoire,22,22
+301,Chimacum,Governor,,D,Christine Gregoire,338,339
+302,Center,Governor,,D,Christine Gregoire,327,327
+303,Hadlock,Governor,,D,Christine Gregoire,610,610
+304,Kala Point,Governor,,D,Christine Gregoire,463,463
+305,Irondale,Governor,,D,Christine Gregoire,287,287
+401,Nordland,Governor,,D,Christine Gregoire,382,383
+501,N Port Ludlow,Governor,,D,Christine Gregoire,683,684
+502,S Port Ludlow,Governor,,D,Christine Gregoire,512,512
+503,Shine,Governor,,D,Christine Gregoire,233,233
+600,Hoh,Governor,,D,Christine Gregoire,49,49
+601,Queets,Governor,,D,Christine Gregoire,53,53
+701,Port Townsend 1,Governor,,D,Christine Gregoire,811,811
+702,Port Townsend 2,Governor,,D,Christine Gregoire,1092,1094
+703,Port Townsend 3,Governor,,D,Christine Gregoire,779,779
+704,Port Townsend 4,Governor,,D,Christine Gregoire,487,488
+705,Port Townsend 5,Governor,,D,Christine Gregoire,1005,1005
+JEFFERSON WA,JEFFERSON WA,Governor,,D,Christine Gregoire,10641,10650
+101,Gardiner 1,Governor,,R,Dino Rossi,78,78
+102,Gardiner 2,Governor,,R,Dino Rossi,12,12
+103,Gardiner 3,Governor,,R,Dino Rossi,27,27
+104,Cape George,Governor,,R,Dino Rossi,402,402
+105,S Discovery,Governor,,R,Dino Rossi,248,248
+106,North Jacob,Governor,,R,Dino Rossi,104,104
+107,Eaglemount,Governor,,R,Dino Rossi,13,13
+108,Port Discovery,Governor,,R,Dino Rossi,78,78
+109,Crocker Lake,Governor,,R,Dino Rossi,38,38
+110,Leland,Governor,,R,Dino Rossi,45,45
+200,Coyle 1,Governor,,R,Dino Rossi,49,49
+201,Quilcene,Governor,,R,Dino Rossi,332,332
+203,Coyle 2,Governor,,R,Dino Rossi,17,17
+204,Brinnon,Governor,,R,Dino Rossi,451,451
+206,Thorndyke,Governor,,R,Dino Rossi,32,32
+301,Chimacum,Governor,,R,Dino Rossi,282,282
+302,Center,Governor,,R,Dino Rossi,226,226
+303,Hadlock,Governor,,R,Dino Rossi,518,518
+304,Kala Point,Governor,,R,Dino Rossi,406,406
+305,Irondale,Governor,,R,Dino Rossi,217,217
+401,Nordland,Governor,,R,Dino Rossi,277,278
+501,N Port Ludlow,Governor,,R,Dino Rossi,834,834
+502,S Port Ludlow,Governor,,R,Dino Rossi,718,718
+503,Shine,Governor,,R,Dino Rossi,246,246
+600,Hoh,Governor,,R,Dino Rossi,41,41
+601,Queets,Governor,,R,Dino Rossi,19,19
+701,Port Townsend 1,Governor,,R,Dino Rossi,275,275
+702,Port Townsend 2,Governor,,R,Dino Rossi,341,341
+703,Port Townsend 3,Governor,,R,Dino Rossi,295,295
+704,Port Townsend 4,Governor,,R,Dino Rossi,272,273
+705,Port Townsend 5,Governor,,R,Dino Rossi,400,400
+JEFFERSON WA,JEFFERSON WA,Governor,,R,Dino Rossi,7293,7295
+101,Gardiner 1,Governor,,L,Ruth Bennett,8,8
+102,Gardiner 2,Governor,,L,Ruth Bennett,0,0
+103,Gardiner 3,Governor,,L,Ruth Bennett,0,0
+104,Cape George,Governor,,L,Ruth Bennett,33,33
+105,S Discovery,Governor,,L,Ruth Bennett,23,23
+106,North Jacob,Governor,,L,Ruth Bennett,8,8
+107,Eaglemount,Governor,,L,Ruth Bennett,2,2
+108,Port Discovery,Governor,,L,Ruth Bennett,1,1
+109,Crocker Lake,Governor,,L,Ruth Bennett,0,0
+110,Leland,Governor,,L,Ruth Bennett,3,3
+200,Coyle 1,Governor,,L,Ruth Bennett,7,7
+201,Quilcene,Governor,,L,Ruth Bennett,19,19
+203,Coyle 2,Governor,,L,Ruth Bennett,2,2
+204,Brinnon,Governor,,L,Ruth Bennett,13,13
+206,Thorndyke,Governor,,L,Ruth Bennett,0,0
+301,Chimacum,Governor,,L,Ruth Bennett,14,14
+302,Center,Governor,,L,Ruth Bennett,28,28
+303,Hadlock,Governor,,L,Ruth Bennett,45,45
+304,Kala Point,Governor,,L,Ruth Bennett,17,17
+305,Irondale,Governor,,L,Ruth Bennett,22,22
+401,Nordland,Governor,,L,Ruth Bennett,14,14
+501,N Port Ludlow,Governor,,L,Ruth Bennett,17,17
+502,S Port Ludlow,Governor,,L,Ruth Bennett,9,9
+503,Shine,Governor,,L,Ruth Bennett,11,11
+600,Hoh,Governor,,L,Ruth Bennett,7,7
+601,Queets,Governor,,L,Ruth Bennett,3,3
+701,Port Townsend 1,Governor,,L,Ruth Bennett,30,30
+702,Port Townsend 2,Governor,,L,Ruth Bennett,32,32
+703,Port Townsend 3,Governor,,L,Ruth Bennett,40,40
+704,Port Townsend 4,Governor,,L,Ruth Bennett,20,21
+705,Port Townsend 5,Governor,,L,Ruth Bennett,37,37
+JEFFERSON WA,JEFFERSON WA,Governor,,L,Ruth Bennett,465,466

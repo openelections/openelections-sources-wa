@@ -1,0 +1,577 @@
+number,precinct,office,district,party,candidate,total,machine,hand
+101,Alder,2,40,,,433,,
+102,Alger,2,40,,,344,,
+103,Allen,2,40,,,301,,
+104,Dunbar,2,40,,,240,,
+105,Avon,2,40,,,672,,
+107,Sauk,2,40,,,756,,
+108,Bay View,2,40,,,494,,
+109,Belfast,2,40,,,431,,
+110,Big Lake,2,40,,,928,,
+111,Birdsview,2,40,,,657,,
+113,Bow,2,40,,,815,,
+114,Cascade,2,40,,,170,,
+115,Cedardale,2,40,,,433,,
+116,Clear Lake,2,40,,,720,,
+117,Country Club,2,40,,,296,,
+118,Conway,2,40,,,311,,
+119,Dewey,2,40,,,1132,,
+120,Digby,2,40,,,66,,
+121,Dodge Valley,2,40,,,253,,
+122,Edison,2,40,,,434,,
+124,Fir,2,40,,,319,,
+125,Fruitdale,2,40,,,1056,,
+126,Gear,2,40,,,859,,
+127,Guemes,2,40,,,584,,
+128,Hamburg,2,40,,,285,,
+129,Harmony,2,40,,,483,,
+130,Lake Sixteen,2,40,,,355,,
+132,Lookout,2,40,,,811,,
+133,Mansford,2,40,,,163,,
+134,Mapes,2,40,,,311,,
+135,March Point,2,40,,,35,,
+136,MuMurray West,2,40,,,383,,
+137,McRae,2,40,,,666,,
+138,McMurray East,2,40,,,148,,
+139,Minkler,2,40,,,385,,
+140,Montborne,2,40,,,584,,
+141,Nookchamps,2,40,,,396,,
+144,Skyridge,2,40,,,728,,
+145,Prairie,2,40,,,558,,
+146,Point Williams,2,40,,,518,,
+147,Ridgeway,2,40,,,485,,
+148,Rockport,2,40,,,671,,
+149,Shelter Bay,2,40,,,768,,
+150,Sneeoosh,2,40,,,575,,
+151,Sterling,2,40,,,405,,
+153,Swinomish,2,40,,,889,,
+154,Tingley,2,40,,,423,,
+155,Van Fleet,2,40,,,957,,
+156,Vedere,2,40,,,504,,
+157,Whitney,2,40,,,237,,
+158,Rosario,2,40,,,888,,
+159,Terrace,2,40,,,1032,,
+160,Starbird,2,40,,,569,,
+164,Fidalgo 01,2,40,,,805,,
+165,Gages,2,40,,,216,,
+166,Samish,2,40,,,487,,
+167,Collins,2,40,,,106,,
+168,Blanchard,2,40,,,653,,
+170,View Terrace,2,40,,,9,,
+171,Lake Cavanaugh,2,40,,,158,,
+172,Little Mountain,2,40,,,293,,
+173,Riverbend,2,40,,,40,,
+174,Padilla,2,40,,,158,,
+176,Fredonia,2,40,,,143,,
+201,Anacortes 1,2,40,,,608,,
+204,Anacortes 4,2,40,,,624,,
+205,Anacortes 5,2,40,,,29,,
+206,Anacortes 6,2,40,,,622,,
+207,Anacortes 7,2,40,,,1236,,
+209,Anacortes 9,2,40,,,628,,
+211,Anacortes 11,2,40,,,896,,
+217,Anacortes 17,2,40,,,1194,,
+220,Anacortes 20,2,40,,,993,,
+221,Anacortes 21,2,40,,,1190,,
+222,Anacortes 22,2,40,,,787,,
+224,Anacortes 24,2,40,,,1280,,
+301,Mount Vernon 1,2,40,,,508,,
+302,Mount Vernon 2,2,40,,,404,,
+303,Mount Vernon 3,2,40,,,846,,
+304,Mount Vernon 4,2,40,,,1022,,
+305,Mount Vernon 5,2,40,,,79,,
+306,Mount Vernon 6,2,40,,,683,,
+307,Mount Vernon 7,2,40,,,760,,
+308,Mount Vernon 8,2,40,,,1013,,
+309,Mount Vernon 9,2,40,,,487,,
+310,Mount Vernon 10,2,40,,,614,,
+311,Mount Vernon 11,2,40,,,549,,
+312,Mount Vernon 12,2,40,,,467,,
+314,Mount Vernon 14,2,40,,,1012,,
+315,Mount Vernon 15,2,40,,,628,,
+316,Mount Vernon 16,2,40,,,1016,,
+319,Mount Vernon 19,2,40,,,855,,
+321,Mount Vernon 21,2,40,,,1081,,
+322,Mount Vernon 22,2,40,,,712,,
+327,Mount Vernon 27,2,40,,,107,,
+328,Mount Vernon 28,2,40,,,196,,
+401,Sedro Woolley 1,2,40,,,663,,
+402,Sedro Woolley 2,2,40,,,808,,
+403,Sedro Woolley 3,2,40,,,662,,
+404,Sedro Woolley 4,2,40,,,853,,
+405,Sedro Woolley 5,2,40,,,767,,
+406,Sedro Woolley 6,2,40,,,748,,
+407,Sedro Woolley 7,2,40,,,1,,
+501,Burlington 1,2,40,,,465,,
+502,Burlington 2,2,40,,,500,,
+503,Burlington 3,2,40,,,267,,
+504,Burlington 4,2,40,,,453,,
+505,Burlington 5,2,40,,,684,,
+506,Burlington 6,2,40,,,498,,
+507,Burlington 7,2,40,,,292,,
+601,Concrete,2,40,,,394,,
+701,Hamilton,2,40,,,170,,
+801,La Conner,2,40,,,651,,
+855,Lyman,2,40,,,199,,
+SKAGIT WA,SKAGIT WA,0,0,0,0,63185,,
+101,Alder,,,,Cast,361,363,363
+102,Alger,,,,Cast,295,295,295
+103,Allen,,,,Cast,269,268,269
+104,Dunbar,,,,Cast,197,198,198
+105,Avon,,,,Cast,567,565,565
+107,Sauk,,,,Cast,545,544,545
+108,Bay View,,,,Cast,438,440,440
+109,Belfast,,,,Cast,334,337,337
+110,Big Lake,,,,Cast,784,785,785
+111,Birdsview,,,,Cast,527,530,530
+113,Bow,,,,Cast,688,693,694
+114,Cascade,,,,Cast,149,149,149
+115,Cedardale,,,,Cast,366,366,366
+116,Clear Lake,,,,Cast,579,579,580
+117,Country Club,,,,Cast,267,266,267
+118,Conway,,,,Cast,254,254,254
+119,Dewey,,,,Cast,1005,1007,1007
+120,Digby,,,,Cast,55,55,55
+121,Dodge Valley,,,,Cast,230,232,232
+122,Edison,,,,Cast,366,367,368
+124,Fir,,,,Cast,279,282,282
+125,Fruitdale,,,,Cast,815,815,815
+126,Gear,,,,Cast,679,679,679
+127,Guemes,,,,Cast,536,536,536
+128,Hamburg,,,,Cast,256,257,257
+129,Harmony,,,,Cast,411,414,414
+130,Lake Sixteen,,,,Cast,309,310,309
+132,Lookout,,,,Cast,665,667,669
+133,Mansford,,,,Cast,127,127,127
+134,Mapes,,,,Cast,256,256,256
+135,March Point,,,,Cast,30,30,30
+136,MuMurray West,,,,Cast,332,333,333
+137,McRae,,,,Cast,564,568,569
+138,McMurray East,,,,Cast,124,125,125
+139,Minkler,,,,Cast,334,335,335
+140,Montborne,,,,Cast,508,508,507
+141,Nookchamps,,,,Cast,344,345,344
+144,Skyridge,,,,Cast,652,652,652
+145,Prairie,,,,Cast,424,424,424
+146,Point Williams,,,,Cast,469,471,470
+147,Ridgeway,,,,Cast,397,398,399
+148,Rockport,,,,Cast,547,547,549
+149,Shelter Bay,,,,Cast,691,692,692
+150,Sneeoosh,,,,Cast,514,514,514
+151,Sterling,,,,Cast,342,344,344
+153,Swinomish,,,,Cast,744,746,746
+154,Tingley,,,,Cast,346,346,346
+155,Van Fleet,,,,Cast,763,765,765
+156,Vedere,,,,Cast,442,442,442
+157,Whitney,,,,Cast,208,209,208
+158,Rosario,,,,Cast,786,790,790
+159,Terrace,,,,Cast,894,897,898
+160,Starbird,,,,Cast,495,496,496
+164,Fidalgo 01,,,,Cast,696,694,695
+165,Gages,,,,Cast,175,178,178
+166,Samish,,,,Cast,404,403,405
+167,Collins,,,,Cast,89,89,89
+168,Blanchard,,,,Cast,550,550,549
+170,View Terrace,,,,Cast,9,9,9
+171,Lake Cavanaugh,,,,Cast,138,138,138
+172,Little Mountain,,,,Cast,247,250,250
+173,Riverbend,,,,Cast,34,35,35
+174,Padilla,,,,Cast,137,137,137
+176,Fredonia,,,,Cast,123,124,124
+201,Anacortes 1,,,,Cast,489,488,489
+204,Anacortes 4,,,,Cast,471,471,472
+205,Anacortes 5,,,,Cast,23,23,23
+206,Anacortes 6,,,,Cast,578,577,577
+207,Anacortes 7,,,,Cast,1072,1081,1085
+209,Anacortes 9,,,,Cast,547,547,547
+211,Anacortes 11,,,,Cast,783,783,783
+217,Anacortes 17,,,,Cast,1022,1023,1023
+220,Anacortes 20,,,,Cast,891,893,893
+221,Anacortes 21,,,,Cast,1084,1087,1088
+222,Anacortes 22,,,,Cast,709,708,708
+224,Anacortes 24,,,,Cast,1136,1140,1142
+301,Mount Vernon 1,,,,Cast,372,376,376
+302,Mount Vernon 2,,,,Cast,306,306,306
+303,Mount Vernon 3,,,,Cast,652,655,655
+304,Mount Vernon 4,,,,Cast,849,849,849
+305,Mount Vernon 5,,,,Cast,59,59,59
+306,Mount Vernon 6,,,,Cast,522,523,523
+307,Mount Vernon 7,,,,Cast,636,635,636
+308,Mount Vernon 8,,,,Cast,875,873,875
+309,Mount Vernon 9,,,,Cast,405,406,406
+310,Mount Vernon 10,,,,Cast,435,437,437
+311,Mount Vernon 11,,,,Cast,479,481,481
+312,Mount Vernon 12,,,,Cast,373,373,373
+314,Mount Vernon 14,,,,Cast,794,794,794
+315,Mount Vernon 15,,,,Cast,484,535,488
+316,Mount Vernon 16,,,,Cast,868,868,869
+319,Mount Vernon 19,,,,Cast,690,691,691
+321,Mount Vernon 21,,,,Cast,904,905,905
+322,Mount Vernon 22,,,,Cast,610,612,613
+327,Mount Vernon 27,,,,Cast,99,99,99
+328,Mount Vernon 28,,,,Cast,153,139,139
+401,Sedro Woolley 1,,,,Cast,517,516,518
+402,Sedro Woolley 2,,,,Cast,649,658,658
+403,Sedro Woolley 3,,,,Cast,490,491,493
+404,Sedro Woolley 4,,,,Cast,682,683,683
+405,Sedro Woolley 5,,,,Cast,612,617,617
+406,Sedro Woolley 6,,,,Cast,585,585,583
+407,Sedro Woolley 7,,,,Cast,0,0,0
+501,Burlington 1,,,,Cast,345,349,349
+502,Burlington 2,,,,Cast,368,369,371
+503,Burlington 3,,,,Cast,187,186,187
+504,Burlington 4,,,,Cast,355,355,355
+505,Burlington 5,,,,Cast,542,543,542
+506,Burlington 6,,,,Cast,355,356,356
+507,Burlington 7,,,,Cast,227,227,227
+601,Concrete,,,,Cast,293,293,293
+701,Hamilton,,,,Cast,128,128,128
+801,La Conner,,,,Cast,559,559,559
+855,Lyman,,,,Cast,152,152,152
+SKAGIT WA,SKAGIT WA,,,,Cast,52577,52724,52705
+,,office,district,party,candidate,total,machine,hand
+101,Alder,Governor,,D,Christine Gregoire,141,143,143
+102,Alger,Governor,,D,Christine Gregoire,135,135,135
+103,Allen,Governor,,D,Christine Gregoire,78,78,78
+104,Dunbar,Governor,,D,Christine Gregoire,93,93,93
+105,Avon,Governor,,D,Christine Gregoire,237,237,237
+107,Sauk,Governor,,D,Christine Gregoire,268,267,268
+108,Bay View,Governor,,D,Christine Gregoire,206,206,206
+109,Belfast,Governor,,D,Christine Gregoire,130,132,132
+110,Big Lake,Governor,,D,Christine Gregoire,323,324,324
+111,Birdsview,Governor,,D,Christine Gregoire,219,222,222
+113,Bow,Governor,,D,Christine Gregoire,287,288,288
+114,Cascade,Governor,,D,Christine Gregoire,91,91,91
+115,Cedardale,Governor,,D,Christine Gregoire,141,141,141
+116,Clear Lake,Governor,,D,Christine Gregoire,244,244,244
+117,Country Club,Governor,,D,Christine Gregoire,89,88,89
+118,Conway,Governor,,D,Christine Gregoire,118,118,118
+119,Dewey,Governor,,D,Christine Gregoire,452,454,455
+120,Digby,Governor,,D,Christine Gregoire,15,15,15
+121,Dodge Valley,Governor,,D,Christine Gregoire,124,125,125
+122,Edison,Governor,,D,Christine Gregoire,140,141,142
+124,Fir,Governor,,D,Christine Gregoire,146,149,149
+125,Fruitdale,Governor,,D,Christine Gregoire,347,347,347
+126,Gear,Governor,,D,Christine Gregoire,228,229,229
+127,Guemes,Governor,,D,Christine Gregoire,328,329,329
+128,Hamburg,Governor,,D,Christine Gregoire,121,122,122
+129,Harmony,Governor,,D,Christine Gregoire,176,178,178
+130,Lake Sixteen,Governor,,D,Christine Gregoire,116,116,116
+132,Lookout,Governor,,D,Christine Gregoire,266,268,268
+133,Mansford,Governor,,D,Christine Gregoire,69,69,69
+134,Mapes,Governor,,D,Christine Gregoire,100,100,100
+135,March Point,Governor,,D,Christine Gregoire,10,10,10
+136,MuMurray West,Governor,,D,Christine Gregoire,161,161,161
+137,McRae,Governor,,D,Christine Gregoire,210,210,210
+138,McMurray East,Governor,,D,Christine Gregoire,54,55,55
+139,Minkler,Governor,,D,Christine Gregoire,147,147,147
+140,Montborne,Governor,,D,Christine Gregoire,179,179,179
+141,Nookchamps,Governor,,D,Christine Gregoire,155,156,155
+144,Skyridge,Governor,,D,Christine Gregoire,265,266,266
+145,Prairie,Governor,,D,Christine Gregoire,180,180,180
+146,Point Williams,Governor,,D,Christine Gregoire,225,226,225
+147,Ridgeway,Governor,,D,Christine Gregoire,134,134,134
+148,Rockport,Governor,,D,Christine Gregoire,276,277,278
+149,Shelter Bay,Governor,,D,Christine Gregoire,285,285,285
+150,Sneeoosh,Governor,,D,Christine Gregoire,269,269,269
+151,Sterling,Governor,,D,Christine Gregoire,139,140,140
+153,Swinomish,Governor,,D,Christine Gregoire,429,432,432
+154,Tingley,Governor,,D,Christine Gregoire,138,138,138
+155,Van Fleet,Governor,,D,Christine Gregoire,316,316,317
+156,Vedere,Governor,,D,Christine Gregoire,169,170,170
+157,Whitney,Governor,,D,Christine Gregoire,87,87,87
+158,Rosario,Governor,,D,Christine Gregoire,345,345,345
+159,Terrace,Governor,,D,Christine Gregoire,301,302,301
+160,Starbird,Governor,,D,Christine Gregoire,163,164,164
+164,Fidalgo 01,Governor,,D,Christine Gregoire,295,294,296
+165,Gages,Governor,,D,Christine Gregoire,77,78,78
+166,Samish,Governor,,D,Christine Gregoire,173,172,173
+167,Collins,Governor,,D,Christine Gregoire,46,46,46
+168,Blanchard,Governor,,D,Christine Gregoire,289,289,289
+170,View Terrace,Governor,,D,Christine Gregoire,6,6,6
+171,Lake Cavanaugh,Governor,,D,Christine Gregoire,45,45,45
+172,Little Mountain,Governor,,D,Christine Gregoire,95,97,97
+173,Riverbend,Governor,,D,Christine Gregoire,8,8,8
+174,Padilla,Governor,,D,Christine Gregoire,64,64,64
+176,Fredonia,Governor,,D,Christine Gregoire,54,55,55
+201,Anacortes 1,Governor,,D,Christine Gregoire,248,247,247
+204,Anacortes 4,Governor,,D,Christine Gregoire,238,239,239
+205,Anacortes 5,Governor,,D,Christine Gregoire,10,10,10
+206,Anacortes 6,Governor,,D,Christine Gregoire,252,252,252
+207,Anacortes 7,Governor,,D,Christine Gregoire,490,494,496
+209,Anacortes 9,Governor,,D,Christine Gregoire,182,182,182
+211,Anacortes 11,Governor,,D,Christine Gregoire,376,377,377
+217,Anacortes 17,Governor,,D,Christine Gregoire,551,552,552
+220,Anacortes 20,Governor,,D,Christine Gregoire,388,387,387
+221,Anacortes 21,Governor,,D,Christine Gregoire,467,467,468
+222,Anacortes 22,Governor,,D,Christine Gregoire,271,270,268
+224,Anacortes 24,Governor,,D,Christine Gregoire,487,491,491
+301,Mount Vernon 1,Governor,,D,Christine Gregoire,165,166,167
+302,Mount Vernon 2,Governor,,D,Christine Gregoire,155,155,155
+303,Mount Vernon 3,Governor,,D,Christine Gregoire,308,309,309
+304,Mount Vernon 4,Governor,,D,Christine Gregoire,357,356,357
+305,Mount Vernon 5,Governor,,D,Christine Gregoire,19,19,19
+306,Mount Vernon 6,Governor,,D,Christine Gregoire,305,305,305
+307,Mount Vernon 7,Governor,,D,Christine Gregoire,327,327,326
+308,Mount Vernon 8,Governor,,D,Christine Gregoire,429,429,429
+309,Mount Vernon 9,Governor,,D,Christine Gregoire,210,211,211
+310,Mount Vernon 10,Governor,,D,Christine Gregoire,184,184,184
+311,Mount Vernon 11,Governor,,D,Christine Gregoire,210,211,211
+312,Mount Vernon 12,Governor,,D,Christine Gregoire,172,172,172
+314,Mount Vernon 14,Governor,,D,Christine Gregoire,379,379,379
+315,Mount Vernon 15,Governor,,D,Christine Gregoire,236,262,238
+316,Mount Vernon 16,Governor,,D,Christine Gregoire,366,366,366
+319,Mount Vernon 19,Governor,,D,Christine Gregoire,274,274,274
+321,Mount Vernon 21,Governor,,D,Christine Gregoire,412,412,412
+322,Mount Vernon 22,Governor,,D,Christine Gregoire,240,241,241
+327,Mount Vernon 27,Governor,,D,Christine Gregoire,27,27,27
+328,Mount Vernon 28,Governor,,D,Christine Gregoire,83,73,73
+401,Sedro Woolley 1,Governor,,D,Christine Gregoire,223,223,224
+402,Sedro Woolley 2,Governor,,D,Christine Gregoire,250,253,253
+403,Sedro Woolley 3,Governor,,D,Christine Gregoire,229,229,231
+404,Sedro Woolley 4,Governor,,D,Christine Gregoire,295,295,294
+405,Sedro Woolley 5,Governor,,D,Christine Gregoire,298,300,300
+406,Sedro Woolley 6,Governor,,D,Christine Gregoire,250,250,248
+407,Sedro Woolley 7,Governor,,D,Christine Gregoire,0,0,0
+501,Burlington 1,Governor,,D,Christine Gregoire,159,161,161
+502,Burlington 2,Governor,,D,Christine Gregoire,170,171,171
+503,Burlington 3,Governor,,D,Christine Gregoire,72,71,72
+504,Burlington 4,Governor,,D,Christine Gregoire,148,148,148
+505,Burlington 5,Governor,,D,Christine Gregoire,244,244,244
+506,Burlington 6,Governor,,D,Christine Gregoire,155,156,156
+507,Burlington 7,Governor,,D,Christine Gregoire,87,87,86
+601,Concrete,Governor,,D,Christine Gregoire,132,132,132
+701,Hamilton,Governor,,D,Christine Gregoire,66,66,66
+801,La Conner,Governor,,D,Christine Gregoire,316,316,316
+855,Lyman,Governor,,D,Christine Gregoire,66,66,66
+SKAGIT WA,SKAGIT WA,Governor,,D,Christine Gregoire,23195,23266,23250
+101,Alder,Governor,,R,Dino Rossi,194,195,195
+102,Alger,Governor,,R,Dino Rossi,146,146,146
+103,Allen,Governor,,R,Dino Rossi,183,183,183
+104,Dunbar,Governor,,R,Dino Rossi,94,94,94
+105,Avon,Governor,,R,Dino Rossi,299,297,297
+107,Sauk,Governor,,R,Dino Rossi,250,250,250
+108,Bay View,Governor,,R,Dino Rossi,221,223,223
+109,Belfast,Governor,,R,Dino Rossi,195,196,196
+110,Big Lake,Governor,,R,Dino Rossi,434,435,435
+111,Birdsview,Governor,,R,Dino Rossi,275,275,275
+113,Bow,Governor,,R,Dino Rossi,370,374,375
+114,Cascade,Governor,,R,Dino Rossi,48,48,48
+115,Cedardale,Governor,,R,Dino Rossi,206,206,206
+116,Clear Lake,Governor,,R,Dino Rossi,314,314,315
+117,Country Club,Governor,,R,Dino Rossi,170,170,170
+118,Conway,Governor,,R,Dino Rossi,129,129,129
+119,Dewey,Governor,,R,Dino Rossi,530,530,530
+120,Digby,Governor,,R,Dino Rossi,39,39,39
+121,Dodge Valley,Governor,,R,Dino Rossi,99,99,99
+122,Edison,Governor,,R,Dino Rossi,212,212,212
+124,Fir,Governor,,R,Dino Rossi,122,122,122
+125,Fruitdale,Governor,,R,Dino Rossi,432,432,432
+126,Gear,Governor,,R,Dino Rossi,431,431,431
+127,Guemes,Governor,,R,Dino Rossi,172,172,172
+128,Hamburg,Governor,,R,Dino Rossi,131,131,131
+129,Harmony,Governor,,R,Dino Rossi,224,225,225
+130,Lake Sixteen,Governor,,R,Dino Rossi,181,182,181
+132,Lookout,Governor,,R,Dino Rossi,374,374,376
+133,Mansford,Governor,,R,Dino Rossi,47,47,47
+134,Mapes,Governor,,R,Dino Rossi,144,144,144
+135,March Point,Governor,,R,Dino Rossi,20,20,20
+136,MuMurray West,Governor,,R,Dino Rossi,158,159,159
+137,McRae,Governor,,R,Dino Rossi,333,337,338
+138,McMurray East,Governor,,R,Dino Rossi,65,65,65
+139,Minkler,Governor,,R,Dino Rossi,168,168,168
+140,Montborne,Governor,,R,Dino Rossi,304,304,303
+141,Nookchamps,Governor,,R,Dino Rossi,175,175,175
+144,Skyridge,Governor,,R,Dino Rossi,366,365,365
+145,Prairie,Governor,,R,Dino Rossi,222,222,222
+146,Point Williams,Governor,,R,Dino Rossi,230,231,231
+147,Ridgeway,Governor,,R,Dino Rossi,244,245,246
+148,Rockport,Governor,,R,Dino Rossi,232,233,234
+149,Shelter Bay,Governor,,R,Dino Rossi,388,390,390
+150,Sneeoosh,Governor,,R,Dino Rossi,229,229,229
+151,Sterling,Governor,,R,Dino Rossi,190,191,191
+153,Swinomish,Governor,,R,Dino Rossi,298,297,297
+154,Tingley,Governor,,R,Dino Rossi,186,186,186
+155,Van Fleet,Governor,,R,Dino Rossi,414,416,415
+156,Vedere,Governor,,R,Dino Rossi,254,253,253
+157,Whitney,Governor,,R,Dino Rossi,117,118,117
+158,Rosario,Governor,,R,Dino Rossi,417,421,421
+159,Terrace,Governor,,R,Dino Rossi,567,569,571
+160,Starbird,Governor,,R,Dino Rossi,313,313,313
+164,Fidalgo 01,Governor,,R,Dino Rossi,372,372,372
+165,Gages,Governor,,R,Dino Rossi,90,92,92
+166,Samish,Governor,,R,Dino Rossi,214,214,215
+167,Collins,Governor,,R,Dino Rossi,42,42,42
+168,Blanchard,Governor,,R,Dino Rossi,233,234,233
+170,View Terrace,Governor,,R,Dino Rossi,2,2,2
+171,Lake Cavanaugh,Governor,,R,Dino Rossi,88,88,88
+172,Little Mountain,Governor,,R,Dino Rossi,149,150,150
+173,Riverbend,Governor,,R,Dino Rossi,24,25,25
+174,Padilla,Governor,,R,Dino Rossi,70,70,70
+176,Fredonia,Governor,,R,Dino Rossi,62,62,62
+201,Anacortes 1,Governor,,R,Dino Rossi,210,210,211
+204,Anacortes 4,Governor,,R,Dino Rossi,192,193,192
+205,Anacortes 5,Governor,,R,Dino Rossi,13,13,13
+206,Anacortes 6,Governor,,R,Dino Rossi,305,305,305
+207,Anacortes 7,Governor,,R,Dino Rossi,537,542,544
+209,Anacortes 9,Governor,,R,Dino Rossi,329,329,329
+211,Anacortes 11,Governor,,R,Dino Rossi,380,380,379
+217,Anacortes 17,Governor,,R,Dino Rossi,423,424,424
+220,Anacortes 20,Governor,,R,Dino Rossi,466,469,469
+221,Anacortes 21,Governor,,R,Dino Rossi,589,592,592
+222,Anacortes 22,Governor,,R,Dino Rossi,403,403,405
+224,Anacortes 24,Governor,,R,Dino Rossi,613,614,616
+301,Mount Vernon 1,Governor,,R,Dino Rossi,177,179,178
+302,Mount Vernon 2,Governor,,R,Dino Rossi,131,131,131
+303,Mount Vernon 3,Governor,,R,Dino Rossi,307,310,310
+304,Mount Vernon 4,Governor,,R,Dino Rossi,451,452,452
+305,Mount Vernon 5,Governor,,R,Dino Rossi,38,38,38
+306,Mount Vernon 6,Governor,,R,Dino Rossi,182,183,183
+307,Mount Vernon 7,Governor,,R,Dino Rossi,271,271,271
+308,Mount Vernon 8,Governor,,R,Dino Rossi,425,423,425
+309,Mount Vernon 9,Governor,,R,Dino Rossi,180,181,181
+310,Mount Vernon 10,Governor,,R,Dino Rossi,224,227,227
+311,Mount Vernon 11,Governor,,R,Dino Rossi,255,256,256
+312,Mount Vernon 12,Governor,,R,Dino Rossi,179,179,179
+314,Mount Vernon 14,Governor,,R,Dino Rossi,384,384,384
+315,Mount Vernon 15,Governor,,R,Dino Rossi,225,248,227
+316,Mount Vernon 16,Governor,,R,Dino Rossi,485,485,486
+319,Mount Vernon 19,Governor,,R,Dino Rossi,381,382,382
+321,Mount Vernon 21,Governor,,R,Dino Rossi,449,449,449
+322,Mount Vernon 22,Governor,,R,Dino Rossi,346,347,347
+327,Mount Vernon 27,Governor,,R,Dino Rossi,69,69,69
+328,Mount Vernon 28,Governor,,R,Dino Rossi,64,60,60
+401,Sedro Woolley 1,Governor,,R,Dino Rossi,274,273,274
+402,Sedro Woolley 2,Governor,,R,Dino Rossi,378,384,384
+403,Sedro Woolley 3,Governor,,R,Dino Rossi,236,236,236
+404,Sedro Woolley 4,Governor,,R,Dino Rossi,350,351,352
+405,Sedro Woolley 5,Governor,,R,Dino Rossi,286,289,289
+406,Sedro Woolley 6,Governor,,R,Dino Rossi,299,299,299
+407,Sedro Woolley 7,Governor,,R,Dino Rossi,0,0,0
+501,Burlington 1,Governor,,R,Dino Rossi,171,173,173
+502,Burlington 2,Governor,,R,Dino Rossi,187,187,188
+503,Burlington 3,Governor,,R,Dino Rossi,93,93,93
+504,Burlington 4,Governor,,R,Dino Rossi,186,186,186
+505,Burlington 5,Governor,,R,Dino Rossi,285,286,286
+506,Burlington 6,Governor,,R,Dino Rossi,174,175,175
+507,Burlington 7,Governor,,R,Dino Rossi,126,126,127
+601,Concrete,Governor,,R,Dino Rossi,147,147,147
+701,Hamilton,Governor,,R,Dino Rossi,58,58,58
+801,La Conner,Governor,,R,Dino Rossi,221,221,221
+855,Lyman,Governor,,R,Dino Rossi,79,79,79
+SKAGIT WA,SKAGIT WA,Governor,,R,Dino Rossi,27135,27224,27219
+101,Alder,Governor,,L,Ruth Bennett,12,12,12
+102,Alger,Governor,,L,Ruth Bennett,9,9,9
+103,Allen,Governor,,L,Ruth Bennett,5,5,5
+104,Dunbar,Governor,,L,Ruth Bennett,5,5,5
+105,Avon,Governor,,L,Ruth Bennett,18,18,18
+107,Sauk,Governor,,L,Ruth Bennett,17,17,17
+108,Bay View,Governor,,L,Ruth Bennett,5,5,5
+109,Belfast,Governor,,L,Ruth Bennett,3,3,3
+110,Big Lake,Governor,,L,Ruth Bennett,17,17,17
+111,Birdsview,Governor,,L,Ruth Bennett,21,21,21
+113,Bow,Governor,,L,Ruth Bennett,20,20,20
+114,Cascade,Governor,,L,Ruth Bennett,5,5,5
+115,Cedardale,Governor,,L,Ruth Bennett,12,12,12
+116,Clear Lake,Governor,,L,Ruth Bennett,16,16,16
+117,Country Club,Governor,,L,Ruth Bennett,7,7,7
+118,Conway,Governor,,L,Ruth Bennett,5,5,5
+119,Dewey,Governor,,L,Ruth Bennett,15,15,15
+120,Digby,Governor,,L,Ruth Bennett,0,0,0
+121,Dodge Valley,Governor,,L,Ruth Bennett,5,6,6
+122,Edison,Governor,,L,Ruth Bennett,8,8,8
+124,Fir,Governor,,L,Ruth Bennett,7,7,7
+125,Fruitdale,Governor,,L,Ruth Bennett,21,21,21
+126,Gear,Governor,,L,Ruth Bennett,10,10,10
+127,Guemes,Governor,,L,Ruth Bennett,30,30,30
+128,Hamburg,Governor,,L,Ruth Bennett,2,2,2
+129,Harmony,Governor,,L,Ruth Bennett,7,7,7
+130,Lake Sixteen,Governor,,L,Ruth Bennett,7,7,7
+132,Lookout,Governor,,L,Ruth Bennett,16,16,16
+133,Mansford,Governor,,L,Ruth Bennett,4,4,4
+134,Mapes,Governor,,L,Ruth Bennett,8,8,8
+135,March Point,Governor,,L,Ruth Bennett,0,0,0
+136,MuMurray West,Governor,,L,Ruth Bennett,5,5,5
+137,McRae,Governor,,L,Ruth Bennett,12,12,12
+138,McMurray East,Governor,,L,Ruth Bennett,2,2,2
+139,Minkler,Governor,,L,Ruth Bennett,11,11,11
+140,Montborne,Governor,,L,Ruth Bennett,16,16,16
+141,Nookchamps,Governor,,L,Ruth Bennett,7,7,7
+144,Skyridge,Governor,,L,Ruth Bennett,9,9,9
+145,Prairie,Governor,,L,Ruth Bennett,13,13,13
+146,Point Williams,Governor,,L,Ruth Bennett,6,6,6
+147,Ridgeway,Governor,,L,Ruth Bennett,9,9,9
+148,Rockport,Governor,,L,Ruth Bennett,22,22,22
+149,Shelter Bay,Governor,,L,Ruth Bennett,5,5,5
+150,Sneeoosh,Governor,,L,Ruth Bennett,7,7,7
+151,Sterling,Governor,,L,Ruth Bennett,7,7,7
+153,Swinomish,Governor,,L,Ruth Bennett,9,9,9
+154,Tingley,Governor,,L,Ruth Bennett,9,9,9
+155,Van Fleet,Governor,,L,Ruth Bennett,20,20,20
+156,Vedere,Governor,,L,Ruth Bennett,10,10,10
+157,Whitney,Governor,,L,Ruth Bennett,1,1,1
+158,Rosario,Governor,,L,Ruth Bennett,7,7,7
+159,Terrace,Governor,,L,Ruth Bennett,15,15,15
+160,Starbird,Governor,,L,Ruth Bennett,13,13,13
+164,Fidalgo 01,Governor,,L,Ruth Bennett,12,12,12
+165,Gages,Governor,,L,Ruth Bennett,3,3,3
+166,Samish,Governor,,L,Ruth Bennett,12,12,12
+167,Collins,Governor,,L,Ruth Bennett,1,1,1
+168,Blanchard,Governor,,L,Ruth Bennett,16,16,16
+170,View Terrace,Governor,,L,Ruth Bennett,0,0,0
+171,Lake Cavanaugh,Governor,,L,Ruth Bennett,4,4,4
+172,Little Mountain,Governor,,L,Ruth Bennett,2,2,2
+173,Riverbend,Governor,,L,Ruth Bennett,2,2,2
+174,Padilla,Governor,,L,Ruth Bennett,1,1,1
+176,Fredonia,Governor,,L,Ruth Bennett,7,7,7
+201,Anacortes 1,Governor,,L,Ruth Bennett,17,17,17
+204,Anacortes 4,Governor,,L,Ruth Bennett,28,28,28
+205,Anacortes 5,Governor,,L,Ruth Bennett,0,0,0
+206,Anacortes 6,Governor,,L,Ruth Bennett,10,10,10
+207,Anacortes 7,Governor,,L,Ruth Bennett,25,25,25
+209,Anacortes 9,Governor,,L,Ruth Bennett,15,15,15
+211,Anacortes 11,Governor,,L,Ruth Bennett,12,12,12
+217,Anacortes 17,Governor,,L,Ruth Bennett,31,31,31
+220,Anacortes 20,Governor,,L,Ruth Bennett,18,18,18
+221,Anacortes 21,Governor,,L,Ruth Bennett,15,15,15
+222,Anacortes 22,Governor,,L,Ruth Bennett,18,18,18
+224,Anacortes 24,Governor,,L,Ruth Bennett,16,16,16
+301,Mount Vernon 1,Governor,,L,Ruth Bennett,17,18,18
+302,Mount Vernon 2,Governor,,L,Ruth Bennett,15,15,15
+303,Mount Vernon 3,Governor,,L,Ruth Bennett,30,30,30
+304,Mount Vernon 4,Governor,,L,Ruth Bennett,25,25,25
+305,Mount Vernon 5,Governor,,L,Ruth Bennett,1,1,1
+306,Mount Vernon 6,Governor,,L,Ruth Bennett,22,22,22
+307,Mount Vernon 7,Governor,,L,Ruth Bennett,14,14,14
+308,Mount Vernon 8,Governor,,L,Ruth Bennett,11,11,11
+309,Mount Vernon 9,Governor,,L,Ruth Bennett,10,10,10
+310,Mount Vernon 10,Governor,,L,Ruth Bennett,13,13,13
+311,Mount Vernon 11,Governor,,L,Ruth Bennett,7,7,7
+312,Mount Vernon 12,Governor,,L,Ruth Bennett,12,12,12
+314,Mount Vernon 14,Governor,,L,Ruth Bennett,21,21,21
+315,Mount Vernon 15,Governor,,L,Ruth Bennett,16,18,16
+316,Mount Vernon 16,Governor,,L,Ruth Bennett,8,8,8
+319,Mount Vernon 19,Governor,,L,Ruth Bennett,12,12,12
+321,Mount Vernon 21,Governor,,L,Ruth Bennett,20,20,20
+322,Mount Vernon 22,Governor,,L,Ruth Bennett,10,11,11
+327,Mount Vernon 27,Governor,,L,Ruth Bennett,1,1,1
+328,Mount Vernon 28,Governor,,L,Ruth Bennett,5,5,5
+401,Sedro Woolley 1,Governor,,L,Ruth Bennett,10,10,10
+402,Sedro Woolley 2,Governor,,L,Ruth Bennett,8,8,8
+403,Sedro Woolley 3,Governor,,L,Ruth Bennett,17,18,18
+404,Sedro Woolley 4,Governor,,L,Ruth Bennett,22,22,22
+405,Sedro Woolley 5,Governor,,L,Ruth Bennett,16,16,16
+406,Sedro Woolley 6,Governor,,L,Ruth Bennett,16,16,16
+407,Sedro Woolley 7,Governor,,L,Ruth Bennett,0,0,0
+501,Burlington 1,Governor,,L,Ruth Bennett,11,11,11
+502,Burlington 2,Governor,,L,Ruth Bennett,8,8,8
+503,Burlington 3,Governor,,L,Ruth Bennett,9,10,9
+504,Burlington 4,Governor,,L,Ruth Bennett,14,14,14
+505,Burlington 5,Governor,,L,Ruth Bennett,10,10,10
+506,Burlington 6,Governor,,L,Ruth Bennett,16,16,16
+507,Burlington 7,Governor,,L,Ruth Bennett,6,6,6
+601,Concrete,Governor,,L,Ruth Bennett,12,12,12
+701,Hamilton,Governor,,L,Ruth Bennett,2,2,2
+801,La Conner,Governor,,L,Ruth Bennett,13,13,13
+855,Lyman,Governor,,L,Ruth Bennett,3,3,3
+SKAGIT WA,SKAGIT WA,Governor,,L,Ruth Bennett,1260,1267,1264

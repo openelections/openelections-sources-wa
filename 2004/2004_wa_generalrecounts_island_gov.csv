@@ -1,0 +1,332 @@
+number,name,office,district,party,candidate,total,,
+333,Admiralty,,,,Registered,1086,,
+401,Ault,,,,Registered,620,,
+502,Austin,,,,Registered,795,,
+539,Bush Point,,,,Registered,961,,
+203,Camano,,,,Registered,1056,,
+304,Central,,,,Registered,608,,
+505,Clinton,,,,Registered,325,,
+406,Cornet,,,,Registered,475,,
+207,Countryclub,,,,Registered,1018,,
+436,Countryside,,,,Registered,609,,
+101,Coupeville 1,,,,Registered,593,,
+102,Coupeville 2,,,,Registered,463,,
+360,Coveland,,,,Registered,616,,
+508,Deer Lake,,,,Registered,925,,
+537,Double Bluff,,,,Registered,374,,
+232,Driftwood,,,,Registered,1431,,
+409,Dugualla,,,,Registered,770,,
+643,Fort Nugent,,,,Registered,478,,
+510,Freeland,,,,Registered,480,,
+511,Glendale,,,,Registered,947,,
+312,Greenbank,,,,Registered,798,,
+634,Hastie Lake,,,,Registered,302,,
+435,Highland,,,,Registered,928,,
+413,Hillcrest,,,,Registered,584,,
+314,Lagoon Point,,,,Registered,816,,
+120,Langley 1,,,,Registered,226,,
+121,Langley 2,,,,Registered,594,,
+215,Livingston Bay,,,,Registered,729,,
+538,Lone Lake,,,,Registered,987,,
+216,Mabana,,,,Registered,819,,
+217,Madrona,,,,Registered,1152,,
+218,Maple Grove,,,,Registered,1139,,
+526,Maxwelton,,,,Registered,892,,
+104,Oak Harbor 1,,,,Registered,266,,
+113,Oak Harbor 10,,,,Registered,400,,
+114,Oak Harbor 11,,,,Registered,767,,
+115,Oak Harbor 12,,,,Registered,339,,
+116,Oak Harbor 13,,,,Registered,557,,
+117,Oak Harbor 14,,,,Registered,922,,
+118,Oak Harbor 15,,,,Registered,1472,,
+105,Oak Harbor 2,,,,Registered,187,,
+106,Oak Harbor 3,,,,Registered,324,,
+107,Oak Harbor 4,,,,Registered,176,,
+108,Oak Harbor 5,,,,Registered,415,,
+109,Oak Harbor 6,,,,Registered,285,,
+110,Oak Harbor 7,,,,Registered,621,,
+111,Oak Harbor 8,,,,Registered,486,,
+112,Oak Harbor 9,,,,Registered,686,,
+619,Penn Cove,,,,Registered,310,,
+250,Point Allen,,,,Registered,752,,
+441,Polnell,,,,Registered,538,,
+640,Possession,,,,Registered,379,,
+320,Prairie,,,,Registered,681,,
+321,San de Fuca,,,,Registered,608,,
+522,Sandy Point,,,,Registered,804,,
+523,Saratoga,,,,Registered,937,,
+624,Scenic Heights,,,,Registered,284,,
+425,Silver Lake,,,,Registered,581,,
+442,Soundview,,,,Registered,601,,
+627,Swantown,,,,Registered,827,,
+228,Triangle Cove,,,,Registered,1007,,
+529,Useless Bay,,,,Registered,1019,,
+230,Utsalady,,,,Registered,961,,
+644,West Beach,,,,Registered,502,,
+631,Westview,,,,Registered,398,,
+ISLAND WA,ISLAND WA,,,,Registered,43688,,
+number,name,office,district,party,candidate,total,machine ,hand
+333,Admiralty,,,,Ballots,996,996,996
+401,Ault,,,,Ballots,465,465,465
+502,Austin,,,,Ballots,750,750,750
+539,Bush Point,,,,Ballots,893,893,893
+203,Camano,,,,Ballots,927,927,927
+304,Central,,,,Ballots,552,552,552
+505,Clinton,,,,Ballots,307,307,307
+406,Cornet,,,,Ballots,426,427,427
+207,Countryclub,,,,Ballots,954,954,954
+436,Countryside,,,,Ballots,533,533,533
+101,Coupeville 1,,,,Ballots,541,541,541
+102,Coupeville 2,,,,Ballots,430,430,430
+360,Coveland,,,,Ballots,577,557,557
+508,Deer Lake,,,,Ballots,840,841,841
+537,Double Bluff,,,,Ballots,358,358,358
+232,Driftwood,,,,Ballots,1244,1244,1244
+409,Dugualla,,,,Ballots,624,624,624
+643,Fort Nugent,,,,Ballots,432,432,432
+510,Freeland,,,,Ballots,443,442,443
+511,Glendale,,,,Ballots,863,863,863
+312,Greenbank,,,,Ballots,751,751,751
+634,Hastie Lake,,,,Ballots,274,274,274
+435,Highland,,,,Ballots,784,784,784
+413,Hillcrest,,,,Ballots,501,501,501
+314,Lagoon Point,,,,Ballots,777,777,777
+120,Langley 1,,,,Ballots,205,205,205
+121,Langley 2,,,,Ballots,571,571,571
+215,Livingston Bay,,,,Ballots,654,654,654
+538,Lone Lake,,,,Ballots,932,932,932
+216,Mabana,,,,Ballots,768,768,768
+217,Madrona,,,,Ballots,1020,1021,1021
+218,Maple Grove,,,,Ballots,1062,1062,1062
+526,Maxwelton,,,,Ballots,844,844,844
+104,Oak Harbor 1,,,,Ballots,249,249,249
+113,Oak Harbor 10,,,,Ballots,333,333,333
+114,Oak Harbor 11,,,,Ballots,575,575,575
+115,Oak Harbor 12,,,,Ballots,294,294,294
+116,Oak Harbor 13,,,,Ballots,450,451,451
+117,Oak Harbor 14,,,,Ballots,807,807,807
+118,Oak Harbor 15,,,,Ballots,1339,1339,1339
+105,Oak Harbor 2,,,,Ballots,163,163,163
+106,Oak Harbor 3,,,,Ballots,296,296,296
+107,Oak Harbor 4,,,,Ballots,153,153,153
+108,Oak Harbor 5,,,,Ballots,347,347,347
+109,Oak Harbor 6,,,,Ballots,249,249,249
+110,Oak Harbor 7,,,,Ballots,475,475,475
+111,Oak Harbor 8,,,,Ballots,456,456,456
+112,Oak Harbor 9,,,,Ballots,524,524,524
+619,Penn Cove,,,,Ballots,277,276,276
+250,Point Allen,,,,Ballots,635,635,635
+441,Polnell,,,,Ballots,495,495,495
+640,Possession,,,,Ballots,370,370,370
+320,Prairie,,,,Ballots,835,631,631
+321,San de Fuca,,,,Ballots,523,523,523
+522,Sandy Point,,,,Ballots,753,753,753
+523,Saratoga,,,,Ballots,866,866,866
+624,Scenic Heights,,,,Ballots,265,265,265
+425,Silver Lake,,,,Ballots,515,516,516
+442,Soundview,,,,Ballots,524,524,524
+627,Swantown,,,,Ballots,751,751,751
+228,Triangle Cove,,,,Ballots,919,920,920
+529,Useless Bay,,,,Ballots,940,939,940
+230,Utsalady,,,,Ballots,853,854,854
+644,West Beach,,,,Ballots,417,417,417
+631,Westview,,,,Ballots,348,348,348
+ISLAND WA,ISLAND WA,,,,Ballots,39294,39074,39076
+333,Admiralty,Governor,,D,Christine Gregoire,520,520,520
+401,Ault,Governor,,D,Christine Gregoire,162,162,161
+502,Austin,Governor,,D,Christine Gregoire,376,376,376
+539,Bush Point,Governor,,D,Christine Gregoire,420,420,420
+203,Camano,Governor,,D,Christine Gregoire,409,409,409
+304,Central,Governor,,D,Christine Gregoire,261,261,261
+505,Clinton,Governor,,D,Christine Gregoire,157,157,157
+406,Cornet,Governor,,D,Christine Gregoire,160,160,160
+207,Countryclub,Governor,,D,Christine Gregoire,402,402,402
+436,Countryside,Governor,,D,Christine Gregoire,185,185,186
+101,Coupeville 1,Governor,,D,Christine Gregoire,314,314,314
+102,Coupeville 2,Governor,,D,Christine Gregoire,218,218,218
+360,Coveland,Governor,,D,Christine Gregoire,267,267,267
+508,Deer Lake,Governor,,D,Christine Gregoire,428,429,429
+537,Double Bluff,Governor,,D,Christine Gregoire,181,181,181
+232,Driftwood,Governor,,D,Christine Gregoire,530,530,530
+409,Dugualla,Governor,,D,Christine Gregoire,202,202,202
+643,Fort Nugent,Governor,,D,Christine Gregoire,107,107,107
+510,Freeland,Governor,,D,Christine Gregoire,238,237,238
+511,Glendale,Governor,,D,Christine Gregoire,516,516,516
+312,Greenbank,Governor,,D,Christine Gregoire,402,402,402
+634,Hastie Lake,Governor,,D,Christine Gregoire,79,79,79
+435,Highland,Governor,,D,Christine Gregoire,232,232,232
+413,Hillcrest,Governor,,D,Christine Gregoire,171,171,171
+314,Lagoon Point,Governor,,D,Christine Gregoire,412,412,412
+120,Langley 1,Governor,,D,Christine Gregoire,140,140,140
+121,Langley 2,Governor,,D,Christine Gregoire,380,380,381
+215,Livingston Bay,Governor,,D,Christine Gregoire,252,252,252
+538,Lone Lake,Governor,,D,Christine Gregoire,577,577,577
+216,Mabana,Governor,,D,Christine Gregoire,346,346,347
+217,Madrona,Governor,,D,Christine Gregoire,417,417,417
+218,Maple Grove,Governor,,D,Christine Gregoire,415,415,415
+526,Maxwelton,Governor,,D,Christine Gregoire,508,508,508
+104,Oak Harbor 1,Governor,,D,Christine Gregoire,109,109,109
+113,Oak Harbor 10,Governor,,D,Christine Gregoire,115,115,115
+114,Oak Harbor 11,Governor,,D,Christine Gregoire,199,199,199
+115,Oak Harbor 12,Governor,,D,Christine Gregoire,93,93,93
+116,Oak Harbor 13,Governor,,D,Christine Gregoire,150,150,150
+117,Oak Harbor 14,Governor,,D,Christine Gregoire,254,254,254
+118,Oak Harbor 15,Governor,,D,Christine Gregoire,408,408,408
+105,Oak Harbor 2,Governor,,D,Christine Gregoire,58,58,58
+106,Oak Harbor 3,Governor,,D,Christine Gregoire,100,100,100
+107,Oak Harbor 4,Governor,,D,Christine Gregoire,51,51,51
+108,Oak Harbor 5,Governor,,D,Christine Gregoire,137,137,137
+109,Oak Harbor 6,Governor,,D,Christine Gregoire,80,80,80
+110,Oak Harbor 7,Governor,,D,Christine Gregoire,189,189,189
+111,Oak Harbor 8,Governor,,D,Christine Gregoire,144,144,144
+112,Oak Harbor 9,Governor,,D,Christine Gregoire,117,117,117
+619,Penn Cove,Governor,,D,Christine Gregoire,103,103,103
+250,Point Allen,Governor,,D,Christine Gregoire,279,279,280
+441,Polnell,Governor,,D,Christine Gregoire,164,164,164
+640,Possession,Governor,,D,Christine Gregoire,176,176,176
+320,Prairie,Governor,,D,Christine Gregoire,398,295,295
+321,San de Fuca,Governor,,D,Christine Gregoire,203,203,203
+522,Sandy Point,Governor,,D,Christine Gregoire,446,446,446
+523,Saratoga,Governor,,D,Christine Gregoire,531,531,531
+624,Scenic Heights,Governor,,D,Christine Gregoire,96,96,96
+425,Silver Lake,Governor,,D,Christine Gregoire,177,178,178
+442,Soundview,Governor,,D,Christine Gregoire,151,150,151
+627,Swantown,Governor,,D,Christine Gregoire,224,224,224
+228,Triangle Cove,Governor,,D,Christine Gregoire,370,370,371
+529,Useless Bay,Governor,,D,Christine Gregoire,453,452,453
+230,Utsalady,Governor,,D,Christine Gregoire,373,374,374
+644,West Beach,Governor,,D,Christine Gregoire,144,144,144
+631,Westview,Governor,,D,Christine Gregoire,115,115,115
+ISLAND WA,ISLAND WA,Governor,,D,Christine Gregoire,16991,16888,16895
+333,Admiralty,Governor,,R,Dino Rossi,422,422,422
+401,Ault,Governor,,R,Dino Rossi,258,258,258
+502,Austin,Governor,,R,Dino Rossi,341,341,341
+539,Bush Point,Governor,,R,Dino Rossi,433,433,433
+203,Camano,Governor,,R,Dino Rossi,471,471,471
+304,Central,Governor,,R,Dino Rossi,269,269,269
+505,Clinton,Governor,,R,Dino Rossi,130,130,130
+406,Cornet,Governor,,R,Dino Rossi,237,238,238
+207,Countryclub,Governor,,R,Dino Rossi,502,502,502
+436,Countryside,Governor,,R,Dino Rossi,319,319,319
+101,Coupeville 1,Governor,,R,Dino Rossi,192,192,192
+102,Coupeville 2,Governor,,R,Dino Rossi,187,187,187
+360,Coveland,Governor,,R,Dino Rossi,264,264,264
+508,Deer Lake,Governor,,R,Dino Rossi,370,370,370
+537,Double Bluff,Governor,,R,Dino Rossi,155,155,155
+232,Driftwood,Governor,,R,Dino Rossi,670,670,670
+409,Dugualla,Governor,,R,Dino Rossi,380,380,380
+643,Fort Nugent,Governor,,R,Dino Rossi,303,303,303
+510,Freeland,Governor,,R,Dino Rossi,175,175,175
+511,Glendale,Governor,,R,Dino Rossi,297,297,297
+312,Greenbank,Governor,,R,Dino Rossi,302,302,302
+634,Hastie Lake,Governor,,R,Dino Rossi,178,178,178
+435,Highland,Governor,,R,Dino Rossi,511,511,511
+413,Hillcrest,Governor,,R,Dino Rossi,292,292,292
+314,Lagoon Point,Governor,,R,Dino Rossi,335,334,335
+120,Langley 1,Governor,,R,Dino Rossi,53,53,53
+121,Langley 2,Governor,,R,Dino Rossi,162,162,162
+215,Livingston Bay,Governor,,R,Dino Rossi,368,368,368
+538,Lone Lake,Governor,,R,Dino Rossi,300,300,300
+216,Mabana,Governor,,R,Dino Rossi,389,389,390
+217,Madrona,Governor,,R,Dino Rossi,560,562,562
+218,Maple Grove,Governor,,R,Dino Rossi,608,608,608
+526,Maxwelton,Governor,,R,Dino Rossi,281,281,281
+104,Oak Harbor 1,Governor,,R,Dino Rossi,124,124,124
+113,Oak Harbor 10,Governor,,R,Dino Rossi,199,199,199
+114,Oak Harbor 11,Governor,,R,Dino Rossi,329,329,329
+115,Oak Harbor 12,Governor,,R,Dino Rossi,177,177,177
+116,Oak Harbor 13,Governor,,R,Dino Rossi,273,274,274
+117,Oak Harbor 14,Governor,,R,Dino Rossi,487,487,488
+118,Oak Harbor 15,Governor,,R,Dino Rossi,822,823,823
+105,Oak Harbor 2,Governor,,R,Dino Rossi,86,86,86
+106,Oak Harbor 3,Governor,,R,Dino Rossi,173,173,173
+107,Oak Harbor 4,Governor,,R,Dino Rossi,88,88,88
+108,Oak Harbor 5,Governor,,R,Dino Rossi,179,179,179
+109,Oak Harbor 6,Governor,,R,Dino Rossi,148,148,148
+110,Oak Harbor 7,Governor,,R,Dino Rossi,248,248,248
+111,Oak Harbor 8,Governor,,R,Dino Rossi,287,287,287
+112,Oak Harbor 9,Governor,,R,Dino Rossi,335,335,335
+619,Penn Cove,Governor,,R,Dino Rossi,155,154,154
+250,Point Allen,Governor,,R,Dino Rossi,330,330,330
+441,Polnell,Governor,,R,Dino Rossi,316,316,316
+640,Possession,Governor,,R,Dino Rossi,170,170,170
+320,Prairie,Governor,,R,Dino Rossi,386,294,294
+321,San de Fuca,Governor,,R,Dino Rossi,283,283,283
+522,Sandy Point,Governor,,R,Dino Rossi,266,266,266
+523,Saratoga,Governor,,R,Dino Rossi,293,293,293
+624,Scenic Heights,Governor,,R,Dino Rossi,160,160,160
+425,Silver Lake,Governor,,R,Dino Rossi,314,315,315
+442,Soundview,Governor,,R,Dino Rossi,346,346,346
+627,Swantown,Governor,,R,Dino Rossi,493,493,493
+228,Triangle Cove,Governor,,R,Dino Rossi,521,522,522
+529,Useless Bay,Governor,,R,Dino Rossi,443,443,443
+230,Utsalady,Governor,,R,Dino Rossi,464,464,464
+644,West Beach,Governor,,R,Dino Rossi,254,254,254
+631,Westview,Governor,,R,Dino Rossi,221,221,221
+ISLAND WA,ISLAND WA,Governor,,R,Dino Rossi,20084,19997,20000
+333,Admiralty,Governor,,L,Ruth Bennett,22,22,22
+401,Ault,Governor,,L,Ruth Bennett,22,22,22
+502,Austin,Governor,,L,Ruth Bennett,16,16,16
+539,Bush Point,Governor,,L,Ruth Bennett,19,19,19
+203,Camano,Governor,,L,Ruth Bennett,19,19,19
+304,Central,Governor,,L,Ruth Bennett,5,5,5
+505,Clinton,Governor,,L,Ruth Bennett,9,9,9
+406,Cornet,Governor,,L,Ruth Bennett,11,11,11
+207,Countryclub,Governor,,L,Ruth Bennett,22,22,22
+436,Countryside,Governor,,L,Ruth Bennett,13,13,13
+101,Coupeville 1,Governor,,L,Ruth Bennett,12,12,12
+102,Coupeville 2,Governor,,L,Ruth Bennett,10,10,10
+360,Coveland,Governor,,L,Ruth Bennett,8,8,8
+508,Deer Lake,Governor,,L,Ruth Bennett,22,22,22
+537,Double Bluff,Governor,,L,Ruth Bennett,7,7,7
+232,Driftwood,Governor,,L,Ruth Bennett,17,17,17
+409,Dugualla,Governor,,L,Ruth Bennett,20,20,20
+643,Fort Nugent,Governor,,L,Ruth Bennett,8,8,8
+510,Freeland,Governor,,L,Ruth Bennett,17,17,17
+511,Glendale,Governor,,L,Ruth Bennett,25,25,25
+312,Greenbank,Governor,,L,Ruth Bennett,29,29,29
+634,Hastie Lake,Governor,,L,Ruth Bennett,5,5,5
+435,Highland,Governor,,L,Ruth Bennett,15,15,15
+413,Hillcrest,Governor,,L,Ruth Bennett,12,12,12
+314,Lagoon Point,Governor,,L,Ruth Bennett,10,10,10
+120,Langley 1,Governor,,L,Ruth Bennett,2,2,2
+121,Langley 2,Governor,,L,Ruth Bennett,11,11,11
+215,Livingston Bay,Governor,,L,Ruth Bennett,10,10,10
+538,Lone Lake,Governor,,L,Ruth Bennett,19,19,19
+216,Mabana,Governor,,L,Ruth Bennett,16,16,16
+217,Madrona,Governor,,L,Ruth Bennett,17,17,17
+218,Maple Grove,Governor,,L,Ruth Bennett,11,11,11
+526,Maxwelton,Governor,,L,Ruth Bennett,24,24,24
+104,Oak Harbor 1,Governor,,L,Ruth Bennett,4,4,4
+113,Oak Harbor 10,Governor,,L,Ruth Bennett,8,8,8
+114,Oak Harbor 11,Governor,,L,Ruth Bennett,16,16,16
+115,Oak Harbor 12,Governor,,L,Ruth Bennett,6,6,6
+116,Oak Harbor 13,Governor,,L,Ruth Bennett,9,9,9
+117,Oak Harbor 14,Governor,,L,Ruth Bennett,14,14,14
+118,Oak Harbor 15,Governor,,L,Ruth Bennett,32,32,32
+105,Oak Harbor 2,Governor,,L,Ruth Bennett,8,8,8
+106,Oak Harbor 3,Governor,,L,Ruth Bennett,4,4,4
+107,Oak Harbor 4,Governor,,L,Ruth Bennett,5,5,5
+108,Oak Harbor 5,Governor,,L,Ruth Bennett,10,10,10
+109,Oak Harbor 6,Governor,,L,Ruth Bennett,8,8,8
+110,Oak Harbor 7,Governor,,L,Ruth Bennett,19,19,19
+111,Oak Harbor 8,Governor,,L,Ruth Bennett,4,4,4
+112,Oak Harbor 9,Governor,,L,Ruth Bennett,20,20,20
+619,Penn Cove,Governor,,L,Ruth Bennett,9,9,9
+250,Point Allen,Governor,,L,Ruth Bennett,15,15,15
+441,Polnell,Governor,,L,Ruth Bennett,3,3,3
+640,Possession,Governor,,L,Ruth Bennett,4,4,4
+320,Prairie,Governor,,L,Ruth Bennett,23,18,18
+321,San de Fuca,Governor,,L,Ruth Bennett,19,19,19
+522,Sandy Point,Governor,,L,Ruth Bennett,15,15,15
+523,Saratoga,Governor,,L,Ruth Bennett,14,14,14
+624,Scenic Heights,Governor,,L,Ruth Bennett,2,2,2
+425,Silver Lake,Governor,,L,Ruth Bennett,6,6,6
+442,Soundview,Governor,,L,Ruth Bennett,15,15,15
+627,Swantown,Governor,,L,Ruth Bennett,8,8,8
+228,Triangle Cove,Governor,,L,Ruth Bennett,11,11,11
+529,Useless Bay,Governor,,L,Ruth Bennett,13,13,13
+230,Utsalady,Governor,,L,Ruth Bennett,5,5,5
+644,West Beach,Governor,,L,Ruth Bennett,2,2,2
+631,Westview,Governor,,L,Ruth Bennett,3,3,3
+ISLAND WA,ISLAND WA,Governor,,L,Ruth Bennett,819,814,814

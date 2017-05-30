@@ -1,0 +1,92 @@
+Number,Precinct,Office,District,Party,Candidate,Total,,
+110,SJ1 - Southend,2,40,,Registered,1338,,
+111,SJ2 - University,2,40,,Registered,1013,,
+112,SJ3 - Roche Harbor,2,40,,Registered,640,,
+113,SJ4 - Westside,2,40,,Registered,814,,
+114,SJ5 - San Juan Valley,2,40,,Registered,785,,
+101,Friday Harbor 1,2,40,,Registered,852,,
+102,Friday Harbor 2,2,40,,Registered,603,,
+302,Orcas 1,2,40,,Registered,1262,,
+303,Orcas 2,2,40,,Registered,795,,
+304,Orcas 3,2,40,,Registered,741,,
+305,Orcas 4,2,40,,Registered,892,,
+206,Lopez 1 - North,2,40,,Registered,1047,,
+207,Lopez 2 - South,2,40,,Registered,820,,
+408,Shaw,2,40,,Registered,185,,
+509,Stuart,2,40,,Registered,37,,
+615,Waldron,2,40,,Registered,100,,
+701,Decatur - Blakely,2,40,,Registered,111,,
+SAN JUAN WA,SAN JUAN WA,,,,Registered,12035,,
+Number,Precinct,Office,District,Party,Candidate,Total,Machine,Hand
+110,SJ1 - Southend,,,,Ballots,1168,1167,1167
+111,SJ2 - University,,,,Ballots,839,838,838
+112,SJ3 - Roche Harbor,,,,Ballots,546,546,546
+113,SJ4 - Westside,,,,Ballots,708,708,708
+114,SJ5 - San Juan Valley,,,,Ballots,660,660,660
+101,Friday Harbor 1,,,,Ballots,604,604,604
+102,Friday Harbor 2,,,,Ballots,461,461,461
+302,Orcas 1,,,,Ballots,1089,1089,1089
+303,Orcas 2,,,,Ballots,676,676,676
+304,Orcas 3,,,,Ballots,627,626,626
+305,Orcas 4,,,,Ballots,774,774,774
+206,Lopez 1 - North,,,,Ballots,915,915,916
+207,Lopez 2 - South,,,,Ballots,694,694,693
+408,Shaw,,,,Ballots,172,171,171
+509,Stuart,,,,Ballots,33,33,33
+615,Waldron,,,,Ballots,86,86,86
+701,Decatur - Blakely,,,,Ballots,97,97,97
+SAN JUAN WA,SAN JUAN WA,,,,Ballots,10149,10145,10145
+110,SJ1 - Southend,Governor,,D,Christine Gregoire,606,605,605
+111,SJ2 - University,Governor,,D,Christine Gregoire,455,456,456
+112,SJ3 - Roche Harbor,Governor,,D,Christine Gregoire,269,269,269
+113,SJ4 - Westside,Governor,,D,Christine Gregoire,394,394,394
+114,SJ5 - San Juan Valley,Governor,,D,Christine Gregoire,405,405,405
+101,Friday Harbor 1,Governor,,D,Christine Gregoire,332,333,333
+102,Friday Harbor 2,Governor,,D,Christine Gregoire,237,237,237
+302,Orcas 1,Governor,,D,Christine Gregoire,674,674,674
+303,Orcas 2,Governor,,D,Christine Gregoire,386,386,386
+304,Orcas 3,Governor,,D,Christine Gregoire,361,360,360
+305,Orcas 4,Governor,,D,Christine Gregoire,467,467,467
+206,Lopez 1 - North,Governor,,D,Christine Gregoire,574,574,574
+207,Lopez 2 - South,Governor,,D,Christine Gregoire,470,470,470
+408,Shaw,Governor,,D,Christine Gregoire,104,104,104
+509,Stuart,Governor,,D,Christine Gregoire,19,19,19
+615,Waldron,Governor,,D,Christine Gregoire,80,80,80
+701,Decatur - Blakely,Governor,,D,Christine Gregoire,39,39,39
+SAN JUAN WA,SAN JUAN WA,Governor,,D,Christine Gregoire,5872,5872,5872
+110,SJ1 - Southend,Governor,,R,Dino Rossi,503,503,503
+111,SJ2 - University,Governor,,R,Dino Rossi,336,336,336
+112,SJ3 - Roche Harbor,Governor,,R,Dino Rossi,249,249,249
+113,SJ4 - Westside,Governor,,R,Dino Rossi,271,271,271
+114,SJ5 - San Juan Valley,Governor,,R,Dino Rossi,206,206,206
+101,Friday Harbor 1,Governor,,R,Dino Rossi,225,225,225
+102,Friday Harbor 2,Governor,,R,Dino Rossi,187,187,187
+302,Orcas 1,Governor,,R,Dino Rossi,343,343,343
+303,Orcas 2,Governor,,R,Dino Rossi,232,232,232
+304,Orcas 3,Governor,,R,Dino Rossi,226,226,226
+305,Orcas 4,Governor,,R,Dino Rossi,264,264,264
+206,Lopez 1 - North,Governor,,R,Dino Rossi,302,302,303
+207,Lopez 2 - South,Governor,,R,Dino Rossi,186,186,185
+408,Shaw,Governor,,R,Dino Rossi,59,58,58
+509,Stuart,Governor,,R,Dino Rossi,13,13,13
+615,Waldron,Governor,,R,Dino Rossi,2,2,2
+701,Decatur - Blakely,Governor,,R,Dino Rossi,57,57,57
+SAN JUAN WA,SAN JUAN WA,Governor,,R,Dino Rossi,3661,3660,3660
+110,SJ1 - Southend,Governor,,D,Ruth Bennett,27,27,27
+111,SJ2 - University,Governor,,D,Ruth Bennett,22,22,22
+112,SJ3 - Roche Harbor,Governor,,D,Ruth Bennett,12,13,12
+113,SJ4 - Westside,Governor,,D,Ruth Bennett,24,24,24
+114,SJ5 - San Juan Valley,Governor,,D,Ruth Bennett,19,19,19
+101,Friday Harbor 1,Governor,,D,Ruth Bennett,29,29,29
+102,Friday Harbor 2,Governor,,D,Ruth Bennett,13,13,13
+302,Orcas 1,Governor,,D,Ruth Bennett,46,46,46
+303,Orcas 2,Governor,,D,Ruth Bennett,32,32,32
+304,Orcas 3,Governor,,D,Ruth Bennett,23,23,23
+305,Orcas 4,Governor,,D,Ruth Bennett,28,28,28
+206,Lopez 1 - North,Governor,,D,Ruth Bennett,24,24,24
+207,Lopez 2 - South,Governor,,D,Ruth Bennett,17,17,17
+408,Shaw,Governor,,D,Ruth Bennett,2,2,2
+509,Stuart,Governor,,D,Ruth Bennett,0,0,0
+615,Waldron,Governor,,D,Ruth Bennett,2,2,2
+701,Decatur - Blakely,Governor,,D,Ruth Bennett,0,0,0
+SAN JUAN WA,SAN JUAN WA,Governor,,D,Ruth Bennett,320,321,320

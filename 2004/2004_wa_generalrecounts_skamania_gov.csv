@@ -1,0 +1,79 @@
+number,precinct,office,district,party,candidate,manual,hand
+100,Bear Prairie,Governor,3,D,Christine Gregoire,85,85
+101,Mt Pleasant,Governor,3,D,Christine Gregoire,90,90
+102,Skye,Governor,3,D,Christine Gregoire,102,102
+103,Upper Washougal,Governor,3,D,Christine Gregoire,89,89
+104,Lewis River,Governor,3,D,Christine Gregoire,12,12
+105,Cape Horn,Governor,3,D,Christine Gregoire,105,105
+106,Skamania,Governor,3,D,Christine Gregoire,183,183
+107,Cascades,Governor,3,D,Christine Gregoire,4,4
+108,N Bonneville,Governor,3,D,Christine Gregoire,157,157
+201,Rock Creek,Governor,3,D,Christine Gregoire,85,85
+202,Nelson Creek,Governor,3,D,Christine Gregoire,93,93
+203,S- Mapleview,Governor,3,D,Christine Gregoire,142,142
+204,Stevenson N,Governor,3,D,Christine Gregoire,95,95
+205,Stevenson S,Governor,3,D,Christine Gregoire,56,56
+206,Stabler,Governor,3,D,Christine Gregoire,106,106
+207,Carson Creek,Governor,3,D,Christine Gregoire,128,128
+301,Shake Mill,Governor,3,D,Christine Gregoire,28,28
+302,Sprague Landing,Governor,3,D,Christine Gregoire,22,22
+303,Wind River,Governor,4,D,Christine Gregoire,79,79
+304,Hot Springs N,Governor,4,D,Christine Gregoire,64,64
+305,Hot Springs S,Governor,4,D,Christine Gregoire,58,58
+307,Wind Mtn S,Governor,4,D,Christine Gregoire,76,77
+309,Chenoweth S,Governor,4,D,Christine Gregoire,112,112
+310,Underwood N,Governor,4,D,Christine Gregoire,125,125
+311,Underwood S,Governor,4,D,Christine Gregoire,136,136
+SKAMANIA WA,SKAMANIA WA,Governor,,D,Christine Gregoire,2232,2233
+100,Bear Prairie,Governor,3,R,Dino Rossi,122,122
+101,Mt Pleasant,Governor,3,R,Dino Rossi,116,116
+102,Skye,Governor,3,R,Dino Rossi,133,133
+103,Upper Washougal,Governor,3,R,Dino Rossi,126,126
+104,Lewis River,Governor,3,R,Dino Rossi,18,18
+105,Cape Horn,Governor,3,R,Dino Rossi,135,135
+106,Skamania,Governor,3,R,Dino Rossi,190,190
+107,Cascades,Governor,3,R,Dino Rossi,13,13
+108,N Bonneville,Governor,3,R,Dino Rossi,187,187
+201,Rock Creek,Governor,3,R,Dino Rossi,100,101
+202,Nelson Creek,Governor,3,R,Dino Rossi,79,79
+203,S- Mapleview,Governor,3,R,Dino Rossi,121,121
+204,Stevenson N,Governor,3,R,Dino Rossi,99,99
+205,Stevenson S,Governor,3,R,Dino Rossi,35,35
+206,Stabler,Governor,3,R,Dino Rossi,152,153
+207,Carson Creek,Governor,3,R,Dino Rossi,137,137
+301,Shake Mill,Governor,3,R,Dino Rossi,24,24
+302,Sprague Landing,Governor,3,R,Dino Rossi,30,30
+303,Wind River,Governor,4,R,Dino Rossi,141,141
+304,Hot Springs N,Governor,4,R,Dino Rossi,67,67
+305,Hot Springs S,Governor,4,R,Dino Rossi,76,76
+307,Wind Mtn S,Governor,4,R,Dino Rossi,68,69
+309,Chenoweth S,Governor,4,R,Dino Rossi,112,112
+310,Underwood N,Governor,4,R,Dino Rossi,136,136
+311,Underwood S,Governor,4,R,Dino Rossi,105,105
+SKAMANIA WA,SKAMANIA WA,Governor,,R,Dino Rossi,2522,2525
+100,Bear Prairie,Governor,3,L,Ruth Bennett,12,12
+101,Mt Pleasant,Governor,3,L,Ruth Bennett,5,5
+102,Skye,Governor,3,L,Ruth Bennett,6,6
+103,Upper Washougal,Governor,3,L,Ruth Bennett,7,7
+104,Lewis River,Governor,3,L,Ruth Bennett,0,0
+105,Cape Horn,Governor,3,L,Ruth Bennett,11,11
+106,Skamania,Governor,3,L,Ruth Bennett,21,21
+107,Cascades,Governor,3,L,Ruth Bennett,1,1
+108,N Bonneville,Governor,3,L,Ruth Bennett,8,8
+201,Rock Creek,Governor,3,L,Ruth Bennett,3,3
+202,Nelson Creek,Governor,3,L,Ruth Bennett,4,4
+203,S- Mapleview,Governor,3,L,Ruth Bennett,15,15
+204,Stevenson N,Governor,3,L,Ruth Bennett,5,5
+205,Stevenson S,Governor,3,L,Ruth Bennett,7,7
+206,Stabler,Governor,3,L,Ruth Bennett,17,17
+207,Carson Creek,Governor,3,L,Ruth Bennett,7,7
+301,Shake Mill,Governor,3,L,Ruth Bennett,4,4
+302,Sprague Landing,Governor,3,L,Ruth Bennett,0,0
+303,Wind River,Governor,4,L,Ruth Bennett,11,11
+304,Hot Springs N,Governor,4,L,Ruth Bennett,4,4
+305,Hot Springs S,Governor,4,L,Ruth Bennett,3,3
+307,Wind Mtn S,Governor,4,L,Ruth Bennett,6,6
+309,Chenoweth S,Governor,4,L,Ruth Bennett,9,9
+310,Underwood N,Governor,4,L,Ruth Bennett,6,6
+311,Underwood S,Governor,4,L,Ruth Bennett,6,6
+SKAMANIA WA,SKAMANIA WA,Governor,,L,Ruth Bennett,178,178

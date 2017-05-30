@@ -1,0 +1,186 @@
+county,precinct,office,district,party,candidate,total,recount
+Ferry,Barstow,,,,Registered,71,
+Ferry,Belcher,,,,Registered,121,
+Ferry,Boulder,,,,Registered,51,
+Ferry,Boyds,,,,Registered,89,
+Ferry,Copper Butte,,,,Registered,81,
+Ferry,Covada-Hazel,,,,Registered,57,
+Ferry,Curlew,,,,Registered,49,
+Ferry,Curlew Kai,,,,Registered,111,
+Ferry,Danville,,,,Registered,96,
+Ferry,Edds,,,,Registered,135,
+Ferry,Franson,,,,Registered,94,
+Ferry,Hall Creek,,,,Registered,127,
+Ferry,Hoodoo,,,,Registered,128,
+Ferry,Inchelium,,,,Registered,116,
+Ferry,Keller,,,,Registered,180,
+Ferry,Lake Ellen,,,,Registered,159,
+Ferry,Lone Ranch,,,,Registered,69,
+Ferry,Lynx Creek,,,,Registered,84,
+Ferry,Malo,,,,Registered,67,
+Ferry,North Lake,,,,Registered,169,
+Ferry,Orient,,,,Registered,132,
+Ferry,Pine Grove,,,,Registered,72,
+Ferry,Republic 1,,,,Registered,122,
+Ferry,Republic 2,,,,Registered,158,
+Ferry,Republic 3,,,,Registered,106,
+Ferry,Republic 4,,,,Registered,146,
+Ferry,Roberta,,,,Registered,67,
+Ferry,San Poil,,,,Registered,93,
+Ferry,Sherman,,,,Registered,164,
+Ferry,South Malo,,,,Registered,172,
+Ferry,St Peters Creek,,,,Registered,131,
+Ferry,Storm King,,,,Registered,189,
+Ferry,Toroda,,,,Registered,126,
+Ferry,Twin Lakes,,,,Registered,146,
+Ferry,Vulcan,,,,Registered,112,
+Ferry,West Fork,,,,Registered,98,
+Ferry,FERRY COUNTY,,,,Registered,4088,
+Ferry,Barstow,,,,Ballots,53,
+Ferry,Belcher,,,,Ballots,105,
+Ferry,Boulder,,,,Ballots,49,
+Ferry,Boyds,,,,Ballots,77,
+Ferry,Copper Butte,,,,Ballots,67,
+Ferry,Covada-Hazel,,,,Ballots,37,
+Ferry,Curlew,,,,Ballots,38,
+Ferry,Curlew Kai,,,,Ballots,95,
+Ferry,Danville,,,,Ballots,71,
+Ferry,Edds,,,,Ballots,111,
+Ferry,Franson,,,,Ballots,78,
+Ferry,Hall Creek,,,,Ballots,104,
+Ferry,Hoodoo,,,,Ballots,101,
+Ferry,Inchelium,,,,Ballots,73,
+Ferry,Keller,,,,Ballots,145,
+Ferry,Lake Ellen,,,,Ballots,144,
+Ferry,Lone Ranch,,,,Ballots,60,
+Ferry,Lynx Creek,,,,Ballots,56,
+Ferry,Malo,,,,Ballots,52,
+Ferry,North Lake,,,,Ballots,152,
+Ferry,Orient,,,,Ballots,105,
+Ferry,Pine Grove,,,,Ballots,59,
+Ferry,Republic 1,,,,Ballots,102,
+Ferry,Republic 2,,,,Ballots,140,
+Ferry,Republic 3,,,,Ballots,88,
+Ferry,Republic 4,,,,Ballots,121,
+Ferry,Roberta,,,,Ballots,62,
+Ferry,San Poil,,,,Ballots,80,
+Ferry,Sherman,,,,Ballots,142,
+Ferry,South Malo,,,,Ballots,155,
+Ferry,St Peters Creek,,,,Ballots,109,
+Ferry,Storm King,,,,Ballots,167,
+Ferry,Toroda,,,,Ballots,102,
+Ferry,Twin Lakes,,,,Ballots,104,
+Ferry,Vulcan,,,,Ballots,98,
+Ferry,West Fork,,,,Ballots,83,
+Ferry,FERRY COUNTY,,,,Ballots,3385,
+Ferry,Barstow,Governor,,D,Christine Gregoire,28,28
+Ferry,Belcher,Governor,,D,Christine Gregoire,27,27
+Ferry,Boulder,Governor,,D,Christine Gregoire,20,20
+Ferry,Boyds,Governor,,D,Christine Gregoire,12,13
+Ferry,Copper Butte,Governor,,D,Christine Gregoire,16,16
+Ferry,Covada-Hazel,Governor,,D,Christine Gregoire,20,20
+Ferry,Curlew,Governor,,D,Christine Gregoire,14,14
+Ferry,Curlew Kai,Governor,,D,Christine Gregoire,27,27
+Ferry,Danville,Governor,,D,Christine Gregoire,29,29
+Ferry,Edds,Governor,,D,Christine Gregoire,30,30
+Ferry,Franson,Governor,,D,Christine Gregoire,26,26
+Ferry,Hall Creek,Governor,,D,Christine Gregoire,45,45
+Ferry,Hoodoo,Governor,,D,Christine Gregoire,33,33
+Ferry,Inchelium,Governor,,D,Christine Gregoire,53,53
+Ferry,Keller,Governor,,D,Christine Gregoire,90,90
+Ferry,Lake Ellen,Governor,,D,Christine Gregoire,47,47
+Ferry,Lone Ranch,Governor,,D,Christine Gregoire,16,16
+Ferry,Lynx Creek,Governor,,D,Christine Gregoire,34,34
+Ferry,Malo,Governor,,D,Christine Gregoire,20,20
+Ferry,North Lake,Governor,,D,Christine Gregoire,49,49
+Ferry,Orient,Governor,,D,Christine Gregoire,37,37
+Ferry,Pine Grove,Governor,,D,Christine Gregoire,16,16
+Ferry,Republic 1,Governor,,D,Christine Gregoire,33,33
+Ferry,Republic 2,Governor,,D,Christine Gregoire,63,63
+Ferry,Republic 3,Governor,,D,Christine Gregoire,41,41
+Ferry,Republic 4,Governor,,D,Christine Gregoire,43,43
+Ferry,Roberta,Governor,,D,Christine Gregoire,20,20
+Ferry,San Poil,Governor,,D,Christine Gregoire,22,22
+Ferry,Sherman,Governor,,D,Christine Gregoire,49,49
+Ferry,South Malo,Governor,,D,Christine Gregoire,65,66
+Ferry,St Peters Creek,Governor,,D,Christine Gregoire,32,33
+Ferry,Storm King,Governor,,D,Christine Gregoire,45,45
+Ferry,Toroda,Governor,,D,Christine Gregoire,50,50
+Ferry,Twin Lakes,Governor,,D,Christine Gregoire,58,58
+Ferry,Vulcan,Governor,,D,Christine Gregoire,41,41
+Ferry,West Fork,Governor,,D,Christine Gregoire,24,24
+Ferry,FERRY COUNTY,Governor,,D,Christine Gregoire,1275,1278
+Ferry,Barstow,Governor,,R,Dino Rossi,21,21
+Ferry,Belcher,Governor,,R,Dino Rossi,71,71
+Ferry,Boulder,Governor,,R,Dino Rossi,28,28
+Ferry,Boyds,Governor,,R,Dino Rossi,56,56
+Ferry,Copper Butte,Governor,,R,Dino Rossi,46,46
+Ferry,Covada-Hazel,Governor,,R,Dino Rossi,16,16
+Ferry,Curlew,Governor,,R,Dino Rossi,19,19
+Ferry,Curlew Kai,Governor,,R,Dino Rossi,61,61
+Ferry,Danville,Governor,,R,Dino Rossi,37,37
+Ferry,Edds,Governor,,R,Dino Rossi,71,71
+Ferry,Franson,Governor,,R,Dino Rossi,45,45
+Ferry,Hall Creek,Governor,,R,Dino Rossi,47,47
+Ferry,Hoodoo,Governor,,R,Dino Rossi,62,62
+Ferry,Inchelium,Governor,,R,Dino Rossi,16,16
+Ferry,Keller,Governor,,R,Dino Rossi,52,53
+Ferry,Lake Ellen,Governor,,R,Dino Rossi,91,91
+Ferry,Lone Ranch,Governor,,R,Dino Rossi,40,40
+Ferry,Lynx Creek,Governor,,R,Dino Rossi,17,17
+Ferry,Malo,Governor,,R,Dino Rossi,30,30
+Ferry,North Lake,Governor,,R,Dino Rossi,97,97
+Ferry,Orient,Governor,,R,Dino Rossi,64,64
+Ferry,Pine Grove,Governor,,R,Dino Rossi,40,40
+Ferry,Republic 1,Governor,,R,Dino Rossi,64,64
+Ferry,Republic 2,Governor,,R,Dino Rossi,70,70
+Ferry,Republic 3,Governor,,R,Dino Rossi,42,42
+Ferry,Republic 4,Governor,,R,Dino Rossi,75,75
+Ferry,Roberta,Governor,,R,Dino Rossi,39,39
+Ferry,San Poil,Governor,,R,Dino Rossi,50,50
+Ferry,Sherman,Governor,,R,Dino Rossi,88,88
+Ferry,South Malo,Governor,,R,Dino Rossi,81,81
+Ferry,St Peters Creek,Governor,,R,Dino Rossi,63,63
+Ferry,Storm King,Governor,,R,Dino Rossi,107,108
+Ferry,Toroda,Governor,,R,Dino Rossi,44,44
+Ferry,Twin Lakes,Governor,,R,Dino Rossi,44,44
+Ferry,Vulcan,Governor,,R,Dino Rossi,47,47
+Ferry,West Fork,Governor,,R,Dino Rossi,57,57
+Ferry,FERRY COUNTY,Governor,,R,Dino Rossi,1898,1900
+Ferry,Barstow,Governor,,L,Ruth Bennett,3,3
+Ferry,Belcher,Governor,,L,Ruth Bennett,5,5
+Ferry,Boulder,Governor,,L,Ruth Bennett,0,0
+Ferry,Boyds,Governor,,L,Ruth Bennett,7,7
+Ferry,Copper Butte,Governor,,L,Ruth Bennett,4,4
+Ferry,Covada-Hazel,Governor,,L,Ruth Bennett,0,0
+Ferry,Curlew,Governor,,L,Ruth Bennett,3,3
+Ferry,Curlew Kai,Governor,,L,Ruth Bennett,4,4
+Ferry,Danville,Governor,,L,Ruth Bennett,2,2
+Ferry,Edds,Governor,,L,Ruth Bennett,6,6
+Ferry,Franson,Governor,,L,Ruth Bennett,3,3
+Ferry,Hall Creek,Governor,,L,Ruth Bennett,7,7
+Ferry,Hoodoo,Governor,,L,Ruth Bennett,5,5
+Ferry,Inchelium,Governor,,L,Ruth Bennett,2,2
+Ferry,Keller,Governor,,L,Ruth Bennett,1,1
+Ferry,Lake Ellen,Governor,,L,Ruth Bennett,2,2
+Ferry,Lone Ranch,Governor,,L,Ruth Bennett,2,2
+Ferry,Lynx Creek,Governor,,L,Ruth Bennett,3,3
+Ferry,Malo,Governor,,L,Ruth Bennett,2,2
+Ferry,North Lake,Governor,,L,Ruth Bennett,5,5
+Ferry,Orient,Governor,,L,Ruth Bennett,1,1
+Ferry,Pine Grove,Governor,,L,Ruth Bennett,2,2
+Ferry,Republic 1,Governor,,L,Ruth Bennett,2,2
+Ferry,Republic 2,Governor,,L,Ruth Bennett,3,3
+Ferry,Republic 3,Governor,,L,Ruth Bennett,1,1
+Ferry,Republic 4,Governor,,L,Ruth Bennett,2,2
+Ferry,Roberta,Governor,,L,Ruth Bennett,1,1
+Ferry,San Poil,Governor,,L,Ruth Bennett,3,3
+Ferry,Sherman,Governor,,L,Ruth Bennett,3,3
+Ferry,South Malo,Governor,,L,Ruth Bennett,6,6
+Ferry,St Peters Creek,Governor,,L,Ruth Bennett,5,5
+Ferry,Storm King,Governor,,L,Ruth Bennett,6,6
+Ferry,Toroda,Governor,,L,Ruth Bennett,7,7
+Ferry,Twin Lakes,Governor,,L,Ruth Bennett,2,2
+Ferry,Vulcan,Governor,,L,Ruth Bennett,6,6
+Ferry,West Fork,Governor,,L,Ruth Bennett,2,2
+Ferry,FERRY COUNTY,Governor,,L,Ruth Bennett,118,118

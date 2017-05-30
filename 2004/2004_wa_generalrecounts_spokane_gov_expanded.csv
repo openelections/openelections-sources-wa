@@ -1,0 +1,3228 @@
+precinct,area,office,district,party,candidate,total,machine,hand
+31002,NOE,Governor,abs,,Ballots,184,184,184
+31012,Hillyard,Governor,abs,,Ballots,158,158,158
+31022,NOE,Governor,abs,,Ballots,173,173,173
+31032,Hillyard,Governor,abs,,Ballots,192,192,192
+31042,NOE,Governor,abs,,Ballots,213,214,214
+31052,NOE,Governor,abs,,Ballots,211,211,211
+31062,NOE,Governor,abs,,Ballots,157,157,157
+31072,NOE,Governor,abs,,Ballots,238,238,238
+31082,Shadle Park,Governor,abs,,Ballots,321,321,322
+31092,Shadle Park,Governor,abs,,Ballots,245,245,245
+31102,Shadle Park,Governor,abs,,Ballots,246,246,246
+31112,Shadle Park,Governor,abs,,Ballots,264,264,264
+31122,Hillyard,Governor,abs,,Ballots,213,213,213
+31132,Hillyard,Governor,abs,,Ballots,139,139,139
+31142,NOE,Governor,abs,,Ballots,164,164,164
+31152,NOE,Governor,abs,,Ballots,158,158,158
+31162,NOE,Governor,abs,,Ballots,220,220,220
+31172,NOE,Governor,abs,,Ballots,235,235,235
+31182,NOE,Governor,abs,,Ballots,228,228,228
+31192,NOE,Governor,abs,,Ballots,258,258,258
+31202,NOE,Governor,abs,,Ballots,295,295,295
+31212,East Central,Governor,abs,,Ballots,228,228,228
+31222,East Central,Governor,abs,,Ballots,226,226,225
+31232,East Central,Governor,abs,,Ballots,179,179,179
+31242,Shadle Park,Governor,abs,,Ballots,295,295,295
+31252,Shadle Park,Governor,abs,,Ballots,196,196,196
+31262,Shadle Park,Governor,abs,,Ballots,289,289,289
+31272,Shadle Park,Governor,abs,,Ballots,345,345,345
+31282,Shadle Park,Governor,abs,,Ballots,210,210,210
+31292,South Hill,Governor,abs,,Ballots,291,291,291
+31302,South Hill,Governor,abs,,Ballots,141,141,141
+31312,East Central,Governor,abs,,Ballots,229,229,229
+31322,South Hill,Governor,abs,,Ballots,230,230,230
+31332,South Hill,Governor,abs,,Ballots,248,248,248
+31342,South Hill,Governor,abs,,Ballots,280,280,280
+31352,South Hill,Governor,abs,,Ballots,220,220,220
+31362,Shadle Park,Governor,abs,,Ballots,227,227,227
+31372,East Central,Governor,abs,,Ballots,186,186,186
+31382,East Central,Governor,abs,,Ballots,251,251,251
+31392,East Central,Governor,abs,,Ballots,192,192,192
+31402,East Central,Governor,abs,,Ballots,190,190,190
+31412,East Central,Governor,abs,,Ballots,219,219,219
+31422,East Central,Governor,abs,,Ballots,198,198,198
+31432,West Central,Governor,abs,,Ballots,266,266,266
+31442,West Central,Governor,abs,,Ballots,252,252,252
+31452,Shadle Park,Governor,abs,,Ballots,187,187,187
+31462,West Central,Governor,abs,,Ballots,295,295,295
+31472,West Central,Governor,abs,,Ballots,247,247,247
+31482,West Central,Governor,abs,,Ballots,222,222,222
+31492,West Central,Governor,abs,,Ballots,250,250,250
+31502,West Central,Governor,abs,,Ballots,291,291,291
+31512,West Central,Governor,abs,,Ballots,307,307,307
+31522,Browne's Add,Governor,abs,,Ballots,402,402,402
+31532,Browne's Add,Governor,abs,,Ballots,183,183,183
+31542,East Central,Governor,abs,,Ballots,145,145,145
+31552,South Hill,Governor,abs,,Ballots,306,306,306
+31562,South Hill,Governor,abs,,Ballots,332,332,332
+31572,South Hill,Governor,abs,,Ballots,328,328,328
+31582,South Hill,Governor,abs,,Ballots,323,323,323
+31592,South Hill,Governor,abs,,Ballots,235,235,235
+31602,South Hill,Governor,abs,,Ballots,391,391,391
+31612,South Hill,Governor,abs,,Ballots,246,246,246
+31622,South Hill,Governor,abs,,Ballots,155,155,155
+31632,South Hill,Governor,abs,,Ballots,194,194,194
+31642,South Hill,Governor,abs,,Ballots,226,226,226
+31652,South Hill,Governor,abs,,Ballots,224,224,224
+40002,Greenbluff r,Governor,abs,,Ballots,240,240,240
+40012,Greenbluff r,Governor,abs,,Ballots,305,305,305
+40022,Greenbluff r,Governor,abs,,Ballots,365,365,365
+40032,Colbert s,Governor,abs,,Ballots,303,303,303
+40042,Greenbluff r,Governor,abs,,Ballots,197,197,197
+40052,Greenbluff r,Governor,abs,,Ballots,304,304,304
+40062,Colbert s,Governor,abs,,Ballots,328,328,328
+40072,Greenbluff r,Governor,abs,,Ballots,195,195,195
+40092,Greenbluff r,Governor,abs,,Ballots,180,181,181
+40102,Greenbluff r,Governor,abs,,Ballots,138,138,138
+40112,Greenbluff r,Governor,abs,,Ballots,262,263,263
+40122,Greenbluff r,Governor,abs,,Ballots,286,286,286
+40132,Greenbluff r,Governor,abs,,Ballots,278,278,278
+40152,Foothills s,Governor,abs,,Ballots,236,236,236
+40162,Foothills s,Governor,abs,,Ballots,342,342,342
+40172,Foothills s,Governor,abs,,Ballots,337,337,337
+40182,Otis Orchards s,Governor,abs,,Ballots,192,192,192
+40192,Otis Orchards s,Governor,abs,,Ballots,222,222,222
+40202,Otis Orchards s,Governor,abs,,Ballots,315,315,315
+40212,Otis Orchards s,Governor,abs,,Ballots,326,326,326
+40222,Otis Orchards s,Governor,abs,,Ballots,316,316,316
+40242,Palouse r,Governor,abs,,Ballots,267,267,267
+40252,Palouse r,Governor,abs,,Ballots,298,298,298
+40272,Palouse r,Governor,abs,,Ballots,159,159,159
+40282,Palouse r,Governor,abs,,Ballots,313,313,313
+40292,Palouse r,Governor,abs,,Ballots,207,207,207
+42002,Millwood,Governor,abs,,Ballots,237,237,237
+42012,Millwood,Governor,abs,,Ballots,143,143,143
+43002,Liberty Lake,Governor,abs,,Ballots,522,522,522
+43012,Liberty Lake,Governor,abs,,Ballots,430,430,430
+44002,COSV,Governor,abs,,Ballots,223,223,223
+44012,COSV,Governor,abs,,Ballots,340,340,340
+44022,COSV,Governor,abs,,Ballots,298,298,298
+44032,COSV,Governor,abs,,Ballots,254,254,254
+44042,COSV,Governor,abs,,Ballots,459,460,460
+44052,COSV,Governor,abs,,Ballots,231,231,231
+44062,COSV,Governor,abs,,Ballots,341,341,341
+44072,COSV,Governor,abs,,Ballots,334,334,334
+44082,COSV,Governor,abs,,Ballots,342,342,342
+44092,COSV,Governor,abs,,Ballots,344,344,344
+44102,COSV,Governor,abs,,Ballots,571,571,571
+44112,COSV,Governor,abs,,Ballots,191,191,191
+44122,COSV,Governor,abs,,Ballots,460,460,460
+44132,COSV,Governor,abs,,Ballots,315,315,315
+44142,COSV,Governor,abs,,Ballots,335,335,335
+44152,COSV,Governor,abs,,Ballots,383,383,383
+44162,COSV,Governor,abs,,Ballots,383,383,383
+44172,COSV,Governor,abs,,Ballots,368,368,368
+44182,COSV,Governor,abs,,Ballots,525,524,525
+44192,COSV,Governor,abs,,Ballots,315,315,315
+44202,COSV,Governor,abs,,Ballots,323,323,323
+44212,COSV,Governor,abs,,Ballots,271,271,271
+44222,COSV,Governor,abs,,Ballots,289,289,289
+44232,COSV,Governor,abs,,Ballots,333,333,333
+44242,COSV,Governor,abs,,Ballots,282,282,282
+44252,COSV,Governor,abs,,Ballots,248,248,248
+44262,COSV,Governor,abs,,Ballots,399,399,399
+44272,COSV,Governor,abs,,Ballots,328,328,328
+44282,COSV,Governor,abs,,Ballots,504,504,504
+44292,COSV,Governor,abs,,Ballots,371,371,371
+44302,COSV,Governor,abs,,Ballots,314,314,314
+44312,COSV,Governor,abs,,Ballots,252,252,252
+44322,COSV,Governor,abs,,Ballots,324,324,324
+44332,COSV,Governor,abs,,Ballots,291,291,291
+44342,COSV,Governor,abs,,Ballots,420,420,420
+44352,COSV,Governor,abs,,Ballots,272,272,272
+44362,COSV,Governor,abs,,Ballots,335,335,335
+44372,COSV,Governor,abs,,Ballots,331,331,331
+44382,COSV,Governor,abs,,Ballots,168,168,168
+44392,COSV,Governor,abs,,Ballots,346,346,346
+44402,COSV,Governor,abs,,Ballots,491,491,491
+44412,COSV,Governor,abs,,Ballots,120,120,120
+60002,Greenbluff r,Governor,abs,,Ballots,176,176,176
+60012,Greenbluff r,Governor,abs,,Ballots,322,322,322
+60022,Colbert s,Governor,abs,,Ballots,199,199,199
+60032,Colbert s,Governor,abs,,Ballots,214,214,214
+60042,Colbert s,Governor,abs,,Ballots,204,204,204
+60052,Colbert s,Governor,abs,,Ballots,372,372,372
+60062,Colbert s,Governor,abs,,Ballots,205,205,205
+60072,Colbert s,Governor,abs,,Ballots,138,138,138
+60092,Greenbluff r,Governor,abs,,Ballots,310,310,310
+60102,Greenbluff r,Governor,abs,,Ballots,188,188,188
+60112,Colbert s,Governor,abs,,Ballots,171,171,171
+60122,Colbert s,Governor,abs,,Ballots,211,211,211
+60142,Moran s,Governor,abs,,Ballots,259,259,259
+60152,Whitworth s,Governor,abs,,Ballots,311,312,312
+60162,Moran s,Governor,abs,,Ballots,296,296,296
+60182,Moran s,Governor,abs,,Ballots,361,361,361
+60192,Moran s,Governor,abs,,Ballots,334,334,334
+60202,Moran s,Governor,abs,,Ballots,374,374,374
+60222,West Plains r,Governor,abs,,Ballots,255,254,255
+60232,Whitworth s,Governor,abs,,Ballots,348,348,348
+60242,West Plains r,Governor,abs,,Ballots,183,183,183
+60262,West Plains r,Governor,abs,,Ballots,91,91,91
+60272,Colbert s,Governor,abs,,Ballots,222,222,222
+60292,Whitworth s,Governor,abs,,Ballots,163,163,163
+60302,Whitworth s,Governor,abs,,Ballots,235,235,235
+60312,Whitworth s,Governor,abs,,Ballots,242,242,242
+60322,Whitworth s,Governor,abs,,Ballots,247,247,247
+60332,Whitworth s,Governor,abs,,Ballots,258,258,258
+60342,Whitworth s,Governor,abs,,Ballots,198,198,198
+60352,Whitworth s,Governor,abs,,Ballots,199,199,199
+60362,Whitworth s,Governor,abs,,Ballots,227,227,227
+60372,Whitworth s,Governor,abs,,Ballots,243,243,243
+60382,Whitworth s,Governor,abs,,Ballots,209,209,209
+60392,Whitworth s,Governor,abs,,Ballots,198,198,198
+61002,Indian Trail,Governor,abs,,Ballots,299,299,299
+61012,Indian Trail,Governor,abs,,Ballots,281,282,282
+61022,Indian Trail,Governor,abs,,Ballots,264,264,264
+61032,Indian Trail,Governor,abs,,Ballots,374,374,374
+61042,Indian Trail,Governor,abs,,Ballots,316,316,316
+61052,Indian Trail,Governor,abs,,Ballots,249,249,249
+61062,Civil War,Governor,abs,,Ballots,299,299,299
+61072,Civil War,Governor,abs,,Ballots,268,268,268
+61082,Indian Trail,Governor,abs,,Ballots,292,292,292
+61092,Indian Trail,Governor,abs,,Ballots,209,209,209
+61102,Indian Trail,Governor,abs,,Ballots,163,163,163
+61112,Indian Trail,Governor,abs,,Ballots,186,186,186
+61122,Indian Trail,Governor,abs,,Ballots,249,249,249
+61132,Civil War,Governor,abs,,Ballots,221,221,221
+61142,Civil War,Governor,abs,,Ballots,197,197,197
+61152,Civil War,Governor,abs,,Ballots,137,137,137
+61162,Civil War,Governor,abs,,Ballots,358,358,358
+61172,Finch,Governor,abs,,Ballots,275,275,275
+61182,Shadle Park,Governor,abs,,Ballots,177,177,177
+61192,Shadle Park,Governor,abs,,Ballots,326,326,326
+61202,Shadle Park,Governor,abs,,Ballots,273,273,273
+61212,Shadle Park,Governor,abs,,Ballots,253,253,253
+61222,Shadle Park,Governor,abs,,Ballots,201,201,201
+61232,Shadle Park,Governor,abs,,Ballots,342,342,342
+61242,Shadle Park,Governor,abs,,Ballots,310,310,310
+61252,Shadle Park,Governor,abs,,Ballots,265,267,267
+61262,Shadle Park,Governor,abs,,Ballots,265,265,265
+61272,Shadle Park,Governor,abs,,Ballots,318,318,318
+61282,Shadle Park,Governor,abs,,Ballots,321,321,321
+61292,South Hill,Governor,abs,,Ballots,180,180,180
+61302,South Hill,Governor,abs,,Ballots,170,170,170
+61312,South Hill,Governor,abs,,Ballots,200,200,200
+61322,South Hill,Governor,abs,,Ballots,307,307,307
+61332,South Hill,Governor,abs,,Ballots,321,321,321
+61352,South Hill,Governor,abs,,Ballots,360,360,360
+61362,South Hill,Governor,abs,,Ballots,300,300,300
+61372,South Hill,Governor,abs,,Ballots,414,414,414
+61382,South Hill,Governor,abs,,Ballots,175,175,175
+61392,South Hill,Governor,abs,,Ballots,246,246,246
+61402,South Hill,Governor,abs,,Ballots,392,392,392
+61412,South Hill,Governor,abs,,Ballots,412,412,412
+61422,South Hill,Governor,abs,,Ballots,289,289,289
+61432,South Hill,Governor,abs,,Ballots,320,320,320
+61442,South Hill,Governor,abs,,Ballots,328,328,328
+61452,South Hill,Governor,abs,,Ballots,291,291,291
+61462,South Hill,Governor,abs,,Ballots,298,298,298
+61472,South Hill,Governor,abs,,Ballots,292,292,292
+61482,South Hill,Governor,abs,,Ballots,216,216,216
+61492,South Hill,Governor,abs,,Ballots,251,251,251
+61502,South Hill,Governor,abs,,Ballots,120,120,120
+61512,South Hill,Governor,abs,,Ballots,271,271,271
+64002,COSV,Governor,abs,,Ballots,114,114,114
+70002,Greenbluff r,Governor,abs,,Ballots,286,286,286
+70012,Greenbluff r,Governor,abs,,Ballots,258,258,258
+70022,Greenbluff r,Governor,abs,,Ballots,166,166,166
+70032,Greenbluff r,Governor,abs,,Ballots,130,130,130
+70042,Greenbluff r,Governor,abs,,Ballots,125,124,125
+70052,Greenbluff r,Governor,abs,,Ballots,160,160,160
+70062,West Plains r,Governor,abs,,Ballots,189,189,189
+70072,West Plains r,Governor,abs,,Ballots,293,293,293
+70082,West Plains r,Governor,abs,,Ballots,279,279,279
+70092,West Plains r,Governor,abs,,Ballots,152,152,152
+70102,West Plains r,Governor,abs,,Ballots,283,283,283
+70112,Greenbluff r,Governor,abs,,Ballots,244,244,244
+70122,Greenbluff r,Governor,abs,,Ballots,247,247,247
+71002,Airway Heights,Governor,abs,,Ballots,284,284,284
+71012,Airway Heights,Governor,abs,,Ballots,90,90,90
+72002,Fairchild,Governor,abs,,Ballots,172,172,172
+73002,Deer Park,Governor,abs,,Ballots,303,303,303
+73012,Deer Park,Governor,abs,,Ballots,221,221,221
+90002,Palouse r,Governor,abs,,Ballots,135,135,135
+90032,Palouse r,Governor,abs,,Ballots,252,253,253
+90042,Palouse r,Governor,abs,,Ballots,232,232,232
+90052,Palouse r,Governor,abs,,Ballots,158,158,158
+90062,Palouse r,Governor,abs,,Ballots,232,232,232
+90072,West Plains r,Governor,abs,,Ballots,271,271,271
+90082,West Plains r,Governor,abs,,Ballots,141,141,141
+90092,West Plains r,Governor,abs,,Ballots,305,305,305
+90102,Palouse r,Governor,abs,,Ballots,246,246,246
+90152,Palouse r,Governor,abs,,Ballots,337,338,338
+90192,Moran s,Governor,abs,,Ballots,202,202,202
+91002,Medical Lake,Governor,abs,,Ballots,385,385,385
+91012,Medical Lake,Governor,abs,,Ballots,271,271,271
+92002,Cheney,Governor,abs,,Ballots,323,323,323
+92012,Cheney,Governor,abs,,Ballots,285,285,285
+92022,Cheney,Governor,abs,,Ballots,279,279,279
+92032,Cheney,Governor,abs,,Ballots,453,453,453
+95002,Fairfield,Governor,abs,,Ballots,127,127,127
+31001,NOE,Governor,poll,,Ballots,346,346,346
+31011,Hillyard,Governor,poll,,Ballots,290,290,290
+31021,NOE,Governor,poll,,Ballots,454,454,454
+31031,Hillyard,Governor,poll,,Ballots,314,314,314
+31041,NOE,Governor,poll,,Ballots,361,361,361
+31051,NOE,Governor,poll,,Ballots,372,372,372
+31061,NOE,Governor,poll,,Ballots,420,420,420
+31071,NOE,Governor,poll,,Ballots,434,434,434
+31081,Shadle Park,Governor,poll,,Ballots,515,516,516
+31091,Shadle Park,Governor,poll,,Ballots,448,448,448
+31101,Shadle Park,Governor,poll,,Ballots,372,372,372
+31111,Shadle Park,Governor,poll,,Ballots,429,429,429
+31121,Hillyard,Governor,poll,,Ballots,395,395,395
+31131,Hillyard,Governor,poll,,Ballots,243,243,243
+31141,NOE,Governor,poll,,Ballots,289,289,289
+31151,NOE,Governor,poll,,Ballots,362,362,362
+31161,NOE,Governor,poll,,Ballots,433,433,433
+31171,NOE,Governor,poll,,Ballots,427,427,427
+31181,NOE,Governor,poll,,Ballots,382,382,382
+31191,NOE,Governor,poll,,Ballots,441,441,441
+31201,NOE,Governor,poll,,Ballots,424,424,424
+31211,East Central,Governor,poll,,Ballots,398,398,398
+31221,East Central,Governor,poll,,Ballots,348,348,348
+31231,East Central,Governor,poll,,Ballots,352,352,352
+31241,Shadle Park,Governor,poll,,Ballots,521,521,521
+31251,Shadle Park,Governor,poll,,Ballots,399,399,399
+31261,Shadle Park,Governor,poll,,Ballots,539,539,539
+31271,Shadle Park,Governor,poll,,Ballots,657,657,657
+31281,Shadle Park,Governor,poll,,Ballots,410,410,410
+31291,South Hill,Governor,poll,,Ballots,563,563,563
+31301,South Hill,Governor,poll,,Ballots,274,274,274
+31311,East Central,Governor,poll,,Ballots,418,418,418
+31321,South Hill,Governor,poll,,Ballots,384,384,384
+31331,South Hill,Governor,poll,,Ballots,433,433,433
+31341,South Hill,Governor,poll,,Ballots,531,533,533
+31351,South Hill,Governor,poll,,Ballots,347,347,347
+31361,Shadle Park,Governor,poll,,Ballots,366,366,366
+31371,East Central,Governor,poll,,Ballots,370,370,370
+31381,East Central,Governor,poll,,Ballots,435,435,435
+31391,East Central,Governor,poll,,Ballots,360,360,360
+31401,East Central,Governor,poll,,Ballots,543,543,543
+31411,East Central,Governor,poll,,Ballots,402,402,402
+31421,East Central,Governor,poll,,Ballots,544,544,544
+31431,West Central,Governor,poll,,Ballots,463,463,463
+31441,West Central,Governor,poll,,Ballots,408,408,408
+31451,Shadle Park,Governor,poll,,Ballots,324,324,324
+31461,West Central,Governor,poll,,Ballots,479,478,479
+31471,West Central,Governor,poll,,Ballots,471,471,471
+31481,West Central,Governor,poll,,Ballots,328,328,328
+31491,West Central,Governor,poll,,Ballots,429,430,430
+31501,West Central,Governor,poll,,Ballots,557,557,557
+31511,West Central,Governor,poll,,Ballots,389,389,389
+31521,Browne's Add,Governor,poll,,Ballots,620,620,620
+31531,Browne's Add,Governor,poll,,Ballots,517,517,517
+31541,East Central,Governor,poll,,Ballots,335,335,335
+31551,South Hill,Governor,poll,,Ballots,562,562,562
+31561,South Hill,Governor,poll,,Ballots,449,449,449
+31571,South Hill,Governor,poll,,Ballots,588,588,588
+31581,South Hill,Governor,poll,,Ballots,498,498,498
+31591,South Hill,Governor,poll,,Ballots,458,458,458
+31601,South Hill,Governor,poll,,Ballots,437,436,437
+31611,South Hill,Governor,poll,,Ballots,344,344,344
+31621,South Hill,Governor,poll,,Ballots,457,457,457
+31631,South Hill,Governor,poll,,Ballots,399,399,399
+31641,South Hill,Governor,poll,,Ballots,369,369,369
+31651,South Hill,Governor,poll,,Ballots,459,459,459
+40001,Greenbluff r,Governor,poll,,Ballots,499,499,499
+40011,Greenbluff r,Governor,poll,,Ballots,647,647,647
+40021,Greenbluff r,Governor,poll,,Ballots,714,714,714
+40031,Colbert s,Governor,poll,,Ballots,519,519,519
+40041,Greenbluff r,Governor,poll,,Ballots,444,444,444
+40051,Greenbluff r,Governor,poll,,Ballots,601,601,601
+40061,Colbert s,Governor,poll,,Ballots,548,548,548
+40071,Greenbluff r,Governor,poll,,Ballots,268,268,268
+40083,Greenbluff r,Governor,poll,,Ballots,392,392,392
+40091,Greenbluff r,Governor,poll,,Ballots,435,435,435
+40101,Greenbluff r,Governor,poll,,Ballots,243,243,243
+40111,Greenbluff r,Governor,poll,,Ballots,543,543,543
+40121,Greenbluff r,Governor,poll,,Ballots,504,504,504
+40131,Greenbluff r,Governor,poll,,Ballots,276,276,276
+40143,Foothills s,Governor,vbm,,Ballots,345,345,345
+40151,Foothills s,Governor,poll,,Ballots,563,563,563
+40161,Foothills s,Governor,poll,,Ballots,734,734,734
+40171,Foothills s,Governor,poll,,Ballots,384,384,383
+40181,Otis Orchards s,Governor,poll,,Ballots,277,277,277
+40191,Otis Orchards s,Governor,poll,,Ballots,281,281,281
+40201,Otis Orchards s,Governor,poll,,Ballots,466,466,466
+40211,Otis Orchards s,Governor,poll,,Ballots,365,365,365
+40221,Otis Orchards s,Governor,poll,,Ballots,328,328,328
+40233,Palouse r,Governor,vbm,,Ballots,157,157,157
+40241,Palouse r,Governor,poll,,Ballots,536,536,536
+40251,Palouse r,Governor,poll,,Ballots,609,609,609
+40263,Palouse r,Governor,vbm,,Ballots,359,359,359
+40271,Palouse r,Governor,poll,,Ballots,361,361,361
+40281,Palouse r,Governor,poll,,Ballots,590,591,591
+40291,Palouse r,Governor,poll,,Ballots,397,397,397
+41003,NOE,Governor,vbm,,Ballots,9,9,9
+41013,East Central,Governor,vbm,,Ballots,117,117,117
+42001,Millwood,Governor,poll,,Ballots,319,319,319
+42011,Millwood,Governor,poll,,Ballots,183,183,183
+43001,Liberty Lake,Governor,poll,,Ballots,767,767,767
+43011,Liberty Lake,Governor,poll,,Ballots,741,740,741
+44001,COSV,Governor,poll,,Ballots,418,418,418
+44011,COSV,Governor,poll,,Ballots,483,483,483
+44021,COSV,Governor,poll,,Ballots,439,439,439
+44031,COSV,Governor,poll,,Ballots,550,550,550
+44041,COSV,Governor,poll,,Ballots,598,598,598
+44051,COSV,Governor,poll,,Ballots,350,350,350
+44061,COSV,Governor,poll,,Ballots,569,569,569
+44071,COSV,Governor,poll,,Ballots,466,466,466
+44081,COSV,Governor,poll,,Ballots,585,584,585
+44091,COSV,Governor,poll,,Ballots,638,638,638
+44101,COSV,Governor,poll,,Ballots,996,996,996
+44111,COSV,Governor,poll,,Ballots,348,348,348
+44121,COSV,Governor,poll,,Ballots,724,724,724
+44131,COSV,Governor,poll,,Ballots,490,490,490
+44141,COSV,Governor,poll,,Ballots,470,470,470
+44151,COSV,Governor,poll,,Ballots,728,728,728
+44161,COSV,Governor,poll,,Ballots,505,505,505
+44171,COSV,Governor,poll,,Ballots,555,555,555
+44181,COSV,Governor,poll,,Ballots,798,798,799
+44191,COSV,Governor,poll,,Ballots,507,507,507
+44201,COSV,Governor,poll,,Ballots,445,445,445
+44211,COSV,Governor,poll,,Ballots,349,349,349
+44221,COSV,Governor,poll,,Ballots,431,431,431
+44231,COSV,Governor,poll,,Ballots,627,627,627
+44241,COSV,Governor,poll,,Ballots,450,450,450
+44251,COSV,Governor,poll,,Ballots,328,328,328
+44261,COSV,Governor,poll,,Ballots,629,629,629
+44271,COSV,Governor,poll,,Ballots,594,594,594
+44281,COSV,Governor,poll,,Ballots,860,860,860
+44291,COSV,Governor,poll,,Ballots,573,573,573
+44301,COSV,Governor,poll,,Ballots,447,447,447
+44311,COSV,Governor,poll,,Ballots,343,343,343
+44321,COSV,Governor,poll,,Ballots,515,515,515
+44331,COSV,Governor,poll,,Ballots,645,645,645
+44341,COSV,Governor,poll,,Ballots,585,585,585
+44351,COSV,Governor,poll,,Ballots,485,484,484
+44361,COSV,Governor,poll,,Ballots,595,596,596
+44371,COSV,Governor,poll,,Ballots,766,766,766
+44381,COSV,Governor,poll,,Ballots,301,301,301
+44391,COSV,Governor,poll,,Ballots,536,536,536
+44401,COSV,Governor,poll,,Ballots,653,653,653
+44411,COSV,Governor,poll,,Ballots,403,403,403
+60001,Greenbluff r,Governor,poll,,Ballots,475,475,475
+60011,Greenbluff r,Governor,poll,,Ballots,915,915,915
+60021,Colbert s,Governor,poll,,Ballots,460,460,460
+60031,Colbert s,Governor,poll,,Ballots,288,288,288
+60041,Colbert s,Governor,poll,,Ballots,482,482,482
+60051,Colbert s,Governor,poll,,Ballots,820,820,820
+60061,Colbert s,Governor,poll,,Ballots,436,436,436
+60071,Colbert s,Governor,poll,,Ballots,306,306,306
+60083,Colbert s,Governor,vbm,,Ballots,285,285,285
+60091,Greenbluff r,Governor,poll,,Ballots,822,822,822
+60101,Greenbluff r,Governor,poll,,Ballots,507,507,507
+60111,Colbert s,Governor,poll,,Ballots,321,322,322
+60121,Colbert s,Governor,poll,,Ballots,332,332,332
+60141,Moran s,Governor,poll,,Ballots,621,621,621
+60151,Whitworth s,Governor,poll,,Ballots,534,534,534
+60161,Moran s,Governor,poll,,Ballots,581,581,581
+60173,West Plains r,Governor,vbm,,Ballots,65,65,65
+60181,Moran s,Governor,poll,,Ballots,667,667,667
+60191,Moran s,Governor,poll,,Ballots,540,540,540
+60201,Moran s,Governor,poll,,Ballots,791,791,791
+60213,Palouse r,Governor,vbm,,Ballots,38,38,38
+60221,West Plains r,Governor,poll,,Ballots,426,426,426
+60231,Whitworth s,Governor,poll,,Ballots,592,592,592
+60241,West Plains r,Governor,poll,,Ballots,507,507,507
+60253,West Plains r,Governor,vbm,,Ballots,158,158,158
+60261,West Plains r,Governor,poll,,Ballots,307,307,307
+60271,Colbert s,Governor,poll,,Ballots,363,363,363
+60283,Whitworth s,Governor,vbm,,Ballots,114,114,114
+60291,Whitworth s,Governor,poll,,Ballots,296,296,296
+60301,Whitworth s,Governor,poll,,Ballots,371,371,371
+60311,Whitworth s,Governor,poll,,Ballots,454,454,454
+60321,Whitworth s,Governor,poll,,Ballots,411,411,411
+60331,Whitworth s,Governor,poll,,Ballots,466,466,466
+60341,Whitworth s,Governor,poll,,Ballots,358,358,358
+60351,Whitworth s,Governor,poll,,Ballots,456,456,456
+60361,Whitworth s,Governor,poll,,Ballots,434,434,434
+60371,Whitworth s,Governor,poll,,Ballots,445,445,445
+60381,Whitworth s,Governor,poll,,Ballots,340,340,340
+60391,Whitworth s,Governor,poll,,Ballots,376,376,376
+61001,Indian Trail,Governor,poll,,Ballots,656,656,656
+61011,Indian Trail,Governor,poll,,Ballots,626,626,626
+61021,Indian Trail,Governor,poll,,Ballots,389,389,389
+61031,Indian Trail,Governor,poll,,Ballots,527,526,527
+61041,Indian Trail,Governor,poll,,Ballots,607,608,608
+61051,Indian Trail,Governor,poll,,Ballots,859,858,858
+61061,Civil War,Governor,poll,,Ballots,669,669,669
+61071,Civil War,Governor,poll,,Ballots,407,407,407
+61081,Indian Trail,Governor,poll,,Ballots,521,521,521
+61091,Indian Trail,Governor,poll,,Ballots,521,521,521
+61101,Indian Trail,Governor,poll,,Ballots,488,488,488
+61111,Indian Trail,Governor,poll,,Ballots,482,482,482
+61121,Indian Trail,Governor,poll,,Ballots,656,656,656
+61131,Civil War,Governor,poll,,Ballots,444,444,444
+61141,Civil War,Governor,poll,,Ballots,447,447,447
+61151,Civil War,Governor,poll,,Ballots,350,350,350
+61161,Civil War,Governor,poll,,Ballots,1066,1066,1066
+61171,Finch,Governor,poll,,Ballots,510,510,510
+61181,Shadle Park,Governor,poll,,Ballots,477,477,477
+61191,Shadle Park,Governor,poll,,Ballots,577,577,577
+61201,Shadle Park,Governor,poll,,Ballots,526,526,526
+61211,Shadle Park,Governor,poll,,Ballots,464,464,464
+61221,Shadle Park,Governor,poll,,Ballots,358,358,358
+61231,Shadle Park,Governor,poll,,Ballots,496,496,496
+61241,Shadle Park,Governor,poll,,Ballots,432,432,432
+61251,Shadle Park,Governor,poll,,Ballots,510,509,509
+61261,Shadle Park,Governor,poll,,Ballots,563,563,563
+61271,Shadle Park,Governor,poll,,Ballots,557,557,557
+61281,Shadle Park,Governor,poll,,Ballots,585,584,585
+61291,South Hill,Governor,poll,,Ballots,642,642,642
+61301,South Hill,Governor,poll,,Ballots,444,444,444
+61311,South Hill,Governor,poll,,Ballots,318,318,318
+61321,South Hill,Governor,poll,,Ballots,535,535,535
+61331,South Hill,Governor,poll,,Ballots,548,548,548
+61343,Shadle Park,Governor,vbm,,Ballots,126,126,126
+61351,South Hill,Governor,poll,,Ballots,591,591,591
+61361,South Hill,Governor,poll,,Ballots,736,736,736
+61371,South Hill,Governor,poll,,Ballots,976,976,976
+61381,South Hill,Governor,poll,,Ballots,687,687,687
+61391,South Hill,Governor,poll,,Ballots,414,414,414
+61401,South Hill,Governor,poll,,Ballots,762,762,762
+61411,South Hill,Governor,poll,,Ballots,573,573,573
+61421,South Hill,Governor,poll,,Ballots,425,425,425
+61431,South Hill,Governor,poll,,Ballots,352,352,352
+61441,South Hill,Governor,poll,,Ballots,565,565,565
+61451,South Hill,Governor,poll,,Ballots,538,538,538
+61461,South Hill,Governor,poll,,Ballots,568,568,568
+61471,South Hill,Governor,poll,,Ballots,523,523,523
+61481,South Hill,Governor,poll,,Ballots,437,437,437
+61491,South Hill,Governor,poll,,Ballots,564,564,564
+61501,South Hill,Governor,poll,,Ballots,410,410,410
+61511,South Hill,Governor,poll,,Ballots,828,828,828
+64001,COSV,Governor,poll,,Ballots,378,378,378
+70001,Greenbluff r,Governor,poll,,Ballots,485,485,485
+70011,Greenbluff r,Governor,poll,,Ballots,573,573,573
+70021,Greenbluff r,Governor,poll,,Ballots,391,391,391
+70031,Greenbluff r,Governor,poll,,Ballots,231,231,231
+70041,Greenbluff r,Governor,poll,,Ballots,449,449,449
+70051,Greenbluff r,Governor,poll,,Ballots,398,398,398
+70061,West Plains r,Governor,poll,,Ballots,400,400,400
+70071,West Plains r,Governor,poll,,Ballots,646,646,646
+70081,West Plains r,Governor,poll,,Ballots,742,742,742
+70091,West Plains r,Governor,poll,,Ballots,306,306,306
+70101,West Plains r,Governor,poll,,Ballots,528,528,528
+70111,Greenbluff r,Governor,poll,,Ballots,479,479,479
+70121,Greenbluff r,Governor,poll,,Ballots,378,378,378
+71001,Airway Heights,Governor,poll,,Ballots,294,294,294
+71011,Airway Heights,Governor,poll,,Ballots,142,142,142
+72001,Fairchild,Governor,poll,,Ballots,527,527,527
+73001,Deer Park,Governor,poll,,Ballots,465,465,465
+73011,Deer Park,Governor,poll,,Ballots,268,268,268
+90001,Palouse r,Governor,poll,,Ballots,254,254,254
+90013,Palouse r,Governor,vbm,,Ballots,314,314,314
+90023,Palouse r,Governor,vbm,,Ballots,153,153,153
+90031,Palouse r,Governor,poll,,Ballots,895,895,895
+90041,Palouse r,Governor,poll,,Ballots,361,361,361
+90051,Palouse r,Governor,poll,,Ballots,580,580,580
+90061,Palouse r,Governor,poll,,Ballots,366,366,366
+90071,West Plains r,Governor,poll,,Ballots,596,596,596
+90081,West Plains r,Governor,poll,,Ballots,359,359,359
+90091,West Plains r,Governor,poll,,Ballots,513,513,513
+90101,Palouse r,Governor,poll,,Ballots,440,440,440
+90113,Palouse r,Governor,vbm,,Ballots,304,304,304
+90123,Palouse r,Governor,vbm,,Ballots,161,161,161
+90133,Palouse r,Governor,vbm,,Ballots,233,233,233
+90143,Palouse r,Governor,vbm,,Ballots,362,362,362
+90151,Palouse r,Governor,poll,,Ballots,642,642,642
+90163,Palouse r,Governor,vbm,,Ballots,139,139,139
+90173,Palouse r,Governor,vbm,,Ballots,196,196,196
+90183,Palouse r,Governor,vbm,,Ballots,340,340,340
+90191,Moran s,Governor,poll,,Ballots,430,430,430
+90203,Palouse r,Governor,vbm,,Ballots,170,170,170
+91001,Medical Lake,Governor,poll,,Ballots,480,480,480
+91011,Medical Lake,Governor,poll,,Ballots,392,392,392
+92001,Cheney,Governor,poll,,Ballots,359,359,359
+92011,Cheney,Governor,poll,,Ballots,477,477,477
+92021,Cheney,Governor,poll,,Ballots,411,411,411
+92031,Cheney,Governor,poll,,Ballots,627,627,627
+93003,Spangle,Governor,vbm,,Ballots,138,138,138
+94003,Waverly,Governor,vbm,,Ballots,64,64,64
+95001,Fairfield,Governor,poll,,Ballots,134,134,134
+96003,Latah,Governor,vbm,,Ballots,109,109,109
+97003,Rockford,Governor,vbm,,Ballots,213,213,213
+31004,NOE,Governor,prov,,Ballots,19,19,19
+31014,Hillyard,Governor,prov,,Ballots,38,38,38
+31024,NOE,Governor,prov,,Ballots,26,26,26
+31034,Hillyard,Governor,prov,,Ballots,13,13,13
+31044,NOE,Governor,prov,,Ballots,4,4,4
+31054,NOE,Governor,prov,,Ballots,2,2,2
+31064,NOE,Governor,prov,,Ballots,56,56,56
+31074,NOE,Governor,prov,,Ballots,18,18,18
+31084,Shadle Park,Governor,prov,,Ballots,7,7,7
+31094,Shadle Park,Governor,prov,,Ballots,6,6,6
+31104,Shadle Park,Governor,prov,,Ballots,6,6,6
+31114,Shadle Park,Governor,prov,,Ballots,9,9,9
+31124,Hillyard,Governor,prov,,Ballots,53,53,53
+31134,Hillyard,Governor,prov,,Ballots,4,4,4
+31144,NOE,Governor,prov,,Ballots,21,21,21
+31154,NOE,Governor,prov,,Ballots,25,25,25
+31164,NOE,Governor,prov,,Ballots,11,11,11
+31174,NOE,Governor,prov,,Ballots,14,14,14
+31184,NOE,Governor,prov,,Ballots,15,15,15
+31194,NOE,Governor,prov,,Ballots,11,11,11
+31204,NOE,Governor,prov,,Ballots,22,22,22
+31214,East Central,Governor,prov,,Ballots,13,13,13
+31224,East Central,Governor,prov,,Ballots,2,2,2
+31234,East Central,Governor,prov,,Ballots,21,21,21
+31244,Shadle Park,Governor,prov,,Ballots,39,39,39
+31254,Shadle Park,Governor,prov,,Ballots,24,24,24
+31264,Shadle Park,Governor,prov,,Ballots,17,17,17
+31274,Shadle Park,Governor,prov,,Ballots,20,20,20
+31284,Shadle Park,Governor,prov,,Ballots,24,24,24
+31294,South Hill,Governor,prov,,Ballots,49,49,49
+31304,South Hill,Governor,prov,,Ballots,26,26,26
+31314,East Central,Governor,prov,,Ballots,34,34,34
+31324,South Hill,Governor,prov,,Ballots,9,9,9
+31334,South Hill,Governor,prov,,Ballots,15,15,15
+31344,South Hill,Governor,prov,,Ballots,43,43,43
+31354,South Hill,Governor,prov,,Ballots,26,26,26
+31364,Shadle Park,Governor,prov,,Ballots,14,14,14
+31374,East Central,Governor,prov,,Ballots,14,14,14
+31384,East Central,Governor,prov,,Ballots,21,21,21
+31394,East Central,Governor,prov,,Ballots,14,14,14
+31404,East Central,Governor,prov,,Ballots,11,11,11
+31414,East Central,Governor,prov,,Ballots,19,19,19
+31424,East Central,Governor,prov,,Ballots,17,17,17
+31434,West Central,Governor,prov,,Ballots,17,17,17
+31444,West Central,Governor,prov,,Ballots,29,29,29
+31454,Shadle Park,Governor,prov,,Ballots,8,8,8
+31464,West Central,Governor,prov,,Ballots,77,77,77
+31474,West Central,Governor,prov,,Ballots,3,3,3
+31484,West Central,Governor,prov,,Ballots,1,1,1
+31494,West Central,Governor,prov,,Ballots,55,55,55
+31504,West Central,Governor,prov,,Ballots,5,5,5
+31514,West Central,Governor,prov,,Ballots,11,11,11
+31524,Browne's Add,Governor,prov,,Ballots,39,39,39
+31534,Browne's Add,Governor,prov,,Ballots,26,26,26
+31544,East Central,Governor,prov,,Ballots,21,21,21
+31554,South Hill,Governor,prov,,Ballots,69,69,69
+31564,South Hill,Governor,prov,,Ballots,5,5,5
+31574,South Hill,Governor,prov,,Ballots,1,1,1
+31584,South Hill,Governor,prov,,Ballots,46,46,46
+31594,South Hill,Governor,prov,,Ballots,7,7,7
+31604,South Hill,Governor,prov,,Ballots,11,11,11
+31614,South Hill,Governor,prov,,Ballots,23,23,23
+31624,South Hill,Governor,prov,,Ballots,6,6,6
+31634,South Hill,Governor,prov,,Ballots,2,2,2
+31644,South Hill,Governor,prov,,Ballots,1,1,1
+31654,South Hill,Governor,prov,,Ballots,41,41,41
+40004,Greenbluff r,Governor,prov,,Ballots,17,17,17
+40014,Greenbluff r,Governor,prov,,Ballots,7,7,7
+40024,Greenbluff r,Governor,prov,,Ballots,13,13,13
+40034,Colbert s,Governor,prov,,Ballots,14,14,14
+40044,Greenbluff r,Governor,prov,,Ballots,6,6,6
+40054,Greenbluff r,Governor,prov,,Ballots,47,47,47
+40064,Colbert s,Governor,prov,,Ballots,1,1,1
+40074,Greenbluff r,Governor,prov,,Ballots,8,8,8
+40094,Greenbluff r,Governor,prov,,Ballots,12,12,12
+40104,Greenbluff r,Governor,prov,,Ballots,4,4,4
+40114,Greenbluff r,Governor,prov,,Ballots,6,6,6
+40124,Greenbluff r,Governor,prov,,Ballots,12,12,12
+40134,Greenbluff r,Governor,prov,,Ballots,13,13,13
+40154,Foothills s,Governor,prov,,Ballots,10,10,10
+40164,Foothills s,Governor,prov,,Ballots,15,15,15
+40174,Foothills s,Governor,prov,,Ballots,9,9,9
+40184,Otis Orchards s,Governor,prov,,Ballots,36,36,36
+40194,Otis Orchards s,Governor,prov,,Ballots,40,40,40
+40204,Otis Orchards s,Governor,prov,,Ballots,36,36,36
+40214,Otis Orchards s,Governor,prov,,Ballots,15,15,15
+40224,Otis Orchards s,Governor,prov,,Ballots,15,15,15
+40244,Palouse r,Governor,prov,,Ballots,13,13,13
+40254,Palouse r,Governor,prov,,Ballots,23,23,23
+40274,Palouse r,Governor,prov,,Ballots,8,8,8
+40284,Palouse r,Governor,prov,,Ballots,8,8,8
+40294,Palouse r,Governor,prov,,Ballots,13,13,13
+42004,Millwood,Governor,prov,,Ballots,10,10,10
+42014,Millwood,Governor,prov,,Ballots,19,19,19
+43004,Liberty Lake,Governor,prov,,Ballots,20,20,20
+43014,Liberty Lake,Governor,prov,,Ballots,17,17,17
+44004,COSV,Governor,prov,,Ballots,16,16,16
+44014,COSV,Governor,prov,,Ballots,13,13,13
+44024,COSV,Governor,prov,,Ballots,17,17,17
+44034,COSV,Governor,prov,,Ballots,23,23,23
+44044,COSV,Governor,prov,,Ballots,16,16,16
+44054,COSV,Governor,prov,,Ballots,1,1,1
+44064,COSV,Governor,prov,,Ballots,16,16,16
+44074,COSV,Governor,prov,,Ballots,15,15,15
+44084,COSV,Governor,prov,,Ballots,20,20,20
+44094,COSV,Governor,prov,,Ballots,8,8,8
+44104,COSV,Governor,prov,,Ballots,27,27,27
+44124,COSV,Governor,prov,,Ballots,37,37,37
+44134,COSV,Governor,prov,,Ballots,27,27,27
+44144,COSV,Governor,prov,,Ballots,16,16,16
+44154,COSV,Governor,prov,,Ballots,21,21,21
+44164,COSV,Governor,prov,,Ballots,30,30,29
+44174,COSV,Governor,prov,,Ballots,46,46,47
+44184,COSV,Governor,prov,,Ballots,32,32,32
+44194,COSV,Governor,prov,,Ballots,12,12,12
+44204,COSV,Governor,prov,,Ballots,41,41,41
+44214,COSV,Governor,prov,,Ballots,6,6,6
+44224,COSV,Governor,prov,,Ballots,4,4,4
+44234,COSV,Governor,prov,,Ballots,7,7,7
+44244,COSV,Governor,prov,,Ballots,7,7,7
+44254,COSV,Governor,prov,,Ballots,2,2,2
+44264,COSV,Governor,prov,,Ballots,24,24,24
+44274,COSV,Governor,prov,,Ballots,9,9,9
+44284,COSV,Governor,prov,,Ballots,22,22,22
+44294,COSV,Governor,prov,,Ballots,19,19,19
+44304,COSV,Governor,prov,,Ballots,30,30,30
+44314,COSV,Governor,prov,,Ballots,26,26,26
+44324,COSV,Governor,prov,,Ballots,18,18,18
+44334,COSV,Governor,prov,,Ballots,2,2,2
+44344,COSV,Governor,prov,,Ballots,49,49,49
+44354,COSV,Governor,prov,,Ballots,12,12,12
+44364,COSV,Governor,prov,,Ballots,24,24,24
+44374,COSV,Governor,prov,,Ballots,11,11,11
+44384,COSV,Governor,prov,,Ballots,4,4,4
+44394,COSV,Governor,prov,,Ballots,11,11,11
+44404,COSV,Governor,prov,,Ballots,46,46,46
+44414,COSV,Governor,prov,,Ballots,10,10,10
+60004,Greenbluff r,Governor,prov,,Ballots,9,9,9
+60014,Greenbluff r,Governor,prov,,Ballots,11,11,11
+60024,Colbert s,Governor,prov,,Ballots,19,19,19
+60034,Colbert s,Governor,prov,,Ballots,17,17,17
+60044,Colbert s,Governor,prov,,Ballots,13,13,13
+60054,Colbert s,Governor,prov,,Ballots,9,9,9
+60064,Colbert s,Governor,prov,,Ballots,14,14,14
+60074,Colbert s,Governor,prov,,Ballots,14,14,14
+60094,Greenbluff r,Governor,prov,,Ballots,17,17,17
+60104,Greenbluff r,Governor,prov,,Ballots,8,8,8
+60114,Colbert s,Governor,prov,,Ballots,7,7,7
+60124,Colbert s,Governor,prov,,Ballots,13,13,13
+60144,Moran s,Governor,prov,,Ballots,14,14,14
+60154,Whitworth s,Governor,prov,,Ballots,22,22,22
+60164,Moran s,Governor,prov,,Ballots,28,28,28
+60184,Moran s,Governor,prov,,Ballots,17,17,17
+60194,Moran s,Governor,prov,,Ballots,8,8,8
+60204,Moran s,Governor,prov,,Ballots,8,8,8
+60224,West Plains r,Governor,prov,,Ballots,8,8,8
+60234,Whitworth s,Governor,prov,,Ballots,11,11,11
+60244,West Plains r,Governor,prov,,Ballots,7,7,7
+60264,West Plains r,Governor,prov,,Ballots,3,3,3
+60274,Colbert s,Governor,prov,,Ballots,12,12,12
+60294,Whitworth s,Governor,prov,,Ballots,7,7,7
+60304,Whitworth s,Governor,prov,,Ballots,10,10,10
+60314,Whitworth s,Governor,prov,,Ballots,17,17,17
+60324,Whitworth s,Governor,prov,,Ballots,5,5,5
+60334,Whitworth s,Governor,prov,,Ballots,6,6,6
+60344,Whitworth s,Governor,prov,,Ballots,14,14,14
+60354,Whitworth s,Governor,prov,,Ballots,15,15,15
+60364,Whitworth s,Governor,prov,,Ballots,6,6,6
+60374,Whitworth s,Governor,prov,,Ballots,16,16,16
+60384,Whitworth s,Governor,prov,,Ballots,5,5,5
+60394,Whitworth s,Governor,prov,,Ballots,7,7,7
+61004,Indian Trail,Governor,prov,,Ballots,14,14,14
+61014,Indian Trail,Governor,prov,,Ballots,13,13,13
+61024,Indian Trail,Governor,prov,,Ballots,3,3,3
+61034,Indian Trail,Governor,prov,,Ballots,11,11,11
+61044,Indian Trail,Governor,prov,,Ballots,5,5,5
+61054,Indian Trail,Governor,prov,,Ballots,9,9,9
+61064,Civil War,Governor,prov,,Ballots,33,33,33
+61074,Civil War,Governor,prov,,Ballots,9,9,9
+61084,Indian Trail,Governor,prov,,Ballots,12,12,12
+61094,Indian Trail,Governor,prov,,Ballots,7,7,7
+61104,Indian Trail,Governor,prov,,Ballots,10,10,10
+61114,Indian Trail,Governor,prov,,Ballots,5,5,5
+61124,Indian Trail,Governor,prov,,Ballots,3,3,3
+61134,Civil War,Governor,prov,,Ballots,11,11,11
+61144,Civil War,Governor,prov,,Ballots,27,27,27
+61154,Civil War,Governor,prov,,Ballots,6,6,6
+61164,Civil War,Governor,prov,,Ballots,34,34,34
+61174,Finch,Governor,prov,,Ballots,13,13,13
+61184,Shadle Park,Governor,prov,,Ballots,9,9,9
+61194,Shadle Park,Governor,prov,,Ballots,14,14,14
+61204,Shadle Park,Governor,prov,,Ballots,8,8,8
+61214,Shadle Park,Governor,prov,,Ballots,14,14,14
+61224,Shadle Park,Governor,prov,,Ballots,8,8,8
+61234,Shadle Park,Governor,prov,,Ballots,44,44,44
+61244,Shadle Park,Governor,prov,,Ballots,15,15,15
+61254,Shadle Park,Governor,prov,,Ballots,18,18,18
+61264,Shadle Park,Governor,prov,,Ballots,25,25,25
+61274,Shadle Park,Governor,prov,,Ballots,23,23,23
+61284,Shadle Park,Governor,prov,,Ballots,16,16,16
+61294,South Hill,Governor,prov,,Ballots,14,14,14
+61304,South Hill,Governor,prov,,Ballots,10,10,10
+61314,South Hill,Governor,prov,,Ballots,14,14,14
+61324,South Hill,Governor,prov,,Ballots,8,8,8
+61334,South Hill,Governor,prov,,Ballots,22,22,22
+61354,South Hill,Governor,prov,,Ballots,16,16,16
+61364,South Hill,Governor,prov,,Ballots,11,11,11
+61374,South Hill,Governor,prov,,Ballots,12,12,12
+61384,South Hill,Governor,prov,,Ballots,5,5,5
+61394,South Hill,Governor,prov,,Ballots,20,20,20
+61404,South Hill,Governor,prov,,Ballots,19,19,19
+61414,South Hill,Governor,prov,,Ballots,14,14,14
+61424,South Hill,Governor,prov,,Ballots,4,4,4
+61434,South Hill,Governor,prov,,Ballots,8,8,8
+61444,South Hill,Governor,prov,,Ballots,22,22,22
+61454,South Hill,Governor,prov,,Ballots,17,17,17
+61464,South Hill,Governor,prov,,Ballots,11,11,11
+61474,South Hill,Governor,prov,,Ballots,14,14,14
+61484,South Hill,Governor,prov,,Ballots,7,7,7
+61494,South Hill,Governor,prov,,Ballots,9,9,9
+61504,South Hill,Governor,prov,,Ballots,11,11,11
+61514,South Hill,Governor,prov,,Ballots,51,51,51
+64004,COSV,Governor,prov,,Ballots,2,2,2
+70004,Greenbluff r,Governor,prov,,Ballots,12,12,12
+70014,Greenbluff r,Governor,prov,,Ballots,9,9,9
+70024,Greenbluff r,Governor,prov,,Ballots,7,7,7
+70034,Greenbluff r,Governor,prov,,Ballots,2,2,2
+70044,Greenbluff r,Governor,prov,,Ballots,4,4,4
+70054,Greenbluff r,Governor,prov,,Ballots,8,8,8
+70064,West Plains r,Governor,prov,,Ballots,8,8,8
+70074,West Plains r,Governor,prov,,Ballots,21,21,21
+70084,West Plains r,Governor,prov,,Ballots,21,21,21
+70094,West Plains r,Governor,prov,,Ballots,13,13,13
+70104,West Plains r,Governor,prov,,Ballots,16,16,16
+70114,Greenbluff r,Governor,prov,,Ballots,15,15,15
+70124,Greenbluff r,Governor,prov,,Ballots,11,11,11
+71004,Airway Heights,Governor,prov,,Ballots,32,32,32
+71014,Airway Heights,Governor,prov,,Ballots,9,9,9
+72004,Fairchild,Governor,prov,,Ballots,26,26,26
+73004,Deer Park,Governor,prov,,Ballots,11,11,11
+73014,Deer Park,Governor,prov,,Ballots,8,8,8
+90004,Palouse r,Governor,prov,,Ballots,10,10,10
+90034,Palouse r,Governor,prov,,Ballots,8,8,8
+90044,Palouse r,Governor,prov,,Ballots,13,13,13
+90054,Palouse r,Governor,prov,,Ballots,6,6,6
+90064,Palouse r,Governor,prov,,Ballots,4,4,4
+90074,West Plains r,Governor,prov,,Ballots,11,11,11
+90084,West Plains r,Governor,prov,,Ballots,8,8,8
+90094,West Plains r,Governor,prov,,Ballots,23,23,23
+90104,Palouse r,Governor,prov,,Ballots,4,4,4
+90154,Palouse r,Governor,prov,,Ballots,6,6,6
+90194,Moran s,Governor,prov,,Ballots,8,8,8
+91004,Medical Lake,Governor,prov,,Ballots,18,18,18
+91014,Medical Lake,Governor,prov,,Ballots,7,7,7
+92004,Cheney,Governor,prov,,Ballots,18,18,18
+92014,Cheney,Governor,prov,,Ballots,10,10,10
+92024,Cheney,Governor,prov,,Ballots,33,33,33
+92034,Cheney,Governor,prov,,Ballots,53,53,53
+95004,Fairfield,Governor,prov,,Ballots,4,4,4
+SPOKANE WA,SPOKANE WA,Governor,prov,,Ballots,203871,203877,203886
+precinct,area,office,district,party,candidate,total,machine,hand
+31002,NOE,Governor,abs,D,Christine Gregoire,87,87,87
+31012,Hillyard,Governor,abs,D,Christine Gregoire,75,75,75
+31022,NOE,Governor,abs,D,Christine Gregoire,88,88,88
+31032,Hillyard,Governor,abs,D,Christine Gregoire,109,109,109
+31042,NOE,Governor,abs,D,Christine Gregoire,95,95,95
+31052,NOE,Governor,abs,D,Christine Gregoire,100,100,100
+31062,NOE,Governor,abs,D,Christine Gregoire,76,76,76
+31072,NOE,Governor,abs,D,Christine Gregoire,127,127,127
+31082,Shadle Park,Governor,abs,D,Christine Gregoire,138,138,139
+31092,Shadle Park,Governor,abs,D,Christine Gregoire,110,110,110
+31102,Shadle Park,Governor,abs,D,Christine Gregoire,115,115,115
+31112,Shadle Park,Governor,abs,D,Christine Gregoire,122,122,122
+31122,Hillyard,Governor,abs,D,Christine Gregoire,102,102,102
+31132,Hillyard,Governor,abs,D,Christine Gregoire,75,75,75
+31142,NOE,Governor,abs,D,Christine Gregoire,68,68,68
+31152,NOE,Governor,abs,D,Christine Gregoire,57,57,57
+31162,NOE,Governor,abs,D,Christine Gregoire,112,112,112
+31172,NOE,Governor,abs,D,Christine Gregoire,131,131,131
+31182,NOE,Governor,abs,D,Christine Gregoire,110,110,110
+31192,NOE,Governor,abs,D,Christine Gregoire,121,121,121
+31202,NOE,Governor,abs,D,Christine Gregoire,171,172,172
+31212,East Central,Governor,abs,D,Christine Gregoire,95,95,95
+31222,East Central,Governor,abs,D,Christine Gregoire,108,108,108
+31232,East Central,Governor,abs,D,Christine Gregoire,85,85,85
+31242,Shadle Park,Governor,abs,D,Christine Gregoire,153,153,153
+31252,Shadle Park,Governor,abs,D,Christine Gregoire,80,80,80
+31262,Shadle Park,Governor,abs,D,Christine Gregoire,131,131,131
+31272,Shadle Park,Governor,abs,D,Christine Gregoire,159,159,159
+31282,Shadle Park,Governor,abs,D,Christine Gregoire,96,96,96
+31292,South Hill,Governor,abs,D,Christine Gregoire,166,166,166
+31302,South Hill,Governor,abs,D,Christine Gregoire,66,66,66
+31312,East Central,Governor,abs,D,Christine Gregoire,117,117,117
+31322,South Hill,Governor,abs,D,Christine Gregoire,100,100,100
+31332,South Hill,Governor,abs,D,Christine Gregoire,144,144,144
+31342,South Hill,Governor,abs,D,Christine Gregoire,160,160,160
+31352,South Hill,Governor,abs,D,Christine Gregoire,141,141,141
+31362,Shadle Park,Governor,abs,D,Christine Gregoire,115,115,115
+31372,East Central,Governor,abs,D,Christine Gregoire,71,71,71
+31382,East Central,Governor,abs,D,Christine Gregoire,126,126,126
+31392,East Central,Governor,abs,D,Christine Gregoire,98,98,98
+31402,East Central,Governor,abs,D,Christine Gregoire,99,99,99
+31412,East Central,Governor,abs,D,Christine Gregoire,112,112,112
+31422,East Central,Governor,abs,D,Christine Gregoire,111,111,111
+31432,West Central,Governor,abs,D,Christine Gregoire,119,119,119
+31442,West Central,Governor,abs,D,Christine Gregoire,112,112,112
+31452,Shadle Park,Governor,abs,D,Christine Gregoire,82,82,82
+31462,West Central,Governor,abs,D,Christine Gregoire,151,151,151
+31472,West Central,Governor,abs,D,Christine Gregoire,138,138,138
+31482,West Central,Governor,abs,D,Christine Gregoire,123,123,123
+31492,West Central,Governor,abs,D,Christine Gregoire,121,121,121
+31502,West Central,Governor,abs,D,Christine Gregoire,157,157,157
+31512,West Central,Governor,abs,D,Christine Gregoire,175,175,175
+31522,Browne's Add,Governor,abs,D,Christine Gregoire,237,237,237
+31532,Browne's Add,Governor,abs,D,Christine Gregoire,118,118,118
+31542,East Central,Governor,abs,D,Christine Gregoire,88,88,88
+31552,South Hill,Governor,abs,D,Christine Gregoire,131,131,131
+31562,South Hill,Governor,abs,D,Christine Gregoire,136,136,136
+31572,South Hill,Governor,abs,D,Christine Gregoire,143,143,143
+31582,South Hill,Governor,abs,D,Christine Gregoire,154,154,154
+31592,South Hill,Governor,abs,D,Christine Gregoire,123,123,123
+31602,South Hill,Governor,abs,D,Christine Gregoire,203,203,203
+31612,South Hill,Governor,abs,D,Christine Gregoire,125,125,125
+31622,South Hill,Governor,abs,D,Christine Gregoire,87,87,87
+31632,South Hill,Governor,abs,D,Christine Gregoire,108,108,108
+31642,South Hill,Governor,abs,D,Christine Gregoire,137,137,137
+31652,South Hill,Governor,abs,D,Christine Gregoire,134,134,134
+40002,Greenbluff r,Governor,abs,D,Christine Gregoire,88,88,88
+40012,Greenbluff r,Governor,abs,D,Christine Gregoire,109,109,109
+40022,Greenbluff r,Governor,abs,D,Christine Gregoire,115,115,115
+40032,Colbert s,Governor,abs,D,Christine Gregoire,92,92,92
+40042,Greenbluff r,Governor,abs,D,Christine Gregoire,65,65,65
+40052,Greenbluff r,Governor,abs,D,Christine Gregoire,94,94,94
+40062,Colbert s,Governor,abs,D,Christine Gregoire,79,79,79
+40072,Greenbluff r,Governor,abs,D,Christine Gregoire,59,59,59
+40092,Greenbluff r,Governor,abs,D,Christine Gregoire,67,68,68
+40102,Greenbluff r,Governor,abs,D,Christine Gregoire,48,48,48
+40112,Greenbluff r,Governor,abs,D,Christine Gregoire,89,89,89
+40122,Greenbluff r,Governor,abs,D,Christine Gregoire,78,78,78
+40132,Greenbluff r,Governor,abs,D,Christine Gregoire,98,98,98
+40152,Foothills s,Governor,abs,D,Christine Gregoire,80,80,80
+40162,Foothills s,Governor,abs,D,Christine Gregoire,123,123,123
+40172,Foothills s,Governor,abs,D,Christine Gregoire,114,114,114
+40182,Otis Orchards s,Governor,abs,D,Christine Gregoire,74,74,74
+40192,Otis Orchards s,Governor,abs,D,Christine Gregoire,78,78,78
+40202,Otis Orchards s,Governor,abs,D,Christine Gregoire,101,101,101
+40212,Otis Orchards s,Governor,abs,D,Christine Gregoire,135,135,135
+40222,Otis Orchards s,Governor,abs,D,Christine Gregoire,117,117,117
+40242,Palouse r,Governor,abs,D,Christine Gregoire,69,69,69
+40252,Palouse r,Governor,abs,D,Christine Gregoire,84,84,84
+40272,Palouse r,Governor,abs,D,Christine Gregoire,64,64,64
+40282,Palouse r,Governor,abs,D,Christine Gregoire,116,116,116
+40292,Palouse r,Governor,abs,D,Christine Gregoire,66,66,66
+42002,Millwood,Governor,abs,D,Christine Gregoire,112,112,112
+42012,Millwood,Governor,abs,D,Christine Gregoire,65,65,65
+43002,Liberty Lake,Governor,abs,D,Christine Gregoire,160,160,160
+43012,Liberty Lake,Governor,abs,D,Christine Gregoire,109,109,109
+44002,COSV,Governor,abs,D,Christine Gregoire,93,93,93
+44012,COSV,Governor,abs,D,Christine Gregoire,131,131,131
+44022,COSV,Governor,abs,D,Christine Gregoire,130,130,130
+44032,COSV,Governor,abs,D,Christine Gregoire,116,116,116
+44042,COSV,Governor,abs,D,Christine Gregoire,182,183,183
+44052,COSV,Governor,abs,D,Christine Gregoire,105,105,105
+44062,COSV,Governor,abs,D,Christine Gregoire,148,148,148
+44072,COSV,Governor,abs,D,Christine Gregoire,130,130,130
+44082,COSV,Governor,abs,D,Christine Gregoire,101,101,101
+44092,COSV,Governor,abs,D,Christine Gregoire,133,133,133
+44102,COSV,Governor,abs,D,Christine Gregoire,185,185,185
+44112,COSV,Governor,abs,D,Christine Gregoire,69,69,69
+44122,COSV,Governor,abs,D,Christine Gregoire,140,140,140
+44132,COSV,Governor,abs,D,Christine Gregoire,117,117,117
+44142,COSV,Governor,abs,D,Christine Gregoire,101,101,102
+44152,COSV,Governor,abs,D,Christine Gregoire,165,165,165
+44162,COSV,Governor,abs,D,Christine Gregoire,149,149,149
+44172,COSV,Governor,abs,D,Christine Gregoire,171,171,171
+44182,COSV,Governor,abs,D,Christine Gregoire,209,208,209
+44192,COSV,Governor,abs,D,Christine Gregoire,123,123,123
+44202,COSV,Governor,abs,D,Christine Gregoire,117,117,117
+44212,COSV,Governor,abs,D,Christine Gregoire,114,114,114
+44222,COSV,Governor,abs,D,Christine Gregoire,135,135,135
+44232,COSV,Governor,abs,D,Christine Gregoire,134,134,134
+44242,COSV,Governor,abs,D,Christine Gregoire,115,115,115
+44252,COSV,Governor,abs,D,Christine Gregoire,106,106,106
+44262,COSV,Governor,abs,D,Christine Gregoire,129,129,129
+44272,COSV,Governor,abs,D,Christine Gregoire,133,133,133
+44282,COSV,Governor,abs,D,Christine Gregoire,181,181,182
+44292,COSV,Governor,abs,D,Christine Gregoire,128,128,128
+44302,COSV,Governor,abs,D,Christine Gregoire,139,139,139
+44312,COSV,Governor,abs,D,Christine Gregoire,86,86,86
+44322,COSV,Governor,abs,D,Christine Gregoire,100,100,100
+44332,COSV,Governor,abs,D,Christine Gregoire,100,100,100
+44342,COSV,Governor,abs,D,Christine Gregoire,148,148,148
+44352,COSV,Governor,abs,D,Christine Gregoire,75,75,76
+44362,COSV,Governor,abs,D,Christine Gregoire,99,99,99
+44372,COSV,Governor,abs,D,Christine Gregoire,105,105,105
+44382,COSV,Governor,abs,D,Christine Gregoire,64,64,64
+44392,COSV,Governor,abs,D,Christine Gregoire,138,138,138
+44402,COSV,Governor,abs,D,Christine Gregoire,165,165,165
+44412,COSV,Governor,abs,D,Christine Gregoire,56,56,56
+60002,Greenbluff r,Governor,abs,D,Christine Gregoire,46,46,46
+60012,Greenbluff r,Governor,abs,D,Christine Gregoire,94,94,94
+60022,Colbert s,Governor,abs,D,Christine Gregoire,84,84,84
+60032,Colbert s,Governor,abs,D,Christine Gregoire,76,76,76
+60042,Colbert s,Governor,abs,D,Christine Gregoire,73,73,73
+60052,Colbert s,Governor,abs,D,Christine Gregoire,84,84,84
+60062,Colbert s,Governor,abs,D,Christine Gregoire,76,76,76
+60072,Colbert s,Governor,abs,D,Christine Gregoire,48,48,48
+60092,Greenbluff r,Governor,abs,D,Christine Gregoire,79,79,79
+60102,Greenbluff r,Governor,abs,D,Christine Gregoire,50,50,50
+60112,Colbert s,Governor,abs,D,Christine Gregoire,71,71,71
+60122,Colbert s,Governor,abs,D,Christine Gregoire,94,94,94
+60142,Moran s,Governor,abs,D,Christine Gregoire,103,103,103
+60152,Whitworth s,Governor,abs,D,Christine Gregoire,120,120,120
+60162,Moran s,Governor,abs,D,Christine Gregoire,103,103,103
+60182,Moran s,Governor,abs,D,Christine Gregoire,111,111,111
+60192,Moran s,Governor,abs,D,Christine Gregoire,133,133,133
+60202,Moran s,Governor,abs,D,Christine Gregoire,159,159,159
+60222,West Plains r,Governor,abs,D,Christine Gregoire,78,78,78
+60232,Whitworth s,Governor,abs,D,Christine Gregoire,119,119,119
+60242,West Plains r,Governor,abs,D,Christine Gregoire,91,91,91
+60262,West Plains r,Governor,abs,D,Christine Gregoire,22,22,22
+60272,Colbert s,Governor,abs,D,Christine Gregoire,82,82,82
+60292,Whitworth s,Governor,abs,D,Christine Gregoire,52,52,52
+60302,Whitworth s,Governor,abs,D,Christine Gregoire,96,96,96
+60312,Whitworth s,Governor,abs,D,Christine Gregoire,79,79,79
+60322,Whitworth s,Governor,abs,D,Christine Gregoire,92,92,92
+60332,Whitworth s,Governor,abs,D,Christine Gregoire,100,100,100
+60342,Whitworth s,Governor,abs,D,Christine Gregoire,56,56,56
+60352,Whitworth s,Governor,abs,D,Christine Gregoire,69,69,69
+60362,Whitworth s,Governor,abs,D,Christine Gregoire,97,97,97
+60372,Whitworth s,Governor,abs,D,Christine Gregoire,109,109,109
+60382,Whitworth s,Governor,abs,D,Christine Gregoire,89,89,89
+60392,Whitworth s,Governor,abs,D,Christine Gregoire,89,89,90
+61002,Indian Trail,Governor,abs,D,Christine Gregoire,109,109,109
+61012,Indian Trail,Governor,abs,D,Christine Gregoire,91,91,91
+61022,Indian Trail,Governor,abs,D,Christine Gregoire,95,95,95
+61032,Indian Trail,Governor,abs,D,Christine Gregoire,136,136,136
+61042,Indian Trail,Governor,abs,D,Christine Gregoire,135,135,135
+61052,Indian Trail,Governor,abs,D,Christine Gregoire,73,73,73
+61062,Civil War,Governor,abs,D,Christine Gregoire,126,126,126
+61072,Civil War,Governor,abs,D,Christine Gregoire,98,98,98
+61082,Indian Trail,Governor,abs,D,Christine Gregoire,120,120,120
+61092,Indian Trail,Governor,abs,D,Christine Gregoire,73,73,73
+61102,Indian Trail,Governor,abs,D,Christine Gregoire,73,73,73
+61112,Indian Trail,Governor,abs,D,Christine Gregoire,88,89,89
+61122,Indian Trail,Governor,abs,D,Christine Gregoire,99,99,99
+61132,Civil War,Governor,abs,D,Christine Gregoire,89,89,89
+61142,Civil War,Governor,abs,D,Christine Gregoire,93,93,93
+61152,Civil War,Governor,abs,D,Christine Gregoire,64,64,64
+61162,Civil War,Governor,abs,D,Christine Gregoire,134,134,134
+61172,Finch,Governor,abs,D,Christine Gregoire,141,141,141
+61182,Shadle Park,Governor,abs,D,Christine Gregoire,76,76,76
+61192,Shadle Park,Governor,abs,D,Christine Gregoire,159,159,159
+61202,Shadle Park,Governor,abs,D,Christine Gregoire,115,115,115
+61212,Shadle Park,Governor,abs,D,Christine Gregoire,117,117,117
+61222,Shadle Park,Governor,abs,D,Christine Gregoire,76,76,76
+61232,Shadle Park,Governor,abs,D,Christine Gregoire,145,145,145
+61242,Shadle Park,Governor,abs,D,Christine Gregoire,145,145,145
+61252,Shadle Park,Governor,abs,D,Christine Gregoire,127,127,127
+61262,Shadle Park,Governor,abs,D,Christine Gregoire,116,116,116
+61272,Shadle Park,Governor,abs,D,Christine Gregoire,154,154,154
+61282,Shadle Park,Governor,abs,D,Christine Gregoire,156,156,156
+61292,South Hill,Governor,abs,D,Christine Gregoire,79,79,79
+61302,South Hill,Governor,abs,D,Christine Gregoire,79,79,79
+61312,South Hill,Governor,abs,D,Christine Gregoire,103,103,103
+61322,South Hill,Governor,abs,D,Christine Gregoire,199,199,199
+61332,South Hill,Governor,abs,D,Christine Gregoire,169,169,169
+61352,South Hill,Governor,abs,D,Christine Gregoire,129,129,129
+61362,South Hill,Governor,abs,D,Christine Gregoire,141,141,141
+61372,South Hill,Governor,abs,D,Christine Gregoire,178,178,178
+61382,South Hill,Governor,abs,D,Christine Gregoire,85,85,85
+61392,South Hill,Governor,abs,D,Christine Gregoire,111,111,112
+61402,South Hill,Governor,abs,D,Christine Gregoire,163,163,163
+61412,South Hill,Governor,abs,D,Christine Gregoire,238,238,238
+61422,South Hill,Governor,abs,D,Christine Gregoire,170,170,170
+61432,South Hill,Governor,abs,D,Christine Gregoire,192,192,192
+61442,South Hill,Governor,abs,D,Christine Gregoire,179,179,179
+61452,South Hill,Governor,abs,D,Christine Gregoire,130,130,130
+61462,South Hill,Governor,abs,D,Christine Gregoire,135,135,135
+61472,South Hill,Governor,abs,D,Christine Gregoire,148,148,148
+61482,South Hill,Governor,abs,D,Christine Gregoire,92,92,92
+61492,South Hill,Governor,abs,D,Christine Gregoire,97,97,97
+61502,South Hill,Governor,abs,D,Christine Gregoire,46,46,46
+61512,South Hill,Governor,abs,D,Christine Gregoire,114,114,114
+64002,COSV,Governor,abs,D,Christine Gregoire,49,49,49
+70002,Greenbluff r,Governor,abs,D,Christine Gregoire,103,103,103
+70012,Greenbluff r,Governor,abs,D,Christine Gregoire,80,80,80
+70022,Greenbluff r,Governor,abs,D,Christine Gregoire,55,55,55
+70032,Greenbluff r,Governor,abs,D,Christine Gregoire,39,39,39
+70042,Greenbluff r,Governor,abs,D,Christine Gregoire,27,27,27
+70052,Greenbluff r,Governor,abs,D,Christine Gregoire,50,50,50
+70062,West Plains r,Governor,abs,D,Christine Gregoire,57,57,57
+70072,West Plains r,Governor,abs,D,Christine Gregoire,81,81,81
+70082,West Plains r,Governor,abs,D,Christine Gregoire,90,90,90
+70092,West Plains r,Governor,abs,D,Christine Gregoire,68,68,68
+70102,West Plains r,Governor,abs,D,Christine Gregoire,88,88,88
+70112,Greenbluff r,Governor,abs,D,Christine Gregoire,82,82,82
+70122,Greenbluff r,Governor,abs,D,Christine Gregoire,86,86,86
+71002,Airway Heights,Governor,abs,D,Christine Gregoire,97,97,97
+71012,Airway Heights,Governor,abs,D,Christine Gregoire,31,31,31
+72002,Fairchild,Governor,abs,D,Christine Gregoire,38,38,38
+73002,Deer Park,Governor,abs,D,Christine Gregoire,107,107,107
+73012,Deer Park,Governor,abs,D,Christine Gregoire,69,69,69
+90002,Palouse r,Governor,abs,D,Christine Gregoire,46,46,46
+90032,Palouse r,Governor,abs,D,Christine Gregoire,81,81,81
+90042,Palouse r,Governor,abs,D,Christine Gregoire,93,93,93
+90052,Palouse r,Governor,abs,D,Christine Gregoire,63,63,63
+90062,Palouse r,Governor,abs,D,Christine Gregoire,85,85,85
+90072,West Plains r,Governor,abs,D,Christine Gregoire,107,107,107
+90082,West Plains r,Governor,abs,D,Christine Gregoire,59,59,59
+90092,West Plains r,Governor,abs,D,Christine Gregoire,111,111,111
+90102,Palouse r,Governor,abs,D,Christine Gregoire,117,117,117
+90152,Palouse r,Governor,abs,D,Christine Gregoire,116,116,116
+90192,Moran s,Governor,abs,D,Christine Gregoire,81,81,81
+91002,Medical Lake,Governor,abs,D,Christine Gregoire,147,147,147
+91012,Medical Lake,Governor,abs,D,Christine Gregoire,139,139,139
+92002,Cheney,Governor,abs,D,Christine Gregoire,138,138,138
+92012,Cheney,Governor,abs,D,Christine Gregoire,137,137,137
+92022,Cheney,Governor,abs,D,Christine Gregoire,131,131,131
+92032,Cheney,Governor,abs,D,Christine Gregoire,187,187,187
+95002,Fairfield,Governor,abs,D,Christine Gregoire,42,42,42
+31001,NOE,Governor,poll,D,Christine Gregoire,202,202,202
+31011,Hillyard,Governor,poll,D,Christine Gregoire,157,157,157
+31021,NOE,Governor,poll,D,Christine Gregoire,234,234,234
+31031,Hillyard,Governor,poll,D,Christine Gregoire,188,188,188
+31041,NOE,Governor,poll,D,Christine Gregoire,204,205,205
+31051,NOE,Governor,poll,D,Christine Gregoire,225,225,225
+31061,NOE,Governor,poll,D,Christine Gregoire,225,225,225
+31071,NOE,Governor,poll,D,Christine Gregoire,244,244,244
+31081,Shadle Park,Governor,poll,D,Christine Gregoire,277,277,277
+31091,Shadle Park,Governor,poll,D,Christine Gregoire,233,233,233
+31101,Shadle Park,Governor,poll,D,Christine Gregoire,211,211,211
+31111,Shadle Park,Governor,poll,D,Christine Gregoire,243,243,243
+31121,Hillyard,Governor,poll,D,Christine Gregoire,223,223,223
+31131,Hillyard,Governor,poll,D,Christine Gregoire,141,141,141
+31141,NOE,Governor,poll,D,Christine Gregoire,80,180,180
+31151,NOE,Governor,poll,D,Christine Gregoire,209,209,209
+31161,NOE,Governor,poll,D,Christine Gregoire,227,227,227
+31171,NOE,Governor,poll,D,Christine Gregoire,228,228,228
+31181,NOE,Governor,poll,D,Christine Gregoire,228,228,228
+31191,NOE,Governor,poll,D,Christine Gregoire,265,265,265
+31201,NOE,Governor,poll,D,Christine Gregoire,247,247,247
+31211,East Central,Governor,poll,D,Christine Gregoire,246,246,246
+31221,East Central,Governor,poll,D,Christine Gregoire,191,191,191
+31231,East Central,Governor,poll,D,Christine Gregoire,194,195,195
+31241,Shadle Park,Governor,poll,D,Christine Gregoire,286,286,286
+31251,Shadle Park,Governor,poll,D,Christine Gregoire,218,218,218
+31261,Shadle Park,Governor,poll,D,Christine Gregoire,268,268,268
+31271,Shadle Park,Governor,poll,D,Christine Gregoire,341,342,343
+31281,Shadle Park,Governor,poll,D,Christine Gregoire,220,220,220
+31291,South Hill,Governor,poll,D,Christine Gregoire,312,313,313
+31301,South Hill,Governor,poll,D,Christine Gregoire,163,164,164
+31311,East Central,Governor,poll,D,Christine Gregoire,244,244,244
+31321,South Hill,Governor,poll,D,Christine Gregoire,207,207,207
+31331,South Hill,Governor,poll,D,Christine Gregoire,281,282,282
+31341,South Hill,Governor,poll,D,Christine Gregoire,329,330,330
+31351,South Hill,Governor,poll,D,Christine Gregoire,200,200,200
+31361,Shadle Park,Governor,poll,D,Christine Gregoire,205,205,205
+31371,East Central,Governor,poll,D,Christine Gregoire,193,193,193
+31381,East Central,Governor,poll,D,Christine Gregoire,231,231,231
+31391,East Central,Governor,poll,D,Christine Gregoire,200,201,201
+31401,East Central,Governor,poll,D,Christine Gregoire,297,297,297
+31411,East Central,Governor,poll,D,Christine Gregoire,244,244,244
+31421,East Central,Governor,poll,D,Christine Gregoire,323,323,323
+31431,West Central,Governor,poll,D,Christine Gregoire,240,240,240
+31441,West Central,Governor,poll,D,Christine Gregoire,218,218,218
+31451,Shadle Park,Governor,poll,D,Christine Gregoire,161,161,161
+31461,West Central,Governor,poll,D,Christine Gregoire,257,257,257
+31471,West Central,Governor,poll,D,Christine Gregoire,245,245,245
+31481,West Central,Governor,poll,D,Christine Gregoire,179,180,180
+31491,West Central,Governor,poll,D,Christine Gregoire,282,283,283
+31501,West Central,Governor,poll,D,Christine Gregoire,345,345,345
+31511,West Central,Governor,poll,D,Christine Gregoire,249,249,249
+31521,Browne's Add,Governor,poll,D,Christine Gregoire,391,391,391
+31531,Browne's Add,Governor,poll,D,Christine Gregoire,334,335,335
+31541,East Central,Governor,poll,D,Christine Gregoire,215,215,215
+31551,South Hill,Governor,poll,D,Christine Gregoire,272,272,272
+31561,South Hill,Governor,poll,D,Christine Gregoire,239,239,239
+31571,South Hill,Governor,poll,D,Christine Gregoire,321,321,321
+31581,South Hill,Governor,poll,D,Christine Gregoire,273,273,273
+31591,South Hill,Governor,poll,D,Christine Gregoire,256,256,256
+31601,South Hill,Governor,poll,D,Christine Gregoire,262,263,263
+31611,South Hill,Governor,poll,D,Christine Gregoire,211,211,211
+31621,South Hill,Governor,poll,D,Christine Gregoire,252,252,252
+31631,South Hill,Governor,poll,D,Christine Gregoire,213,213,213
+31641,South Hill,Governor,poll,D,Christine Gregoire,226,226,226
+31651,South Hill,Governor,poll,D,Christine Gregoire,255,255,255
+40001,Greenbluff r,Governor,poll,D,Christine Gregoire,206,206,206
+40011,Greenbluff r,Governor,poll,D,Christine Gregoire,247,247,247
+40021,Greenbluff r,Governor,poll,D,Christine Gregoire,272,272,272
+40031,Colbert s,Governor,poll,D,Christine Gregoire,169,169,169
+40041,Greenbluff r,Governor,poll,D,Christine Gregoire,154,154,154
+40051,Greenbluff r,Governor,poll,D,Christine Gregoire,221,221,221
+40061,Colbert s,Governor,poll,D,Christine Gregoire,183,183,183
+40071,Greenbluff r,Governor,poll,D,Christine Gregoire,121,121,121
+40083,Greenbluff r,Governor,poll,D,Christine Gregoire,141,141,141
+40091,Greenbluff r,Governor,poll,D,Christine Gregoire,140,140,140
+40101,Greenbluff r,Governor,poll,D,Christine Gregoire,88,88,88
+40111,Greenbluff r,Governor,poll,D,Christine Gregoire,206,210,210
+40121,Greenbluff r,Governor,poll,D,Christine Gregoire,171,174,173
+40131,Greenbluff r,Governor,poll,D,Christine Gregoire,98,98,98
+40143,Foothills s,Governor,vbm,D,Christine Gregoire,151,151,151
+40151,Foothills s,Governor,poll,D,Christine Gregoire,196,196,196
+40161,Foothills s,Governor,poll,D,Christine Gregoire,335,336,336
+40171,Foothills s,Governor,poll,D,Christine Gregoire,183,183,183
+40181,Otis Orchards s,Governor,poll,D,Christine Gregoire,104,104,104
+40191,Otis Orchards s,Governor,poll,D,Christine Gregoire,150,150,150
+40201,Otis Orchards s,Governor,poll,D,Christine Gregoire,168,173,173
+40211,Otis Orchards s,Governor,poll,D,Christine Gregoire,157,160,160
+40221,Otis Orchards s,Governor,poll,D,Christine Gregoire,132,135,135
+40233,Palouse r,Governor,vbm,D,Christine Gregoire,54,54,54
+40241,Palouse r,Governor,poll,D,Christine Gregoire,170,174,174
+40251,Palouse r,Governor,poll,D,Christine Gregoire,184,186,186
+40263,Palouse r,Governor,vbm,D,Christine Gregoire,84,91,91
+40271,Palouse r,Governor,poll,D,Christine Gregoire,164,172,172
+40281,Palouse r,Governor,poll,D,Christine Gregoire,221,224,224
+40291,Palouse r,Governor,poll,D,Christine Gregoire,160,161,161
+41003,NOE,Governor,vbm,D,Christine Gregoire,2,2,2
+41013,East Central,Governor,vbm,D,Christine Gregoire,51,51,51
+42001,Millwood,Governor,poll,D,Christine Gregoire,184,184,184
+42011,Millwood,Governor,poll,D,Christine Gregoire,103,105,105
+43001,Liberty Lake,Governor,poll,D,Christine Gregoire,252,257,257
+43011,Liberty Lake,Governor,poll,D,Christine Gregoire,235,237,237
+44001,COSV,Governor,poll,D,Christine Gregoire,190,190,190
+44011,COSV,Governor,poll,D,Christine Gregoire,208,208,208
+44021,COSV,Governor,poll,D,Christine Gregoire,241,243,243
+44031,COSV,Governor,poll,D,Christine Gregoire,280,281,281
+44041,COSV,Governor,poll,D,Christine Gregoire,299,302,302
+44051,COSV,Governor,poll,D,Christine Gregoire,153,153,153
+44061,COSV,Governor,poll,D,Christine Gregoire,266,274,274
+44071,COSV,Governor,poll,D,Christine Gregoire,240,242,242
+44081,COSV,Governor,poll,D,Christine Gregoire,232,234,234
+44091,COSV,Governor,poll,D,Christine Gregoire,234,241,241
+44101,COSV,Governor,poll,D,Christine Gregoire,393,399,399
+44111,COSV,Governor,poll,D,Christine Gregoire,145,145,145
+44121,COSV,Governor,poll,D,Christine Gregoire,292,296,296
+44131,COSV,Governor,poll,D,Christine Gregoire,238,238,238
+44141,COSV,Governor,poll,D,Christine Gregoire,217,217,217
+44151,COSV,Governor,poll,D,Christine Gregoire,370,371,371
+44161,COSV,Governor,poll,D,Christine Gregoire,245,245,245
+44171,COSV,Governor,poll,D,Christine Gregoire,273,274,274
+44181,COSV,Governor,poll,D,Christine Gregoire,385,391,391
+44191,COSV,Governor,poll,D,Christine Gregoire,237,237,237
+44201,COSV,Governor,poll,D,Christine Gregoire,215,215,215
+44211,COSV,Governor,poll,D,Christine Gregoire,165,165,165
+44221,COSV,Governor,poll,D,Christine Gregoire,221,221,221
+44231,COSV,Governor,poll,D,Christine Gregoire,314,314,314
+44241,COSV,Governor,poll,D,Christine Gregoire,194,195,195
+44251,COSV,Governor,poll,D,Christine Gregoire,144,144,144
+44261,COSV,Governor,poll,D,Christine Gregoire,261,261,261
+44271,COSV,Governor,poll,D,Christine Gregoire,246,246,246
+44281,COSV,Governor,poll,D,Christine Gregoire,389,389,389
+44291,COSV,Governor,poll,D,Christine Gregoire,239,239,239
+44301,COSV,Governor,poll,D,Christine Gregoire,193,193,193
+44311,COSV,Governor,poll,D,Christine Gregoire,175,176,176
+44321,COSV,Governor,poll,D,Christine Gregoire,226,226,226
+44331,COSV,Governor,poll,D,Christine Gregoire,300,301,301
+44341,COSV,Governor,poll,D,Christine Gregoire,225,225,225
+44351,COSV,Governor,poll,D,Christine Gregoire,214,213,213
+44361,COSV,Governor,poll,D,Christine Gregoire,190,191,190
+44371,COSV,Governor,poll,D,Christine Gregoire,351,351,351
+44381,COSV,Governor,poll,D,Christine Gregoire,121,121,121
+44391,COSV,Governor,poll,D,Christine Gregoire,244,245,245
+44401,COSV,Governor,poll,D,Christine Gregoire,287,287,287
+44411,COSV,Governor,poll,D,Christine Gregoire,243,243,243
+60001,Greenbluff r,Governor,poll,D,Christine Gregoire,170,170,170
+60011,Greenbluff r,Governor,poll,D,Christine Gregoire,330,330,330
+60021,Colbert s,Governor,poll,D,Christine Gregoire,153,153,153
+60031,Colbert s,Governor,poll,D,Christine Gregoire,114,114,114
+60041,Colbert s,Governor,poll,D,Christine Gregoire,249,249,249
+60051,Colbert s,Governor,poll,D,Christine Gregoire,270,270,270
+60061,Colbert s,Governor,poll,D,Christine Gregoire,191,191,191
+60071,Colbert s,Governor,poll,D,Christine Gregoire,129,129,129
+60083,Colbert s,Governor,vbm,D,Christine Gregoire,96,96,96
+60091,Greenbluff r,Governor,poll,D,Christine Gregoire,305,306,306
+60101,Greenbluff r,Governor,poll,D,Christine Gregoire,214,214,214
+60111,Colbert s,Governor,poll,D,Christine Gregoire,137,137,137
+60121,Colbert s,Governor,poll,D,Christine Gregoire,189,189,189
+60141,Moran s,Governor,poll,D,Christine Gregoire,263,263,263
+60151,Whitworth s,Governor,poll,D,Christine Gregoire,258,258,258
+60161,Moran s,Governor,poll,D,Christine Gregoire,247,247,247
+60173,West Plains r,Governor,vbm,D,Christine Gregoire,26,26,26
+60181,Moran s,Governor,poll,D,Christine Gregoire,287,287,287
+60191,Moran s,Governor,poll,D,Christine Gregoire,234,234,234
+60201,Moran s,Governor,poll,D,Christine Gregoire,351,351,351
+60213,Palouse r,Governor,vbm,D,Christine Gregoire,16,16,16
+60221,West Plains r,Governor,poll,D,Christine Gregoire,185,185,185
+60231,Whitworth s,Governor,poll,D,Christine Gregoire,231,232,232
+60241,West Plains r,Governor,poll,D,Christine Gregoire,221,222,222
+60253,West Plains r,Governor,vbm,D,Christine Gregoire,68,68,68
+60261,West Plains r,Governor,poll,D,Christine Gregoire,143,143,143
+60271,Colbert s,Governor,poll,D,Christine Gregoire,180,180,180
+60283,Whitworth s,Governor,vbm,D,Christine Gregoire,39,39,39
+60291,Whitworth s,Governor,poll,D,Christine Gregoire,125,125,125
+60301,Whitworth s,Governor,poll,D,Christine Gregoire,133,133,133
+60311,Whitworth s,Governor,poll,D,Christine Gregoire,174,174,174
+60321,Whitworth s,Governor,poll,D,Christine Gregoire,189,189,189
+60331,Whitworth s,Governor,poll,D,Christine Gregoire,156,156,156
+60341,Whitworth s,Governor,poll,D,Christine Gregoire,150,150,150
+60351,Whitworth s,Governor,poll,D,Christine Gregoire,181,181,181
+60361,Whitworth s,Governor,poll,D,Christine Gregoire,203,203,203
+60371,Whitworth s,Governor,poll,D,Christine Gregoire,211,211,211
+60381,Whitworth s,Governor,poll,D,Christine Gregoire,197,197,197
+60391,Whitworth s,Governor,poll,D,Christine Gregoire,191,191,191
+61001,Indian Trail,Governor,poll,D,Christine Gregoire,282,282,282
+61011,Indian Trail,Governor,poll,D,Christine Gregoire,257,257,257
+61021,Indian Trail,Governor,poll,D,Christine Gregoire,177,177,177
+61031,Indian Trail,Governor,poll,D,Christine Gregoire,222,222,222
+61041,Indian Trail,Governor,poll,D,Christine Gregoire,272,273,273
+61051,Indian Trail,Governor,poll,D,Christine Gregoire,311,310,310
+61061,Civil War,Governor,poll,D,Christine Gregoire,327,328,328
+61071,Civil War,Governor,poll,D,Christine Gregoire,184,184,184
+61081,Indian Trail,Governor,poll,D,Christine Gregoire,224,224,224
+61091,Indian Trail,Governor,poll,D,Christine Gregoire,221,221,221
+61101,Indian Trail,Governor,poll,D,Christine Gregoire,242,242,242
+61111,Indian Trail,Governor,poll,D,Christine Gregoire,247,247,247
+61121,Indian Trail,Governor,poll,D,Christine Gregoire,332,332,332
+61131,Civil War,Governor,poll,D,Christine Gregoire,221,221,221
+61141,Civil War,Governor,poll,D,Christine Gregoire,259,259,259
+61151,Civil War,Governor,poll,D,Christine Gregoire,182,182,182
+61161,Civil War,Governor,poll,D,Christine Gregoire,568,568,568
+61171,Finch,Governor,poll,D,Christine Gregoire,284,284,284
+61181,Shadle Park,Governor,poll,D,Christine Gregoire,242,243,243
+61191,Shadle Park,Governor,poll,D,Christine Gregoire,314,314,314
+61201,Shadle Park,Governor,poll,D,Christine Gregoire,299,299,299
+61211,Shadle Park,Governor,poll,D,Christine Gregoire,230,230,230
+61221,Shadle Park,Governor,poll,D,Christine Gregoire,180,180,180
+61231,Shadle Park,Governor,poll,D,Christine Gregoire,288,288,288
+61241,Shadle Park,Governor,poll,D,Christine Gregoire,223,223,223
+61251,Shadle Park,Governor,poll,D,Christine Gregoire,280,279,279
+61261,Shadle Park,Governor,poll,D,Christine Gregoire,282,282,282
+61271,Shadle Park,Governor,poll,D,Christine Gregoire,257,257,257
+61281,Shadle Park,Governor,poll,D,Christine Gregoire,305,305,305
+61291,South Hill,Governor,poll,D,Christine Gregoire,297,297,297
+61301,South Hill,Governor,poll,D,Christine Gregoire,182,182,182
+61311,South Hill,Governor,poll,D,Christine Gregoire,144,144,144
+61321,South Hill,Governor,poll,D,Christine Gregoire,336,336,336
+61331,South Hill,Governor,poll,D,Christine Gregoire,279,279,279
+61343,Shadle Park,Governor,vbm,D,Christine Gregoire,78,78,78
+61351,South Hill,Governor,poll,D,Christine Gregoire,253,253,253
+61361,South Hill,Governor,poll,D,Christine Gregoire,398,398,398
+61371,South Hill,Governor,poll,D,Christine Gregoire,436,436,436
+61381,South Hill,Governor,poll,D,Christine Gregoire,297,297,298
+61391,South Hill,Governor,poll,D,Christine Gregoire,221,221,221
+61401,South Hill,Governor,poll,D,Christine Gregoire,330,330,330
+61411,South Hill,Governor,poll,D,Christine Gregoire,356,356,356
+61421,South Hill,Governor,poll,D,Christine Gregoire,249,249,249
+61431,South Hill,Governor,poll,D,Christine Gregoire,225,225,225
+61441,South Hill,Governor,poll,D,Christine Gregoire,358,358,358
+61451,South Hill,Governor,poll,D,Christine Gregoire,292,292,292
+61461,South Hill,Governor,poll,D,Christine Gregoire,285,285,285
+61471,South Hill,Governor,poll,D,Christine Gregoire,280,280,280
+61481,South Hill,Governor,poll,D,Christine Gregoire,232,232,232
+61491,South Hill,Governor,poll,D,Christine Gregoire,224,224,224
+61501,South Hill,Governor,poll,D,Christine Gregoire,110,110,110
+61511,South Hill,Governor,poll,D,Christine Gregoire,373,373,373
+64001,COSV,Governor,poll,D,Christine Gregoire,178,178,178
+70001,Greenbluff r,Governor,poll,D,Christine Gregoire,199,200,200
+70011,Greenbluff r,Governor,poll,D,Christine Gregoire,238,238,238
+70021,Greenbluff r,Governor,poll,D,Christine Gregoire,150,150,150
+70031,Greenbluff r,Governor,poll,D,Christine Gregoire,95,95,95
+70041,Greenbluff r,Governor,poll,D,Christine Gregoire,145,145,145
+70051,Greenbluff r,Governor,poll,D,Christine Gregoire,161,161,161
+70061,West Plains r,Governor,poll,D,Christine Gregoire,146,146,146
+70071,West Plains r,Governor,poll,D,Christine Gregoire,220,220,220
+70081,West Plains r,Governor,poll,D,Christine Gregoire,254,254,254
+70091,West Plains r,Governor,poll,D,Christine Gregoire,131,131,131
+70101,West Plains r,Governor,poll,D,Christine Gregoire,221,221,221
+70111,Greenbluff r,Governor,poll,D,Christine Gregoire,194,194,194
+70121,Greenbluff r,Governor,poll,D,Christine Gregoire,152,152,152
+71001,Airway Heights,Governor,poll,D,Christine Gregoire,123,123,123
+71011,Airway Heights,Governor,poll,D,Christine Gregoire,59,59,59
+72001,Fairchild,Governor,poll,D,Christine Gregoire,100,100,100
+73001,Deer Park,Governor,poll,D,Christine Gregoire,187,187,187
+73011,Deer Park,Governor,poll,D,Christine Gregoire,129,129,129
+90001,Palouse r,Governor,poll,D,Christine Gregoire,92,92,92
+90013,Palouse r,Governor,vbm,D,Christine Gregoire,113,113,113
+90023,Palouse r,Governor,vbm,D,Christine Gregoire,27,27,27
+90031,Palouse r,Governor,poll,D,Christine Gregoire,283,283,283
+90041,Palouse r,Governor,poll,D,Christine Gregoire,157,157,157
+90051,Palouse r,Governor,poll,D,Christine Gregoire,235,235,235
+90061,Palouse r,Governor,poll,D,Christine Gregoire,168,168,168
+90071,West Plains r,Governor,poll,D,Christine Gregoire,237,237,237
+90081,West Plains r,Governor,poll,D,Christine Gregoire,181,181,181
+90091,West Plains r,Governor,poll,D,Christine Gregoire,206,206,206
+90101,Palouse r,Governor,poll,D,Christine Gregoire,179,179,179
+90113,Palouse r,Governor,vbm,D,Christine Gregoire,123,123,123
+90123,Palouse r,Governor,vbm,D,Christine Gregoire,42,42,42
+90133,Palouse r,Governor,vbm,D,Christine Gregoire,65,65,65
+90143,Palouse r,Governor,vbm,D,Christine Gregoire,91,91,91
+90151,Palouse r,Governor,poll,D,Christine Gregoire,197,197,197
+90163,Palouse r,Governor,vbm,D,Christine Gregoire,37,37,37
+90173,Palouse r,Governor,vbm,D,Christine Gregoire,51,51,51
+90183,Palouse r,Governor,vbm,D,Christine Gregoire,110,110,110
+90191,Moran s,Governor,poll,D,Christine Gregoire,163,163,163
+90203,Palouse r,Governor,vbm,D,Christine Gregoire,39,39,39
+91001,Medical Lake,Governor,poll,D,Christine Gregoire,202,203,203
+91011,Medical Lake,Governor,poll,D,Christine Gregoire,184,184,184
+92001,Cheney,Governor,poll,D,Christine Gregoire,161,161,161
+92011,Cheney,Governor,poll,D,Christine Gregoire,260,260,260
+92021,Cheney,Governor,poll,D,Christine Gregoire,200,200,200
+92031,Cheney,Governor,poll,D,Christine Gregoire,301,301,301
+93003,Spangle,Governor,vbm,D,Christine Gregoire,49,49,49
+94003,Waverly,Governor,vbm,D,Christine Gregoire,23,23,23
+95001,Fairfield,Governor,poll,D,Christine Gregoire,52,52,52
+96003,Latah,Governor,vbm,D,Christine Gregoire,36,36,36
+97003,Rockford,Governor,vbm,D,Christine Gregoire,80,80,80
+31004,NOE,Governor,prov,D,Christine Gregoire,9,9,9
+31014,Hillyard,Governor,prov,D,Christine Gregoire,14,14,14
+31024,NOE,Governor,prov,D,Christine Gregoire,11,11,11
+31034,Hillyard,Governor,prov,D,Christine Gregoire,5,5,5
+31044,NOE,Governor,prov,D,Christine Gregoire,2,2,2
+31054,NOE,Governor,prov,D,Christine Gregoire,2,2,2
+31064,NOE,Governor,prov,D,Christine Gregoire,26,26,26
+31074,NOE,Governor,prov,D,Christine Gregoire,8,8,8
+31084,Shadle Park,Governor,prov,D,Christine Gregoire,3,3,3
+31094,Shadle Park,Governor,prov,D,Christine Gregoire,1,1,1
+31104,Shadle Park,Governor,prov,D,Christine Gregoire,4,4,4
+31114,Shadle Park,Governor,prov,D,Christine Gregoire,5,5,5
+31124,Hillyard,Governor,prov,D,Christine Gregoire,25,25,25
+31134,Hillyard,Governor,prov,D,Christine Gregoire,1,1,1
+31144,NOE,Governor,prov,D,Christine Gregoire,10,10,10
+31154,NOE,Governor,prov,D,Christine Gregoire,10,10,10
+31164,NOE,Governor,prov,D,Christine Gregoire,2,2,2
+31174,NOE,Governor,prov,D,Christine Gregoire,6,6,6
+31184,NOE,Governor,prov,D,Christine Gregoire,9,9,9
+31194,NOE,Governor,prov,D,Christine Gregoire,8,8,8
+31204,NOE,Governor,prov,D,Christine Gregoire,12,12,12
+31214,East Central,Governor,prov,D,Christine Gregoire,2,2,2
+31224,East Central,Governor,prov,D,Christine Gregoire,1,1,1
+31234,East Central,Governor,prov,D,Christine Gregoire,12,12,12
+31244,Shadle Park,Governor,prov,D,Christine Gregoire,20,20,20
+31254,Shadle Park,Governor,prov,D,Christine Gregoire,10,10,10
+31264,Shadle Park,Governor,prov,D,Christine Gregoire,11,11,11
+31274,Shadle Park,Governor,prov,D,Christine Gregoire,9,9,9
+31284,Shadle Park,Governor,prov,D,Christine Gregoire,11,11,11
+31294,South Hill,Governor,prov,D,Christine Gregoire,26,26,26
+31304,South Hill,Governor,prov,D,Christine Gregoire,13,13,13
+31314,East Central,Governor,prov,D,Christine Gregoire,18,18,18
+31324,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+31334,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+31344,South Hill,Governor,prov,D,Christine Gregoire,25,25,25
+31354,South Hill,Governor,prov,D,Christine Gregoire,14,14,14
+31364,Shadle Park,Governor,prov,D,Christine Gregoire,5,5,5
+31374,East Central,Governor,prov,D,Christine Gregoire,7,7,7
+31384,East Central,Governor,prov,D,Christine Gregoire,11,11,11
+31394,East Central,Governor,prov,D,Christine Gregoire,8,8,8
+31404,East Central,Governor,prov,D,Christine Gregoire,3,3,3
+31414,East Central,Governor,prov,D,Christine Gregoire,7,7,7
+31424,East Central,Governor,prov,D,Christine Gregoire,13,13,13
+31434,West Central,Governor,prov,D,Christine Gregoire,7,7,7
+31444,West Central,Governor,prov,D,Christine Gregoire,20,20,20
+31454,Shadle Park,Governor,prov,D,Christine Gregoire,2,2,2
+31464,West Central,Governor,prov,D,Christine Gregoire,34,34,34
+31474,West Central,Governor,prov,D,Christine Gregoire,1,1,1
+31484,West Central,Governor,prov,D,Christine Gregoire,0,0,0
+31494,West Central,Governor,prov,D,Christine Gregoire,26,26,26
+31504,West Central,Governor,prov,D,Christine Gregoire,3,3,3
+31514,West Central,Governor,prov,D,Christine Gregoire,5,5,5
+31524,Browne's Add,Governor,prov,D,Christine Gregoire,21,21,21
+31534,Browne's Add,Governor,prov,D,Christine Gregoire,13,13,13
+31544,East Central,Governor,prov,D,Christine Gregoire,14,14,14
+31554,South Hill,Governor,prov,D,Christine Gregoire,30,30,30
+31564,South Hill,Governor,prov,D,Christine Gregoire,2,2,2
+31574,South Hill,Governor,prov,D,Christine Gregoire,0,0,0
+31584,South Hill,Governor,prov,D,Christine Gregoire,27,27,27
+31594,South Hill,Governor,prov,D,Christine Gregoire,4,4,4
+31604,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+31614,South Hill,Governor,prov,D,Christine Gregoire,15,15,15
+31624,South Hill,Governor,prov,D,Christine Gregoire,2,2,2
+31634,South Hill,Governor,prov,D,Christine Gregoire,1,1,1
+31644,South Hill,Governor,prov,D,Christine Gregoire,1,1,1
+31654,South Hill,Governor,prov,D,Christine Gregoire,22,22,22
+40004,Greenbluff r,Governor,prov,D,Christine Gregoire,10,10,10
+40014,Greenbluff r,Governor,prov,D,Christine Gregoire,0,0,0
+40024,Greenbluff r,Governor,prov,D,Christine Gregoire,5,5,5
+40034,Colbert s,Governor,prov,D,Christine Gregoire,3,3,3
+40044,Greenbluff r,Governor,prov,D,Christine Gregoire,4,4,4
+40054,Greenbluff r,Governor,prov,D,Christine Gregoire,15,15,15
+40064,Colbert s,Governor,prov,D,Christine Gregoire,1,1,1
+40074,Greenbluff r,Governor,prov,D,Christine Gregoire,3,3,3
+40094,Greenbluff r,Governor,prov,D,Christine Gregoire,4,4,4
+40104,Greenbluff r,Governor,prov,D,Christine Gregoire,0,0,0
+40114,Greenbluff r,Governor,prov,D,Christine Gregoire,3,3,3
+40124,Greenbluff r,Governor,prov,D,Christine Gregoire,4,4,4
+40134,Greenbluff r,Governor,prov,D,Christine Gregoire,3,3,3
+40154,Foothills s,Governor,prov,D,Christine Gregoire,2,2,2
+40164,Foothills s,Governor,prov,D,Christine Gregoire,9,9,9
+40174,Foothills s,Governor,prov,D,Christine Gregoire,2,2,2
+40184,Otis Orchards s,Governor,prov,D,Christine Gregoire,15,15,15
+40194,Otis Orchards s,Governor,prov,D,Christine Gregoire,20,20,20
+40204,Otis Orchards s,Governor,prov,D,Christine Gregoire,10,10,10
+40214,Otis Orchards s,Governor,prov,D,Christine Gregoire,3,3,3
+40224,Otis Orchards s,Governor,prov,D,Christine Gregoire,4,4,4
+40244,Palouse r,Governor,prov,D,Christine Gregoire,3,3,3
+40254,Palouse r,Governor,prov,D,Christine Gregoire,7,7,7
+40274,Palouse r,Governor,prov,D,Christine Gregoire,2,2,2
+40284,Palouse r,Governor,prov,D,Christine Gregoire,4,4,4
+40294,Palouse r,Governor,prov,D,Christine Gregoire,4,4,4
+42004,Millwood,Governor,prov,D,Christine Gregoire,5,5,5
+42014,Millwood,Governor,prov,D,Christine Gregoire,7,7,7
+43004,Liberty Lake,Governor,prov,D,Christine Gregoire,5,5,5
+43014,Liberty Lake,Governor,prov,D,Christine Gregoire,5,5,5
+44004,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44014,COSV,Governor,prov,D,Christine Gregoire,2,2,2
+44024,COSV,Governor,prov,D,Christine Gregoire,7,7,7
+44034,COSV,Governor,prov,D,Christine Gregoire,9,9,9
+44044,COSV,Governor,prov,D,Christine Gregoire,7,7,7
+44054,COSV,Governor,prov,D,Christine Gregoire,0,0,0
+44064,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44074,COSV,Governor,prov,D,Christine Gregoire,6,6,6
+44084,COSV,Governor,prov,D,Christine Gregoire,5,5,5
+44094,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44104,COSV,Governor,prov,D,Christine Gregoire,9,9,9
+44124,COSV,Governor,prov,D,Christine Gregoire,10,10,10
+44134,COSV,Governor,prov,D,Christine Gregoire,12,12,12
+44144,COSV,Governor,prov,D,Christine Gregoire,9,9,9
+44154,COSV,Governor,prov,D,Christine Gregoire,8,8,8
+44164,COSV,Governor,prov,D,Christine Gregoire,14,14,14
+44174,COSV,Governor,prov,D,Christine Gregoire,23,23,23
+44184,COSV,Governor,prov,D,Christine Gregoire,13,13,13
+44194,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44204,COSV,Governor,prov,D,Christine Gregoire,15,15,15
+44214,COSV,Governor,prov,D,Christine Gregoire,2,2,2
+44224,COSV,Governor,prov,D,Christine Gregoire,1,1,1
+44234,COSV,Governor,prov,D,Christine Gregoire,2,2,2
+44244,COSV,Governor,prov,D,Christine Gregoire,1,1,1
+44254,COSV,Governor,prov,D,Christine Gregoire,0,0,0
+44264,COSV,Governor,prov,D,Christine Gregoire,8,8,8
+44274,COSV,Governor,prov,D,Christine Gregoire,3,3,3
+44284,COSV,Governor,prov,D,Christine Gregoire,10,10,10
+44294,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44304,COSV,Governor,prov,D,Christine Gregoire,13,13,13
+44314,COSV,Governor,prov,D,Christine Gregoire,12,12,12
+44324,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44334,COSV,Governor,prov,D,Christine Gregoire,1,1,1
+44344,COSV,Governor,prov,D,Christine Gregoire,22,22,22
+44354,COSV,Governor,prov,D,Christine Gregoire,7,7,7
+44364,COSV,Governor,prov,D,Christine Gregoire,13,13,13
+44374,COSV,Governor,prov,D,Christine Gregoire,4,4,4
+44384,COSV,Governor,prov,D,Christine Gregoire,0,0,0
+44394,COSV,Governor,prov,D,Christine Gregoire,5,5,5
+44404,COSV,Governor,prov,D,Christine Gregoire,13,13,13
+44414,COSV,Governor,prov,D,Christine Gregoire,5,5,5
+60004,Greenbluff r,Governor,prov,D,Christine Gregoire,0,0,0
+60014,Greenbluff r,Governor,prov,D,Christine Gregoire,4,4,4
+60024,Colbert s,Governor,prov,D,Christine Gregoire,6,6,6
+60034,Colbert s,Governor,prov,D,Christine Gregoire,7,7,7
+60044,Colbert s,Governor,prov,D,Christine Gregoire,2,2,2
+60054,Colbert s,Governor,prov,D,Christine Gregoire,2,2,2
+60064,Colbert s,Governor,prov,D,Christine Gregoire,4,4,4
+60074,Colbert s,Governor,prov,D,Christine Gregoire,7,7,7
+60094,Greenbluff r,Governor,prov,D,Christine Gregoire,6,6,6
+60104,Greenbluff r,Governor,prov,D,Christine Gregoire,5,5,5
+60114,Colbert s,Governor,prov,D,Christine Gregoire,2,2,2
+60124,Colbert s,Governor,prov,D,Christine Gregoire,4,4,4
+60144,Moran s,Governor,prov,D,Christine Gregoire,4,4,4
+60154,Whitworth s,Governor,prov,D,Christine Gregoire,11,12,12
+60164,Moran s,Governor,prov,D,Christine Gregoire,5,5,5
+60184,Moran s,Governor,prov,D,Christine Gregoire,6,6,6
+60194,Moran s,Governor,prov,D,Christine Gregoire,4,4,4
+60204,Moran s,Governor,prov,D,Christine Gregoire,3,3,3
+60224,West Plains r,Governor,prov,D,Christine Gregoire,3,3,3
+60234,Whitworth s,Governor,prov,D,Christine Gregoire,5,5,5
+60244,West Plains r,Governor,prov,D,Christine Gregoire,3,3,3
+60264,West Plains r,Governor,prov,D,Christine Gregoire,2,2,2
+60274,Colbert s,Governor,prov,D,Christine Gregoire,3,3,3
+60294,Whitworth s,Governor,prov,D,Christine Gregoire,3,3,3
+60304,Whitworth s,Governor,prov,D,Christine Gregoire,3,3,3
+60314,Whitworth s,Governor,prov,D,Christine Gregoire,6,6,6
+60324,Whitworth s,Governor,prov,D,Christine Gregoire,1,1,1
+60334,Whitworth s,Governor,prov,D,Christine Gregoire,2,2,2
+60344,Whitworth s,Governor,prov,D,Christine Gregoire,5,5,5
+60354,Whitworth s,Governor,prov,D,Christine Gregoire,7,7,7
+60364,Whitworth s,Governor,prov,D,Christine Gregoire,2,2,2
+60374,Whitworth s,Governor,prov,D,Christine Gregoire,7,7,7
+60384,Whitworth s,Governor,prov,D,Christine Gregoire,0,0,0
+60394,Whitworth s,Governor,prov,D,Christine Gregoire,4,4,4
+61004,Indian Trail,Governor,prov,D,Christine Gregoire,4,4,4
+61014,Indian Trail,Governor,prov,D,Christine Gregoire,3,3,3
+61024,Indian Trail,Governor,prov,D,Christine Gregoire,0,0,0
+61034,Indian Trail,Governor,prov,D,Christine Gregoire,2,2,2
+61044,Indian Trail,Governor,prov,D,Christine Gregoire,2,2,2
+61054,Indian Trail,Governor,prov,D,Christine Gregoire,2,2,2
+61064,Civil War,Governor,prov,D,Christine Gregoire,12,12,12
+61074,Civil War,Governor,prov,D,Christine Gregoire,2,2,2
+61084,Indian Trail,Governor,prov,D,Christine Gregoire,3,3,3
+61094,Indian Trail,Governor,prov,D,Christine Gregoire,2,2,2
+61104,Indian Trail,Governor,prov,D,Christine Gregoire,3,3,3
+61114,Indian Trail,Governor,prov,D,Christine Gregoire,1,1,1
+61124,Indian Trail,Governor,prov,D,Christine Gregoire,2,2,2
+61134,Civil War,Governor,prov,D,Christine Gregoire,4,4,4
+61144,Civil War,Governor,prov,D,Christine Gregoire,12,12,12
+61154,Civil War,Governor,prov,D,Christine Gregoire,4,4,4
+61164,Civil War,Governor,prov,D,Christine Gregoire,13,13,13
+61174,Finch,Governor,prov,D,Christine Gregoire,6,6,6
+61184,Shadle Park,Governor,prov,D,Christine Gregoire,3,3,3
+61194,Shadle Park,Governor,prov,D,Christine Gregoire,9,9,9
+61204,Shadle Park,Governor,prov,D,Christine Gregoire,2,2,2
+61214,Shadle Park,Governor,prov,D,Christine Gregoire,6,6,6
+61224,Shadle Park,Governor,prov,D,Christine Gregoire,2,2,2
+61234,Shadle Park,Governor,prov,D,Christine Gregoire,21,21,21
+61244,Shadle Park,Governor,prov,D,Christine Gregoire,6,5,6
+61254,Shadle Park,Governor,prov,D,Christine Gregoire,8,8,8
+61264,Shadle Park,Governor,prov,D,Christine Gregoire,9,9,9
+61274,Shadle Park,Governor,prov,D,Christine Gregoire,8,8,8
+61284,Shadle Park,Governor,prov,D,Christine Gregoire,7,7,7
+61294,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+61304,South Hill,Governor,prov,D,Christine Gregoire,1,1,1
+61314,South Hill,Governor,prov,D,Christine Gregoire,7,7,7
+61324,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+61334,South Hill,Governor,prov,D,Christine Gregoire,9,9,9
+61354,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+61364,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+61374,South Hill,Governor,prov,D,Christine Gregoire,4,4,4
+61384,South Hill,Governor,prov,D,Christine Gregoire,4,4,4
+61394,South Hill,Governor,prov,D,Christine Gregoire,4,4,4
+61404,South Hill,Governor,prov,D,Christine Gregoire,9,9,9
+61414,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+61424,South Hill,Governor,prov,D,Christine Gregoire,2,2,2
+61434,South Hill,Governor,prov,D,Christine Gregoire,6,6,6
+61444,South Hill,Governor,prov,D,Christine Gregoire,11,11,11
+61454,South Hill,Governor,prov,D,Christine Gregoire,4,4,4
+61464,South Hill,Governor,prov,D,Christine Gregoire,2,2,2
+61474,South Hill,Governor,prov,D,Christine Gregoire,7,7,7
+61484,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+61494,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+61504,South Hill,Governor,prov,D,Christine Gregoire,3,3,3
+61514,South Hill,Governor,prov,D,Christine Gregoire,20,20,20
+64004,COSV,Governor,prov,D,Christine Gregoire,0,0,0
+70004,Greenbluff r,Governor,prov,D,Christine Gregoire,5,5,5
+70014,Greenbluff r,Governor,prov,D,Christine Gregoire,2,2,2
+70024,Greenbluff r,Governor,prov,D,Christine Gregoire,3,3,3
+70034,Greenbluff r,Governor,prov,D,Christine Gregoire,0,0,0
+70044,Greenbluff r,Governor,prov,D,Christine Gregoire,0,0,0
+70054,Greenbluff r,Governor,prov,D,Christine Gregoire,2,2,2
+70064,West Plains r,Governor,prov,D,Christine Gregoire,4,4,4
+70074,West Plains r,Governor,prov,D,Christine Gregoire,4,4,4
+70084,West Plains r,Governor,prov,D,Christine Gregoire,4,4,4
+70094,West Plains r,Governor,prov,D,Christine Gregoire,7,7,7
+70104,West Plains r,Governor,prov,D,Christine Gregoire,7,7,7
+70114,Greenbluff r,Governor,prov,D,Christine Gregoire,3,3,3
+70124,Greenbluff r,Governor,prov,D,Christine Gregoire,5,5,5
+71004,Airway Heights,Governor,prov,D,Christine Gregoire,13,13,13
+71014,Airway Heights,Governor,prov,D,Christine Gregoire,3,3,3
+72004,Fairchild,Governor,prov,D,Christine Gregoire,6,6,6
+73004,Deer Park,Governor,prov,D,Christine Gregoire,2,2,2
+73014,Deer Park,Governor,prov,D,Christine Gregoire,6,6,6
+90004,Palouse r,Governor,prov,D,Christine Gregoire,3,3,3
+90034,Palouse r,Governor,prov,D,Christine Gregoire,4,4,4
+90044,Palouse r,Governor,prov,D,Christine Gregoire,6,6,6
+90054,Palouse r,Governor,prov,D,Christine Gregoire,3,3,3
+90064,Palouse r,Governor,prov,D,Christine Gregoire,1,1,1
+90074,West Plains r,Governor,prov,D,Christine Gregoire,6,6,6
+90084,West Plains r,Governor,prov,D,Christine Gregoire,5,5,5
+90094,West Plains r,Governor,prov,D,Christine Gregoire,8,8,8
+90104,Palouse r,Governor,prov,D,Christine Gregoire,1,1,1
+90154,Palouse r,Governor,prov,D,Christine Gregoire,1,1,1
+90194,Moran s,Governor,prov,D,Christine Gregoire,3,3,3
+91004,Medical Lake,Governor,prov,D,Christine Gregoire,5,5,5
+91014,Medical Lake,Governor,prov,D,Christine Gregoire,4,4,4
+92004,Cheney,Governor,prov,D,Christine Gregoire,6,6,6
+92014,Cheney,Governor,prov,D,Christine Gregoire,5,5,5
+92024,Cheney,Governor,prov,D,Christine Gregoire,10,10,10
+92034,Cheney,Governor,prov,D,Christine Gregoire,14,14,14
+95004,Fairfield,Governor,prov,D,Christine Gregoire,2,2,2
+SPOKANE WA,SPOKANE WA,Governor,prov,D,Christine Gregoire,90352,90573,90581
+precinct,area,office,district,party,candidate,total,machine,hand
+31002,NOE,Governor,abs,R,Dino Rossi,90,90,90
+31012,Hillyard,Governor,abs,R,Dino Rossi,72,72,72
+31022,NOE,Governor,abs,R,Dino Rossi,75,75,75
+31032,Hillyard,Governor,abs,R,Dino Rossi,78,78,78
+31042,NOE,Governor,abs,R,Dino Rossi,107,108,108
+31052,NOE,Governor,abs,R,Dino Rossi,99,99,99
+31062,NOE,Governor,abs,R,Dino Rossi,74,74,74
+31072,NOE,Governor,abs,R,Dino Rossi,103,103,103
+31082,Shadle Park,Governor,abs,R,Dino Rossi,170,170,170
+31092,Shadle Park,Governor,abs,R,Dino Rossi,128,128,128
+31102,Shadle Park,Governor,abs,R,Dino Rossi,120,120,121
+31112,Shadle Park,Governor,abs,R,Dino Rossi,131,131,131
+31122,Hillyard,Governor,abs,R,Dino Rossi,103,103,103
+31132,Hillyard,Governor,abs,R,Dino Rossi,58,58,58
+31142,NOE,Governor,abs,R,Dino Rossi,88,88,88
+31152,NOE,Governor,abs,R,Dino Rossi,96,96,96
+31162,NOE,Governor,abs,R,Dino Rossi,98,98,98
+31172,NOE,Governor,abs,R,Dino Rossi,92,92,92
+31182,NOE,Governor,abs,R,Dino Rossi,105,105,105
+31192,NOE,Governor,abs,R,Dino Rossi,129,129,129
+31202,NOE,Governor,abs,R,Dino Rossi,102,102,102
+31212,East Central,Governor,abs,R,Dino Rossi,123,123,123
+31222,East Central,Governor,abs,R,Dino Rossi,113,113,112
+31232,East Central,Governor,abs,R,Dino Rossi,83,83,83
+31242,Shadle Park,Governor,abs,R,Dino Rossi,131,131,131
+31252,Shadle Park,Governor,abs,R,Dino Rossi,107,107,107
+31262,Shadle Park,Governor,abs,R,Dino Rossi,144,144,144
+31272,Shadle Park,Governor,abs,R,Dino Rossi,179,179,179
+31282,Shadle Park,Governor,abs,R,Dino Rossi,102,102,102
+31292,South Hill,Governor,abs,R,Dino Rossi,117,117,117
+31302,South Hill,Governor,abs,R,Dino Rossi,67,67,67
+31312,East Central,Governor,abs,R,Dino Rossi,96,96,96
+31322,South Hill,Governor,abs,R,Dino Rossi,120,120,120
+31332,South Hill,Governor,abs,R,Dino Rossi,88,88,88
+31342,South Hill,Governor,abs,R,Dino Rossi,107,107,107
+31352,South Hill,Governor,abs,R,Dino Rossi,68,68,68
+31362,Shadle Park,Governor,abs,R,Dino Rossi,100,100,100
+31372,East Central,Governor,abs,R,Dino Rossi,102,102,102
+31382,East Central,Governor,abs,R,Dino Rossi,111,111,111
+31392,East Central,Governor,abs,R,Dino Rossi,80,80,80
+31402,East Central,Governor,abs,R,Dino Rossi,85,85,85
+31412,East Central,Governor,abs,R,Dino Rossi,89,89,89
+31422,East Central,Governor,abs,R,Dino Rossi,70,70,70
+31432,West Central,Governor,abs,R,Dino Rossi,133,133,133
+31442,West Central,Governor,abs,R,Dino Rossi,122,122,122
+31452,Shadle Park,Governor,abs,R,Dino Rossi,97,97,97
+31462,West Central,Governor,abs,R,Dino Rossi,128,128,128
+31472,West Central,Governor,abs,R,Dino Rossi,102,102,102
+31482,West Central,Governor,abs,R,Dino Rossi,88,88,88
+31492,West Central,Governor,abs,R,Dino Rossi,101,101,101
+31502,West Central,Governor,abs,R,Dino Rossi,124,124,124
+31512,West Central,Governor,abs,R,Dino Rossi,111,111,111
+31522,Browne's Add,Governor,abs,R,Dino Rossi,146,146,146
+31532,Browne's Add,Governor,abs,R,Dino Rossi,50,50,50
+31542,East Central,Governor,abs,R,Dino Rossi,44,44,44
+31552,South Hill,Governor,abs,R,Dino Rossi,170,170,170
+31562,South Hill,Governor,abs,R,Dino Rossi,185,185,185
+31572,South Hill,Governor,abs,R,Dino Rossi,174,174,174
+31582,South Hill,Governor,abs,R,Dino Rossi,156,156,156
+31592,South Hill,Governor,abs,R,Dino Rossi,96,96,96
+31602,South Hill,Governor,abs,R,Dino Rossi,158,158,158
+31612,South Hill,Governor,abs,R,Dino Rossi,108,108,108
+31622,South Hill,Governor,abs,R,Dino Rossi,63,63,63
+31632,South Hill,Governor,abs,R,Dino Rossi,78,78,78
+31642,South Hill,Governor,abs,R,Dino Rossi,85,85,85
+31652,South Hill,Governor,abs,R,Dino Rossi,78,78,78
+40002,Greenbluff r,Governor,abs,R,Dino Rossi,143,143,143
+40012,Greenbluff r,Governor,abs,R,Dino Rossi,183,183,183
+40022,Greenbluff r,Governor,abs,R,Dino Rossi,245,245,245
+40032,Colbert s,Governor,abs,R,Dino Rossi,205,205,205
+40042,Greenbluff r,Governor,abs,R,Dino Rossi,128,128,128
+40052,Greenbluff r,Governor,abs,R,Dino Rossi,206,206,206
+40062,Colbert s,Governor,abs,R,Dino Rossi,242,242,242
+40072,Greenbluff r,Governor,abs,R,Dino Rossi,129,129,129
+40092,Greenbluff r,Governor,abs,R,Dino Rossi,107,107,107
+40102,Greenbluff r,Governor,abs,R,Dino Rossi,83,83,83
+40112,Greenbluff r,Governor,abs,R,Dino Rossi,170,171,171
+40122,Greenbluff r,Governor,abs,R,Dino Rossi,203,203,203
+40132,Greenbluff r,Governor,abs,R,Dino Rossi,169,169,169
+40152,Foothills s,Governor,abs,R,Dino Rossi,150,150,150
+40162,Foothills s,Governor,abs,R,Dino Rossi,201,201,201
+40172,Foothills s,Governor,abs,R,Dino Rossi,209,209,209
+40182,Otis Orchards s,Governor,abs,R,Dino Rossi,110,110,110
+40192,Otis Orchards s,Governor,abs,R,Dino Rossi,132,132,132
+40202,Otis Orchards s,Governor,abs,R,Dino Rossi,203,203,203
+40212,Otis Orchards s,Governor,abs,R,Dino Rossi,181,181,181
+40222,Otis Orchards s,Governor,abs,R,Dino Rossi,186,186,186
+40242,Palouse r,Governor,abs,R,Dino Rossi,196,196,196
+40252,Palouse r,Governor,abs,R,Dino Rossi,209,209,209
+40272,Palouse r,Governor,abs,R,Dino Rossi,89,89,89
+40282,Palouse r,Governor,abs,R,Dino Rossi,186,186,186
+40292,Palouse r,Governor,abs,R,Dino Rossi,139,139,139
+42002,Millwood,Governor,abs,R,Dino Rossi,117,117,117
+42012,Millwood,Governor,abs,R,Dino Rossi,69,69,69
+43002,Liberty Lake,Governor,abs,R,Dino Rossi,350,350,350
+43012,Liberty Lake,Governor,abs,R,Dino Rossi,316,316,316
+44002,COSV,Governor,abs,R,Dino Rossi,116,116,116
+44012,COSV,Governor,abs,R,Dino Rossi,198,198,198
+44022,COSV,Governor,abs,R,Dino Rossi,147,147,148
+44032,COSV,Governor,abs,R,Dino Rossi,128,128,128
+44042,COSV,Governor,abs,R,Dino Rossi,255,255,255
+44052,COSV,Governor,abs,R,Dino Rossi,115,115,115
+44062,COSV,Governor,abs,R,Dino Rossi,180,180,180
+44072,COSV,Governor,abs,R,Dino Rossi,192,192,192
+44082,COSV,Governor,abs,R,Dino Rossi,221,221,221
+44092,COSV,Governor,abs,R,Dino Rossi,206,206,206
+44102,COSV,Governor,abs,R,Dino Rossi,372,372,372
+44112,COSV,Governor,abs,R,Dino Rossi,121,121,122
+44122,COSV,Governor,abs,R,Dino Rossi,314,314,314
+44132,COSV,Governor,abs,R,Dino Rossi,183,183,183
+44142,COSV,Governor,abs,R,Dino Rossi,218,218,218
+44152,COSV,Governor,abs,R,Dino Rossi,203,203,203
+44162,COSV,Governor,abs,R,Dino Rossi,222,222,222
+44172,COSV,Governor,abs,R,Dino Rossi,182,182,182
+44182,COSV,Governor,abs,R,Dino Rossi,299,299,299
+44192,COSV,Governor,abs,R,Dino Rossi,180,180,180
+44202,COSV,Governor,abs,R,Dino Rossi,194,194,194
+44212,COSV,Governor,abs,R,Dino Rossi,149,149,149
+44222,COSV,Governor,abs,R,Dino Rossi,149,149,149
+44232,COSV,Governor,abs,R,Dino Rossi,190,190,190
+44242,COSV,Governor,abs,R,Dino Rossi,161,161,161
+44252,COSV,Governor,abs,R,Dino Rossi,132,132,132
+44262,COSV,Governor,abs,R,Dino Rossi,260,260,260
+44272,COSV,Governor,abs,R,Dino Rossi,187,187,187
+44282,COSV,Governor,abs,R,Dino Rossi,302,302,302
+44292,COSV,Governor,abs,R,Dino Rossi,232,232,232
+44302,COSV,Governor,abs,R,Dino Rossi,165,165,165
+44312,COSV,Governor,abs,R,Dino Rossi,157,157,157
+44322,COSV,Governor,abs,R,Dino Rossi,210,210,210
+44332,COSV,Governor,abs,R,Dino Rossi,185,185,185
+44342,COSV,Governor,abs,R,Dino Rossi,266,266,266
+44352,COSV,Governor,abs,R,Dino Rossi,185,185,185
+44362,COSV,Governor,abs,R,Dino Rossi,231,231,232
+44372,COSV,Governor,abs,R,Dino Rossi,213,213,213
+44382,COSV,Governor,abs,R,Dino Rossi,99,99,99
+44392,COSV,Governor,abs,R,Dino Rossi,193,193,193
+44402,COSV,Governor,abs,R,Dino Rossi,303,303,303
+44412,COSV,Governor,abs,R,Dino Rossi,57,57,57
+60002,Greenbluff r,Governor,abs,R,Dino Rossi,126,126,126
+60012,Greenbluff r,Governor,abs,R,Dino Rossi,220,220,220
+60022,Colbert s,Governor,abs,R,Dino Rossi,112,112,112
+60032,Colbert s,Governor,abs,R,Dino Rossi,130,130,130
+60042,Colbert s,Governor,abs,R,Dino Rossi,120,120,120
+60052,Colbert s,Governor,abs,R,Dino Rossi,281,281,281
+60062,Colbert s,Governor,abs,R,Dino Rossi,127,127,127
+60072,Colbert s,Governor,abs,R,Dino Rossi,89,89,89
+60092,Greenbluff r,Governor,abs,R,Dino Rossi,221,221,221
+60102,Greenbluff r,Governor,abs,R,Dino Rossi,133,133,133
+60112,Colbert s,Governor,abs,R,Dino Rossi,94,94,94
+60122,Colbert s,Governor,abs,R,Dino Rossi,106,106,106
+60142,Moran s,Governor,abs,R,Dino Rossi,151,152,152
+60152,Whitworth s,Governor,abs,R,Dino Rossi,180,181,181
+60162,Moran s,Governor,abs,R,Dino Rossi,183,183,183
+60182,Moran s,Governor,abs,R,Dino Rossi,240,240,240
+60192,Moran s,Governor,abs,R,Dino Rossi,192,192,192
+60202,Moran s,Governor,abs,R,Dino Rossi,206,206,206
+60222,West Plains r,Governor,abs,R,Dino Rossi,166,165,166
+60232,Whitworth s,Governor,abs,R,Dino Rossi,221,221,221
+60242,West Plains r,Governor,abs,R,Dino Rossi,88,88,88
+60262,West Plains r,Governor,abs,R,Dino Rossi,65,65,65
+60272,Colbert s,Governor,abs,R,Dino Rossi,132,132,133
+60292,Whitworth s,Governor,abs,R,Dino Rossi,107,106,108
+60302,Whitworth s,Governor,abs,R,Dino Rossi,137,137,137
+60312,Whitworth s,Governor,abs,R,Dino Rossi,157,157,157
+60322,Whitworth s,Governor,abs,R,Dino Rossi,144,144,144
+60332,Whitworth s,Governor,abs,R,Dino Rossi,147,147,147
+60342,Whitworth s,Governor,abs,R,Dino Rossi,135,135,135
+60352,Whitworth s,Governor,abs,R,Dino Rossi,121,121,121
+60362,Whitworth s,Governor,abs,R,Dino Rossi,126,126,126
+60372,Whitworth s,Governor,abs,R,Dino Rossi,126,126,126
+60382,Whitworth s,Governor,abs,R,Dino Rossi,112,113,113
+60392,Whitworth s,Governor,abs,R,Dino Rossi,100,100,100
+61002,Indian Trail,Governor,abs,R,Dino Rossi,182,182,182
+61012,Indian Trail,Governor,abs,R,Dino Rossi,182,183,183
+61022,Indian Trail,Governor,abs,R,Dino Rossi,166,166,166
+61032,Indian Trail,Governor,abs,R,Dino Rossi,225,225,225
+61042,Indian Trail,Governor,abs,R,Dino Rossi,175,175,175
+61052,Indian Trail,Governor,abs,R,Dino Rossi,169,169,169
+61062,Civil War,Governor,abs,R,Dino Rossi,163,163,163
+61072,Civil War,Governor,abs,R,Dino Rossi,158,158,158
+61082,Indian Trail,Governor,abs,R,Dino Rossi,163,163,163
+61092,Indian Trail,Governor,abs,R,Dino Rossi,130,130,130
+61102,Indian Trail,Governor,abs,R,Dino Rossi,87,87,87
+61112,Indian Trail,Governor,abs,R,Dino Rossi,94,94,94
+61122,Indian Trail,Governor,abs,R,Dino Rossi,142,142,142
+61132,Civil War,Governor,abs,R,Dino Rossi,126,126,126
+61142,Civil War,Governor,abs,R,Dino Rossi,90,90,90
+61152,Civil War,Governor,abs,R,Dino Rossi,68,68,68
+61162,Civil War,Governor,abs,R,Dino Rossi,209,209,209
+61172,Finch,Governor,abs,R,Dino Rossi,122,122,122
+61182,Shadle Park,Governor,abs,R,Dino Rossi,96,96,96
+61192,Shadle Park,Governor,abs,R,Dino Rossi,154,154,154
+61202,Shadle Park,Governor,abs,R,Dino Rossi,145,145,145
+61212,Shadle Park,Governor,abs,R,Dino Rossi,124,124,124
+61222,Shadle Park,Governor,abs,R,Dino Rossi,122,122,122
+61232,Shadle Park,Governor,abs,R,Dino Rossi,183,183,183
+61242,Shadle Park,Governor,abs,R,Dino Rossi,149,149,149
+61252,Shadle Park,Governor,abs,R,Dino Rossi,130,132,132
+61262,Shadle Park,Governor,abs,R,Dino Rossi,140,140,140
+61272,Shadle Park,Governor,abs,R,Dino Rossi,157,157,157
+61282,Shadle Park,Governor,abs,R,Dino Rossi,157,157,157
+61292,South Hill,Governor,abs,R,Dino Rossi,95,95,95
+61302,South Hill,Governor,abs,R,Dino Rossi,89,89,89
+61312,South Hill,Governor,abs,R,Dino Rossi,97,97,97
+61322,South Hill,Governor,abs,R,Dino Rossi,97,97,97
+61332,South Hill,Governor,abs,R,Dino Rossi,143,143,143
+61352,South Hill,Governor,abs,R,Dino Rossi,226,226,227
+61362,South Hill,Governor,abs,R,Dino Rossi,151,151,151
+61372,South Hill,Governor,abs,R,Dino Rossi,230,230,230
+61382,South Hill,Governor,abs,R,Dino Rossi,84,84,84
+61392,South Hill,Governor,abs,R,Dino Rossi,131,131,131
+61402,South Hill,Governor,abs,R,Dino Rossi,223,223,223
+61412,South Hill,Governor,abs,R,Dino Rossi,165,165,165
+61422,South Hill,Governor,abs,R,Dino Rossi,114,114,114
+61432,South Hill,Governor,abs,R,Dino Rossi,113,113,113
+61442,South Hill,Governor,abs,R,Dino Rossi,144,144,144
+61452,South Hill,Governor,abs,R,Dino Rossi,152,152,152
+61462,South Hill,Governor,abs,R,Dino Rossi,154,154,154
+61472,South Hill,Governor,abs,R,Dino Rossi,137,137,137
+61482,South Hill,Governor,abs,R,Dino Rossi,121,121,121
+61492,South Hill,Governor,abs,R,Dino Rossi,151,151,151
+61502,South Hill,Governor,abs,R,Dino Rossi,72,72,72
+61512,South Hill,Governor,abs,R,Dino Rossi,150,150,150
+64002,COSV,Governor,abs,R,Dino Rossi,63,63,63
+70002,Greenbluff r,Governor,abs,R,Dino Rossi,172,172,172
+70012,Greenbluff r,Governor,abs,R,Dino Rossi,166,166,166
+70022,Greenbluff r,Governor,abs,R,Dino Rossi,109,109,109
+70032,Greenbluff r,Governor,abs,R,Dino Rossi,90,90,90
+70042,Greenbluff r,Governor,abs,R,Dino Rossi,94,93,94
+70052,Greenbluff r,Governor,abs,R,Dino Rossi,108,108,108
+70062,West Plains r,Governor,abs,R,Dino Rossi,123,123,123
+70072,West Plains r,Governor,abs,R,Dino Rossi,202,202,202
+70082,West Plains r,Governor,abs,R,Dino Rossi,174,174,174
+70092,West Plains r,Governor,abs,R,Dino Rossi,80,80,80
+70102,West Plains r,Governor,abs,R,Dino Rossi,186,186,186
+70112,Greenbluff r,Governor,abs,R,Dino Rossi,154,154,154
+70122,Greenbluff r,Governor,abs,R,Dino Rossi,155,155,155
+71002,Airway Heights,Governor,abs,R,Dino Rossi,175,175,175
+71012,Airway Heights,Governor,abs,R,Dino Rossi,56,56,56
+72002,Fairchild,Governor,abs,R,Dino Rossi,129,129,129
+73002,Deer Park,Governor,abs,R,Dino Rossi,185,185,186
+73012,Deer Park,Governor,abs,R,Dino Rossi,142,143,143
+90002,Palouse r,Governor,abs,R,Dino Rossi,85,85,85
+90032,Palouse r,Governor,abs,R,Dino Rossi,165,166,167
+90042,Palouse r,Governor,abs,R,Dino Rossi,132,132,132
+90052,Palouse r,Governor,abs,R,Dino Rossi,89,89,89
+90062,Palouse r,Governor,abs,R,Dino Rossi,136,136,136
+90072,West Plains r,Governor,abs,R,Dino Rossi,159,159,159
+90082,West Plains r,Governor,abs,R,Dino Rossi,75,75,75
+90092,West Plains r,Governor,abs,R,Dino Rossi,190,190,190
+90102,Palouse r,Governor,abs,R,Dino Rossi,118,118,118
+90152,Palouse r,Governor,abs,R,Dino Rossi,203,204,204
+90192,Moran s,Governor,abs,R,Dino Rossi,116,116,116
+91002,Medical Lake,Governor,abs,R,Dino Rossi,226,226,226
+91012,Medical Lake,Governor,abs,R,Dino Rossi,127,127,127
+92002,Cheney,Governor,abs,R,Dino Rossi,173,173,173
+92012,Cheney,Governor,abs,R,Dino Rossi,135,135,135
+92022,Cheney,Governor,abs,R,Dino Rossi,132,132,132
+92032,Cheney,Governor,abs,R,Dino Rossi,239,239,239
+95002,Fairfield,Governor,abs,R,Dino Rossi,78,78,78
+31001,NOE,Governor,poll,R,Dino Rossi,123,123,123
+31011,Hillyard,Governor,poll,R,Dino Rossi,115,115,115
+31021,NOE,Governor,poll,R,Dino Rossi,197,197,197
+31031,Hillyard,Governor,poll,R,Dino Rossi,114,114,114
+31041,NOE,Governor,poll,R,Dino Rossi,139,139,139
+31051,NOE,Governor,poll,R,Dino Rossi,134,134,134
+31061,NOE,Governor,poll,R,Dino Rossi,171,171,171
+31071,NOE,Governor,poll,R,Dino Rossi,168,168,168
+31081,Shadle Park,Governor,poll,R,Dino Rossi,214,215,215
+31091,Shadle Park,Governor,poll,R,Dino Rossi,195,195,195
+31101,Shadle Park,Governor,poll,R,Dino Rossi,146,146,146
+31111,Shadle Park,Governor,poll,R,Dino Rossi,172,172,172
+31121,Hillyard,Governor,poll,R,Dino Rossi,154,155,155
+31131,Hillyard,Governor,poll,R,Dino Rossi,91,91,91
+31141,NOE,Governor,poll,R,Dino Rossi,93,93,93
+31151,NOE,Governor,poll,R,Dino Rossi,134,134,134
+31161,NOE,Governor,poll,R,Dino Rossi,176,176,176
+31171,NOE,Governor,poll,R,Dino Rossi,179,179,179
+31181,NOE,Governor,poll,R,Dino Rossi,131,131,131
+31191,NOE,Governor,poll,R,Dino Rossi,159,159,159
+31201,NOE,Governor,poll,R,Dino Rossi,154,154,154
+31211,East Central,Governor,poll,R,Dino Rossi,132,132,132
+31221,East Central,Governor,poll,R,Dino Rossi,137,137,137
+31231,East Central,Governor,poll,R,Dino Rossi,145,145,145
+31241,Shadle Park,Governor,poll,R,Dino Rossi,209,209,209
+31251,Shadle Park,Governor,poll,R,Dino Rossi,170,170,170
+31261,Shadle Park,Governor,poll,R,Dino Rossi,259,259,259
+31271,Shadle Park,Governor,poll,R,Dino Rossi,295,295,295
+31281,Shadle Park,Governor,poll,R,Dino Rossi,167,167,167
+31291,South Hill,Governor,poll,R,Dino Rossi,232,232,232
+31301,South Hill,Governor,poll,R,Dino Rossi,99,99,99
+31311,East Central,Governor,poll,R,Dino Rossi,141,141,141
+31321,South Hill,Governor,poll,R,Dino Rossi,172,172,172
+31331,South Hill,Governor,poll,R,Dino Rossi,122,122,122
+31341,South Hill,Governor,poll,R,Dino Rossi,185,186,186
+31351,South Hill,Governor,poll,R,Dino Rossi,133,133,133
+31361,Shadle Park,Governor,poll,R,Dino Rossi,141,141,141
+31371,East Central,Governor,poll,R,Dino Rossi,158,158,158
+31381,East Central,Governor,poll,R,Dino Rossi,171,171,171
+31391,East Central,Governor,poll,R,Dino Rossi,135,135,135
+31401,East Central,Governor,poll,R,Dino Rossi,216,216,216
+31411,East Central,Governor,poll,R,Dino Rossi,129,129,129
+31421,East Central,Governor,poll,R,Dino Rossi,170,170,170
+31431,West Central,Governor,poll,R,Dino Rossi,200,200,200
+31441,West Central,Governor,poll,R,Dino Rossi,157,157,157
+31451,Shadle Park,Governor,poll,R,Dino Rossi,146,146,146
+31461,West Central,Governor,poll,R,Dino Rossi,207,207,206
+31471,West Central,Governor,poll,R,Dino Rossi,200,200,200
+31481,West Central,Governor,poll,R,Dino Rossi,121,121,121
+31491,West Central,Governor,poll,R,Dino Rossi,123,123,123
+31501,West Central,Governor,poll,R,Dino Rossi,185,185,185
+31511,West Central,Governor,poll,R,Dino Rossi,112,112,112
+31521,Browne's Add,Governor,poll,R,Dino Rossi,187,187,187
+31531,Browne's Add,Governor,poll,R,Dino Rossi,149,149,149
+31541,East Central,Governor,poll,R,Dino Rossi,102,102,102
+31551,South Hill,Governor,poll,R,Dino Rossi,264,264,264
+31561,South Hill,Governor,poll,R,Dino Rossi,195,195,195
+31571,South Hill,Governor,poll,R,Dino Rossi,245,246,246
+31581,South Hill,Governor,poll,R,Dino Rossi,200,200,200
+31591,South Hill,Governor,poll,R,Dino Rossi,174,174,174
+31601,South Hill,Governor,poll,R,Dino Rossi,155,155,155
+31611,South Hill,Governor,poll,R,Dino Rossi,113,113,113
+31621,South Hill,Governor,poll,R,Dino Rossi,177,177,177
+31631,South Hill,Governor,poll,R,Dino Rossi,170,170,170
+31641,South Hill,Governor,poll,R,Dino Rossi,127,127,127
+31651,South Hill,Governor,poll,R,Dino Rossi,183,183,183
+40001,Greenbluff r,Governor,poll,R,Dino Rossi,274,274,274
+40011,Greenbluff r,Governor,poll,R,Dino Rossi,377,377,377
+40021,Greenbluff r,Governor,poll,R,Dino Rossi,418,418,418
+40031,Colbert s,Governor,poll,R,Dino Rossi,338,338,338
+40041,Greenbluff r,Governor,poll,R,Dino Rossi,279,279,279
+40051,Greenbluff r,Governor,poll,R,Dino Rossi,361,361,361
+40061,Colbert s,Governor,poll,R,Dino Rossi,337,337,337
+40071,Greenbluff r,Governor,poll,R,Dino Rossi,137,137,137
+40083,Greenbluff r,Governor,poll,R,Dino Rossi,237,238,238
+40091,Greenbluff r,Governor,poll,R,Dino Rossi,286,286,286
+40101,Greenbluff r,Governor,poll,R,Dino Rossi,151,151,151
+40111,Greenbluff r,Governor,poll,R,Dino Rossi,319,319,319
+40121,Greenbluff r,Governor,poll,R,Dino Rossi,304,309,309
+40131,Greenbluff r,Governor,poll,R,Dino Rossi,168,168,168
+40143,Foothills s,Governor,vbm,R,Dino Rossi,182,182,182
+40151,Foothills s,Governor,poll,R,Dino Rossi,353,353,353
+40161,Foothills s,Governor,poll,R,Dino Rossi,380,381,381
+40171,Foothills s,Governor,poll,R,Dino Rossi,189,189,188
+40181,Otis Orchards s,Governor,poll,R,Dino Rossi,164,164,164
+40191,Otis Orchards s,Governor,poll,R,Dino Rossi,119,120,120
+40201,Otis Orchards s,Governor,poll,R,Dino Rossi,267,272,272
+40211,Otis Orchards s,Governor,poll,R,Dino Rossi,177,186,186
+40221,Otis Orchards s,Governor,poll,R,Dino Rossi,177,179,179
+40233,Palouse r,Governor,vbm,R,Dino Rossi,98,99,99
+40241,Palouse r,Governor,poll,R,Dino Rossi,349,352,352
+40251,Palouse r,Governor,poll,R,Dino Rossi,397,406,406
+40263,Palouse r,Governor,vbm,R,Dino Rossi,250,256,256
+40271,Palouse r,Governor,poll,R,Dino Rossi,172,176,176
+40281,Palouse r,Governor,poll,R,Dino Rossi,338,349,349
+40291,Palouse r,Governor,poll,R,Dino Rossi,227,228,228
+41003,NOE,Governor,vbm,R,Dino Rossi,7,7,7
+41013,East Central,Governor,vbm,R,Dino Rossi,59,59,59
+42001,Millwood,Governor,poll,R,Dino Rossi,126,126,126
+42011,Millwood,Governor,poll,R,Dino Rossi,74,74,74
+43001,Liberty Lake,Governor,poll,R,Dino Rossi,472,480,480
+43011,Liberty Lake,Governor,poll,R,Dino Rossi,470,473,474
+44001,COSV,Governor,poll,R,Dino Rossi,213,213,213
+44011,COSV,Governor,poll,R,Dino Rossi,254,254,254
+44021,COSV,Governor,poll,R,Dino Rossi,174,175,175
+44031,COSV,Governor,poll,R,Dino Rossi,241,241,241
+44041,COSV,Governor,poll,R,Dino Rossi,268,271,271
+44051,COSV,Governor,poll,R,Dino Rossi,179,179,179
+44061,COSV,Governor,poll,R,Dino Rossi,255,261,261
+44071,COSV,Governor,poll,R,Dino Rossi,205,205,205
+44081,COSV,Governor,poll,R,Dino Rossi,334,335,335
+44091,COSV,Governor,poll,R,Dino Rossi,374,381,381
+44101,COSV,Governor,poll,R,Dino Rossi,566,569,569
+44111,COSV,Governor,poll,R,Dino Rossi,196,196,196
+44121,COSV,Governor,poll,R,Dino Rossi,405,409,409
+44131,COSV,Governor,poll,R,Dino Rossi,234,234,234
+44141,COSV,Governor,poll,R,Dino Rossi,238,238,238
+44151,COSV,Governor,poll,R,Dino Rossi,319,322,322
+44161,COSV,Governor,poll,R,Dino Rossi,241,241,241
+44171,COSV,Governor,poll,R,Dino Rossi,243,243,243
+44181,COSV,Governor,poll,R,Dino Rossi,376,384,385
+44191,COSV,Governor,poll,R,Dino Rossi,251,252,252
+44201,COSV,Governor,poll,R,Dino Rossi,214,214,214
+44211,COSV,Governor,poll,R,Dino Rossi,175,175,175
+44221,COSV,Governor,poll,R,Dino Rossi,199,199,199
+44231,COSV,Governor,poll,R,Dino Rossi,296,296,296
+44241,COSV,Governor,poll,R,Dino Rossi,242,244,244
+44251,COSV,Governor,poll,R,Dino Rossi,175,175,176
+44261,COSV,Governor,poll,R,Dino Rossi,352,352,352
+44271,COSV,Governor,poll,R,Dino Rossi,336,336,336
+44281,COSV,Governor,poll,R,Dino Rossi,439,439,439
+44291,COSV,Governor,poll,R,Dino Rossi,309,309,309
+44301,COSV,Governor,poll,R,Dino Rossi,235,235,235
+44311,COSV,Governor,poll,R,Dino Rossi,151,151,151
+44321,COSV,Governor,poll,R,Dino Rossi,273,273,273
+44331,COSV,Governor,poll,R,Dino Rossi,319,319,319
+44341,COSV,Governor,poll,R,Dino Rossi,341,341,341
+44351,COSV,Governor,poll,R,Dino Rossi,259,259,259
+44361,COSV,Governor,poll,R,Dino Rossi,393,393,393
+44371,COSV,Governor,poll,R,Dino Rossi,384,384,384
+44381,COSV,Governor,poll,R,Dino Rossi,170,170,170
+44391,COSV,Governor,poll,R,Dino Rossi,266,266,266
+44401,COSV,Governor,poll,R,Dino Rossi,328,328,328
+44411,COSV,Governor,poll,R,Dino Rossi,143,143,143
+60001,Greenbluff r,Governor,poll,R,Dino Rossi,301,301,301
+60011,Greenbluff r,Governor,poll,R,Dino Rossi,568,569,569
+60021,Colbert s,Governor,poll,R,Dino Rossi,296,297,297
+60031,Colbert s,Governor,poll,R,Dino Rossi,169,169,169
+60041,Colbert s,Governor,poll,R,Dino Rossi,217,217,217
+60051,Colbert s,Governor,poll,R,Dino Rossi,523,523,523
+60061,Colbert s,Governor,poll,R,Dino Rossi,234,234,234
+60071,Colbert s,Governor,poll,R,Dino Rossi,167,167,167
+60083,Colbert s,Governor,vbm,R,Dino Rossi,184,184,184
+60091,Greenbluff r,Governor,poll,R,Dino Rossi,496,496,496
+60101,Greenbluff r,Governor,poll,R,Dino Rossi,285,285,285
+60111,Colbert s,Governor,poll,R,Dino Rossi,169,170,170
+60121,Colbert s,Governor,poll,R,Dino Rossi,129,129,129
+60141,Moran s,Governor,poll,R,Dino Rossi,349,350,350
+60151,Whitworth s,Governor,poll,R,Dino Rossi,245,245,245
+60161,Moran s,Governor,poll,R,Dino Rossi,321,321,321
+60173,West Plains r,Governor,vbm,R,Dino Rossi,35,35,35
+60181,Moran s,Governor,poll,R,Dino Rossi,361,361,361
+60191,Moran s,Governor,poll,R,Dino Rossi,290,290,290
+60201,Moran s,Governor,poll,R,Dino Rossi,415,415,415
+60213,Palouse r,Governor,vbm,R,Dino Rossi,21,21,21
+60221,West Plains r,Governor,poll,R,Dino Rossi,224,224,224
+60231,Whitworth s,Governor,poll,R,Dino Rossi,342,342,342
+60241,West Plains r,Governor,poll,R,Dino Rossi,268,268,268
+60253,West Plains r,Governor,vbm,R,Dino Rossi,84,84,84
+60261,West Plains r,Governor,poll,R,Dino Rossi,153,153,153
+60271,Colbert s,Governor,poll,R,Dino Rossi,173,173,173
+60283,Whitworth s,Governor,vbm,R,Dino Rossi,71,71,71
+60291,Whitworth s,Governor,poll,R,Dino Rossi,160,160,160
+60301,Whitworth s,Governor,poll,R,Dino Rossi,231,231,231
+60311,Whitworth s,Governor,poll,R,Dino Rossi,266,267,267
+60321,Whitworth s,Governor,poll,R,Dino Rossi,208,208,208
+60331,Whitworth s,Governor,poll,R,Dino Rossi,285,285,285
+60341,Whitworth s,Governor,poll,R,Dino Rossi,199,199,199
+60351,Whitworth s,Governor,poll,R,Dino Rossi,252,252,252
+60361,Whitworth s,Governor,poll,R,Dino Rossi,210,210,210
+60371,Whitworth s,Governor,poll,R,Dino Rossi,223,223,223
+60381,Whitworth s,Governor,poll,R,Dino Rossi,137,137,137
+60391,Whitworth s,Governor,poll,R,Dino Rossi,171,171,171
+61001,Indian Trail,Governor,poll,R,Dino Rossi,366,366,366
+61011,Indian Trail,Governor,poll,R,Dino Rossi,350,350,350
+61021,Indian Trail,Governor,poll,R,Dino Rossi,195,195,195
+61031,Indian Trail,Governor,poll,R,Dino Rossi,281,281,281
+61041,Indian Trail,Governor,poll,R,Dino Rossi,322,322,322
+61051,Indian Trail,Governor,poll,R,Dino Rossi,535,535,535
+61061,Civil War,Governor,poll,R,Dino Rossi,313,313,313
+61071,Civil War,Governor,poll,R,Dino Rossi,210,210,210
+61081,Indian Trail,Governor,poll,R,Dino Rossi,264,264,264
+61091,Indian Trail,Governor,poll,R,Dino Rossi,295,295,295
+61101,Indian Trail,Governor,poll,R,Dino Rossi,233,233,233
+61111,Indian Trail,Governor,poll,R,Dino Rossi,221,222,222
+61121,Indian Trail,Governor,poll,R,Dino Rossi,305,305,305
+61131,Civil War,Governor,poll,R,Dino Rossi,204,204,204
+61141,Civil War,Governor,poll,R,Dino Rossi,173,173,173
+61151,Civil War,Governor,poll,R,Dino Rossi,155,155,155
+61161,Civil War,Governor,poll,R,Dino Rossi,465,465,465
+61171,Finch,Governor,poll,R,Dino Rossi,200,200,200
+61181,Shadle Park,Governor,poll,R,Dino Rossi,218,218,218
+61191,Shadle Park,Governor,poll,R,Dino Rossi,245,245,245
+61201,Shadle Park,Governor,poll,R,Dino Rossi,206,206,206
+61211,Shadle Park,Governor,poll,R,Dino Rossi,218,218,218
+61221,Shadle Park,Governor,poll,R,Dino Rossi,172,172,172
+61231,Shadle Park,Governor,poll,R,Dino Rossi,184,184,184
+61241,Shadle Park,Governor,poll,R,Dino Rossi,190,190,190
+61251,Shadle Park,Governor,poll,R,Dino Rossi,208,208,208
+61261,Shadle Park,Governor,poll,R,Dino Rossi,254,254,254
+61271,Shadle Park,Governor,poll,R,Dino Rossi,273,273,273
+61281,Shadle Park,Governor,poll,R,Dino Rossi,261,261,261
+61291,South Hill,Governor,poll,R,Dino Rossi,329,329,329
+61301,South Hill,Governor,poll,R,Dino Rossi,258,258,258
+61311,South Hill,Governor,poll,R,Dino Rossi,165,165,165
+61321,South Hill,Governor,poll,R,Dino Rossi,185,185,185
+61331,South Hill,Governor,poll,R,Dino Rossi,249,249,249
+61343,Shadle Park,Governor,vbm,R,Dino Rossi,40,40,40
+61351,South Hill,Governor,poll,R,Dino Rossi,316,316,316
+61361,South Hill,Governor,poll,R,Dino Rossi,307,307,307
+61371,South Hill,Governor,poll,R,Dino Rossi,517,517,517
+61381,South Hill,Governor,poll,R,Dino Rossi,362,363,363
+61391,South Hill,Governor,poll,R,Dino Rossi,180,180,180
+61401,South Hill,Governor,poll,R,Dino Rossi,411,411,411
+61411,South Hill,Governor,poll,R,Dino Rossi,203,203,203
+61421,South Hill,Governor,poll,R,Dino Rossi,167,167,167
+61431,South Hill,Governor,poll,R,Dino Rossi,116,116,116
+61441,South Hill,Governor,poll,R,Dino Rossi,191,191,191
+61451,South Hill,Governor,poll,R,Dino Rossi,214,214,214
+61461,South Hill,Governor,poll,R,Dino Rossi,264,264,264
+61471,South Hill,Governor,poll,R,Dino Rossi,224,224,224
+61481,South Hill,Governor,poll,R,Dino Rossi,193,193,193
+61491,South Hill,Governor,poll,R,Dino Rossi,326,326,326
+61501,South Hill,Governor,poll,R,Dino Rossi,292,292,292
+61511,South Hill,Governor,poll,R,Dino Rossi,429,429,429
+64001,COSV,Governor,poll,R,Dino Rossi,192,192,192
+70001,Greenbluff r,Governor,poll,R,Dino Rossi,262,262,262
+70011,Greenbluff r,Governor,poll,R,Dino Rossi,320,320,320
+70021,Greenbluff r,Governor,poll,R,Dino Rossi,223,223,223
+70031,Greenbluff r,Governor,poll,R,Dino Rossi,127,127,127
+70041,Greenbluff r,Governor,poll,R,Dino Rossi,292,292,292
+70051,Greenbluff r,Governor,poll,R,Dino Rossi,220,220,220
+70061,West Plains r,Governor,poll,R,Dino Rossi,245,245,245
+70071,West Plains r,Governor,poll,R,Dino Rossi,410,411,411
+70081,West Plains r,Governor,poll,R,Dino Rossi,450,450,450
+70091,West Plains r,Governor,poll,R,Dino Rossi,159,160,160
+70101,West Plains r,Governor,poll,R,Dino Rossi,284,284,284
+70111,Greenbluff r,Governor,poll,R,Dino Rossi,275,275,275
+70121,Greenbluff r,Governor,poll,R,Dino Rossi,215,215,215
+71001,Airway Heights,Governor,poll,R,Dino Rossi,144,144,144
+71011,Airway Heights,Governor,poll,R,Dino Rossi,73,73,73
+72001,Fairchild,Governor,poll,R,Dino Rossi,359,359,359
+73001,Deer Park,Governor,poll,R,Dino Rossi,261,261,262
+73011,Deer Park,Governor,poll,R,Dino Rossi,130,130,130
+90001,Palouse r,Governor,poll,R,Dino Rossi,158,158,158
+90013,Palouse r,Governor,vbm,R,Dino Rossi,187,187,187
+90023,Palouse r,Governor,vbm,R,Dino Rossi,124,124,124
+90031,Palouse r,Governor,poll,R,Dino Rossi,586,586,586
+90041,Palouse r,Governor,poll,R,Dino Rossi,197,197,197
+90051,Palouse r,Governor,poll,R,Dino Rossi,328,328,328
+90061,Palouse r,Governor,poll,R,Dino Rossi,186,186,186
+90071,West Plains r,Governor,poll,R,Dino Rossi,349,349,349
+90081,West Plains r,Governor,poll,R,Dino Rossi,171,171,171
+90091,West Plains r,Governor,poll,R,Dino Rossi,283,283,283
+90101,Palouse r,Governor,poll,R,Dino Rossi,240,240,240
+90113,Palouse r,Governor,vbm,R,Dino Rossi,177,177,177
+90123,Palouse r,Governor,vbm,R,Dino Rossi,113,113,113
+90133,Palouse r,Governor,vbm,R,Dino Rossi,161,161,161
+90143,Palouse r,Governor,vbm,R,Dino Rossi,261,261,261
+90151,Palouse r,Governor,poll,R,Dino Rossi,421,421,421
+90163,Palouse r,Governor,vbm,R,Dino Rossi,95,95,95
+90173,Palouse r,Governor,vbm,R,Dino Rossi,134,134,134
+90183,Palouse r,Governor,vbm,R,Dino Rossi,214,214,214
+90191,Moran s,Governor,poll,R,Dino Rossi,258,258,258
+90203,Palouse r,Governor,vbm,R,Dino Rossi,125,125,125
+91001,Medical Lake,Governor,poll,R,Dino Rossi,258,258,258
+91011,Medical Lake,Governor,poll,R,Dino Rossi,191,192,192
+92001,Cheney,Governor,poll,R,Dino Rossi,180,180,180
+92011,Cheney,Governor,poll,R,Dino Rossi,192,192,192
+92021,Cheney,Governor,poll,R,Dino Rossi,186,186,186
+92031,Cheney,Governor,poll,R,Dino Rossi,306,306,306
+93003,Spangle,Governor,vbm,R,Dino Rossi,73,73,73
+94003,Waverly,Governor,vbm,R,Dino Rossi,41,41,41
+95001,Fairfield,Governor,poll,R,Dino Rossi,79,79,79
+96003,Latah,Governor,vbm,R,Dino Rossi,65,65,65
+97003,Rockford,Governor,vbm,R,Dino Rossi,129,129,129
+31004,NOE,Governor,prov,R,Dino Rossi,10,10,10
+31014,Hillyard,Governor,prov,R,Dino Rossi,18,18,18
+31024,NOE,Governor,prov,R,Dino Rossi,15,15,15
+31034,Hillyard,Governor,prov,R,Dino Rossi,7,7,7
+31044,NOE,Governor,prov,R,Dino Rossi,2,2,2
+31054,NOE,Governor,prov,R,Dino Rossi,0,0,0
+31064,NOE,Governor,prov,R,Dino Rossi,23,23,23
+31074,NOE,Governor,prov,R,Dino Rossi,8,8,8
+31084,Shadle Park,Governor,prov,R,Dino Rossi,3,3,3
+31094,Shadle Park,Governor,prov,R,Dino Rossi,5,5,5
+31104,Shadle Park,Governor,prov,R,Dino Rossi,2,2,2
+31114,Shadle Park,Governor,prov,R,Dino Rossi,3,3,3
+31124,Hillyard,Governor,prov,R,Dino Rossi,25,25,25
+31134,Hillyard,Governor,prov,R,Dino Rossi,2,2,2
+31144,NOE,Governor,prov,R,Dino Rossi,11,11,11
+31154,NOE,Governor,prov,R,Dino Rossi,13,13,13
+31164,NOE,Governor,prov,R,Dino Rossi,7,7,7
+31174,NOE,Governor,prov,R,Dino Rossi,6,6,6
+31184,NOE,Governor,prov,R,Dino Rossi,6,6,6
+31194,NOE,Governor,prov,R,Dino Rossi,3,3,3
+31204,NOE,Governor,prov,R,Dino Rossi,7,7,7
+31214,East Central,Governor,prov,R,Dino Rossi,10,10,10
+31224,East Central,Governor,prov,R,Dino Rossi,1,1,1
+31234,East Central,Governor,prov,R,Dino Rossi,8,8,8
+31244,Shadle Park,Governor,prov,R,Dino Rossi,17,17,17
+31254,Shadle Park,Governor,prov,R,Dino Rossi,11,11,11
+31264,Shadle Park,Governor,prov,R,Dino Rossi,6,6,6
+31274,Shadle Park,Governor,prov,R,Dino Rossi,11,11,11
+31284,Shadle Park,Governor,prov,R,Dino Rossi,10,10,10
+31294,South Hill,Governor,prov,R,Dino Rossi,16,16,16
+31304,South Hill,Governor,prov,R,Dino Rossi,10,10,10
+31314,East Central,Governor,prov,R,Dino Rossi,10,10,10
+31324,South Hill,Governor,prov,R,Dino Rossi,5,5,5
+31334,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+31344,South Hill,Governor,prov,R,Dino Rossi,15,15,15
+31354,South Hill,Governor,prov,R,Dino Rossi,10,10,10
+31364,Shadle Park,Governor,prov,R,Dino Rossi,7,7,7
+31374,East Central,Governor,prov,R,Dino Rossi,4,4,4
+31384,East Central,Governor,prov,R,Dino Rossi,7,7,7
+31394,East Central,Governor,prov,R,Dino Rossi,5,5,5
+31404,East Central,Governor,prov,R,Dino Rossi,7,7,7
+31414,East Central,Governor,prov,R,Dino Rossi,9,9,9
+31424,East Central,Governor,prov,R,Dino Rossi,3,3,3
+31434,West Central,Governor,prov,R,Dino Rossi,7,7,7
+31444,West Central,Governor,prov,R,Dino Rossi,7,7,7
+31454,Shadle Park,Governor,prov,R,Dino Rossi,6,6,6
+31464,West Central,Governor,prov,R,Dino Rossi,31,31,31
+31474,West Central,Governor,prov,R,Dino Rossi,2,2,2
+31484,West Central,Governor,prov,R,Dino Rossi,1,1,1
+31494,West Central,Governor,prov,R,Dino Rossi,23,24,24
+31504,West Central,Governor,prov,R,Dino Rossi,2,2,2
+31514,West Central,Governor,prov,R,Dino Rossi,3,3,3
+31524,Browne's Add,Governor,prov,R,Dino Rossi,13,13,13
+31534,Browne's Add,Governor,prov,R,Dino Rossi,11,11,11
+31544,East Central,Governor,prov,R,Dino Rossi,6,6,6
+31554,South Hill,Governor,prov,R,Dino Rossi,32,32,32
+31564,South Hill,Governor,prov,R,Dino Rossi,3,3,3
+31574,South Hill,Governor,prov,R,Dino Rossi,1,1,1
+31584,South Hill,Governor,prov,R,Dino Rossi,16,16,16
+31594,South Hill,Governor,prov,R,Dino Rossi,2,2,2
+31604,South Hill,Governor,prov,R,Dino Rossi,5,5,5
+31614,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+31624,South Hill,Governor,prov,R,Dino Rossi,3,3,3
+31634,South Hill,Governor,prov,R,Dino Rossi,1,1,1
+31644,South Hill,Governor,prov,R,Dino Rossi,0,0,0
+31654,South Hill,Governor,prov,R,Dino Rossi,18,18,18
+40004,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+40014,Greenbluff r,Governor,prov,R,Dino Rossi,6,6,6
+40024,Greenbluff r,Governor,prov,R,Dino Rossi,8,8,8
+40034,Colbert s,Governor,prov,R,Dino Rossi,11,11,11
+40044,Greenbluff r,Governor,prov,R,Dino Rossi,2,2,2
+40054,Greenbluff r,Governor,prov,R,Dino Rossi,28,28,28
+40064,Colbert s,Governor,prov,R,Dino Rossi,0,0,0
+40074,Greenbluff r,Governor,prov,R,Dino Rossi,5,5,5
+40094,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+40104,Greenbluff r,Governor,prov,R,Dino Rossi,4,4,4
+40114,Greenbluff r,Governor,prov,R,Dino Rossi,3,3,3
+40124,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+40134,Greenbluff r,Governor,prov,R,Dino Rossi,9,9,9
+40154,Foothills s,Governor,prov,R,Dino Rossi,7,7,7
+40164,Foothills s,Governor,prov,R,Dino Rossi,6,6,6
+40174,Foothills s,Governor,prov,R,Dino Rossi,7,7,7
+40184,Otis Orchards s,Governor,prov,R,Dino Rossi,17,17,17
+40194,Otis Orchards s,Governor,prov,R,Dino Rossi,19,19,19
+40204,Otis Orchards s,Governor,prov,R,Dino Rossi,25,25,25
+40214,Otis Orchards s,Governor,prov,R,Dino Rossi,11,11,11
+40224,Otis Orchards s,Governor,prov,R,Dino Rossi,9,9,9
+40244,Palouse r,Governor,prov,R,Dino Rossi,9,9,9
+40254,Palouse r,Governor,prov,R,Dino Rossi,14,14,14
+40274,Palouse r,Governor,prov,R,Dino Rossi,5,5,5
+40284,Palouse r,Governor,prov,R,Dino Rossi,4,4,4
+40294,Palouse r,Governor,prov,R,Dino Rossi,7,7,7
+42004,Millwood,Governor,prov,R,Dino Rossi,5,5,5
+42014,Millwood,Governor,prov,R,Dino Rossi,11,11,11
+43004,Liberty Lake,Governor,prov,R,Dino Rossi,13,13,13
+43014,Liberty Lake,Governor,prov,R,Dino Rossi,12,12,12
+44004,COSV,Governor,prov,R,Dino Rossi,9,9,9
+44014,COSV,Governor,prov,R,Dino Rossi,10,10,10
+44024,COSV,Governor,prov,R,Dino Rossi,8,8,8
+44034,COSV,Governor,prov,R,Dino Rossi,11,11,11
+44044,COSV,Governor,prov,R,Dino Rossi,9,9,9
+44054,COSV,Governor,prov,R,Dino Rossi,1,1,1
+44064,COSV,Governor,prov,R,Dino Rossi,11,11,11
+44074,COSV,Governor,prov,R,Dino Rossi,8,8,8
+44084,COSV,Governor,prov,R,Dino Rossi,13,13,13
+44094,COSV,Governor,prov,R,Dino Rossi,4,4,4
+44104,COSV,Governor,prov,R,Dino Rossi,16,16,16
+44124,COSV,Governor,prov,R,Dino Rossi,25,25,25
+44134,COSV,Governor,prov,R,Dino Rossi,13,13,13
+44144,COSV,Governor,prov,R,Dino Rossi,6,6,6
+44154,COSV,Governor,prov,R,Dino Rossi,13,13,13
+44164,COSV,Governor,prov,R,Dino Rossi,15,15,15
+44174,COSV,Governor,prov,R,Dino Rossi,20,20,21
+44184,COSV,Governor,prov,R,Dino Rossi,17,17,17
+44194,COSV,Governor,prov,R,Dino Rossi,7,7,7
+44204,COSV,Governor,prov,R,Dino Rossi,24,24,24
+44214,COSV,Governor,prov,R,Dino Rossi,4,4,4
+44224,COSV,Governor,prov,R,Dino Rossi,3,3,3
+44234,COSV,Governor,prov,R,Dino Rossi,4,4,4
+44244,COSV,Governor,prov,R,Dino Rossi,5,5,5
+44254,COSV,Governor,prov,R,Dino Rossi,2,2,2
+44264,COSV,Governor,prov,R,Dino Rossi,15,15,15
+44274,COSV,Governor,prov,R,Dino Rossi,5,5,5
+44284,COSV,Governor,prov,R,Dino Rossi,11,11,11
+44294,COSV,Governor,prov,R,Dino Rossi,10,10,10
+44304,COSV,Governor,prov,R,Dino Rossi,16,16,16
+44314,COSV,Governor,prov,R,Dino Rossi,13,13,13
+44324,COSV,Governor,prov,R,Dino Rossi,12,12,12
+44334,COSV,Governor,prov,R,Dino Rossi,1,1,1
+44344,COSV,Governor,prov,R,Dino Rossi,23,23,23
+44354,COSV,Governor,prov,R,Dino Rossi,5,5,5
+44364,COSV,Governor,prov,R,Dino Rossi,10,10,10
+44374,COSV,Governor,prov,R,Dino Rossi,7,7,7
+44384,COSV,Governor,prov,R,Dino Rossi,4,4,4
+44394,COSV,Governor,prov,R,Dino Rossi,5,5,5
+44404,COSV,Governor,prov,R,Dino Rossi,28,28,28
+44414,COSV,Governor,prov,R,Dino Rossi,4,4,4
+60004,Greenbluff r,Governor,prov,R,Dino Rossi,9,9,9
+60014,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+60024,Colbert s,Governor,prov,R,Dino Rossi,12,12,12
+60034,Colbert s,Governor,prov,R,Dino Rossi,9,9,9
+60044,Colbert s,Governor,prov,R,Dino Rossi,9,9,9
+60054,Colbert s,Governor,prov,R,Dino Rossi,7,7,7
+60064,Colbert s,Governor,prov,R,Dino Rossi,10,10,10
+60074,Colbert s,Governor,prov,R,Dino Rossi,7,7,7
+60094,Greenbluff r,Governor,prov,R,Dino Rossi,9,9,9
+60104,Greenbluff r,Governor,prov,R,Dino Rossi,2,2,2
+60114,Colbert s,Governor,prov,R,Dino Rossi,5,5,5
+60124,Colbert s,Governor,prov,R,Dino Rossi,6,6,6
+60144,Moran s,Governor,prov,R,Dino Rossi,9,9,10
+60154,Whitworth s,Governor,prov,R,Dino Rossi,9,9,9
+60164,Moran s,Governor,prov,R,Dino Rossi,21,22,22
+60184,Moran s,Governor,prov,R,Dino Rossi,10,10,10
+60194,Moran s,Governor,prov,R,Dino Rossi,4,4,4
+60204,Moran s,Governor,prov,R,Dino Rossi,5,5,5
+60224,West Plains r,Governor,prov,R,Dino Rossi,4,4,4
+60234,Whitworth s,Governor,prov,R,Dino Rossi,6,6,6
+60244,West Plains r,Governor,prov,R,Dino Rossi,4,4,4
+60264,West Plains r,Governor,prov,R,Dino Rossi,1,1,1
+60274,Colbert s,Governor,prov,R,Dino Rossi,5,5,5
+60294,Whitworth s,Governor,prov,R,Dino Rossi,4,4,4
+60304,Whitworth s,Governor,prov,R,Dino Rossi,7,7,7
+60314,Whitworth s,Governor,prov,R,Dino Rossi,10,10,10
+60324,Whitworth s,Governor,prov,R,Dino Rossi,4,4,4
+60334,Whitworth s,Governor,prov,R,Dino Rossi,4,4,4
+60344,Whitworth s,Governor,prov,R,Dino Rossi,9,9,9
+60354,Whitworth s,Governor,prov,R,Dino Rossi,5,6,6
+60364,Whitworth s,Governor,prov,R,Dino Rossi,3,3,3
+60374,Whitworth s,Governor,prov,R,Dino Rossi,8,8,8
+60384,Whitworth s,Governor,prov,R,Dino Rossi,5,5,5
+60394,Whitworth s,Governor,prov,R,Dino Rossi,2,2,2
+61004,Indian Trail,Governor,prov,R,Dino Rossi,9,9,9
+61014,Indian Trail,Governor,prov,R,Dino Rossi,10,10,10
+61024,Indian Trail,Governor,prov,R,Dino Rossi,3,3,3
+61034,Indian Trail,Governor,prov,R,Dino Rossi,7,7,7
+61044,Indian Trail,Governor,prov,R,Dino Rossi,3,3,3
+61054,Indian Trail,Governor,prov,R,Dino Rossi,6,6,6
+61064,Civil War,Governor,prov,R,Dino Rossi,18,18,18
+61074,Civil War,Governor,prov,R,Dino Rossi,7,7,7
+61084,Indian Trail,Governor,prov,R,Dino Rossi,8,8,8
+61094,Indian Trail,Governor,prov,R,Dino Rossi,5,5,5
+61104,Indian Trail,Governor,prov,R,Dino Rossi,6,6,6
+61114,Indian Trail,Governor,prov,R,Dino Rossi,4,4,4
+61124,Indian Trail,Governor,prov,R,Dino Rossi,1,1,1
+61134,Civil War,Governor,prov,R,Dino Rossi,5,5,5
+61144,Civil War,Governor,prov,R,Dino Rossi,12,12,12
+61154,Civil War,Governor,prov,R,Dino Rossi,2,2,2
+61164,Civil War,Governor,prov,R,Dino Rossi,21,21,21
+61174,Finch,Governor,prov,R,Dino Rossi,6,6,6
+61184,Shadle Park,Governor,prov,R,Dino Rossi,6,6,6
+61194,Shadle Park,Governor,prov,R,Dino Rossi,4,4,4
+61204,Shadle Park,Governor,prov,R,Dino Rossi,6,6,6
+61214,Shadle Park,Governor,prov,R,Dino Rossi,7,7,7
+61224,Shadle Park,Governor,prov,R,Dino Rossi,4,4,4
+61234,Shadle Park,Governor,prov,R,Dino Rossi,20,20,20
+61244,Shadle Park,Governor,prov,R,Dino Rossi,6,6,7
+61254,Shadle Park,Governor,prov,R,Dino Rossi,7,7,7
+61264,Shadle Park,Governor,prov,R,Dino Rossi,12,12,12
+61274,Shadle Park,Governor,prov,R,Dino Rossi,11,11,11
+61284,Shadle Park,Governor,prov,R,Dino Rossi,9,9,9
+61294,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+61304,South Hill,Governor,prov,R,Dino Rossi,8,8,8
+61314,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+61324,South Hill,Governor,prov,R,Dino Rossi,1,1,1
+61334,South Hill,Governor,prov,R,Dino Rossi,11,11,11
+61354,South Hill,Governor,prov,R,Dino Rossi,13,13,13
+61364,South Hill,Governor,prov,R,Dino Rossi,4,4,4
+61374,South Hill,Governor,prov,R,Dino Rossi,8,8,8
+61384,South Hill,Governor,prov,R,Dino Rossi,1,1,1
+61394,South Hill,Governor,prov,R,Dino Rossi,12,12,12
+61404,South Hill,Governor,prov,R,Dino Rossi,9,9,9
+61414,South Hill,Governor,prov,R,Dino Rossi,8,8,8
+61424,South Hill,Governor,prov,R,Dino Rossi,1,1,1
+61434,South Hill,Governor,prov,R,Dino Rossi,2,2,2
+61444,South Hill,Governor,prov,R,Dino Rossi,9,9,9
+61454,South Hill,Governor,prov,R,Dino Rossi,11,11,11
+61464,South Hill,Governor,prov,R,Dino Rossi,8,8,8
+61474,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+61484,South Hill,Governor,prov,R,Dino Rossi,2,2,2
+61494,South Hill,Governor,prov,R,Dino Rossi,4,4,4
+61504,South Hill,Governor,prov,R,Dino Rossi,7,7,7
+61514,South Hill,Governor,prov,R,Dino Rossi,30,30,30
+64004,COSV,Governor,prov,R,Dino Rossi,2,2,2
+70004,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+70014,Greenbluff r,Governor,prov,R,Dino Rossi,7,7,7
+70024,Greenbluff r,Governor,prov,R,Dino Rossi,4,4,4
+70034,Greenbluff r,Governor,prov,R,Dino Rossi,1,1,1
+70044,Greenbluff r,Governor,prov,R,Dino Rossi,3,3,3
+70054,Greenbluff r,Governor,prov,R,Dino Rossi,5,5,5
+70064,West Plains r,Governor,prov,R,Dino Rossi,4,4,4
+70074,West Plains r,Governor,prov,R,Dino Rossi,13,13,13
+70084,West Plains r,Governor,prov,R,Dino Rossi,17,17,17
+70094,West Plains r,Governor,prov,R,Dino Rossi,5,5,5
+70104,West Plains r,Governor,prov,R,Dino Rossi,8,8,8
+70114,Greenbluff r,Governor,prov,R,Dino Rossi,12,12,12
+70124,Greenbluff r,Governor,prov,R,Dino Rossi,6,6,6
+71004,Airway Heights,Governor,prov,R,Dino Rossi,15,15,15
+71014,Airway Heights,Governor,prov,R,Dino Rossi,6,6,6
+72004,Fairchild,Governor,prov,R,Dino Rossi,17,17,17
+73004,Deer Park,Governor,prov,R,Dino Rossi,9,9,9
+73014,Deer Park,Governor,prov,R,Dino Rossi,2,2,2
+90004,Palouse r,Governor,prov,R,Dino Rossi,6,6,6
+90034,Palouse r,Governor,prov,R,Dino Rossi,3,3,3
+90044,Palouse r,Governor,prov,R,Dino Rossi,5,5,5
+90054,Palouse r,Governor,prov,R,Dino Rossi,2,2,2
+90064,Palouse r,Governor,prov,R,Dino Rossi,2,2,2
+90074,West Plains r,Governor,prov,R,Dino Rossi,5,5,5
+90084,West Plains r,Governor,prov,R,Dino Rossi,2,2,2
+90094,West Plains r,Governor,prov,R,Dino Rossi,12,12,12
+90104,Palouse r,Governor,prov,R,Dino Rossi,2,2,2
+90154,Palouse r,Governor,prov,R,Dino Rossi,5,5,5
+90194,Moran s,Governor,prov,R,Dino Rossi,5,5,5
+91004,Medical Lake,Governor,prov,R,Dino Rossi,11,11,11
+91014,Medical Lake,Governor,prov,R,Dino Rossi,3,3,3
+92004,Cheney,Governor,prov,R,Dino Rossi,8,8,8
+92014,Cheney,Governor,prov,R,Dino Rossi,5,5,5
+92024,Cheney,Governor,prov,R,Dino Rossi,19,19,19
+92034,Cheney,Governor,prov,R,Dino Rossi,30,30,30
+95004,Fairfield,Governor,prov,R,Dino Rossi,1,1,1
+SPOKANE WA,SPOKANE WA,Governor,prov,R,Dino Rossi,105435,105569,105585
+precinct,area,office,district,party,candidate,total,machine,hand
+31002,NOE,Governor,abs,L,Ruth Bennett,6,6,6
+31012,Hillyard,Governor,abs,L,Ruth Bennett,8,8,8
+31022,NOE,Governor,abs,L,Ruth Bennett,7,7,7
+31032,Hillyard,Governor,abs,L,Ruth Bennett,2,2,2
+31042,NOE,Governor,abs,L,Ruth Bennett,5,5,5
+31052,NOE,Governor,abs,L,Ruth Bennett,8,8,8
+31062,NOE,Governor,abs,L,Ruth Bennett,4,4,4
+31072,NOE,Governor,abs,L,Ruth Bennett,4,4,4
+31082,Shadle Park,Governor,abs,L,Ruth Bennett,8,8,8
+31092,Shadle Park,Governor,abs,L,Ruth Bennett,4,4,4
+31102,Shadle Park,Governor,abs,L,Ruth Bennett,3,3,4
+31112,Shadle Park,Governor,abs,L,Ruth Bennett,7,7,7
+31122,Hillyard,Governor,abs,L,Ruth Bennett,6,6,6
+31132,Hillyard,Governor,abs,L,Ruth Bennett,3,3,3
+31142,NOE,Governor,abs,L,Ruth Bennett,4,4,4
+31152,NOE,Governor,abs,L,Ruth Bennett,2,2,2
+31162,NOE,Governor,abs,L,Ruth Bennett,5,5,5
+31172,NOE,Governor,abs,L,Ruth Bennett,6,6,6
+31182,NOE,Governor,abs,L,Ruth Bennett,7,7,7
+31192,NOE,Governor,abs,L,Ruth Bennett,6,6,6
+31202,NOE,Governor,abs,L,Ruth Bennett,11,11,11
+31212,East Central,Governor,abs,L,Ruth Bennett,7,7,7
+31222,East Central,Governor,abs,L,Ruth Bennett,4,4,4
+31232,East Central,Governor,abs,L,Ruth Bennett,6,6,6
+31242,Shadle Park,Governor,abs,L,Ruth Bennett,6,6,6
+31252,Shadle Park,Governor,abs,L,Ruth Bennett,5,5,5
+31262,Shadle Park,Governor,abs,L,Ruth Bennett,9,9,9
+31272,Shadle Park,Governor,abs,L,Ruth Bennett,2,2,2
+31282,Shadle Park,Governor,abs,L,Ruth Bennett,9,9,9
+31292,South Hill,Governor,abs,L,Ruth Bennett,4,4,4
+31302,South Hill,Governor,abs,L,Ruth Bennett,6,6,6
+31312,East Central,Governor,abs,L,Ruth Bennett,14,14,14
+31322,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+31332,South Hill,Governor,abs,L,Ruth Bennett,11,11,11
+31342,South Hill,Governor,abs,L,Ruth Bennett,9,9,9
+31352,South Hill,Governor,abs,L,Ruth Bennett,6,5,6
+31362,Shadle Park,Governor,abs,L,Ruth Bennett,10,10,10
+31372,East Central,Governor,abs,L,Ruth Bennett,10,10,10
+31382,East Central,Governor,abs,L,Ruth Bennett,8,8,8
+31392,East Central,Governor,abs,L,Ruth Bennett,7,7,7
+31402,East Central,Governor,abs,L,Ruth Bennett,2,2,2
+31412,East Central,Governor,abs,L,Ruth Bennett,9,9,9
+31422,East Central,Governor,abs,L,Ruth Bennett,8,8,8
+31432,West Central,Governor,abs,L,Ruth Bennett,9,9,9
+31442,West Central,Governor,abs,L,Ruth Bennett,11,11,11
+31452,Shadle Park,Governor,abs,L,Ruth Bennett,5,5,5
+31462,West Central,Governor,abs,L,Ruth Bennett,11,11,11
+31472,West Central,Governor,abs,L,Ruth Bennett,3,3,3
+31482,West Central,Governor,abs,L,Ruth Bennett,6,6,6
+31492,West Central,Governor,abs,L,Ruth Bennett,20,20,20
+31502,West Central,Governor,abs,L,Ruth Bennett,4,4,4
+31512,West Central,Governor,abs,L,Ruth Bennett,12,12,12
+31522,Browne's Add,Governor,abs,L,Ruth Bennett,12,12,12
+31532,Browne's Add,Governor,abs,L,Ruth Bennett,9,9,9
+31542,East Central,Governor,abs,L,Ruth Bennett,8,8,8
+31552,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+31562,South Hill,Governor,abs,L,Ruth Bennett,7,7,7
+31572,South Hill,Governor,abs,L,Ruth Bennett,4,4,4
+31582,South Hill,Governor,abs,L,Ruth Bennett,8,8,8
+31592,South Hill,Governor,abs,L,Ruth Bennett,7,7,7
+31602,South Hill,Governor,abs,L,Ruth Bennett,20,20,20
+31612,South Hill,Governor,abs,L,Ruth Bennett,8,8,8
+31622,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+31632,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+31642,South Hill,Governor,abs,L,Ruth Bennett,2,2,2
+31652,South Hill,Governor,abs,L,Ruth Bennett,6,6,6
+40002,Greenbluff r,Governor,abs,L,Ruth Bennett,6,6,6
+40012,Greenbluff r,Governor,abs,L,Ruth Bennett,5,5,5
+40022,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+40032,Colbert s,Governor,abs,L,Ruth Bennett,4,4,4
+40042,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+40052,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+40062,Colbert s,Governor,abs,L,Ruth Bennett,4,4,4
+40072,Greenbluff r,Governor,abs,L,Ruth Bennett,3,3,3
+40092,Greenbluff r,Governor,abs,L,Ruth Bennett,3,3,3
+40102,Greenbluff r,Governor,abs,L,Ruth Bennett,3,3,3
+40112,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+40122,Greenbluff r,Governor,abs,L,Ruth Bennett,4,4,4
+40132,Greenbluff r,Governor,abs,L,Ruth Bennett,6,6,6
+40152,Foothills s,Governor,abs,L,Ruth Bennett,4,4,4
+40162,Foothills s,Governor,abs,L,Ruth Bennett,12,12,12
+40172,Foothills s,Governor,abs,L,Ruth Bennett,7,7,7
+40182,Otis Orchards s,Governor,abs,L,Ruth Bennett,6,6,6
+40192,Otis Orchards s,Governor,abs,L,Ruth Bennett,5,5,5
+40202,Otis Orchards s,Governor,abs,L,Ruth Bennett,3,3,3
+40212,Otis Orchards s,Governor,abs,L,Ruth Bennett,5,5,5
+40222,Otis Orchards s,Governor,abs,L,Ruth Bennett,7,7,7
+40242,Palouse r,Governor,abs,L,Ruth Bennett,0,0,0
+40252,Palouse r,Governor,abs,L,Ruth Bennett,3,3,3
+40272,Palouse r,Governor,abs,L,Ruth Bennett,5,5,5
+40282,Palouse r,Governor,abs,L,Ruth Bennett,8,8,8
+40292,Palouse r,Governor,abs,L,Ruth Bennett,1,1,1
+42002,Millwood,Governor,abs,L,Ruth Bennett,5,5,5
+42012,Millwood,Governor,abs,L,Ruth Bennett,7,7,7
+43002,Liberty Lake,Governor,abs,L,Ruth Bennett,2,2,2
+43012,Liberty Lake,Governor,abs,L,Ruth Bennett,0,0,0
+44002,COSV,Governor,abs,L,Ruth Bennett,7,7,7
+44012,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44022,COSV,Governor,abs,L,Ruth Bennett,14,14,14
+44032,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44042,COSV,Governor,abs,L,Ruth Bennett,13,13,13
+44052,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44062,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44072,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44082,COSV,Governor,abs,L,Ruth Bennett,8,8,8
+44092,COSV,Governor,abs,L,Ruth Bennett,1,1,1
+44102,COSV,Governor,abs,L,Ruth Bennett,8,8,8
+44112,COSV,Governor,abs,L,Ruth Bennett,0,0,0
+44122,COSV,Governor,abs,L,Ruth Bennett,4,4,4
+44132,COSV,Governor,abs,L,Ruth Bennett,10,10,10
+44142,COSV,Governor,abs,L,Ruth Bennett,4,4,4
+44152,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44162,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44172,COSV,Governor,abs,L,Ruth Bennett,7,7,7
+44182,COSV,Governor,abs,L,Ruth Bennett,11,11,11
+44192,COSV,Governor,abs,L,Ruth Bennett,6,6,6
+44202,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44212,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44222,COSV,Governor,abs,L,Ruth Bennett,1,1,1
+44232,COSV,Governor,abs,L,Ruth Bennett,4,4,4
+44242,COSV,Governor,abs,L,Ruth Bennett,3,3,3
+44252,COSV,Governor,abs,L,Ruth Bennett,7,7,7
+44262,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44272,COSV,Governor,abs,L,Ruth Bennett,2,2,2
+44282,COSV,Governor,abs,L,Ruth Bennett,13,13,13
+44292,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44302,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44312,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44322,COSV,Governor,abs,L,Ruth Bennett,7,7,7
+44332,COSV,Governor,abs,L,Ruth Bennett,4,4,4
+44342,COSV,Governor,abs,L,Ruth Bennett,2,2,2
+44352,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44362,COSV,Governor,abs,L,Ruth Bennett,3,3,3
+44372,COSV,Governor,abs,L,Ruth Bennett,5,5,5
+44382,COSV,Governor,abs,L,Ruth Bennett,3,3,3
+44392,COSV,Governor,abs,L,Ruth Bennett,8,8,8
+44402,COSV,Governor,abs,L,Ruth Bennett,12,12,12
+44412,COSV,Governor,abs,L,Ruth Bennett,4,4,4
+60002,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+60012,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+60022,Colbert s,Governor,abs,L,Ruth Bennett,2,2,2
+60032,Colbert s,Governor,abs,L,Ruth Bennett,5,5,5
+60042,Colbert s,Governor,abs,L,Ruth Bennett,4,4,4
+60052,Colbert s,Governor,abs,L,Ruth Bennett,4,4,4
+60062,Colbert s,Governor,abs,L,Ruth Bennett,2,2,2
+60072,Colbert s,Governor,abs,L,Ruth Bennett,1,1,1
+60092,Greenbluff r,Governor,abs,L,Ruth Bennett,6,6,6
+60102,Greenbluff r,Governor,abs,L,Ruth Bennett,3,3,3
+60112,Colbert s,Governor,abs,L,Ruth Bennett,3,3,3
+60122,Colbert s,Governor,abs,L,Ruth Bennett,5,5,5
+60142,Moran s,Governor,abs,L,Ruth Bennett,3,3,3
+60152,Whitworth s,Governor,abs,L,Ruth Bennett,7,7,7
+60162,Moran s,Governor,abs,L,Ruth Bennett,5,5,5
+60182,Moran s,Governor,abs,L,Ruth Bennett,4,4,4
+60192,Moran s,Governor,abs,L,Ruth Bennett,4,4,4
+60202,Moran s,Governor,abs,L,Ruth Bennett,4,4,4
+60222,West Plains r,Governor,abs,L,Ruth Bennett,4,4,4
+60232,Whitworth s,Governor,abs,L,Ruth Bennett,2,2,2
+60242,West Plains r,Governor,abs,L,Ruth Bennett,2,2,2
+60262,West Plains r,Governor,abs,L,Ruth Bennett,1,1,1
+60272,Colbert s,Governor,abs,L,Ruth Bennett,2,2,2
+60292,Whitworth s,Governor,abs,L,Ruth Bennett,1,1,1
+60302,Whitworth s,Governor,abs,L,Ruth Bennett,0,0,0
+60312,Whitworth s,Governor,abs,L,Ruth Bennett,2,2,2
+60322,Whitworth s,Governor,abs,L,Ruth Bennett,6,6,6
+60332,Whitworth s,Governor,abs,L,Ruth Bennett,3,3,3
+60342,Whitworth s,Governor,abs,L,Ruth Bennett,5,5,5
+60352,Whitworth s,Governor,abs,L,Ruth Bennett,5,5,5
+60362,Whitworth s,Governor,abs,L,Ruth Bennett,2,2,2
+60372,Whitworth s,Governor,abs,L,Ruth Bennett,3,3,3
+60382,Whitworth s,Governor,abs,L,Ruth Bennett,3,3,3
+60392,Whitworth s,Governor,abs,L,Ruth Bennett,4,4,4
+61002,Indian Trail,Governor,abs,L,Ruth Bennett,1,1,1
+61012,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61022,Indian Trail,Governor,abs,L,Ruth Bennett,1,1,1
+61032,Indian Trail,Governor,abs,L,Ruth Bennett,7,7,7
+61042,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61052,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61062,Civil War,Governor,abs,L,Ruth Bennett,7,7,7
+61072,Civil War,Governor,abs,L,Ruth Bennett,6,6,6
+61082,Indian Trail,Governor,abs,L,Ruth Bennett,6,6,6
+61092,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61102,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61112,Indian Trail,Governor,abs,L,Ruth Bennett,2,2,2
+61122,Indian Trail,Governor,abs,L,Ruth Bennett,4,4,4
+61132,Civil War,Governor,abs,L,Ruth Bennett,3,3,3
+61142,Civil War,Governor,abs,L,Ruth Bennett,8,8,8
+61152,Civil War,Governor,abs,L,Ruth Bennett,2,2,2
+61162,Civil War,Governor,abs,L,Ruth Bennett,3,3,3
+61172,Finch,Governor,abs,L,Ruth Bennett,10,10,10
+61182,Shadle Park,Governor,abs,L,Ruth Bennett,2,2,2
+61192,Shadle Park,Governor,abs,L,Ruth Bennett,7,7,7
+61202,Shadle Park,Governor,abs,L,Ruth Bennett,6,6,6
+61212,Shadle Park,Governor,abs,L,Ruth Bennett,6,6,6
+61222,Shadle Park,Governor,abs,L,Ruth Bennett,1,1,1
+61232,Shadle Park,Governor,abs,L,Ruth Bennett,5,5,5
+61242,Shadle Park,Governor,abs,L,Ruth Bennett,10,11,11
+61252,Shadle Park,Governor,abs,L,Ruth Bennett,3,3,3
+61262,Shadle Park,Governor,abs,L,Ruth Bennett,4,4,4
+61272,Shadle Park,Governor,abs,L,Ruth Bennett,3,3,3
+61282,Shadle Park,Governor,abs,L,Ruth Bennett,3,3,3
+61292,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+61302,South Hill,Governor,abs,L,Ruth Bennett,0,0,0
+61312,South Hill,Governor,abs,L,Ruth Bennett,0,0,0
+61322,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+61332,South Hill,Governor,abs,L,Ruth Bennett,4,4,4
+61352,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+61362,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+61372,South Hill,Governor,abs,L,Ruth Bennett,1,1,1
+61382,South Hill,Governor,abs,L,Ruth Bennett,5,5,5
+61392,South Hill,Governor,abs,L,Ruth Bennett,1,1,1
+61402,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+61412,South Hill,Governor,abs,L,Ruth Bennett,1,1,1
+61422,South Hill,Governor,abs,L,Ruth Bennett,2,2,2
+61432,South Hill,Governor,abs,L,Ruth Bennett,7,7,7
+61442,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+61452,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+61462,South Hill,Governor,abs,L,Ruth Bennett,4,4,4
+61472,South Hill,Governor,abs,L,Ruth Bennett,1,1,1
+61482,South Hill,Governor,abs,L,Ruth Bennett,2,2,2
+61492,South Hill,Governor,abs,L,Ruth Bennett,3,3,3
+61502,South Hill,Governor,abs,L,Ruth Bennett,0,0,0
+61512,South Hill,Governor,abs,L,Ruth Bennett,4,4,4
+64002,COSV,Governor,abs,L,Ruth Bennett,1,1,1
+70002,Greenbluff r,Governor,abs,L,Ruth Bennett,3,3,3
+70012,Greenbluff r,Governor,abs,L,Ruth Bennett,9,9,9
+70022,Greenbluff r,Governor,abs,L,Ruth Bennett,1,1,1
+70032,Greenbluff r,Governor,abs,L,Ruth Bennett,1,1,1
+70042,Greenbluff r,Governor,abs,L,Ruth Bennett,1,1,1
+70052,Greenbluff r,Governor,abs,L,Ruth Bennett,1,1,1
+70062,West Plains r,Governor,abs,L,Ruth Bennett,5,5,5
+70072,West Plains r,Governor,abs,L,Ruth Bennett,0,0,0
+70082,West Plains r,Governor,abs,L,Ruth Bennett,7,7,7
+70092,West Plains r,Governor,abs,L,Ruth Bennett,2,2,2
+70102,West Plains r,Governor,abs,L,Ruth Bennett,5,5,5
+70112,Greenbluff r,Governor,abs,L,Ruth Bennett,5,5,5
+70122,Greenbluff r,Governor,abs,L,Ruth Bennett,2,2,2
+71002,Airway Heights,Governor,abs,L,Ruth Bennett,9,9,9
+71012,Airway Heights,Governor,abs,L,Ruth Bennett,2,2,2
+72002,Fairchild,Governor,abs,L,Ruth Bennett,1,1,1
+73002,Deer Park,Governor,abs,L,Ruth Bennett,4,4,4
+73012,Deer Park,Governor,abs,L,Ruth Bennett,6,6,6
+90002,Palouse r,Governor,abs,L,Ruth Bennett,2,2,2
+90032,Palouse r,Governor,abs,L,Ruth Bennett,0,0,0
+90042,Palouse r,Governor,abs,L,Ruth Bennett,7,7,7
+90052,Palouse r,Governor,abs,L,Ruth Bennett,4,4,4
+90062,Palouse r,Governor,abs,L,Ruth Bennett,6,6,6
+90072,West Plains r,Governor,abs,L,Ruth Bennett,3,3,3
+90082,West Plains r,Governor,abs,L,Ruth Bennett,4,4,4
+90092,West Plains r,Governor,abs,L,Ruth Bennett,1,1,1
+90102,Palouse r,Governor,abs,L,Ruth Bennett,8,8,8
+90152,Palouse r,Governor,abs,L,Ruth Bennett,10,10,10
+90192,Moran s,Governor,abs,L,Ruth Bennett,2,2,2
+91002,Medical Lake,Governor,abs,L,Ruth Bennett,5,5,5
+91012,Medical Lake,Governor,abs,L,Ruth Bennett,1,1,1
+92002,Cheney,Governor,abs,L,Ruth Bennett,7,7,7
+92012,Cheney,Governor,abs,L,Ruth Bennett,9,9,9
+92022,Cheney,Governor,abs,L,Ruth Bennett,8,8,8
+92032,Cheney,Governor,abs,L,Ruth Bennett,10,10,10
+95002,Fairfield,Governor,abs,L,Ruth Bennett,2,2,2
+31001,NOE,Governor,poll,L,Ruth Bennett,16,16,16
+31011,Hillyard,Governor,poll,L,Ruth Bennett,10,10,10
+31021,NOE,Governor,poll,L,Ruth Bennett,14,14,14
+31031,Hillyard,Governor,poll,L,Ruth Bennett,8,8,8
+31041,NOE,Governor,poll,L,Ruth Bennett,13,13,13
+31051,NOE,Governor,poll,L,Ruth Bennett,8,8,8
+31061,NOE,Governor,poll,L,Ruth Bennett,15,15,15
+31071,NOE,Governor,poll,L,Ruth Bennett,14,14,14
+31081,Shadle Park,Governor,poll,L,Ruth Bennett,14,14,14
+31091,Shadle Park,Governor,poll,L,Ruth Bennett,11,11,11
+31101,Shadle Park,Governor,poll,L,Ruth Bennett,7,7,7
+31111,Shadle Park,Governor,poll,L,Ruth Bennett,8,8,8
+31121,Hillyard,Governor,poll,L,Ruth Bennett,12,12,12
+31131,Hillyard,Governor,poll,L,Ruth Bennett,8,8,8
+31141,NOE,Governor,poll,L,Ruth Bennett,11,11,11
+31151,NOE,Governor,poll,L,Ruth Bennett,12,12,12
+31161,NOE,Governor,poll,L,Ruth Bennett,16,16,16
+31171,NOE,Governor,poll,L,Ruth Bennett,12,12,12
+31181,NOE,Governor,poll,L,Ruth Bennett,9,9,9
+31191,NOE,Governor,poll,L,Ruth Bennett,13,13,13
+31201,NOE,Governor,poll,L,Ruth Bennett,16,16,17
+31211,East Central,Governor,poll,L,Ruth Bennett,15,15,15
+31221,East Central,Governor,poll,L,Ruth Bennett,10,10,10
+31231,East Central,Governor,poll,L,Ruth Bennett,3,3,3
+31241,Shadle Park,Governor,poll,L,Ruth Bennett,16,16,16
+31251,Shadle Park,Governor,poll,L,Ruth Bennett,4,4,4
+31261,Shadle Park,Governor,poll,L,Ruth Bennett,4,4,4
+31271,Shadle Park,Governor,poll,L,Ruth Bennett,5,5,5
+31281,Shadle Park,Governor,poll,L,Ruth Bennett,13,13,13
+31291,South Hill,Governor,poll,L,Ruth Bennett,10,10,10
+31301,South Hill,Governor,poll,L,Ruth Bennett,8,8,8
+31311,East Central,Governor,poll,L,Ruth Bennett,19,19,19
+31321,South Hill,Governor,poll,L,Ruth Bennett,2,2,2
+31331,South Hill,Governor,poll,L,Ruth Bennett,15,15,15
+31341,South Hill,Governor,poll,L,Ruth Bennett,10,10,10
+31351,South Hill,Governor,poll,L,Ruth Bennett,7,7,7
+31361,Shadle Park,Governor,poll,L,Ruth Bennett,14,14,14
+31371,East Central,Governor,poll,L,Ruth Bennett,8,8,8
+31381,East Central,Governor,poll,L,Ruth Bennett,25,25,25
+31391,East Central,Governor,poll,L,Ruth Bennett,16,16,16
+31401,East Central,Governor,poll,L,Ruth Bennett,12,12,12
+31411,East Central,Governor,poll,L,Ruth Bennett,17,17,17
+31421,East Central,Governor,poll,L,Ruth Bennett,20,20,20
+31431,West Central,Governor,poll,L,Ruth Bennett,11,11,11
+31441,West Central,Governor,poll,L,Ruth Bennett,17,17,17
+31451,Shadle Park,Governor,poll,L,Ruth Bennett,4,4,4
+31461,West Central,Governor,poll,L,Ruth Bennett,7,7,7
+31471,West Central,Governor,poll,L,Ruth Bennett,14,14,14
+31481,West Central,Governor,poll,L,Ruth Bennett,13,13,13
+31491,West Central,Governor,poll,L,Ruth Bennett,17,17,17
+31501,West Central,Governor,poll,L,Ruth Bennett,13,13,13
+31511,West Central,Governor,poll,L,Ruth Bennett,20,20,20
+31521,Browne's Add,Governor,poll,L,Ruth Bennett,24,24,24
+31531,Browne's Add,Governor,poll,L,Ruth Bennett,18,18,18
+31541,East Central,Governor,poll,L,Ruth Bennett,11,11,11
+31551,South Hill,Governor,poll,L,Ruth Bennett,10,10,10
+31561,South Hill,Governor,poll,L,Ruth Bennett,8,8,8
+31571,South Hill,Governor,poll,L,Ruth Bennett,9,9,9
+31581,South Hill,Governor,poll,L,Ruth Bennett,13,13,13
+31591,South Hill,Governor,poll,L,Ruth Bennett,19,19,19
+31601,South Hill,Governor,poll,L,Ruth Bennett,10,10,10
+31611,South Hill,Governor,poll,L,Ruth Bennett,13,13,13
+31621,South Hill,Governor,poll,L,Ruth Bennett,16,16,16
+31631,South Hill,Governor,poll,L,Ruth Bennett,6,6,6
+31641,South Hill,Governor,poll,L,Ruth Bennett,5,5,5
+31651,South Hill,Governor,poll,L,Ruth Bennett,12,12,12
+40001,Greenbluff r,Governor,poll,L,Ruth Bennett,14,14,14
+40011,Greenbluff r,Governor,poll,L,Ruth Bennett,14,14,14
+40021,Greenbluff r,Governor,poll,L,Ruth Bennett,13,13,13
+40031,Colbert s,Governor,poll,L,Ruth Bennett,0,0,0
+40041,Greenbluff r,Governor,poll,L,Ruth Bennett,5,5,5
+40051,Greenbluff r,Governor,poll,L,Ruth Bennett,12,12,12
+40061,Colbert s,Governor,poll,L,Ruth Bennett,9,9,9
+40071,Greenbluff r,Governor,poll,L,Ruth Bennett,7,7,7
+40083,Greenbluff r,Governor,poll,L,Ruth Bennett,4,4,4
+40091,Greenbluff r,Governor,poll,L,Ruth Bennett,7,7,7
+40101,Greenbluff r,Governor,poll,L,Ruth Bennett,2,2,2
+40111,Greenbluff r,Governor,poll,L,Ruth Bennett,9,9,9
+40121,Greenbluff r,Governor,poll,L,Ruth Bennett,4,4,4
+40131,Greenbluff r,Governor,poll,L,Ruth Bennett,9,9,9
+40143,Foothills s,Governor,vbm,L,Ruth Bennett,6,6,6
+40151,Foothills s,Governor,poll,L,Ruth Bennett,6,6,6
+40161,Foothills s,Governor,poll,L,Ruth Bennett,8,8,8
+40171,Foothills s,Governor,poll,L,Ruth Bennett,7,7,7
+40181,Otis Orchards s,Governor,poll,L,Ruth Bennett,6,6,6
+40191,Otis Orchards s,Governor,poll,L,Ruth Bennett,7,7,7
+40201,Otis Orchards s,Governor,poll,L,Ruth Bennett,11,11,11
+40211,Otis Orchards s,Governor,poll,L,Ruth Bennett,8,8,8
+40221,Otis Orchards s,Governor,poll,L,Ruth Bennett,10,10,10
+40233,Palouse r,Governor,vbm,L,Ruth Bennett,0,0,0
+40241,Palouse r,Governor,poll,L,Ruth Bennett,2,2,2
+40251,Palouse r,Governor,poll,L,Ruth Bennett,7,7,7
+40263,Palouse r,Governor,vbm,L,Ruth Bennett,6,6,6
+40271,Palouse r,Governor,poll,L,Ruth Bennett,7,7,7
+40281,Palouse r,Governor,poll,L,Ruth Bennett,11,12,12
+40291,Palouse r,Governor,poll,L,Ruth Bennett,4,4,4
+41003,NOE,Governor,vbm,L,Ruth Bennett,0,0,0
+41013,East Central,Governor,vbm,L,Ruth Bennett,6,6,6
+42001,Millwood,Governor,poll,L,Ruth Bennett,5,5,5
+42011,Millwood,Governor,poll,L,Ruth Bennett,1,1,1
+43001,Liberty Lake,Governor,poll,L,Ruth Bennett,9,10,10
+43011,Liberty Lake,Governor,poll,L,Ruth Bennett,4,4,4
+44001,COSV,Governor,poll,L,Ruth Bennett,10,10,10
+44011,COSV,Governor,poll,L,Ruth Bennett,13,13,13
+44021,COSV,Governor,poll,L,Ruth Bennett,13,13,13
+44031,COSV,Governor,poll,L,Ruth Bennett,19,19,19
+44041,COSV,Governor,poll,L,Ruth Bennett,14,15,15
+44051,COSV,Governor,poll,L,Ruth Bennett,11,11,11
+44061,COSV,Governor,poll,L,Ruth Bennett,21,22,22
+44071,COSV,Governor,poll,L,Ruth Bennett,11,11,11
+44081,COSV,Governor,poll,L,Ruth Bennett,3,3,3
+44091,COSV,Governor,poll,L,Ruth Bennett,9,9,9
+44101,COSV,Governor,poll,L,Ruth Bennett,9,9,9
+44111,COSV,Governor,poll,L,Ruth Bennett,3,3,3
+44121,COSV,Governor,poll,L,Ruth Bennett,8,8,8
+44131,COSV,Governor,poll,L,Ruth Bennett,7,7,7
+44141,COSV,Governor,poll,L,Ruth Bennett,6,6,6
+44151,COSV,Governor,poll,L,Ruth Bennett,19,19,19
+44161,COSV,Governor,poll,L,Ruth Bennett,15,15,15
+44171,COSV,Governor,poll,L,Ruth Bennett,24,24,24
+44181,COSV,Governor,poll,L,Ruth Bennett,12,12,12
+44191,COSV,Governor,poll,L,Ruth Bennett,9,9,9
+44201,COSV,Governor,poll,L,Ruth Bennett,11,11,11
+44211,COSV,Governor,poll,L,Ruth Bennett,6,6,6
+44221,COSV,Governor,poll,L,Ruth Bennett,7,7,7
+44231,COSV,Governor,poll,L,Ruth Bennett,10,10,10
+44241,COSV,Governor,poll,L,Ruth Bennett,2,2,2
+44251,COSV,Governor,poll,L,Ruth Bennett,2,2,2
+44261,COSV,Governor,poll,L,Ruth Bennett,6,6,6
+44271,COSV,Governor,poll,L,Ruth Bennett,8,8,8
+44281,COSV,Governor,poll,L,Ruth Bennett,22,22,22
+44291,COSV,Governor,poll,L,Ruth Bennett,12,12,12
+44301,COSV,Governor,poll,L,Ruth Bennett,9,9,9
+44311,COSV,Governor,poll,L,Ruth Bennett,4,4,4
+44321,COSV,Governor,poll,L,Ruth Bennett,11,11,11
+44331,COSV,Governor,poll,L,Ruth Bennett,12,12,12
+44341,COSV,Governor,poll,L,Ruth Bennett,13,13,13
+44351,COSV,Governor,poll,L,Ruth Bennett,7,7,7
+44361,COSV,Governor,poll,L,Ruth Bennett,4,4,4
+44371,COSV,Governor,poll,L,Ruth Bennett,18,18,18
+44381,COSV,Governor,poll,L,Ruth Bennett,4,4,4
+44391,COSV,Governor,poll,L,Ruth Bennett,15,15,15
+44401,COSV,Governor,poll,L,Ruth Bennett,23,23,23
+44411,COSV,Governor,poll,L,Ruth Bennett,11,11,11
+60001,Greenbluff r,Governor,poll,L,Ruth Bennett,0,0,0
+60011,Greenbluff r,Governor,poll,L,Ruth Bennett,4,4,4
+60021,Colbert s,Governor,poll,L,Ruth Bennett,5,5,5
+60031,Colbert s,Governor,poll,L,Ruth Bennett,2,2,2
+60041,Colbert s,Governor,poll,L,Ruth Bennett,11,11,11
+60051,Colbert s,Governor,poll,L,Ruth Bennett,8,8,8
+60061,Colbert s,Governor,poll,L,Ruth Bennett,3,3,3
+60071,Colbert s,Governor,poll,L,Ruth Bennett,1,1,1
+60083,Colbert s,Governor,vbm,L,Ruth Bennett,3,3,3
+60091,Greenbluff r,Governor,poll,L,Ruth Bennett,3,3,3
+60101,Greenbluff r,Governor,poll,L,Ruth Bennett,3,3,3
+60111,Colbert s,Governor,poll,L,Ruth Bennett,9,9,9
+60121,Colbert s,Governor,poll,L,Ruth Bennett,11,11,11
+60141,Moran s,Governor,poll,L,Ruth Bennett,1,1,1
+60151,Whitworth s,Governor,poll,L,Ruth Bennett,13,13,13
+60161,Moran s,Governor,poll,L,Ruth Bennett,5,5,5
+60173,West Plains r,Governor,vbm,L,Ruth Bennett,2,2,2
+60181,Moran s,Governor,poll,L,Ruth Bennett,6,6,6
+60191,Moran s,Governor,poll,L,Ruth Bennett,8,8,8
+60201,Moran s,Governor,poll,L,Ruth Bennett,9,9,9
+60213,Palouse r,Governor,vbm,L,Ruth Bennett,0,0,0
+60221,West Plains r,Governor,poll,L,Ruth Bennett,12,12,12
+60231,Whitworth s,Governor,poll,L,Ruth Bennett,6,6,6
+60241,West Plains r,Governor,poll,L,Ruth Bennett,13,13,13
+60253,West Plains r,Governor,vbm,L,Ruth Bennett,3,3,3
+60261,West Plains r,Governor,poll,L,Ruth Bennett,4,4,4
+60271,Colbert s,Governor,poll,L,Ruth Bennett,4,4,4
+60283,Whitworth s,Governor,vbm,L,Ruth Bennett,0,0,0
+60291,Whitworth s,Governor,poll,L,Ruth Bennett,6,6,6
+60301,Whitworth s,Governor,poll,L,Ruth Bennett,3,3,3
+60311,Whitworth s,Governor,poll,L,Ruth Bennett,5,5,5
+60321,Whitworth s,Governor,poll,L,Ruth Bennett,5,5,5
+60331,Whitworth s,Governor,poll,L,Ruth Bennett,5,5,5
+60341,Whitworth s,Governor,poll,L,Ruth Bennett,3,3,3
+60351,Whitworth s,Governor,poll,L,Ruth Bennett,7,7,7
+60361,Whitworth s,Governor,poll,L,Ruth Bennett,12,12,12
+60371,Whitworth s,Governor,poll,L,Ruth Bennett,4,4,4
+60381,Whitworth s,Governor,poll,L,Ruth Bennett,3,3,3
+60391,Whitworth s,Governor,poll,L,Ruth Bennett,8,8,8
+61001,Indian Trail,Governor,poll,L,Ruth Bennett,0,0,0
+61011,Indian Trail,Governor,poll,L,Ruth Bennett,9,9,9
+61021,Indian Trail,Governor,poll,L,Ruth Bennett,6,6,6
+61031,Indian Trail,Governor,poll,L,Ruth Bennett,5,5,5
+61041,Indian Trail,Governor,poll,L,Ruth Bennett,4,4,4
+61051,Indian Trail,Governor,poll,L,Ruth Bennett,3,3,3
+61061,Civil War,Governor,poll,L,Ruth Bennett,9,9,9
+61071,Civil War,Governor,poll,L,Ruth Bennett,8,8,8
+61081,Indian Trail,Governor,poll,L,Ruth Bennett,12,12,12
+61091,Indian Trail,Governor,poll,L,Ruth Bennett,3,3,3
+61101,Indian Trail,Governor,poll,L,Ruth Bennett,6,6,6
+61111,Indian Trail,Governor,poll,L,Ruth Bennett,4,4,4
+61121,Indian Trail,Governor,poll,L,Ruth Bennett,7,7,7
+61131,Civil War,Governor,poll,L,Ruth Bennett,14,14,14
+61141,Civil War,Governor,poll,L,Ruth Bennett,6,6,6
+61151,Civil War,Governor,poll,L,Ruth Bennett,10,10,10
+61161,Civil War,Governor,poll,L,Ruth Bennett,12,12,12
+61171,Finch,Governor,poll,L,Ruth Bennett,15,15,15
+61181,Shadle Park,Governor,poll,L,Ruth Bennett,10,10,10
+61191,Shadle Park,Governor,poll,L,Ruth Bennett,10,10,10
+61201,Shadle Park,Governor,poll,L,Ruth Bennett,16,16,16
+61211,Shadle Park,Governor,poll,L,Ruth Bennett,7,7,7
+61221,Shadle Park,Governor,poll,L,Ruth Bennett,4,4,4
+61231,Shadle Park,Governor,poll,L,Ruth Bennett,12,12,12
+61241,Shadle Park,Governor,poll,L,Ruth Bennett,10,10,10
+61251,Shadle Park,Governor,poll,L,Ruth Bennett,12,12,12
+61261,Shadle Park,Governor,poll,L,Ruth Bennett,11,11,11
+61271,Shadle Park,Governor,poll,L,Ruth Bennett,13,13,13
+61281,Shadle Park,Governor,poll,L,Ruth Bennett,4,4,4
+61291,South Hill,Governor,poll,L,Ruth Bennett,4,4,4
+61301,South Hill,Governor,poll,L,Ruth Bennett,1,1,1
+61311,South Hill,Governor,poll,L,Ruth Bennett,3,3,3
+61321,South Hill,Governor,poll,L,Ruth Bennett,6,6,6
+61331,South Hill,Governor,poll,L,Ruth Bennett,8,8,8
+61343,Shadle Park,Governor,vbm,L,Ruth Bennett,3,3,3
+61351,South Hill,Governor,poll,L,Ruth Bennett,7,7,7
+61361,South Hill,Governor,poll,L,Ruth Bennett,15,15,15
+61371,South Hill,Governor,poll,L,Ruth Bennett,6,6,6
+61381,South Hill,Governor,poll,L,Ruth Bennett,6,6,6
+61391,South Hill,Governor,poll,L,Ruth Bennett,5,5,5
+61401,South Hill,Governor,poll,L,Ruth Bennett,6,6,6
+61411,South Hill,Governor,poll,L,Ruth Bennett,3,3,3
+61421,South Hill,Governor,poll,L,Ruth Bennett,3,3,3
+61431,South Hill,Governor,poll,L,Ruth Bennett,5,5,5
+61441,South Hill,Governor,poll,L,Ruth Bennett,7,7,7
+61451,South Hill,Governor,poll,L,Ruth Bennett,14,14,14
+61461,South Hill,Governor,poll,L,Ruth Bennett,7,7,7
+61471,South Hill,Governor,poll,L,Ruth Bennett,9,9,9
+61481,South Hill,Governor,poll,L,Ruth Bennett,4,4,4
+61491,South Hill,Governor,poll,L,Ruth Bennett,4,4,4
+61501,South Hill,Governor,poll,L,Ruth Bennett,3,3,3
+61511,South Hill,Governor,poll,L,Ruth Bennett,12,12,12
+64001,COSV,Governor,poll,L,Ruth Bennett,5,5,5
+70001,Greenbluff r,Governor,poll,L,Ruth Bennett,14,14,14
+70011,Greenbluff r,Governor,poll,L,Ruth Bennett,6,6,6
+70021,Greenbluff r,Governor,poll,L,Ruth Bennett,11,11,11
+70031,Greenbluff r,Governor,poll,L,Ruth Bennett,2,2,2
+70041,Greenbluff r,Governor,poll,L,Ruth Bennett,6,6,6
+70051,Greenbluff r,Governor,poll,L,Ruth Bennett,12,12,12
+70061,West Plains r,Governor,poll,L,Ruth Bennett,4,4,4
+70071,West Plains r,Governor,poll,L,Ruth Bennett,9,9,9
+70081,West Plains r,Governor,poll,L,Ruth Bennett,20,20,20
+70091,West Plains r,Governor,poll,L,Ruth Bennett,11,11,11
+70101,West Plains r,Governor,poll,L,Ruth Bennett,15,15,15
+70111,Greenbluff r,Governor,poll,L,Ruth Bennett,7,7,7
+70121,Greenbluff r,Governor,poll,L,Ruth Bennett,6,6,6
+71001,Airway Heights,Governor,poll,L,Ruth Bennett,16,16,16
+71011,Airway Heights,Governor,poll,L,Ruth Bennett,7,7,7
+72001,Fairchild,Governor,poll,L,Ruth Bennett,17,17,17
+73001,Deer Park,Governor,poll,L,Ruth Bennett,6,6,6
+73011,Deer Park,Governor,poll,L,Ruth Bennett,8,8,8
+90001,Palouse r,Governor,poll,L,Ruth Bennett,3,3,3
+90013,Palouse r,Governor,vbm,L,Ruth Bennett,7,7,7
+90023,Palouse r,Governor,vbm,L,Ruth Bennett,2,2,2
+90031,Palouse r,Governor,poll,L,Ruth Bennett,9,9,9
+90041,Palouse r,Governor,poll,L,Ruth Bennett,5,5,5
+90051,Palouse r,Governor,poll,L,Ruth Bennett,8,8,8
+90061,Palouse r,Governor,poll,L,Ruth Bennett,8,8,8
+90071,West Plains r,Governor,poll,L,Ruth Bennett,6,6,6
+90081,West Plains r,Governor,poll,L,Ruth Bennett,2,2,2
+90091,West Plains r,Governor,poll,L,Ruth Bennett,4,4,4
+90101,Palouse r,Governor,poll,L,Ruth Bennett,13,13,13
+90113,Palouse r,Governor,vbm,L,Ruth Bennett,3,3,3
+90123,Palouse r,Governor,vbm,L,Ruth Bennett,3,3,3
+90133,Palouse r,Governor,vbm,L,Ruth Bennett,1,1,2
+90143,Palouse r,Governor,vbm,L,Ruth Bennett,5,5,5
+90151,Palouse r,Governor,poll,L,Ruth Bennett,8,8,8
+90163,Palouse r,Governor,vbm,L,Ruth Bennett,6,6,6
+90173,Palouse r,Governor,vbm,L,Ruth Bennett,8,8,8
+90183,Palouse r,Governor,vbm,L,Ruth Bennett,4,4,4
+90191,Moran s,Governor,poll,L,Ruth Bennett,2,2,2
+90203,Palouse r,Governor,vbm,L,Ruth Bennett,4,4,4
+91001,Medical Lake,Governor,poll,L,Ruth Bennett,9,9,9
+91011,Medical Lake,Governor,poll,L,Ruth Bennett,7,7,7
+92001,Cheney,Governor,poll,L,Ruth Bennett,9,9,9
+92011,Cheney,Governor,poll,L,Ruth Bennett,10,10,10
+92021,Cheney,Governor,poll,L,Ruth Bennett,11,11,11
+92031,Cheney,Governor,poll,L,Ruth Bennett,12,12,12
+93003,Spangle,Governor,vbm,L,Ruth Bennett,8,8,8
+94003,Waverly,Governor,vbm,L,Ruth Bennett,0,0,0
+95001,Fairfield,Governor,poll,L,Ruth Bennett,2,2,2
+96003,Latah,Governor,vbm,L,Ruth Bennett,7,7,7
+97003,Rockford,Governor,vbm,L,Ruth Bennett,1,1,1
+31004,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31014,Hillyard,Governor,prov,L,Ruth Bennett,4,4,4
+31024,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31034,Hillyard,Governor,prov,L,Ruth Bennett,0,0,0
+31044,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31054,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31064,NOE,Governor,prov,L,Ruth Bennett,3,3,3
+31074,NOE,Governor,prov,L,Ruth Bennett,2,2,2
+31084,Shadle Park,Governor,prov,L,Ruth Bennett,1,1,1
+31094,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31104,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31114,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31124,Hillyard,Governor,prov,L,Ruth Bennett,3,3,3
+31134,Hillyard,Governor,prov,L,Ruth Bennett,0,0,0
+31144,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31154,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31164,NOE,Governor,prov,L,Ruth Bennett,2,2,2
+31174,NOE,Governor,prov,L,Ruth Bennett,2,2,2
+31184,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31194,NOE,Governor,prov,L,Ruth Bennett,0,0,0
+31204,NOE,Governor,prov,L,Ruth Bennett,2,2,2
+31214,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31224,East Central,Governor,prov,L,Ruth Bennett,0,0,0
+31234,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31244,Shadle Park,Governor,prov,L,Ruth Bennett,1,1,1
+31254,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31264,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31274,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31284,Shadle Park,Governor,prov,L,Ruth Bennett,2,2,2
+31294,South Hill,Governor,prov,L,Ruth Bennett,3,3,3
+31304,South Hill,Governor,prov,L,Ruth Bennett,2,2,2
+31314,East Central,Governor,prov,L,Ruth Bennett,2,2,2
+31324,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31334,South Hill,Governor,prov,L,Ruth Bennett,2,2,2
+31344,South Hill,Governor,prov,L,Ruth Bennett,3,3,3
+31354,South Hill,Governor,prov,L,Ruth Bennett,2,2,2
+31364,Shadle Park,Governor,prov,L,Ruth Bennett,2,2,2
+31374,East Central,Governor,prov,L,Ruth Bennett,3,3,3
+31384,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31394,East Central,Governor,prov,L,Ruth Bennett,0,0,0
+31404,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31414,East Central,Governor,prov,L,Ruth Bennett,2,2,2
+31424,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31434,West Central,Governor,prov,L,Ruth Bennett,1,1,1
+31444,West Central,Governor,prov,L,Ruth Bennett,1,1,1
+31454,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+31464,West Central,Governor,prov,L,Ruth Bennett,6,6,6
+31474,West Central,Governor,prov,L,Ruth Bennett,0,0,0
+31484,West Central,Governor,prov,L,Ruth Bennett,0,0,0
+31494,West Central,Governor,prov,L,Ruth Bennett,3,3,3
+31504,West Central,Governor,prov,L,Ruth Bennett,0,0,0
+31514,West Central,Governor,prov,L,Ruth Bennett,0,0,0
+31524,Browne's Add,Governor,prov,L,Ruth Bennett,3,3,3
+31534,Browne's Add,Governor,prov,L,Ruth Bennett,1,1,1
+31544,East Central,Governor,prov,L,Ruth Bennett,1,1,1
+31554,South Hill,Governor,prov,L,Ruth Bennett,3,3,3
+31564,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31574,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31584,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31594,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31604,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31614,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+31624,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+31634,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31644,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+31654,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+40004,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40014,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40024,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40034,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+40044,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40054,Greenbluff r,Governor,prov,L,Ruth Bennett,2,2,2
+40064,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+40074,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40094,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40104,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40114,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40124,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+40134,Greenbluff r,Governor,prov,L,Ruth Bennett,1,1,1
+40154,Foothills s,Governor,prov,L,Ruth Bennett,0,0,0
+40164,Foothills s,Governor,prov,L,Ruth Bennett,0,0,0
+40174,Foothills s,Governor,prov,L,Ruth Bennett,0,0,0
+40184,Otis Orchards s,Governor,prov,L,Ruth Bennett,3,3,3
+40194,Otis Orchards s,Governor,prov,L,Ruth Bennett,0,0,0
+40204,Otis Orchards s,Governor,prov,L,Ruth Bennett,0,0,0
+40214,Otis Orchards s,Governor,prov,L,Ruth Bennett,1,1,1
+40224,Otis Orchards s,Governor,prov,L,Ruth Bennett,1,1,1
+40244,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+40254,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+40274,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+40284,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+40294,Palouse r,Governor,prov,L,Ruth Bennett,2,2,2
+42004,Millwood,Governor,prov,L,Ruth Bennett,0,0,0
+42014,Millwood,Governor,prov,L,Ruth Bennett,1,1,1
+43004,Liberty Lake,Governor,prov,L,Ruth Bennett,1,1,1
+43014,Liberty Lake,Governor,prov,L,Ruth Bennett,0,0,0
+44004,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44014,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44024,COSV,Governor,prov,L,Ruth Bennett,2,2,2
+44034,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44044,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44054,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44064,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44074,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44084,COSV,Governor,prov,L,Ruth Bennett,2,2,2
+44094,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44104,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44124,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44134,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44144,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44154,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44164,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44174,COSV,Governor,prov,L,Ruth Bennett,2,2,2
+44184,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44194,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44204,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44214,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44224,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44234,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44244,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44254,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44264,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44274,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44284,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44294,COSV,Governor,prov,L,Ruth Bennett,2,2,2
+44304,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44314,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44324,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44334,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44344,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44354,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44364,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44374,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44384,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44394,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+44404,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+44414,COSV,Governor,prov,L,Ruth Bennett,1,1,1
+60004,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+60014,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+60024,Colbert s,Governor,prov,L,Ruth Bennett,1,1,1
+60034,Colbert s,Governor,prov,L,Ruth Bennett,1,1,1
+60044,Colbert s,Governor,prov,L,Ruth Bennett,2,2,2
+60054,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+60064,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+60074,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+60094,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+60104,Greenbluff r,Governor,prov,L,Ruth Bennett,1,1,1
+60114,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+60124,Colbert s,Governor,prov,L,Ruth Bennett,0,0,0
+60144,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+60154,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60164,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+60184,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+60194,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+60204,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+60224,West Plains r,Governor,prov,L,Ruth Bennett,1,1,1
+60234,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60244,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+60264,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+60274,Colbert s,Governor,prov,L,Ruth Bennett,1,1,1
+60294,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60304,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60314,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60324,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60334,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60344,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60354,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60364,Whitworth s,Governor,prov,L,Ruth Bennett,1,1,1
+60374,Whitworth s,Governor,prov,L,Ruth Bennett,1,1,1
+60384,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+60394,Whitworth s,Governor,prov,L,Ruth Bennett,0,0,0
+61004,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61014,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61024,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61034,Indian Trail,Governor,prov,L,Ruth Bennett,1,1,1
+61044,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61054,Indian Trail,Governor,prov,L,Ruth Bennett,1,1,1
+61064,Civil War,Governor,prov,L,Ruth Bennett,0,0,0
+61074,Civil War,Governor,prov,L,Ruth Bennett,0,0,0
+61084,Indian Trail,Governor,prov,L,Ruth Bennett,1,1,1
+61094,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61104,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61114,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61124,Indian Trail,Governor,prov,L,Ruth Bennett,0,0,0
+61134,Civil War,Governor,prov,L,Ruth Bennett,0,0,0
+61144,Civil War,Governor,prov,L,Ruth Bennett,1,2,2
+61154,Civil War,Governor,prov,L,Ruth Bennett,0,0,0
+61164,Civil War,Governor,prov,L,Ruth Bennett,0,0,0
+61174,Finch,Governor,prov,L,Ruth Bennett,0,0,0
+61184,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+61194,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+61204,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+61214,Shadle Park,Governor,prov,L,Ruth Bennett,1,1,1
+61224,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+61234,Shadle Park,Governor,prov,L,Ruth Bennett,1,1,1
+61244,Shadle Park,Governor,prov,L,Ruth Bennett,2,2,2
+61254,Shadle Park,Governor,prov,L,Ruth Bennett,2,2,2
+61264,Shadle Park,Governor,prov,L,Ruth Bennett,3,3,3
+61274,Shadle Park,Governor,prov,L,Ruth Bennett,1,1,1
+61284,Shadle Park,Governor,prov,L,Ruth Bennett,0,0,0
+61294,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61304,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61314,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61324,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61334,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61354,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61364,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61374,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61384,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61394,South Hill,Governor,prov,L,Ruth Bennett,3,3,3
+61404,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61414,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61424,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61434,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61444,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61454,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61464,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61474,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61484,South Hill,Governor,prov,L,Ruth Bennett,1,1,1
+61494,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61504,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+61514,South Hill,Governor,prov,L,Ruth Bennett,0,0,0
+64004,COSV,Governor,prov,L,Ruth Bennett,0,0,0
+70004,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70014,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70024,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70034,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70044,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70054,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70064,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+70074,West Plains r,Governor,prov,L,Ruth Bennett,2,2,2
+70084,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+70094,West Plains r,Governor,prov,L,Ruth Bennett,1,1,1
+70104,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+70114,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+70124,Greenbluff r,Governor,prov,L,Ruth Bennett,0,0,0
+71004,Airway Heights,Governor,prov,L,Ruth Bennett,3,3,3
+71014,Airway Heights,Governor,prov,L,Ruth Bennett,0,0,0
+72004,Fairchild,Governor,prov,L,Ruth Bennett,1,1,1
+73004,Deer Park,Governor,prov,L,Ruth Bennett,0,0,0
+73014,Deer Park,Governor,prov,L,Ruth Bennett,0,0,0
+90004,Palouse r,Governor,prov,L,Ruth Bennett,1,1,1
+90034,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+90044,Palouse r,Governor,prov,L,Ruth Bennett,1,1,1
+90054,Palouse r,Governor,prov,L,Ruth Bennett,1,1,1
+90064,Palouse r,Governor,prov,L,Ruth Bennett,1,1,1
+90074,West Plains r,Governor,prov,L,Ruth Bennett,0,0,0
+90084,West Plains r,Governor,prov,L,Ruth Bennett,1,1,1
+90094,West Plains r,Governor,prov,L,Ruth Bennett,2,2,2
+90104,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+90154,Palouse r,Governor,prov,L,Ruth Bennett,0,0,0
+90194,Moran s,Governor,prov,L,Ruth Bennett,0,0,0
+91004,Medical Lake,Governor,prov,L,Ruth Bennett,1,1,1
+91014,Medical Lake,Governor,prov,L,Ruth Bennett,0,0,0
+92004,Cheney,Governor,prov,L,Ruth Bennett,2,2,2
+92014,Cheney,Governor,prov,L,Ruth Bennett,0,0,0
+92024,Cheney,Governor,prov,L,Ruth Bennett,1,1,1
+92034,Cheney,Governor,prov,L,Ruth Bennett,4,4,4
+95004,Fairfield,Governor,prov,L,Ruth Bennett,0,0,0
+SPOKANE WA,SPOKANE WA,Governor,prov,L,Ruth Bennett,3872,3877,3881

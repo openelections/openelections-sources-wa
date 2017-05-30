@@ -1,0 +1,152 @@
+number,name,office,district,party,candidate,vote,,
+1,Alder Creek,,,,Registration,204,,
+2,Centerville,,,,Registration,319,,
+3,Columbus,,,,Registration,62,,
+4,E Klickitat,,,,Registration,192,,
+5,Fruit Valley,,,,Registration,536,,
+6,Glenwood,,,,Registration,323,,
+7,Husum,,,,Registration,564,,
+8,Lyle,,,,Registration,704,,
+9,Mt Brook,,,,Registration,516,,
+11,N Dalles,,,,Registration,611,,
+12,N Fruit Valley,,,,Registration,617,,
+13,Pine Forest,,,,Registration,1031,,
+14,Roosevelt,,,,Registration,65,,
+16,Trout Lake,,,,Registration,653,,
+17,W Klickitat,,,,Registration,162,,
+19,Wishram,,,,Registration,206,,
+20,Woodland,,,,Registration,971,,
+21,Orchrad Hts,,,,Registration,313,,
+22,Appleton,,,,Registration,180,,
+23,Alderton,,,,Registration,70,,
+24,E Lyle,,,,Registration,250,,
+27,River,,,,Registration,17,,
+28,High Prairie,,,,Registration,81,,
+101,Bingen,,,,Registration,327,,
+201,Goldendale 1,,,,Registration,689,,
+202,Goldendale 2,,,,Registration,665,,
+203,Goldendale 3,,,,Registration,520,,
+301,White Salmon,,,,Registration,784,,
+302,N White Salmon,,,,Registration,531,,
+KLICKITAT WA,KLICKITAT WA,,,,Registration,12163,,
+1,Alder Creek,,,,Cast,188,,
+2,Centerville,,,,Cast,231,,
+3,Columbus,,,,Cast,56,,
+4,E Klickitat,,,,Cast,146,,
+5,Fruit Valley,,,,Cast,440,,
+6,Glenwood,,,,Cast,257,,
+7,Husum,,,,Cast,428,,
+8,Lyle,,,,Cast,534,,
+9,Mt Brook,,,,Cast,405,,
+11,N Dalles,,,,Cast,437,,
+12,N Fruit Valley,,,,Cast,483,,
+13,Pine Forest,,,,Cast,844,,
+14,Roosevelt,,,,Cast,57,,
+16,Trout Lake,,,,Cast,523,,
+17,W Klickitat,,,,Cast,122,,
+19,Wishram,,,,Cast,138,,
+20,Woodland,,,,Cast,749,,
+21,Orchrad Hts,,,,Cast,241,,
+22,Appleton,,,,Cast,153,,
+23,Alderton,,,,Cast,66,,
+24,E Lyle,,,,Cast,203,,
+27,River,,,,Cast,17,,
+28,High Prairie,,,,Cast,71,,
+101,Bingen,,,,Cast,209,,
+201,Goldendale 1,,,,Cast,530,,
+202,Goldendale 2,,,,Cast,460,,
+203,Goldendale 3,,,,Cast,387,,
+301,White Salmon,,,,Cast,560,,
+302,N White Salmon,,,,Cast,374,,
+KLICKITAT WA,KLICKITAT WA,,,,Cast,9309,,
+number,name,office,district,party,candidate,vote,machine,hand
+1,Alder Creek,Governor,,D,Christine Gregoire,45,45,45
+2,Centerville,Governor,,D,Christine Gregoire,71,71,71
+3,Columbus,Governor,,D,Christine Gregoire,21,21,21
+4,E Klickitat,Governor,,D,Christine Gregoire,82,82,82
+5,Fruit Valley,Governor,,D,Christine Gregoire,204,204,204
+6,Glenwood,Governor,,D,Christine Gregoire,73,73,73
+7,Husum,Governor,,D,Christine Gregoire,184,184,184
+8,Lyle,Governor,,D,Christine Gregoire,243,243,243
+9,Mt Brook,Governor,,D,Christine Gregoire,201,201,201
+11,N Dalles,Governor,,D,Christine Gregoire,187,187,187
+12,N Fruit Valley,Governor,,D,Christine Gregoire,207,207,207
+13,Pine Forest,Governor,,D,Christine Gregoire,308,308,308
+14,Roosevelt,Governor,,D,Christine Gregoire,16,16,16
+16,Trout Lake,Governor,,D,Christine Gregoire,252,252,252
+17,W Klickitat,Governor,,D,Christine Gregoire,56,56,56
+19,Wishram,Governor,,D,Christine Gregoire,76,76,76
+20,Woodland,Governor,,D,Christine Gregoire,257,257,257
+21,Orchrad Hts,Governor,,D,Christine Gregoire,90,90,90
+22,Appleton,Governor,,D,Christine Gregoire,44,44,44
+23,Alderton,Governor,,D,Christine Gregoire,4,4,4
+24,E Lyle,Governor,,D,Christine Gregoire,94,94,94
+27,River,Governor,,D,Christine Gregoire,4,4,4
+28,High Prairie,Governor,,D,Christine Gregoire,29,29,29
+101,Bingen,Governor,,D,Christine Gregoire,120,120,120
+201,Goldendale 1,Governor,,D,Christine Gregoire,223,223,223
+202,Goldendale 2,Governor,,D,Christine Gregoire,185,185,185
+203,Goldendale 3,Governor,,D,Christine Gregoire,156,156,156
+301,White Salmon,Governor,,D,Christine Gregoire,294,294,294
+302,N White Salmon,Governor,,D,Christine Gregoire,193,193,193
+KLICKITAT WA,KLICKITAT WA,Governor,,D,Christine Gregoire,3919,3919,3919
+1,Alder Creek,Governor,,R,Dino Rossi,136,136,136
+2,Centerville,Governor,,R,Dino Rossi,145,145,145
+3,Columbus,Governor,,R,Dino Rossi,30,30,30
+4,E Klickitat,Governor,,R,Dino Rossi,49,49,49
+5,Fruit Valley,Governor,,R,Dino Rossi,213,213,213
+6,Glenwood,Governor,,R,Dino Rossi,161,161,161
+7,Husum,Governor,,R,Dino Rossi,213,213,213
+8,Lyle,Governor,,R,Dino Rossi,250,250,250
+9,Mt Brook,Governor,,R,Dino Rossi,174,174,174
+11,N Dalles,Governor,,R,Dino Rossi,214,215,215
+12,N Fruit Valley,Governor,,R,Dino Rossi,248,248,248
+13,Pine Forest,Governor,,R,Dino Rossi,496,496,496
+14,Roosevelt,Governor,,R,Dino Rossi,38,38,38
+16,Trout Lake,Governor,,R,Dino Rossi,238,238,238
+17,W Klickitat,Governor,,R,Dino Rossi,60,60,60
+19,Wishram,Governor,,R,Dino Rossi,38,38,38
+20,Woodland,Governor,,R,Dino Rossi,440,440,440
+21,Orchrad Hts,Governor,,R,Dino Rossi,137,137,137
+22,Appleton,Governor,,R,Dino Rossi,96,96,96
+23,Alderton,Governor,,R,Dino Rossi,62,62,62
+24,E Lyle,Governor,,R,Dino Rossi,93,93,93
+27,River,Governor,,R,Dino Rossi,11,11,11
+28,High Prairie,Governor,,R,Dino Rossi,37,37,37
+101,Bingen,Governor,,R,Dino Rossi,71,71,71
+201,Goldendale 1,Governor,,R,Dino Rossi,278,278,278
+202,Goldendale 2,Governor,,R,Dino Rossi,245,245,245
+203,Goldendale 3,Governor,,R,Dino Rossi,209,209,209
+301,White Salmon,Governor,,R,Dino Rossi,231,231,231
+302,N White Salmon,Governor,,R,Dino Rossi,153,153,153
+KLICKITAT WA,KLICKITAT WA,Governor,,R,Dino Rossi,4766,4767,4767
+1,Alder Creek,Governor,,L,Ruth Bennett,4,4,4
+2,Centerville,Governor,,L,Ruth Bennett,8,8,8
+3,Columbus,Governor,,L,Ruth Bennett,3,3,3
+4,E Klickitat,Governor,,L,Ruth Bennett,10,10,10
+5,Fruit Valley,Governor,,L,Ruth Bennett,11,11,11
+6,Glenwood,Governor,,L,Ruth Bennett,7,7,7
+7,Husum,Governor,,L,Ruth Bennett,9,9,9
+8,Lyle,Governor,,L,Ruth Bennett,20,20,20
+9,Mt Brook,Governor,,L,Ruth Bennett,13,13,13
+11,N Dalles,Governor,,L,Ruth Bennett,12,12,12
+12,N Fruit Valley,Governor,,L,Ruth Bennett,9,9,9
+13,Pine Forest,Governor,,L,Ruth Bennett,23,23,23
+14,Roosevelt,Governor,,L,Ruth Bennett,2,2,2
+16,Trout Lake,Governor,,L,Ruth Bennett,3,3,3
+17,W Klickitat,Governor,,L,Ruth Bennett,3,3,3
+19,Wishram,Governor,,L,Ruth Bennett,10,10,10
+20,Woodland,Governor,,L,Ruth Bennett,26,26,26
+21,Orchrad Hts,Governor,,L,Ruth Bennett,6,6,6
+22,Appleton,Governor,,L,Ruth Bennett,7,7,7
+23,Alderton,Governor,,L,Ruth Bennett,0,0,0
+24,E Lyle,Governor,,L,Ruth Bennett,2,2,2
+27,River,Governor,,L,Ruth Bennett,2,2,2
+28,High Prairie,Governor,,L,Ruth Bennett,1,1,1
+101,Bingen,Governor,,L,Ruth Bennett,7,7,7
+201,Goldendale 1,Governor,,L,Ruth Bennett,14,14,14
+202,Goldendale 2,Governor,,L,Ruth Bennett,14,14,14
+203,Goldendale 3,Governor,,L,Ruth Bennett,13,13,13
+301,White Salmon,Governor,,L,Ruth Bennett,15,15,15
+302,N White Salmon,Governor,,L,Ruth Bennett,11,11,11
+KLICKITAT WA,KLICKITAT WA,Governor,,L,Ruth Bennett,265,265,265

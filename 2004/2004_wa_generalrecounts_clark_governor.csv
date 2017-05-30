@@ -1,0 +1,907 @@
+county,precinct,name,district,party,style,vote,,
+Clark,50,Vancouver,49,,Registration,875,,
+Clark,55,Vancouver,49,,Registration,1028,,
+Clark,60,Vancouver,49,,Registration,1020,,
+Clark,70,Vancouver,49,,Registration,1002,,
+Clark,90,Vancouver,49,,Registration,856,,
+Clark,100,Vancouver,49,,Registration,1323,,
+Clark,110,Vancouver,49,,Registration,1061,,
+Clark,120,Vancouver,49,,Registration,1184,,
+Clark,130,Vancouver,49,,Registration,1251,,
+Clark,147,Vancouver,49,,Registration,905,,
+Clark,150,Vancouver,49,,Registration,970,,
+Clark,153,Vancouver,49,,Registration,850,,
+Clark,160,Vancouver,49,,Registration,900,,
+Clark,170,Vancouver,49,,Registration,900,,
+Clark,175,Vancouver,49,,Registration,917,,
+Clark,180,Vancouver,49,,Registration,1270,,
+Clark,190,Vancouver,49,,Registration,1732,,
+Clark,200,Vancouver,49,,Registration,1290,,
+Clark,220,Vancouver,49,,Registration,1332,,
+Clark,225,Vancouver,49,,Registration,912,,
+Clark,240,Vancouver,49,,Registration,1429,,
+Clark,245,Vancouver,49,,Registration,668,,
+Clark,250,Vancouver,49,,Registration,1715,,
+Clark,255,Vancouver,49,,Registration,862,,
+Clark,257,Vancouver,49,,Registration,991,,
+Clark,290,Vancouver,49,,Registration,1078,,
+Clark,294,Vancouver,49,,Registration,956,,
+Clark,296,Vancouver,49,,Registration,1222,,
+Clark,325,,49,,Registration,2074,,
+Clark,330,,49,,Registration,1439,,
+Clark,335,,49,,Registration,908,,
+Clark,340,,49,,Registration,1527,,
+Clark,350,,49,,Registration,1154,,
+Clark,360,,49,,Registration,1398,,
+Clark,370,,49,,Registration,1047,,
+Clark,390,,49,,Registration,1215,,
+Clark,395,,49,,Registration,319,,
+Clark,400,,49,,Registration,734,,
+Clark,410,,49,,Registration,1415,,
+Clark,415,,49,,Registration,839,,
+Clark,420,,49,,Registration,1085,,
+Clark,424,,49,,Registration,1533,,
+Clark,425,,49,,Registration,1554,,
+Clark,426,,49,,Registration,728,,
+Clark,430,,49,,Registration,1183,,
+Clark,434,,17,,Registration,874,,
+Clark,435,,49,,Registration,637,,
+Clark,440,,18,,Registration,839,,
+Clark,441,,17,,Registration,1309,,
+Clark,444,,18,,Registration,935,,
+Clark,445,,18,,Registration,1923,,
+Clark,446,,18,,Registration,1933,,
+Clark,447,,18,,Registration,1350,,
+Clark,448,,18,,Registration,1381,,
+Clark,450,,18,,Registration,1437,,
+Clark,451,,18,,Registration,1600,,
+Clark,452,,18,,Registration,974,,
+Clark,453,,18,,Registration,1005,,
+Clark,455,,18,,Registration,695,,
+Clark,460,,49,,Registration,1434,,
+Clark,470,,49,,Registration,1198,,
+Clark,480,,18,,Registration,1569,,
+Clark,483,,17,,Registration,1283,,
+Clark,485,,18,,Registration,946,,
+Clark,490,,18,,Registration,674,,
+Clark,500,Ridgefield,18,,Registration,1478,,
+Clark,505,,18,,Registration,1280,,
+Clark,510,Woodland,18,,Registration,880,,
+Clark,515,La Center,18,,Registration,1229,,
+Clark,520,,18,,Registration,1400,,
+Clark,525,,18,,Registration,986,,
+Clark,528,,18,,Registration,1006,,
+Clark,530,,18,,Registration,507,,
+Clark,535,,18,,Registration,1957,,
+Clark,537,,18,,Registration,803,,
+Clark,540,,18,,Registration,1595,,
+Clark,543,,17,,Registration,516,,
+Clark,545,,18,,Registration,1105,,
+Clark,550,,17,,Registration,1774,,
+Clark,555,,17,,Registration,895,,
+Clark,560,,17,,Registration,1162,,
+Clark,563,,17,,Registration,1358,,
+Clark,565,,49,,Registration,1205,,
+Clark,570,,17,,Registration,1449,,
+Clark,571,,17,,Registration,1186,,
+Clark,573,,17,,Registration,943,,
+Clark,577,,17,,Registration,1643,,
+Clark,580,,18,,Registration,1218,,
+Clark,583,Battle Ground,18,,Registration,2111,,
+Clark,584,Battle Ground,18,,Registration,1294,,
+Clark,585,Battle Ground,18,,Registration,1879,,
+Clark,586,Battle Ground,18,,Registration,942,,
+Clark,590,,18,,Registration,1270,,
+Clark,592,,18,,Registration,1362,,
+Clark,593,,18,,Registration,1487,,
+Clark,595,,18,,Registration,1434,,
+Clark,600,Yacolt,18,,Registration,524,,
+Clark,605,,18,,Registration,1056,,
+Clark,606,,15,,Registration,162,,
+Clark,610,,18,,Registration,1338,,
+Clark,613,,18,,Registration,470,,
+Clark,615,,17,,Registration,450,,
+Clark,617,,17,,Registration,1026,,
+Clark,620,,18,,Registration,1945,,
+Clark,624,,17,,Registration,565,,
+Clark,625,,18,,Registration,1130,,
+Clark,626,,17,,Registration,1266,,
+Clark,627,,17,,Registration,1072,,
+Clark,628,,17,,Registration,961,,
+Clark,629,,17,,Registration,1248,,
+Clark,630,,17,,Registration,1239,,
+Clark,631,Vancouver,17,,Registration,1202,,
+Clark,633,,17,,Registration,943,,
+Clark,634,,17,,Registration,810,,
+Clark,635,,17,,Registration,780,,
+Clark,636,,17,,Registration,1013,,
+Clark,638,,17,,Registration,1268,,
+Clark,639,Vancouver,49,,Registration,1078,,
+Clark,640,,17,,Registration,1559,,
+Clark,642,,49,,Registration,420,,
+Clark,643,,17,,Registration,775,,
+Clark,644,Vancouver,17,,Registration,1436,,
+Clark,645,Vancouver,17,,Registration,1240,,
+Clark,646,,17,,Registration,1567,,
+Clark,648,Vancouver,17,,Registration,1439,,
+Clark,649,,17,,Registration,1220,,
+Clark,650,Vancouver,49,,Registration,1213,,
+Clark,651,Vancouver,49,,Registration,922,,
+Clark,652,Vancouver,17,,Registration,1011,,
+Clark,653,Vancouver,17,,Registration,1340,,
+Clark,654,Vancouver,17,,Registration,886,,
+Clark,656,Vancouver,17,,Registration,611,,
+Clark,658,Vancouver,17,,Registration,926,,
+Clark,659,Vancouver,17,,Registration,1290,,
+Clark,660,Vancouver,49,,Registration,1144,,
+Clark,662,Vancouver,17,,Registration,1345,,
+Clark,663,Vancouver,49,,Registration,955,,
+Clark,664,Vancouver,17,,Registration,1397,,
+Clark,668,Vancouver,17,,Registration,1514,,
+Clark,669,Vancouver,17,,Registration,794,,
+Clark,670,Vancouver,49,,Registration,1398,,
+Clark,675,Vancouver,49,,Registration,1893,,
+Clark,677,Vancouver,17,,Registration,1070,,
+Clark,678,Vancouver,17,,Registration,1411,,
+Clark,679,Vancouver,17,,Registration,1409,,
+Clark,680,Vancouver,17,,Registration,1568,,
+Clark,681,Vancouver,17,,Registration,1381,,
+Clark,682,Vancouver,17,,Registration,1106,,
+Clark,683,Vancouver,17,,Registration,1037,,
+Clark,685,Vancouver,17,,Registration,1454,,
+Clark,687,Vancouver,17,,Registration,829,,
+Clark,688,Vancouver,17,,Registration,1092,,
+Clark,689,Vancouver,17,,Registration,1133,,
+Clark,691,Vancouver,17,,Registration,1387,,
+Clark,692,Vancouver,17,,Registration,638,,
+Clark,693,,17,,Registration,897,,
+Clark,694,,17,,Registration,436,,
+Clark,695,,17,,Registration,664,,
+Clark,696,,17,,Registration,1735,,
+Clark,697,,17,,Registration,1202,,
+Clark,698,,17,,Registration,1688,,
+Clark,900,Washougal,18,,Registration,1393,,
+Clark,905,Washougal,18,,Registration,1103,,
+Clark,910,Washougal,18,,Registration,1338,,
+Clark,914,Washougal,18,,Registration,1868,,
+Clark,915,,18,,Registration,69,,
+Clark,917,,18,,Registration,728,,
+Clark,920,,15,,Registration,750,,
+Clark,925,,18,,Registration,946,,
+Clark,930,,15,,Registration,872,,
+Clark,935,,18,,Registration,209,,
+Clark,940,,15,,Registration,1394,,
+Clark,947,,15,,Registration,1144,,
+Clark,950,Camas,18,,Registration,1239,,
+Clark,960,Camas,18,,Registration,2006,,
+Clark,963,Camas,18,,Registration,1024,,
+Clark,964,Camas,18,,Registration,1762,,
+Clark,965,Camas,18,,Registration,1614,,
+Clark,980,,18,,Registration,835,,
+Clark,985,Camas,18,,Registration,1338,,
+CLARK WA,CLARK WA,CLARK WA,,,Registration,207611,,
+county,precinct,name,district,party,style,vote,machine,hand
+Clark,50,Vancouver,49,,Ballots,775,775,775
+Clark,55,Vancouver,49,,Ballots,905,905,905
+Clark,60,Vancouver,49,,Ballots,864,864,864
+Clark,70,Vancouver,49,,Ballots,826,826,826
+Clark,90,Vancouver,49,,Ballots,633,633,633
+Clark,100,Vancouver,49,,Ballots,1124,1122,1122
+Clark,110,Vancouver,49,,Ballots,872,875,875
+Clark,120,Vancouver,49,,Ballots,946,946,946
+Clark,130,Vancouver,49,,Ballots,1034,1034,1034
+Clark,147,Vancouver,49,,Ballots,769,769,769
+Clark,150,Vancouver,49,,Ballots,737,737,737
+Clark,153,Vancouver,49,,Ballots,687,687,687
+Clark,160,Vancouver,49,,Ballots,673,673,673
+Clark,170,Vancouver,49,,Ballots,675,675,675
+Clark,175,Vancouver,49,,Ballots,655,655,655
+Clark,180,Vancouver,49,,Ballots,934,934,934
+Clark,190,Vancouver,49,,Ballots,1384,1384,1384
+Clark,200,Vancouver,49,,Ballots,1062,1062,1062
+Clark,220,Vancouver,49,,Ballots,1064,1064,1064
+Clark,225,Vancouver,49,,Ballots,855,811,811
+Clark,240,Vancouver,49,,Ballots,1247,1247,1247
+Clark,245,Vancouver,49,,Ballots,600,600,600
+Clark,250,Vancouver,49,,Ballots,1432,1432,1432
+Clark,255,Vancouver,49,,Ballots,642,684,684
+Clark,257,Vancouver,49,,Ballots,856,858,858
+Clark,290,Vancouver,49,,Ballots,882,882,882
+Clark,294,Vancouver,49,,Ballots,753,753,753
+Clark,296,Vancouver,49,,Ballots,1045,1045,1045
+Clark,325,,49,,Ballots,1755,1755,1755
+Clark,330,,49,,Ballots,1215,1216,1216
+Clark,335,,49,,Ballots,749,748,748
+Clark,340,,49,,Ballots,1253,1253,1253
+Clark,350,,49,,Ballots,916,916,916
+Clark,360,,49,,Ballots,1141,1141,1141
+Clark,370,,49,,Ballots,775,775,775
+Clark,390,,49,,Ballots,1026,1026,1026
+Clark,395,,49,,Ballots,266,266,266
+Clark,400,,49,,Ballots,614,614,614
+Clark,410,,49,,Ballots,1103,1103,1103
+Clark,415,,49,,Ballots,709,709,709
+Clark,420,,49,,Ballots,930,930,930
+Clark,424,,49,,Ballots,1272,1272,1272
+Clark,425,,49,,Ballots,1273,1273,1273
+Clark,426,,49,,Ballots,620,620,620
+Clark,430,,49,,Ballots,942,942,942
+Clark,434,,17,,Ballots,758,758,758
+Clark,435,,49,,Ballots,523,523,523
+Clark,440,,18,,Ballots,749,749,749
+Clark,441,,17,,Ballots,1062,1062,1062
+Clark,444,,18,,Ballots,784,784,784
+Clark,445,,18,,Ballots,1674,1674,1674
+Clark,446,,18,,Ballots,1737,1738,1738
+Clark,447,,18,,Ballots,1208,1209,1209
+Clark,448,,18,,Ballots,1206,1223,1223
+Clark,450,,18,,Ballots,1265,1250,1250
+Clark,451,,18,,Ballots,1361,1361,1361
+Clark,452,,18,,Ballots,844,844,844
+Clark,453,,18,,Ballots,832,832,832
+Clark,455,,18,,Ballots,588,588,588
+Clark,460,,49,,Ballots,1227,1227,1227
+Clark,470,,49,,Ballots,1050,1050,1050
+Clark,480,,18,,Ballots,1313,1313,1313
+Clark,483,,17,,Ballots,1147,1147,1147
+Clark,485,,18,,Ballots,787,786,786
+Clark,490,,18,,Ballots,580,580,580
+Clark,500,Ridgefield,18,,Ballots,1232,1232,1232
+Clark,505,,18,,Ballots,1070,1071,1071
+Clark,510,Woodland,18,,Ballots,703,703,703
+Clark,515,La Center,18,,Ballots,1045,1033,1033
+Clark,520,,18,,Ballots,1105,1117,1117
+Clark,525,,18,,Ballots,830,830,830
+Clark,528,,18,,Ballots,797,797,797
+Clark,530,,18,,Ballots,413,412,412
+Clark,535,,18,,Ballots,1642,1643,1643
+Clark,537,,18,,Ballots,658,658,658
+Clark,540,,18,,Ballots,1373,1373,1373
+Clark,543,,17,,Ballots,424,424,424
+Clark,545,,18,,Ballots,899,899,899
+Clark,550,,17,,Ballots,1555,1555,1555
+Clark,555,,17,,Ballots,761,760,761
+Clark,560,,17,,Ballots,1022,1022,1022
+Clark,563,,17,,Ballots,1113,1113,1113
+Clark,565,,49,,Ballots,952,952,952
+Clark,570,,17,,Ballots,1244,1179,1179
+Clark,571,,17,,Ballots,922,987,987
+Clark,573,,17,,Ballots,758,758,758
+Clark,577,,17,,Ballots,1422,1422,1422
+Clark,580,,18,,Ballots,1058,1058,1058
+Clark,583,Battle Ground,18,,Ballots,1789,1791,1791
+Clark,584,Battle Ground,18,,Ballots,1089,1087,1087
+Clark,585,Battle Ground,18,,Ballots,1588,1589,1589
+Clark,586,Battle Ground,18,,Ballots,740,740,740
+Clark,590,,18,,Ballots,1090,1091,1091
+Clark,592,,18,,Ballots,1147,1147,1147
+Clark,593,,18,,Ballots,1291,1291,1291
+Clark,595,,18,,Ballots,1234,1234,1234
+Clark,600,Yacolt,18,,Ballots,421,421,421
+Clark,605,,18,,Ballots,918,918,919
+Clark,606,,15,,Ballots,139,139,139
+Clark,610,,18,,Ballots,1161,1161,1161
+Clark,613,,18,,Ballots,375,375,375
+Clark,615,,17,,Ballots,405,405,405
+Clark,617,,17,,Ballots,846,846,846
+Clark,620,,18,,Ballots,1678,1678,1678
+Clark,624,,17,,Ballots,457,457,457
+Clark,625,,18,,Ballots,955,955,955
+Clark,626,,17,,Ballots,1017,1017,1017
+Clark,627,,17,,Ballots,854,854,854
+Clark,628,,17,,Ballots,778,778,778
+Clark,629,,17,,Ballots,949,948,948
+Clark,630,,17,,Ballots,881,881,881
+Clark,631,Vancouver,17,,Ballots,1027,1027,1027
+Clark,633,,17,,Ballots,661,661,661
+Clark,634,,17,,Ballots,617,617,617
+Clark,635,,17,,Ballots,658,658,658
+Clark,636,,17,,Ballots,781,781,781
+Clark,638,,17,,Ballots,1043,1043,1043
+Clark,639,Vancouver,49,,Ballots,804,804,804
+Clark,640,,17,,Ballots,1161,1161,1161
+Clark,642,,49,,Ballots,372,372,372
+Clark,643,,17,,Ballots,580,580,580
+Clark,644,Vancouver,17,,Ballots,1160,1160,1160
+Clark,645,Vancouver,17,,Ballots,1074,1074,1074
+Clark,646,,17,,Ballots,1284,1284,1284
+Clark,648,Vancouver,17,,Ballots,1205,1205,1205
+Clark,649,,17,,Ballots,950,950,950
+Clark,650,Vancouver,49,,Ballots,1033,1033,1033
+Clark,651,Vancouver,49,,Ballots,743,743,743
+Clark,652,Vancouver,17,,Ballots,784,784,784
+Clark,653,Vancouver,17,,Ballots,1046,1046,1046
+Clark,654,Vancouver,17,,Ballots,693,694,694
+Clark,656,Vancouver,17,,Ballots,521,521,521
+Clark,658,Vancouver,17,,Ballots,750,750,750
+Clark,659,Vancouver,17,,Ballots,1055,1055,1055
+Clark,660,Vancouver,49,,Ballots,943,943,943
+Clark,662,Vancouver,17,,Ballots,1183,1158,1158
+Clark,663,Vancouver,49,,Ballots,758,758,758
+Clark,664,Vancouver,17,,Ballots,1125,1126,1126
+Clark,668,Vancouver,17,,Ballots,1420,1372,1372
+Clark,669,Vancouver,17,,Ballots,631,704,704
+Clark,670,Vancouver,49,,Ballots,1154,1154,1154
+Clark,675,Vancouver,49,,Ballots,1635,1635,1635
+Clark,677,Vancouver,17,,Ballots,913,913,913
+Clark,678,Vancouver,17,,Ballots,1165,1165,1165
+Clark,679,Vancouver,17,,Ballots,1191,1191,1192
+Clark,680,Vancouver,17,,Ballots,1364,1365,1365
+Clark,681,Vancouver,17,,Ballots,1071,1071,1071
+Clark,682,Vancouver,17,,Ballots,928,928,928
+Clark,683,Vancouver,17,,Ballots,843,843,843
+Clark,685,Vancouver,17,,Ballots,1152,1152,1152
+Clark,687,Vancouver,17,,Ballots,673,673,673
+Clark,688,Vancouver,17,,Ballots,876,876,876
+Clark,689,Vancouver,17,,Ballots,902,902,902
+Clark,691,Vancouver,17,,Ballots,1094,1094,1094
+Clark,692,Vancouver,17,,Ballots,514,514,514
+Clark,693,,17,,Ballots,688,688,688
+Clark,694,,17,,Ballots,441,441,441
+Clark,695,,17,,Ballots,577,577,577
+Clark,696,,17,,Ballots,1532,1532,1532
+Clark,697,,17,,Ballots,1036,1036,1036
+Clark,698,,17,,Ballots,1420,1420,1420
+Clark,900,Washougal,18,,Ballots,1061,1061,1061
+Clark,905,Washougal,18,,Ballots,874,874,874
+Clark,910,Washougal,18,,Ballots,1001,1001,1001
+Clark,914,Washougal,18,,Ballots,1569,1569,1569
+Clark,915,,18,,Ballots,73,73,73
+Clark,917,,18,,Ballots,587,587,587
+Clark,920,,15,,Ballots,641,641,641
+Clark,925,,18,,Ballots,773,773,773
+Clark,930,,15,,Ballots,768,768,768
+Clark,935,,18,,Ballots,169,169,169
+Clark,940,,15,,Ballots,1166,1166,1166
+Clark,947,,15,,Ballots,954,954,954
+Clark,950,Camas,18,,Ballots,950,950,950
+Clark,960,Camas,18,,Ballots,1760,1760,1760
+Clark,963,Camas,18,,Ballots,891,891,891
+Clark,964,Camas,18,,Ballots,1614,1614,1614
+Clark,965,Camas,18,,Ballots,1388,1389,1389
+Clark,980,,18,,Ballots,714,714,714
+Clark,985,Camas,18,,Ballots,1096,1096,1096
+CLARK WA,CLARK WA,CLARK WA,,,Ballots,172265,172274,172277
+Clark,50,Vancouver,49,D,Christine Gregoire,420,420,420
+Clark,55,Vancouver,49,D,Christine Gregoire,439,439,439
+Clark,60,Vancouver,49,D,Christine Gregoire,503,503,503
+Clark,70,Vancouver,49,D,Christine Gregoire,488,488,488
+Clark,90,Vancouver,49,D,Christine Gregoire,349,349,349
+Clark,100,Vancouver,49,D,Christine Gregoire,714,714,714
+Clark,110,Vancouver,49,D,Christine Gregoire,559,560,560
+Clark,120,Vancouver,49,D,Christine Gregoire,546,546,546
+Clark,130,Vancouver,49,D,Christine Gregoire,606,606,606
+Clark,147,Vancouver,49,D,Christine Gregoire,362,362,362
+Clark,150,Vancouver,49,D,Christine Gregoire,422,422,423
+Clark,153,Vancouver,49,D,Christine Gregoire,354,354,354
+Clark,160,Vancouver,49,D,Christine Gregoire,389,389,389
+Clark,170,Vancouver,49,D,Christine Gregoire,387,387,389
+Clark,175,Vancouver,49,D,Christine Gregoire,295,295,295
+Clark,180,Vancouver,49,D,Christine Gregoire,549,549,549
+Clark,190,Vancouver,49,D,Christine Gregoire,763,763,763
+Clark,200,Vancouver,49,D,Christine Gregoire,596,596,596
+Clark,220,Vancouver,49,D,Christine Gregoire,575,575,575
+Clark,225,Vancouver,49,D,Christine Gregoire,394,375,375
+Clark,240,Vancouver,49,D,Christine Gregoire,504,504,505
+Clark,245,Vancouver,49,D,Christine Gregoire,228,228,228
+Clark,250,Vancouver,49,D,Christine Gregoire,754,754,755
+Clark,255,Vancouver,49,D,Christine Gregoire,298,317,317
+Clark,257,Vancouver,49,D,Christine Gregoire,419,419,419
+Clark,290,Vancouver,49,D,Christine Gregoire,444,444,444
+Clark,294,Vancouver,49,D,Christine Gregoire,346,346,346
+Clark,296,Vancouver,49,D,Christine Gregoire,509,509,509
+Clark,325,,49,D,Christine Gregoire,710,710,710
+Clark,330,,49,D,Christine Gregoire,540,541,541
+Clark,335,,49,D,Christine Gregoire,323,322,322
+Clark,340,,49,D,Christine Gregoire,623,623,623
+Clark,350,,49,D,Christine Gregoire,461,461,461
+Clark,360,,49,D,Christine Gregoire,558,558,558
+Clark,370,,49,D,Christine Gregoire,376,376,376
+Clark,390,,49,D,Christine Gregoire,491,491,491
+Clark,395,,49,D,Christine Gregoire,158,158,158
+Clark,400,,49,D,Christine Gregoire,312,312,312
+Clark,410,,49,D,Christine Gregoire,539,539,539
+Clark,415,,49,D,Christine Gregoire,347,347,347
+Clark,420,,49,D,Christine Gregoire,424,424,424
+Clark,424,,49,D,Christine Gregoire,546,546,546
+Clark,425,,49,D,Christine Gregoire,549,549,549
+Clark,426,,49,D,Christine Gregoire,265,265,265
+Clark,430,,49,D,Christine Gregoire,452,452,452
+Clark,434,,17,D,Christine Gregoire,295,295,295
+Clark,435,,49,D,Christine Gregoire,208,208,208
+Clark,440,,18,D,Christine Gregoire,322,322,322
+Clark,441,,17,D,Christine Gregoire,433,433,433
+Clark,444,,18,D,Christine Gregoire,355,355,355
+Clark,445,,18,D,Christine Gregoire,735,735,736
+Clark,446,,18,D,Christine Gregoire,687,687,688
+Clark,447,,18,D,Christine Gregoire,483,483,483
+Clark,448,,18,D,Christine Gregoire,465,471,471
+Clark,450,,18,D,Christine Gregoire,528,523,523
+Clark,451,,18,D,Christine Gregoire,593,593,593
+Clark,452,,18,D,Christine Gregoire,391,391,392
+Clark,453,,18,D,Christine Gregoire,357,357,357
+Clark,455,,18,D,Christine Gregoire,279,279,279
+Clark,460,,49,D,Christine Gregoire,511,511,511
+Clark,470,,49,D,Christine Gregoire,492,492,492
+Clark,480,,18,D,Christine Gregoire,566,566,566
+Clark,483,,17,D,Christine Gregoire,459,459,459
+Clark,485,,18,D,Christine Gregoire,294,294,294
+Clark,490,,18,D,Christine Gregoire,206,206,206
+Clark,500,Ridgefield,18,D,Christine Gregoire,519,519,519
+Clark,505,,18,D,Christine Gregoire,393,393,393
+Clark,510,Woodland,18,D,Christine Gregoire,252,252,252
+Clark,515,La Center,18,D,Christine Gregoire,381,379,379
+Clark,520,,18,D,Christine Gregoire,417,419,421
+Clark,525,,18,D,Christine Gregoire,316,316,316
+Clark,528,,18,D,Christine Gregoire,288,288,288
+Clark,530,,18,D,Christine Gregoire,146,146,146
+Clark,535,,18,D,Christine Gregoire,526,526,526
+Clark,537,,18,D,Christine Gregoire,201,201,201
+Clark,540,,18,D,Christine Gregoire,457,457,457
+Clark,543,,17,D,Christine Gregoire,150,150,151
+Clark,545,,18,D,Christine Gregoire,330,330,330
+Clark,550,,17,D,Christine Gregoire,590,590,590
+Clark,555,,17,D,Christine Gregoire,278,277,277
+Clark,560,,17,D,Christine Gregoire,356,356,356
+Clark,563,,17,D,Christine Gregoire,447,447,447
+Clark,565,,49,D,Christine Gregoire,400,400,400
+Clark,570,,17,D,Christine Gregoire,438,417,417
+Clark,571,,17,D,Christine Gregoire,325,346,346
+Clark,573,,17,D,Christine Gregoire,291,291,291
+Clark,577,,17,D,Christine Gregoire,473,473,474
+Clark,580,,18,D,Christine Gregoire,376,376,376
+Clark,583,Battle Ground,18,D,Christine Gregoire,559,560,560
+Clark,584,Battle Ground,18,D,Christine Gregoire,357,356,356
+Clark,585,Battle Ground,18,D,Christine Gregoire,506,506,506
+Clark,586,Battle Ground,18,D,Christine Gregoire,282,282,282
+Clark,590,,18,D,Christine Gregoire,348,348,348
+Clark,592,,18,D,Christine Gregoire,432,432,432
+Clark,593,,18,D,Christine Gregoire,487,487,487
+Clark,595,,18,D,Christine Gregoire,381,381,381
+Clark,600,Yacolt,18,D,Christine Gregoire,145,145,145
+Clark,605,,18,D,Christine Gregoire,234,234,234
+Clark,606,,15,D,Christine Gregoire,43,43,43
+Clark,610,,18,D,Christine Gregoire,379,379,380
+Clark,613,,18,D,Christine Gregoire,134,134,134
+Clark,615,,17,D,Christine Gregoire,151,151,151
+Clark,617,,17,D,Christine Gregoire,290,290,290
+Clark,620,,18,D,Christine Gregoire,598,598,598
+Clark,624,,17,D,Christine Gregoire,149,149,149
+Clark,625,,18,D,Christine Gregoire,361,361,361
+Clark,626,,17,D,Christine Gregoire,370,370,370
+Clark,627,,17,D,Christine Gregoire,362,362,362
+Clark,628,,17,D,Christine Gregoire,318,318,318
+Clark,629,,17,D,Christine Gregoire,356,356,356
+Clark,630,,17,D,Christine Gregoire,367,367,367
+Clark,631,Vancouver,17,D,Christine Gregoire,438,438,438
+Clark,633,,17,D,Christine Gregoire,316,316,316
+Clark,634,,17,D,Christine Gregoire,228,228,228
+Clark,635,,17,D,Christine Gregoire,272,272,272
+Clark,636,,17,D,Christine Gregoire,331,331,331
+Clark,638,,17,D,Christine Gregoire,450,450,451
+Clark,639,Vancouver,49,D,Christine Gregoire,363,363,363
+Clark,640,,17,D,Christine Gregoire,520,520,520
+Clark,642,,49,D,Christine Gregoire,126,126,126
+Clark,643,,17,D,Christine Gregoire,256,256,256
+Clark,644,Vancouver,17,D,Christine Gregoire,439,439,439
+Clark,645,Vancouver,17,D,Christine Gregoire,453,453,453
+Clark,646,,17,D,Christine Gregoire,540,540,540
+Clark,648,Vancouver,17,D,Christine Gregoire,474,474,474
+Clark,649,,17,D,Christine Gregoire,354,354,354
+Clark,650,Vancouver,49,D,Christine Gregoire,528,528,528
+Clark,651,Vancouver,49,D,Christine Gregoire,354,354,356
+Clark,652,Vancouver,17,D,Christine Gregoire,385,385,385
+Clark,653,Vancouver,17,D,Christine Gregoire,447,447,447
+Clark,654,Vancouver,17,D,Christine Gregoire,308,309,309
+Clark,656,Vancouver,17,D,Christine Gregoire,209,209,209
+Clark,658,Vancouver,17,D,Christine Gregoire,320,320,320
+Clark,659,Vancouver,17,D,Christine Gregoire,469,469,470
+Clark,660,Vancouver,49,D,Christine Gregoire,490,490,490
+Clark,662,Vancouver,17,D,Christine Gregoire,464,449,449
+Clark,663,Vancouver,49,D,Christine Gregoire,392,392,392
+Clark,664,Vancouver,17,D,Christine Gregoire,465,466,466
+Clark,668,Vancouver,17,D,Christine Gregoire,569,561,561
+Clark,669,Vancouver,17,D,Christine Gregoire,222,245,245
+Clark,670,Vancouver,49,D,Christine Gregoire,574,575,576
+Clark,675,Vancouver,49,D,Christine Gregoire,677,677,677
+Clark,677,Vancouver,17,D,Christine Gregoire,346,346,346
+Clark,678,Vancouver,17,D,Christine Gregoire,494,494,494
+Clark,679,Vancouver,17,D,Christine Gregoire,542,542,543
+Clark,680,Vancouver,17,D,Christine Gregoire,583,584,584
+Clark,681,Vancouver,17,D,Christine Gregoire,481,481,481
+Clark,682,Vancouver,17,D,Christine Gregoire,420,420,421
+Clark,683,Vancouver,17,D,Christine Gregoire,400,400,400
+Clark,685,Vancouver,17,D,Christine Gregoire,524,524,525
+Clark,687,Vancouver,17,D,Christine Gregoire,299,299,298
+Clark,688,Vancouver,17,D,Christine Gregoire,359,359,359
+Clark,689,Vancouver,17,D,Christine Gregoire,356,356,356
+Clark,691,Vancouver,17,D,Christine Gregoire,454,454,454
+Clark,692,Vancouver,17,D,Christine Gregoire,221,221,221
+Clark,693,,17,D,Christine Gregoire,296,296,296
+Clark,694,,17,D,Christine Gregoire,186,186,186
+Clark,695,,17,D,Christine Gregoire,216,216,216
+Clark,696,,17,D,Christine Gregoire,631,631,631
+Clark,697,,17,D,Christine Gregoire,456,456,456
+Clark,698,,17,D,Christine Gregoire,451,451,451
+Clark,900,Washougal,18,D,Christine Gregoire,474,474,475
+Clark,905,Washougal,18,D,Christine Gregoire,375,375,375
+Clark,910,Washougal,18,D,Christine Gregoire,460,460,460
+Clark,914,Washougal,18,D,Christine Gregoire,645,645,648
+Clark,915,,18,D,Christine Gregoire,26,26,26
+Clark,917,,18,D,Christine Gregoire,248,247,247
+Clark,920,,15,D,Christine Gregoire,239,239,241
+Clark,925,,18,D,Christine Gregoire,291,291,291
+Clark,930,,15,D,Christine Gregoire,302,302,302
+Clark,935,,18,D,Christine Gregoire,83,83,83
+Clark,940,,15,D,Christine Gregoire,450,450,450
+Clark,947,,15,D,Christine Gregoire,377,377,377
+Clark,950,Camas,18,D,Christine Gregoire,441,441,441
+Clark,960,Camas,18,D,Christine Gregoire,589,589,590
+Clark,963,Camas,18,D,Christine Gregoire,308,308,308
+Clark,964,Camas,18,D,Christine Gregoire,511,511,511
+Clark,965,Camas,18,D,Christine Gregoire,482,482,482
+Clark,980,,18,D,Christine Gregoire,334,333,334
+Clark,985,Camas,18,D,Christine Gregoire,510,510,510
+Clark,TOTAL,CLARK CO,,D,Christine Gregoire,72797,72800,72828
+Clark,50,Vancouver,49,R,Dino Rossi,298,298,298
+Clark,55,Vancouver,49,R,Dino Rossi,402,403,403
+Clark,60,Vancouver,49,R,Dino Rossi,297,297,297
+Clark,70,Vancouver,49,R,Dino Rossi,268,268,268
+Clark,90,Vancouver,49,R,Dino Rossi,214,214,214
+Clark,100,Vancouver,49,R,Dino Rossi,312,311,311
+Clark,110,Vancouver,49,R,Dino Rossi,243,244,244
+Clark,120,Vancouver,49,R,Dino Rossi,289,289,289
+Clark,130,Vancouver,49,R,Dino Rossi,323,323,323
+Clark,147,Vancouver,49,R,Dino Rossi,346,346,346
+Clark,150,Vancouver,49,R,Dino Rossi,230,230,230
+Clark,153,Vancouver,49,R,Dino Rossi,268,268,268
+Clark,160,Vancouver,49,R,Dino Rossi,203,203,203
+Clark,170,Vancouver,49,R,Dino Rossi,218,218,218
+Clark,175,Vancouver,49,R,Dino Rossi,284,284,284
+Clark,180,Vancouver,49,R,Dino Rossi,301,301,301
+Clark,190,Vancouver,49,R,Dino Rossi,513,513,514
+Clark,200,Vancouver,49,R,Dino Rossi,363,363,363
+Clark,220,Vancouver,49,R,Dino Rossi,394,394,394
+Clark,225,Vancouver,49,R,Dino Rossi,410,390,390
+Clark,240,Vancouver,49,R,Dino Rossi,660,660,661
+Clark,245,Vancouver,49,R,Dino Rossi,331,331,331
+Clark,250,Vancouver,49,R,Dino Rossi,544,544,544
+Clark,255,Vancouver,49,R,Dino Rossi,297,317,316
+Clark,257,Vancouver,49,R,Dino Rossi,361,361,362
+Clark,290,Vancouver,49,R,Dino Rossi,351,351,351
+Clark,294,Vancouver,49,R,Dino Rossi,318,318,318
+Clark,296,Vancouver,49,R,Dino Rossi,441,441,441
+Clark,325,,49,R,Dino Rossi,925,925,925
+Clark,330,,49,R,Dino Rossi,572,572,572
+Clark,335,,49,R,Dino Rossi,370,370,370
+Clark,340,,49,R,Dino Rossi,531,531,531
+Clark,350,,49,R,Dino Rossi,387,387,387
+Clark,360,,49,R,Dino Rossi,487,487,487
+Clark,370,,49,R,Dino Rossi,321,321,321
+Clark,390,,49,R,Dino Rossi,465,465,465
+Clark,395,,49,R,Dino Rossi,89,89,89
+Clark,400,,49,R,Dino Rossi,241,241,241
+Clark,410,,49,R,Dino Rossi,490,490,490
+Clark,415,,49,R,Dino Rossi,285,285,285
+Clark,420,,49,R,Dino Rossi,437,437,437
+Clark,424,,49,R,Dino Rossi,654,654,654
+Clark,425,,49,R,Dino Rossi,626,626,626
+Clark,426,,49,R,Dino Rossi,306,306,306
+Clark,430,,49,R,Dino Rossi,423,423,423
+Clark,434,,17,R,Dino Rossi,405,405,405
+Clark,435,,49,R,Dino Rossi,283,283,283
+Clark,440,,18,R,Dino Rossi,382,382,382
+Clark,441,,17,R,Dino Rossi,540,540,541
+Clark,444,,18,R,Dino Rossi,381,381,382
+Clark,445,,18,R,Dino Rossi,833,833,833
+Clark,446,,18,R,Dino Rossi,946,947,947
+Clark,447,,18,R,Dino Rossi,636,637,637
+Clark,448,,18,R,Dino Rossi,676,682,682
+Clark,450,,18,R,Dino Rossi,668,663,663
+Clark,451,,18,R,Dino Rossi,672,672,672
+Clark,452,,18,R,Dino Rossi,405,405,406
+Clark,453,,18,R,Dino Rossi,418,418,418
+Clark,455,,18,R,Dino Rossi,272,272,272
+Clark,460,,49,R,Dino Rossi,632,633,634
+Clark,470,,49,R,Dino Rossi,505,505,505
+Clark,480,,18,R,Dino Rossi,662,662,662
+Clark,483,,17,R,Dino Rossi,617,617,617
+Clark,485,,18,R,Dino Rossi,424,423,424
+Clark,490,,18,R,Dino Rossi,333,333,333
+Clark,500,Ridgefield,18,R,Dino Rossi,616,616,616
+Clark,505,,18,R,Dino Rossi,602,603,604
+Clark,510,Woodland,18,R,Dino Rossi,387,387,387
+Clark,515,La Center,18,R,Dino Rossi,578,568,568
+Clark,520,,18,R,Dino Rossi,590,600,601
+Clark,525,,18,R,Dino Rossi,452,452,452
+Clark,528,,18,R,Dino Rossi,432,432,432
+Clark,530,,18,R,Dino Rossi,236,235,235
+Clark,535,,18,R,Dino Rossi,997,998,998
+Clark,537,,18,R,Dino Rossi,424,424,424
+Clark,540,,18,R,Dino Rossi,797,797,797
+Clark,543,,17,R,Dino Rossi,241,241,241
+Clark,545,,18,R,Dino Rossi,504,504,504
+Clark,550,,17,R,Dino Rossi,864,864,865
+Clark,555,,17,R,Dino Rossi,422,421,422
+Clark,560,,17,R,Dino Rossi,611,611,611
+Clark,563,,17,R,Dino Rossi,592,592,593
+Clark,565,,49,R,Dino Rossi,490,490,490
+Clark,570,,17,R,Dino Rossi,721,683,683
+Clark,571,,17,R,Dino Rossi,517,555,557
+Clark,573,,17,R,Dino Rossi,411,411,413
+Clark,577,,17,R,Dino Rossi,824,824,824
+Clark,580,,18,R,Dino Rossi,614,614,614
+Clark,583,Battle Ground,18,R,Dino Rossi,1091,1091,1091
+Clark,584,Battle Ground,18,R,Dino Rossi,651,651,651
+Clark,585,Battle Ground,18,R,Dino Rossi,957,958,959
+Clark,586,Battle Ground,18,R,Dino Rossi,386,386,386
+Clark,590,,18,R,Dino Rossi,661,662,663
+Clark,592,,18,R,Dino Rossi,617,617,617
+Clark,593,,18,R,Dino Rossi,709,709,709
+Clark,595,,18,R,Dino Rossi,764,764,764
+Clark,600,Yacolt,18,R,Dino Rossi,234,234,234
+Clark,605,,18,R,Dino Rossi,621,621,622
+Clark,606,,15,R,Dino Rossi,86,86,86
+Clark,610,,18,R,Dino Rossi,702,702,703
+Clark,613,,18,R,Dino Rossi,214,214,214
+Clark,615,,17,R,Dino Rossi,226,226,226
+Clark,617,,17,R,Dino Rossi,502,502,502
+Clark,620,,18,R,Dino Rossi,967,967,967
+Clark,624,,17,R,Dino Rossi,275,275,275
+Clark,625,,18,R,Dino Rossi,535,535,535
+Clark,626,,17,R,Dino Rossi,555,555,554
+Clark,627,,17,R,Dino Rossi,442,442,443
+Clark,628,,17,R,Dino Rossi,388,388,388
+Clark,629,,17,R,Dino Rossi,515,514,514
+Clark,630,,17,R,Dino Rossi,433,433,433
+Clark,631,Vancouver,17,R,Dino Rossi,502,502,503
+Clark,633,,17,R,Dino Rossi,294,294,294
+Clark,634,,17,R,Dino Rossi,343,343,343
+Clark,635,,17,R,Dino Rossi,320,320,320
+Clark,636,,17,R,Dino Rossi,386,386,386
+Clark,638,,17,R,Dino Rossi,509,509,509
+Clark,639,Vancouver,49,R,Dino Rossi,381,381,381
+Clark,640,,17,R,Dino Rossi,544,544,544
+Clark,642,,49,R,Dino Rossi,226,226,226
+Clark,643,,17,R,Dino Rossi,262,262,262
+Clark,644,Vancouver,17,R,Dino Rossi,614,614,614
+Clark,645,Vancouver,17,R,Dino Rossi,530,530,530
+Clark,646,,17,R,Dino Rossi,638,638,638
+Clark,648,Vancouver,17,R,Dino Rossi,614,614,614
+Clark,649,,17,R,Dino Rossi,545,545,546
+Clark,650,Vancouver,49,R,Dino Rossi,425,425,426
+Clark,651,Vancouver,49,R,Dino Rossi,329,329,328
+Clark,652,Vancouver,17,R,Dino Rossi,308,308,308
+Clark,653,Vancouver,17,R,Dino Rossi,478,478,478
+Clark,654,Vancouver,17,R,Dino Rossi,333,333,333
+Clark,656,Vancouver,17,R,Dino Rossi,280,280,280
+Clark,658,Vancouver,17,R,Dino Rossi,357,357,358
+Clark,659,Vancouver,17,R,Dino Rossi,503,503,503
+Clark,660,Vancouver,49,R,Dino Rossi,396,396,396
+Clark,662,Vancouver,17,R,Dino Rossi,642,634,634
+Clark,663,Vancouver,49,R,Dino Rossi,302,302,303
+Clark,664,Vancouver,17,R,Dino Rossi,578,578,577
+Clark,668,Vancouver,17,R,Dino Rossi,767,728,728
+Clark,669,Vancouver,17,R,Dino Rossi,362,409,410
+Clark,670,Vancouver,49,R,Dino Rossi,491,491,491
+Clark,675,Vancouver,49,R,Dino Rossi,844,844,845
+Clark,677,Vancouver,17,R,Dino Rossi,492,492,494
+Clark,678,Vancouver,17,R,Dino Rossi,556,556,556
+Clark,679,Vancouver,17,R,Dino Rossi,533,533,533
+Clark,680,Vancouver,17,R,Dino Rossi,684,685,686
+Clark,681,Vancouver,17,R,Dino Rossi,512,512,512
+Clark,682,Vancouver,17,R,Dino Rossi,429,429,429
+Clark,683,Vancouver,17,R,Dino Rossi,352,352,352
+Clark,685,Vancouver,17,R,Dino Rossi,537,537,537
+Clark,687,Vancouver,17,R,Dino Rossi,311,311,311
+Clark,688,Vancouver,17,R,Dino Rossi,447,447,447
+Clark,689,Vancouver,17,R,Dino Rossi,484,484,484
+Clark,691,Vancouver,17,R,Dino Rossi,538,538,538
+Clark,692,Vancouver,17,R,Dino Rossi,244,244,244
+Clark,693,,17,R,Dino Rossi,352,352,352
+Clark,694,,17,R,Dino Rossi,200,200,200
+Clark,695,,17,R,Dino Rossi,303,303,303
+Clark,696,,17,R,Dino Rossi,779,779,779
+Clark,697,,17,R,Dino Rossi,501,501,501
+Clark,698,,17,R,Dino Rossi,888,888,888
+Clark,900,Washougal,18,R,Dino Rossi,488,488,488
+Clark,905,Washougal,18,R,Dino Rossi,424,424,424
+Clark,910,Washougal,18,R,Dino Rossi,425,425,425
+Clark,914,Washougal,18,R,Dino Rossi,788,788,788
+Clark,915,,18,R,Dino Rossi,44,44,44
+Clark,917,,18,R,Dino Rossi,287,287,289
+Clark,920,,15,R,Dino Rossi,335,335,335
+Clark,925,,18,R,Dino Rossi,409,409,409
+Clark,930,,15,R,Dino Rossi,403,403,403
+Clark,935,,18,R,Dino Rossi,78,78,78
+Clark,940,,15,R,Dino Rossi,626,626,626
+Clark,947,,15,R,Dino Rossi,494,494,494
+Clark,950,Camas,18,R,Dino Rossi,417,417,417
+Clark,960,Camas,18,R,Dino Rossi,1043,1043,1043
+Clark,963,Camas,18,R,Dino Rossi,520,520,520
+Clark,964,Camas,18,R,Dino Rossi,987,987,987
+Clark,965,Camas,18,R,Dino Rossi,816,817,817
+Clark,980,,18,R,Dino Rossi,327,327,327
+Clark,985,Camas,18,R,Dino Rossi,500,500,500
+Clark,TOTAL,CLARK CO,,R,Dino Rossi,85887,85894,85924
+Clark,50,Vancouver,49,L,Ruth Bennett,10,10,10
+Clark,55,Vancouver,49,L,Ruth Bennett,20,20,20
+Clark,60,Vancouver,49,L,Ruth Bennett,22,22,22
+Clark,70,Vancouver,49,L,Ruth Bennett,22,22,22
+Clark,90,Vancouver,49,L,Ruth Bennett,35,35,35
+Clark,100,Vancouver,49,L,Ruth Bennett,39,38,38
+Clark,110,Vancouver,49,L,Ruth Bennett,43,44,44
+Clark,120,Vancouver,49,L,Ruth Bennett,42,42,42
+Clark,130,Vancouver,49,L,Ruth Bennett,39,39,39
+Clark,147,Vancouver,49,L,Ruth Bennett,17,17,17
+Clark,150,Vancouver,49,L,Ruth Bennett,39,39,39
+Clark,153,Vancouver,49,L,Ruth Bennett,20,20,20
+Clark,160,Vancouver,49,L,Ruth Bennett,29,29,29
+Clark,170,Vancouver,49,L,Ruth Bennett,31,31,31
+Clark,175,Vancouver,49,L,Ruth Bennett,27,27,27
+Clark,180,Vancouver,49,L,Ruth Bennett,33,33,33
+Clark,190,Vancouver,49,L,Ruth Bennett,38,38,38
+Clark,200,Vancouver,49,L,Ruth Bennett,45,45,45
+Clark,220,Vancouver,49,L,Ruth Bennett,41,42,41
+Clark,225,Vancouver,49,L,Ruth Bennett,13,11,11
+Clark,240,Vancouver,49,L,Ruth Bennett,19,18,19
+Clark,245,Vancouver,49,L,Ruth Bennett,7,7,7
+Clark,250,Vancouver,49,L,Ruth Bennett,39,39,39
+Clark,255,Vancouver,49,L,Ruth Bennett,8,10,10
+Clark,257,Vancouver,49,L,Ruth Bennett,25,25,25
+Clark,290,Vancouver,49,L,Ruth Bennett,30,30,30
+Clark,294,Vancouver,49,L,Ruth Bennett,36,36,36
+Clark,296,Vancouver,49,L,Ruth Bennett,16,16,16
+Clark,325,,49,L,Ruth Bennett,34,34,34
+Clark,330,,49,L,Ruth Bennett,36,36,36
+Clark,335,,49,L,Ruth Bennett,20,20,20
+Clark,340,,49,L,Ruth Bennett,36,36,36
+Clark,350,,49,L,Ruth Bennett,28,28,28
+Clark,360,,49,L,Ruth Bennett,30,30,30
+Clark,370,,49,L,Ruth Bennett,24,24,24
+Clark,390,,49,L,Ruth Bennett,24,24,24
+Clark,395,,49,L,Ruth Bennett,9,9,9
+Clark,400,,49,L,Ruth Bennett,16,16,16
+Clark,410,,49,L,Ruth Bennett,25,25,25
+Clark,415,,49,L,Ruth Bennett,21,21,21
+Clark,420,,49,L,Ruth Bennett,20,20,20
+Clark,424,,49,L,Ruth Bennett,20,20,20
+Clark,425,,49,L,Ruth Bennett,41,41,41
+Clark,426,,49,L,Ruth Bennett,16,16,16
+Clark,430,,49,L,Ruth Bennett,29,29,29
+Clark,434,,17,L,Ruth Bennett,13,13,13
+Clark,435,,49,L,Ruth Bennett,8,8,8
+Clark,440,,18,L,Ruth Bennett,13,13,13
+Clark,441,,17,L,Ruth Bennett,28,28,28
+Clark,444,,18,L,Ruth Bennett,9,9,9
+Clark,445,,18,L,Ruth Bennett,29,29,29
+Clark,446,,18,L,Ruth Bennett,20,20,20
+Clark,447,,18,L,Ruth Bennett,18,18,18
+Clark,448,,18,L,Ruth Bennett,15,15,15
+Clark,450,,18,L,Ruth Bennett,13,13,13
+Clark,451,,18,L,Ruth Bennett,25,25,25
+Clark,452,,18,L,Ruth Bennett,12,12,12
+Clark,453,,18,L,Ruth Bennett,17,17,17
+Clark,455,,18,L,Ruth Bennett,8,8,8
+Clark,460,,49,L,Ruth Bennett,19,19,19
+Clark,470,,49,L,Ruth Bennett,15,15,15
+Clark,480,,18,L,Ruth Bennett,17,17,17
+Clark,483,,17,L,Ruth Bennett,11,11,11
+Clark,485,,18,L,Ruth Bennett,17,17,17
+Clark,490,,18,L,Ruth Bennett,9,9,9
+Clark,500,Ridgefield,18,L,Ruth Bennett,25,25,25
+Clark,505,,18,L,Ruth Bennett,23,23,23
+Clark,510,Woodland,18,L,Ruth Bennett,16,16,16
+Clark,515,La Center,18,L,Ruth Bennett,21,21,21
+Clark,520,,18,L,Ruth Bennett,43,43,43
+Clark,525,,18,L,Ruth Bennett,21,21,21
+Clark,528,,18,L,Ruth Bennett,28,28,28
+Clark,530,,18,L,Ruth Bennett,11,11,11
+Clark,535,,18,L,Ruth Bennett,42,42,42
+Clark,537,,18,L,Ruth Bennett,13,13,13
+Clark,540,,18,L,Ruth Bennett,30,30,30
+Clark,543,,17,L,Ruth Bennett,10,10,10
+Clark,545,,18,L,Ruth Bennett,24,24,24
+Clark,550,,17,L,Ruth Bennett,32,32,32
+Clark,555,,17,L,Ruth Bennett,16,16,16
+Clark,560,,17,L,Ruth Bennett,7,7,7
+Clark,563,,17,L,Ruth Bennett,28,28,28
+Clark,565,,49,L,Ruth Bennett,11,11,11
+Clark,570,,17,L,Ruth Bennett,30,29,29
+Clark,571,,17,L,Ruth Bennett,26,27,27
+Clark,573,,17,L,Ruth Bennett,16,16,16
+Clark,577,,17,L,Ruth Bennett,25,25,25
+Clark,580,,18,L,Ruth Bennett,15,15,15
+Clark,583,Battle Ground,18,L,Ruth Bennett,37,37,37
+Clark,584,Battle Ground,18,L,Ruth Bennett,10,10,10
+Clark,585,Battle Ground,18,L,Ruth Bennett,34,34,34
+Clark,586,Battle Ground,18,L,Ruth Bennett,25,25,25
+Clark,590,,18,L,Ruth Bennett,24,24,24
+Clark,592,,18,L,Ruth Bennett,23,23,23
+Clark,593,,18,L,Ruth Bennett,17,17,17
+Clark,595,,18,L,Ruth Bennett,28,28,28
+Clark,600,Yacolt,18,L,Ruth Bennett,20,19,19
+Clark,605,,18,L,Ruth Bennett,21,22,22
+Clark,606,,15,L,Ruth Bennett,4,4,4
+Clark,610,,18,L,Ruth Bennett,28,28,28
+Clark,613,,18,L,Ruth Bennett,6,6,6
+Clark,615,,17,L,Ruth Bennett,8,8,8
+Clark,617,,17,L,Ruth Bennett,10,10,10
+Clark,620,,18,L,Ruth Bennett,31,31,31
+Clark,624,,17,L,Ruth Bennett,13,13,13
+Clark,625,,18,L,Ruth Bennett,24,24,24
+Clark,626,,17,L,Ruth Bennett,39,39,39
+Clark,627,,17,L,Ruth Bennett,15,15,15
+Clark,628,,17,L,Ruth Bennett,31,31,31
+Clark,629,,17,L,Ruth Bennett,25,25,25
+Clark,630,,17,L,Ruth Bennett,27,27,27
+Clark,631,Vancouver,17,L,Ruth Bennett,25,25,25
+Clark,633,,17,L,Ruth Bennett,26,26,26
+Clark,634,,17,L,Ruth Bennett,14,14,14
+Clark,635,,17,L,Ruth Bennett,20,20,20
+Clark,636,,17,L,Ruth Bennett,20,20,20
+Clark,638,,17,L,Ruth Bennett,25,25,25
+Clark,639,Vancouver,49,L,Ruth Bennett,24,24,24
+Clark,640,,17,L,Ruth Bennett,30,30,30
+Clark,642,,49,L,Ruth Bennett,4,4,4
+Clark,643,,17,L,Ruth Bennett,27,27,27
+Clark,644,Vancouver,17,L,Ruth Bennett,14,14,14
+Clark,645,Vancouver,17,L,Ruth Bennett,14,14,14
+Clark,646,,17,L,Ruth Bennett,27,27,27
+Clark,648,Vancouver,17,L,Ruth Bennett,33,33,33
+Clark,649,,17,L,Ruth Bennett,19,19,19
+Clark,650,Vancouver,49,L,Ruth Bennett,23,23,23
+Clark,651,Vancouver,49,L,Ruth Bennett,21,21,21
+Clark,652,Vancouver,17,L,Ruth Bennett,30,30,30
+Clark,653,Vancouver,17,L,Ruth Bennett,40,40,40
+Clark,654,Vancouver,17,L,Ruth Bennett,17,17,17
+Clark,656,Vancouver,17,L,Ruth Bennett,10,10,10
+Clark,658,Vancouver,17,L,Ruth Bennett,31,31,31
+Clark,659,Vancouver,17,L,Ruth Bennett,26,26,26
+Clark,660,Vancouver,49,L,Ruth Bennett,20,20,20
+Clark,662,Vancouver,17,L,Ruth Bennett,18,17,17
+Clark,663,Vancouver,49,L,Ruth Bennett,23,23,23
+Clark,664,Vancouver,17,L,Ruth Bennett,26,26,26
+Clark,668,Vancouver,17,L,Ruth Bennett,15,15,15
+Clark,669,Vancouver,17,L,Ruth Bennett,7,8,8
+Clark,670,Vancouver,49,L,Ruth Bennett,27,27,27
+Clark,675,Vancouver,49,L,Ruth Bennett,25,25,25
+Clark,677,Vancouver,17,L,Ruth Bennett,17,17,17
+Clark,678,Vancouver,17,L,Ruth Bennett,31,31,31
+Clark,679,Vancouver,17,L,Ruth Bennett,37,37,37
+Clark,680,Vancouver,17,L,Ruth Bennett,21,21,21
+Clark,681,Vancouver,17,L,Ruth Bennett,30,30,30
+Clark,682,Vancouver,17,L,Ruth Bennett,25,25,25
+Clark,683,Vancouver,17,L,Ruth Bennett,42,42,42
+Clark,685,Vancouver,17,L,Ruth Bennett,33,33,33
+Clark,687,Vancouver,17,L,Ruth Bennett,25,25,25
+Clark,688,Vancouver,17,L,Ruth Bennett,22,22,22
+Clark,689,Vancouver,17,L,Ruth Bennett,27,27,27
+Clark,691,Vancouver,17,L,Ruth Bennett,34,34,34
+Clark,692,Vancouver,17,L,Ruth Bennett,8,8,8
+Clark,693,,17,L,Ruth Bennett,10,10,10
+Clark,694,,17,L,Ruth Bennett,19,19,19
+Clark,695,,17,L,Ruth Bennett,17,17,17
+Clark,696,,17,L,Ruth Bennett,26,26,26
+Clark,697,,17,L,Ruth Bennett,26,26,26
+Clark,698,,17,L,Ruth Bennett,13,13,13
+Clark,900,Washougal,18,L,Ruth Bennett,36,36,36
+Clark,905,Washougal,18,L,Ruth Bennett,22,22,22
+Clark,910,Washougal,18,L,Ruth Bennett,51,51,51
+Clark,914,Washougal,18,L,Ruth Bennett,33,33,33
+Clark,915,,18,L,Ruth Bennett,0,0,0
+Clark,917,,18,L,Ruth Bennett,16,16,16
+Clark,920,,15,L,Ruth Bennett,27,27,27
+Clark,925,,18,L,Ruth Bennett,16,16,16
+Clark,930,,15,L,Ruth Bennett,17,17,17
+Clark,935,,18,L,Ruth Bennett,3,3,3
+Clark,940,,15,L,Ruth Bennett,23,23,23
+Clark,947,,15,L,Ruth Bennett,31,31,31
+Clark,950,Camas,18,L,Ruth Bennett,38,38,38
+Clark,960,Camas,18,L,Ruth Bennett,21,21,21
+Clark,963,Camas,18,L,Ruth Bennett,17,17,17
+Clark,964,Camas,18,L,Ruth Bennett,18,18,18
+Clark,965,Camas,18,L,Ruth Bennett,26,26,26
+Clark,980,,18,L,Ruth Bennett,14,14,14
+Clark,985,Camas,18,L,Ruth Bennett,27,27,27
+Clark,TOTAL,CLARK COUNTY,,L,Ruth Bennett,4123,4123,4123

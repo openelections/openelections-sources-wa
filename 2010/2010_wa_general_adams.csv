@@ -1,0 +1,280 @@
+Number,Precinct,Office,District,Party,Candidate,Votes
+111,Ritzville Ward #1,U.S. Senator,,D,Patty Murray,42
+112,Ritzville Ward #2,U.S. Senator,,D,Patty Murray,37
+113,Ritzville Ward #3,U.S. Senator,,D,Patty Murray,55
+114,Ritzville Ward #4,U.S. Senator,,D,Patty Murray,57
+115,Ritzville Ward #5,U.S. Senator,,D,Patty Murray,51
+121,Ritzville Rural NW,U.S. Senator,,D,Patty Murray,26
+122,Ritzville Rural SE,U.S. Senator,,D,Patty Murray,26
+123,Batum,U.S. Senator,,D,Patty Murray,6
+211,Benge,U.S. Senator,,D,Patty Murray,9
+212,Washtucna City #1,U.S. Senator,,D,Patty Murray,21
+221,Washtucna Rural,U.S. Senator,,D,Patty Murray,3
+222,Ralston,U.S. Senator,,D,Patty Murray,6
+311,Lind #1,U.S. Senator,,D,Patty Murray,67
+313,Hatton City,U.S. Senator,,D,Patty Murray,9
+321,Lind Rural,U.S. Senator,,D,Patty Murray,18
+322,Fairview,U.S. Senator,,D,Patty Murray,3
+323,Schrag,U.S. Senator,,D,Patty Murray,5
+324,Hatton Rural,U.S. Senator,,D,Patty Murray,8
+325,Cunningham,U.S. Senator,,D,Patty Murray,4
+411,Othello City #1,U.S. Senator,,D,Patty Murray,13
+412,Othello City #2,U.S. Senator,,D,Patty Murray,76
+413,Othello City #3,U.S. Senator,,D,Patty Murray,78
+414,Othello City #4,U.S. Senator,,D,Patty Murray,81
+415,Othello City #5,U.S. Senator,,D,Patty Murray,79
+416,Othello City #6,U.S. Senator,,D,Patty Murray,18
+511,Othello Rural #1,U.S. Senator,,D,Patty Murray,36
+512,Othello Rural #2,U.S. Senator,,D,Patty Murray,44
+513,Othello Rural #3,U.S. Senator,,D,Patty Murray,54
+514,Othello Rural #4,U.S. Senator,,D,Patty Murray,33
+515,Othello Rural #5,U.S. Senator,,D,Patty Murray,31
+516,Othello Rural #6,U.S. Senator,,D,Patty Murray,32
+111,Ritzville Ward #1,U.S. Senator,,R,Dino Rossi,78
+112,Ritzville Ward #2,U.S. Senator,,R,Dino Rossi,74
+113,Ritzville Ward #3,U.S. Senator,,R,Dino Rossi,90
+114,Ritzville Ward #4,U.S. Senator,,R,Dino Rossi,122
+115,Ritzville Ward #5,U.S. Senator,,R,Dino Rossi,101
+121,Ritzville Rural NW,U.S. Senator,,R,Dino Rossi,125
+122,Ritzville Rural SE,U.S. Senator,,R,Dino Rossi,111
+123,Batum,U.S. Senator,,R,Dino Rossi,87
+211,Benge,U.S. Senator,,R,Dino Rossi,24
+212,Washtucna City #1,U.S. Senator,,R,Dino Rossi,70
+221,Washtucna Rural,U.S. Senator,,R,Dino Rossi,67
+222,Ralston,U.S. Senator,,R,Dino Rossi,30
+311,Lind #1,U.S. Senator,,R,Dino Rossi,154
+313,Hatton City,U.S. Senator,,R,Dino Rossi,8
+321,Lind Rural,U.S. Senator,,R,Dino Rossi,60
+322,Fairview,U.S. Senator,,R,Dino Rossi,31
+323,Schrag,U.S. Senator,,R,Dino Rossi,59
+324,Hatton Rural,U.S. Senator,,R,Dino Rossi,32
+325,Cunningham,U.S. Senator,,R,Dino Rossi,13
+411,Othello City #1,U.S. Senator,,R,Dino Rossi,22
+412,Othello City #2,U.S. Senator,,R,Dino Rossi,138
+413,Othello City #3,U.S. Senator,,R,Dino Rossi,132
+414,Othello City #4,U.S. Senator,,R,Dino Rossi,158
+415,Othello City #5,U.S. Senator,,R,Dino Rossi,194
+416,Othello City #6,U.S. Senator,,R,Dino Rossi,24
+511,Othello Rural #1,U.S. Senator,,R,Dino Rossi,34
+512,Othello Rural #2,U.S. Senator,,R,Dino Rossi,70
+513,Othello Rural #3,U.S. Senator,,R,Dino Rossi,171
+514,Othello Rural #4,U.S. Senator,,R,Dino Rossi,103
+515,Othello Rural #5,U.S. Senator,,R,Dino Rossi,161
+516,Othello Rural #6,U.S. Senator,,R,Dino Rossi,200
+411,Othello City #1,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,27
+412,Othello City #2,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,145
+413,Othello City #3,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,141
+414,Othello City #4,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,184
+415,Othello City #5,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,211
+416,Othello City #6,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,30
+511,Othello Rural #1,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,35
+512,Othello Rural #2,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,74
+513,Othello Rural #3,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,188
+514,Othello Rural #4,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,103
+515,Othello Rural #5,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,R,Doc Hastings,172
+411,Othello City #1,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,8
+412,Othello City #2,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,68
+413,Othello City #3,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,65
+414,Othello City #4,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,53
+415,Othello City #5,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,60
+416,Othello City #6,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,12
+511,Othello Rural #1,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,35
+512,Othello Rural #2,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,43
+513,Othello Rural #3,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,38
+514,Othello Rural #4,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,33
+515,Othello Rural #5,CONGRESSIONAL DISTRICT 4 U.S. Representative,4,D,Jay Clough,25
+111,Ritzville Ward #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,86
+112,Ritzville Ward #2,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,77
+113,Ritzville Ward #3,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,107
+114,Ritzville Ward #4,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,125
+115,Ritzville Ward #5,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,112
+121,Ritzville Rural NW,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,129
+122,Ritzville Rural SE,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,114
+123,Batum,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,80
+211,Benge,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,26
+212,Washtucna City #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,73
+221,Washtucna Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,65
+222,Ralston,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,31
+311,Lind #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,153
+313,Hatton City,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,14
+321,Lind Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,63
+322,Fairview,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,30
+323,Schrag,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,57
+324,Hatton Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,40
+325,Cunningham,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,16
+516,Othello Rural #6,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,R,Cathy McMorris Rodgers,210
+111,Ritzville Ward #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,40
+112,Ritzville Ward #2,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,35
+113,Ritzville Ward #3,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,40
+114,Ritzville Ward #4,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,54
+115,Ritzville Ward #5,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,40
+121,Ritzville Rural NW,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,23
+122,Ritzville Rural SE,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,24
+123,Batum,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,10
+211,Benge,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,7
+212,Washtucna City #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,18
+221,Washtucna Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,4
+222,Ralston,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,5
+311,Lind #1,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,83
+313,Hatton City,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,4
+321,Lind Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,16
+322,Fairview,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,5
+323,Schrag,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,6
+324,Hatton Rural,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,1
+325,Cunningham,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,2
+516,Othello Rural #6,CONGRESSIONAL DISTRICT 5 U.S. Representative,5,D,Daryl Romeyn,21
+111,Ritzville Ward #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,89
+112,Ritzville Ward #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,94
+113,Ritzville Ward #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,115
+114,Ritzville Ward #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,132
+115,Ritzville Ward #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,123
+121,Ritzville Rural NW,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,126
+122,Ritzville Rural SE,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,109
+123,Batum,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,69
+211,Benge,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,29
+212,Washtucna City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,76
+221,Washtucna Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,60
+222,Ralston,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,31
+311,Lind #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,175
+313,Hatton City,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,16
+321,Lind Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,61
+322,Fairview,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,28
+323,Schrag,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,55
+324,Hatton Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,37
+325,Cunningham,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,15
+411,Othello City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,27
+412,Othello City #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,161
+413,Othello City #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,153
+414,Othello City #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,188
+415,Othello City #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,220
+416,Othello City #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,38
+511,Othello Rural #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,56
+512,Othello Rural #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,98
+513,Othello Rural #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,184
+514,Othello Rural #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,115
+515,Othello Rural #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,146
+516,Othello Rural #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 1,9,R,Susan Fagan,196
+111,Ritzville Ward #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,85
+112,Ritzville Ward #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,87
+113,Ritzville Ward #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,120
+114,Ritzville Ward #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,144
+115,Ritzville Ward #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,132
+121,Ritzville Rural NW,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,128
+122,Ritzville Rural SE,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,110
+123,Batum,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,54
+211,Benge,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,27
+212,Washtucna City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,67
+221,Washtucna Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,49
+222,Ralston,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,28
+311,Lind #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,166
+313,Hatton City,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,11
+321,Lind Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,63
+322,Fairview,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,26
+323,Schrag,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,39
+324,Hatton Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,36
+325,Cunningham,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,12
+411,Othello City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,26
+412,Othello City #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,133
+413,Othello City #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,129
+414,Othello City #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,162
+415,Othello City #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,185
+416,Othello City #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,24
+511,Othello Rural #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,47
+512,Othello Rural #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,65
+513,Othello Rural #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,149
+514,Othello Rural #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,104
+515,Othello Rural #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,138
+516,Othello Rural #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Joe Schmick,159
+111,Ritzville Ward #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,31
+112,Ritzville Ward #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,19
+113,Ritzville Ward #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,15
+114,Ritzville Ward #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,20
+115,Ritzville Ward #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,14
+121,Ritzville Rural NW,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,21
+122,Ritzville Rural SE,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,23
+123,Batum,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,22
+211,Benge,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,4
+212,Washtucna City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,15
+221,Washtucna Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,11
+222,Ralston,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,4
+311,Lind #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,47
+313,Hatton City,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,7
+321,Lind Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,14
+322,Fairview,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,6
+323,Schrag,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,18
+324,Hatton Rural,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,3
+325,Cunningham,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,4
+411,Othello City #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,2
+412,Othello City #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,48
+413,Othello City #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,43
+414,Othello City #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,44
+415,Othello City #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,59
+416,Othello City #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,13
+511,Othello Rural #1,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,14
+512,Othello Rural #2,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,31
+513,Othello Rural #3,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,46
+514,Othello Rural #4,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,25
+515,Othello Rural #5,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,36
+516,Othello Rural #6,LEGISLATIVE DISTRICT 9 State Representative Pos. 2,9,R,Glen R. Stockwell,41
+111,Ritzville Ward #1,,,,Registered,175
+112,Ritzville Ward #2,,,,Registered,163
+113,Ritzville Ward #3,,,,Registered,214
+114,Ritzville Ward #4,,,,Registered,240
+115,Ritzville Ward #5,,,,Registered,208
+121,Ritzville Rural NW,,,,Registered,192
+122,Ritzville Rural SE,,,,Registered,175
+123,Batum,,,,Registered,131
+211,Benge,,,,Registered,48
+212,Washtucna City #1,,,,Registered,136
+221,Washtucna Rural,,,,Registered,88
+222,Ralston,,,,Registered,42
+311,Lind #1,,,,Registered,323
+313,Hatton City,,,,Registered,29
+321,Lind Rural,,,,Registered,100
+322,Fairview,,,,Registered,41
+323,Schrag,,,,Registered,78
+324,Hatton Rural,,,,Registered,47
+325,Cunningham,,,,Registered,25
+411,Othello City #1,,,,Registered,55
+412,Othello City #2,,,,Registered,430
+413,Othello City #3,,,,Registered,408
+414,Othello City #4,,,,Registered,331
+415,Othello City #5,,,,Registered,457
+416,Othello City #6,,,,Registered,92
+511,Othello Rural #1,,,,Registered,263
+512,Othello Rural #2,,,,Registered,247
+513,Othello Rural #3,,,,Registered,362
+514,Othello Rural #4,,,,Registered,228
+515,Othello Rural #5,,,,Registered,336
+516,Othello Rural #6,,,,Registered,334
+111,Ritzville Ward #1,,,,Ballots Cast,130
+112,Ritzville Ward #2,,,,Ballots Cast,116
+113,Ritzville Ward #3,,,,Ballots Cast,153
+114,Ritzville Ward #4,,,,Ballots Cast,187
+115,Ritzville Ward #5,,,,Ballots Cast,157
+121,Ritzville Rural NW,,,,Ballots Cast,156
+122,Ritzville Rural SE,,,,Ballots Cast,144
+123,Batum,,,,Ballots Cast,94
+211,Benge,,,,Ballots Cast,34
+212,Washtucna City #1,,,,Ballots Cast,92
+221,Washtucna Rural,,,,Ballots Cast,73
+222,Ralston,,,,Ballots Cast,36
+311,Lind #1,,,,Ballots Cast,244
+313,Hatton City,,,,Ballots Cast,19
+321,Lind Rural,,,,Ballots Cast,84
+322,Fairview,,,,Ballots Cast,36
+323,Schrag,,,,Ballots Cast,64
+324,Hatton Rural,,,,Ballots Cast,41
+325,Cunningham,,,,Ballots Cast,18
+411,Othello City #1,,,,Ballots Cast,36
+412,Othello City #2,,,,Ballots Cast,222
+413,Othello City #3,,,,Ballots Cast,213
+414,Othello City #4,,,,Ballots Cast,244
+415,Othello City #5,,,,Ballots Cast,284
+416,Othello City #6,,,,Ballots Cast,43
+511,Othello Rural #1,,,,Ballots Cast,73
+512,Othello Rural #2,,,,Ballots Cast,121
+513,Othello Rural #3,,,,Ballots Cast,231
+514,Othello Rural #4,,,,Ballots Cast,139
+515,Othello Rural #5,,,,Ballots Cast,202
+516,Othello Rural #6,,,,Ballots Cast,239

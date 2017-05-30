@@ -1,0 +1,289 @@
+number,name,office,district,party,candidate,total,poll,absentee
+101,Gardiner 1,Congress 6,CD6,D,Norm Dicks,56,56,0
+102,Gardiner 2,Congress 6,CD6,D,Norm Dicks,29,29,0
+103,Gardiner 3,Congress 6,CD6,D,Norm Dicks,11,11,0
+104,Cape George,Congress 6,CD6,D,Norm Dicks,570,216,354
+105,S Discovery,Congress 6,CD6,D,Norm Dicks,332,102,230
+106,North Jacob,Congress 6,CD6,D,Norm Dicks,118,47,71
+107,Eaglemount,Congress 6,CD6,D,Norm Dicks,23,23,
+108,Port Discovery,Congress 6,CD6,D,Norm Dicks,51,51,
+109,Crocker Lake,Congress 6,CD6,D,Norm Dicks,29,29,
+110,Leland,Congress 6,CD6,D,Norm Dicks,43,43,
+200,Coyle 1,Congress 6,CD6,D,Norm Dicks,77,77,
+201,Quilcene,Congress 6,CD6,D,Norm Dicks,257,88,169
+203,Coyle 2,Congress 6,CD6,D,Norm Dicks,50,50,
+204,Brinnon,Congress 6,CD6,D,Norm Dicks,371,71,300
+206,Thorndyke,Congress 6,CD6,D,Norm Dicks,28,28,
+301,Chimacum,Congress 6,CD6,D,Norm Dicks,304,103,201
+302,Center,Congress 6,CD6,D,Norm Dicks,267,103,164
+303,Hadlock,Congress 6,CD6,D,Norm Dicks,543,202,341
+304,Kala Point,Congress 6,CD6,D,Norm Dicks,342,118,224
+305,Irondale,Congress 6,CD6,D,Norm Dicks,236,69,167
+401,Nordland,Congress 6,CD6,D,Norm Dicks,311,112,199
+501,N Port Ludlow,Congress 6,CD6,D,Norm Dicks,658,179,479
+502,S Port Ludlow,Congress 6,CD6,D,Norm Dicks,472,96,376
+503,Shine,Congress 6,CD6,D,Norm Dicks,229,64,165
+600,Hoh,Congress 6,CD6,D,Norm Dicks,32,32,
+601,Queets,Congress 6,CD6,D,Norm Dicks,31,31,
+701,Port Townsend 1,Congress 6,CD6,D,Norm Dicks,610,251,359
+702,Port Townsend 2,Congress 6,CD6,D,Norm Dicks,756,269,487
+703,Port Townsend 3,Congress 6,CD6,D,Norm Dicks,555,189,366
+704,Port Townsend 4,Congress 6,CD6,D,Norm Dicks,369,141,228
+705,Port Townsend 5,Congress 6,CD6,D,Norm Dicks,666,243,423
+JEFFERSON WA,JEFFERSON WA,Congress 6,CD6,D,Norm Dicks,8426,3123,5303
+101,Gardiner 1,Congress 6,CD6,R,Bob Lawrence,42,42,0
+102,Gardiner 2,Congress 6,CD6,R,Bob Lawrence,7,7,
+103,Gardiner 3,Congress 6,CD6,R,Bob Lawrence,20,20,
+104,Cape George,Congress 6,CD6,R,Bob Lawrence,254,108,146
+105,S Discovery,Congress 6,CD6,R,Bob Lawrence,104,37,67
+106,North Jacob,Congress 6,CD6,R,Bob Lawrence,52,24,28
+107,Eaglemount,Congress 6,CD6,R,Bob Lawrence,9,9,
+108,Port Discovery,Congress 6,CD6,R,Bob Lawrence,52,52,
+109,Crocker Lake,Congress 6,CD6,R,Bob Lawrence,19,19,
+110,Leland,Congress 6,CD6,R,Bob Lawrence,22,22,
+200,Coyle 1,Congress 6,CD6,R,Bob Lawrence,29,29,
+201,Quilcene,Congress 6,CD6,R,Bob Lawrence,177,63,114
+203,Coyle 2,Congress 6,CD6,R,Bob Lawrence,10,10,
+204,Brinnon,Congress 6,CD6,R,Bob Lawrence,273,72,201
+206,Thorndyke,Congress 6,CD6,R,Bob Lawrence,11,11,
+301,Chimacum,Congress 6,CD6,R,Bob Lawrence,176,43,133
+302,Center,Congress 6,CD6,R,Bob Lawrence,100,34,66
+303,Hadlock,Congress 6,CD6,R,Bob Lawrence,251,92,159
+304,Kala Point,Congress 6,CD6,R,Bob Lawrence,262,69,193
+305,Irondale,Congress 6,CD6,R,Bob Lawrence,86,23,63
+401,Nordland,Congress 6,CD6,R,Bob Lawrence,161,60,101
+501,N Port Ludlow,Congress 6,CD6,R,Bob Lawrence,449,108,341
+502,S Port Ludlow,Congress 6,CD6,R,Bob Lawrence,415,92,323
+503,Shine,Congress 6,CD6,R,Bob Lawrence,130,34,96
+600,Hoh,Congress 6,CD6,R,Bob Lawrence,24,24,
+601,Queets,Congress 6,CD6,R,Bob Lawrence,7,7,
+701,Port Townsend 1,Congress 6,CD6,R,Bob Lawrence,143,41,102
+702,Port Townsend 2,Congress 6,CD6,R,Bob Lawrence,165,48,117
+703,Port Townsend 3,Congress 6,CD6,R,Bob Lawrence,148,39,109
+704,Port Townsend 4,Congress 6,CD6,R,Bob Lawrence,132,58,74
+705,Port Townsend 5,Congress 6,CD6,R,Bob Lawrence,179,72,107
+JEFFERSON WA,JEFFERSON WA,Congress 6,CD6,R,Bob Lawrence,3909,1369,2540
+101,Gardiner 1,Congress 6,CD6,L,John Bennett,9,9,0
+102,Gardiner 2,Congress 6,CD6,L,John Bennett,4,4,
+103,Gardiner 3,Congress 6,CD6,L,John Bennett,4,4,
+104,Cape George,Congress 6,CD6,L,John Bennett,52,18,34
+105,S Discovery,Congress 6,CD6,L,John Bennett,31,12,19
+106,North Jacob,Congress 6,CD6,L,John Bennett,12,2,10
+107,Eaglemount,Congress 6,CD6,L,John Bennett,3,3,
+108,Port Discovery,Congress 6,CD6,L,John Bennett,5,5,
+109,Crocker Lake,Congress 6,CD6,L,John Bennett,3,3,
+110,Leland,Congress 6,CD6,L,John Bennett,5,5,
+200,Coyle 1,Congress 6,CD6,L,John Bennett,4,4,
+201,Quilcene,Congress 6,CD6,L,John Bennett,34,13,21
+203,Coyle 2,Congress 6,CD6,L,John Bennett,2,2,
+204,Brinnon,Congress 6,CD6,L,John Bennett,23,7,16
+206,Thorndyke,Congress 6,CD6,L,John Bennett,0,0,
+301,Chimacum,Congress 6,CD6,L,John Bennett,16,2,14
+302,Center,Congress 6,CD6,L,John Bennett,32,15,17
+303,Hadlock,Congress 6,CD6,L,John Bennett,52,19,33
+304,Kala Point,Congress 6,CD6,L,John Bennett,30,5,25
+305,Irondale,Congress 6,CD6,L,John Bennett,19,3,16
+401,Nordland,Congress 6,CD6,L,John Bennett,28,10,18
+501,N Port Ludlow,Congress 6,CD6,L,John Bennett,31,8,23
+502,S Port Ludlow,Congress 6,CD6,L,John Bennett,18,9,9
+503,Shine,Congress 6,CD6,L,John Bennett,9,1,8
+600,Hoh,Congress 6,CD6,L,John Bennett,6,6,
+601,Queets,Congress 6,CD6,L,John Bennett,5,5,
+701,Port Townsend 1,Congress 6,CD6,L,John Bennett,50,24,26
+702,Port Townsend 2,Congress 6,CD6,L,John Bennett,76,32,44
+703,Port Townsend 3,Congress 6,CD6,L,John Bennett,45,15,30
+704,Port Townsend 4,Congress 6,CD6,L,John Bennett,32,13,19
+705,Port Townsend 5,Congress 6,CD6,L,John Bennett,70,25,45
+JEFFERSON WA,JEFFERSON WA,Congress 6,CD6,L,John Bennett,710,283,427
+101,Gardiner 1,Congress 6,CD6,,writeins,,0,
+102,Gardiner 2,Congress 6,CD6,,writeins,,0,
+103,Gardiner 3,Congress 6,CD6,,writeins,,0,
+104,Cape George,Congress 6,CD6,,writeins,17,4,13
+105,S Discovery,Congress 6,CD6,,writeins,17,8,9
+106,North Jacob,Congress 6,CD6,,writeins,6,3,3
+107,Eaglemount,Congress 6,CD6,,writeins,0,0,
+108,Port Discovery,Congress 6,CD6,,writeins,2,2,
+109,Crocker Lake,Congress 6,CD6,,writeins,0,0,
+110,Leland,Congress 6,CD6,,writeins,0,0,
+200,Coyle 1,Congress 6,CD6,,writeins,1,1,
+201,Quilcene,Congress 6,CD6,,writeins,3,2,1
+203,Coyle 2,Congress 6,CD6,,writeins,0,0,
+204,Brinnon,Congress 6,CD6,,writeins,2,1,1
+206,Thorndyke,Congress 6,CD6,,writeins,1,1,
+301,Chimacum,Congress 6,CD6,,writeins,2,2,0
+302,Center,Congress 6,CD6,,writeins,0,0,0
+303,Hadlock,Congress 6,CD6,,writeins,6,4,2
+304,Kala Point,Congress 6,CD6,,writeins,6,1,5
+305,Irondale,Congress 6,CD6,,writeins,7,2,5
+401,Nordland,Congress 6,CD6,,writeins,4,0,4
+501,N Port Ludlow,Congress 6,CD6,,writeins,1,0,1
+502,S Port Ludlow,Congress 6,CD6,,writeins,0,0,0
+503,Shine,Congress 6,CD6,,writeins,0,0,0
+600,Hoh,Congress 6,CD6,,writeins,0,0,
+601,Queets,Congress 6,CD6,,writeins,0,0,
+701,Port Townsend 1,Congress 6,CD6,,writeins,19,9,10
+702,Port Townsend 2,Congress 6,CD6,,writeins,43,20,23
+703,Port Townsend 3,Congress 6,CD6,,writeins,19,10,9
+704,Port Townsend 4,Congress 6,CD6,,writeins,4,2,2
+705,Port Townsend 5,Congress 6,CD6,,writeins,46,15,31
+JEFFERSON WA,JEFFERSON WA,Congress 6,CD6,,writeins,206,87,119
+101,Gardiner 1,Rep 24-1,HD24-1,D,Bill Thomas,44,44,0
+102,Gardiner 2,Rep 24-1,HD24-1,D,Bill Thomas,30,30,
+103,Gardiner 3,Rep 24-1,HD24-1,D,Bill Thomas,13,13,
+104,Cape George,Rep 24-1,HD24-1,D,Bill Thomas,489,202,287
+105,S Discovery,Rep 24-1,HD24-1,D,Bill Thomas,258,89,169
+106,North Jacob,Rep 24-1,HD24-1,D,Bill Thomas,91,40,51
+107,Eaglemount,Rep 24-1,HD24-1,D,Bill Thomas,20,20,
+108,Port Discovery,Rep 24-1,HD24-1,D,Bill Thomas,30,30,
+109,Crocker Lake,Rep 24-1,HD24-1,D,Bill Thomas,19,19,
+110,Leland,Rep 24-1,HD24-1,D,Bill Thomas,36,36,
+200,Coyle 1,Rep 24-1,HD24-1,D,Bill Thomas,39,39,
+201,Quilcene,Rep 24-1,HD24-1,D,Bill Thomas,158,49,109
+203,Coyle 2,Rep 24-1,HD24-1,D,Bill Thomas,41,41,
+204,Brinnon,Rep 24-1,HD24-1,D,Bill Thomas,223,49,174
+206,Thorndyke,Rep 24-1,HD24-1,D,Bill Thomas,16,16,
+301,Chimacum,Rep 24-1,HD24-1,D,Bill Thomas,219,69,150
+302,Center,Rep 24-1,HD24-1,D,Bill Thomas,200,87,113
+303,Hadlock,Rep 24-1,HD24-1,D,Bill Thomas,358,133,225
+304,Kala Point,Rep 24-1,HD24-1,D,Bill Thomas,254,98,156
+305,Irondale,Rep 24-1,HD24-1,D,Bill Thomas,161,47,114
+401,Nordland,Rep 24-1,HD24-1,D,Bill Thomas,233,96,137
+501,N Port Ludlow,Rep 24-1,HD24-1,D,Bill Thomas,400,117,283
+502,S Port Ludlow,Rep 24-1,HD24-1,D,Bill Thomas,287,65,222
+503,Shine,Rep 24-1,HD24-1,D,Bill Thomas,145,46,99
+600,Hoh,Rep 24-1,HD24-1,D,Bill Thomas,27,27,
+601,Queets,Rep 24-1,HD24-1,D,Bill Thomas,17,17,
+701,Port Townsend 1,Rep 24-1,HD24-1,D,Bill Thomas,537,226,311
+702,Port Townsend 2,Rep 24-1,HD24-1,D,Bill Thomas,708,289,419
+703,Port Townsend 3,Rep 24-1,HD24-1,D,Bill Thomas,458,176,282
+704,Port Townsend 4,Rep 24-1,HD24-1,D,Bill Thomas,266,113,153
+705,Port Townsend 5,Rep 24-1,HD24-1,D,Bill Thomas,579,224,355
+JEFFERSON WA,JEFFERSON WA,Rep 24-1,HD24-1,D,Bill Thomas,6356,2547,3809
+101,Gardiner 1,Rep 24-1,HD24-1,R,Jim Buck,64,64,0
+102,Gardiner 2,Rep 24-1,HD24-1,R,Jim Buck,9,9,
+103,Gardiner 3,Rep 24-1,HD24-1,R,Jim Buck,23,23,
+104,Cape George,Rep 24-1,HD24-1,R,Jim Buck,391,141,250
+105,S Discovery,Rep 24-1,HD24-1,R,Jim Buck,217,64,153
+106,North Jacob,Rep 24-1,HD24-1,R,Jim Buck,97,35,62
+107,Eaglemount,Rep 24-1,HD24-1,R,Jim Buck,17,17,
+108,Port Discovery,Rep 24-1,HD24-1,R,Jim Buck,82,82,
+109,Crocker Lake,Rep 24-1,HD24-1,R,Jim Buck,33,33,
+110,Leland,Rep 24-1,HD24-1,R,Jim Buck,36,36,
+200,Coyle 1,Rep 24-1,HD24-1,R,Jim Buck,53,53,
+201,Quilcene,Rep 24-1,HD24-1,R,Jim Buck,310,114,196
+203,Coyle 2,Rep 24-1,HD24-1,R,Jim Buck,20,20,
+204,Brinnon,Rep 24-1,HD24-1,R,Jim Buck,445,103,342
+206,Thorndyke,Rep 24-1,HD24-1,R,Jim Buck,22,22,
+301,Chimacum,Rep 24-1,HD24-1,R,Jim Buck,280,80,200
+302,Center,Rep 24-1,HD24-1,R,Jim Buck,198,63,135
+303,Hadlock,Rep 24-1,HD24-1,R,Jim Buck,490,174,316
+304,Kala Point,Rep 24-1,HD24-1,R,Jim Buck,388,96,292
+305,Irondale,Rep 24-1,HD24-1,R,Jim Buck,190,49,141
+401,Nordland,Rep 24-1,HD24-1,R,Jim Buck,277,92,185
+501,N Port Ludlow,Rep 24-1,HD24-1,R,Jim Buck,733,174,559
+502,S Port Ludlow,Rep 24-1,HD24-1,R,Jim Buck,610,129,481
+503,Shine,Rep 24-1,HD24-1,R,Jim Buck,220,55,165
+600,Hoh,Rep 24-1,HD24-1,R,Jim Buck,35,35,
+601,Queets,Rep 24-1,HD24-1,R,Jim Buck,28,28,
+701,Port Townsend 1,Rep 24-1,HD24-1,R,Jim Buck,279,93,186
+702,Port Townsend 2,Rep 24-1,HD24-1,R,Jim Buck,334,85,249
+703,Port Townsend 3,Rep 24-1,HD24-1,R,Jim Buck,296,71,225
+704,Port Townsend 4,Rep 24-1,HD24-1,R,Jim Buck,257,95,162
+705,Port Townsend 5,Rep 24-1,HD24-1,R,Jim Buck,382,127,255
+JEFFERSON WA,JEFFERSON WA,Rep 24-1,HD24-1,R,Jim Buck,6816,2262,4554
+101,Gardiner 1,Rep 24-1,HD24-1,,writeins,0,0,
+102,Gardiner 2,Rep 24-1,HD24-1,,writeins,0,0,
+103,Gardiner 3,Rep 24-1,HD24-1,,writeins,0,0,
+104,Cape George,Rep 24-1,HD24-1,,writeins,4,0,4
+105,S Discovery,Rep 24-1,HD24-1,,writeins,3,0,3
+106,North Jacob,Rep 24-1,HD24-1,,writeins,0,0,0
+107,Eaglemount,Rep 24-1,HD24-1,,writeins,0,0,
+108,Port Discovery,Rep 24-1,HD24-1,,writeins,1,1,
+109,Crocker Lake,Rep 24-1,HD24-1,,writeins,0,0,
+110,Leland,Rep 24-1,HD24-1,,writeins,0,0,
+200,Coyle 1,Rep 24-1,HD24-1,,writeins,0,0,
+201,Quilcene,Rep 24-1,HD24-1,,writeins,1,1,0
+203,Coyle 2,Rep 24-1,HD24-1,,writeins,0,0,
+204,Brinnon,Rep 24-1,HD24-1,,writeins,1,1,0
+206,Thorndyke,Rep 24-1,HD24-1,,writeins,0,0,
+301,Chimacum,Rep 24-1,HD24-1,,writeins,0,0,0
+302,Center,Rep 24-1,HD24-1,,writeins,0,0,0
+303,Hadlock,Rep 24-1,HD24-1,,writeins,7,2,5
+304,Kala Point,Rep 24-1,HD24-1,,writeins,0,0,0
+305,Irondale,Rep 24-1,HD24-1,,writeins,0,0,0
+401,Nordland,Rep 24-1,HD24-1,,writeins,0,0,0
+501,N Port Ludlow,Rep 24-1,HD24-1,,writeins,1,1,0
+502,S Port Ludlow,Rep 24-1,HD24-1,,writeins,1,0,1
+503,Shine,Rep 24-1,HD24-1,,writeins,0,0,0
+600,Hoh,Rep 24-1,HD24-1,,writeins,1,1,
+601,Queets,Rep 24-1,HD24-1,,writeins,0,0,
+701,Port Townsend 1,Rep 24-1,HD24-1,,writeins,4,2,2
+702,Port Townsend 2,Rep 24-1,HD24-1,,writeins,2,1,1
+703,Port Townsend 3,Rep 24-1,HD24-1,,writeins,5,2,3
+704,Port Townsend 4,Rep 24-1,HD24-1,,writeins,2,1,1
+705,Port Townsend 5,Rep 24-1,HD24-1,,writeins,1,0,1
+JEFFERSON WA,JEFFERSON WA,Rep 24-1,HD24-1,,writeins,34,13,21
+101,Gardiner 1,Rep 24-2,HD24-2,D,Lynn Kessler,74,74,0
+102,Gardiner 2,Rep 24-2,HD24-2,D,Lynn Kessler,35,35,0
+103,Gardiner 3,Rep 24-2,HD24-2,D,Lynn Kessler,23,23,0
+104,Cape George,Rep 24-2,HD24-2,D,Lynn Kessler,724,285,439
+105,S Discovery,Rep 24-2,HD24-2,D,Lynn Kessler,406,124,282
+106,North Jacob,Rep 24-2,HD24-2,D,Lynn Kessler,147,53,94
+107,Eaglemount,Rep 24-2,HD24-2,D,Lynn Kessler,29,29,
+108,Port Discovery,Rep 24-2,HD24-2,D,Lynn Kessler,74,74,
+109,Crocker Lake,Rep 24-2,HD24-2,D,Lynn Kessler,37,37,
+110,Leland,Rep 24-2,HD24-2,D,Lynn Kessler,53,53,
+200,Coyle 1,Rep 24-2,HD24-2,D,Lynn Kessler,81,81,
+201,Quilcene,Rep 24-2,HD24-2,D,Lynn Kessler,341,117,224
+203,Coyle 2,Rep 24-2,HD24-2,D,Lynn Kessler,56,56,
+204,Brinnon,Rep 24-2,HD24-2,D,Lynn Kessler,505,115,390
+206,Thorndyke,Rep 24-2,HD24-2,D,Lynn Kessler,31,31,
+301,Chimacum,Rep 24-2,HD24-2,D,Lynn Kessler,381,112,269
+302,Center,Rep 24-2,HD24-2,D,Lynn Kessler,325,125,200
+303,Hadlock,Rep 24-2,HD24-2,D,Lynn Kessler,694,265,429
+304,Kala Point,Rep 24-2,HD24-2,D,Lynn Kessler,476,152,324
+305,Irondale,Rep 24-2,HD24-2,D,Lynn Kessler,289,79,210
+401,Nordland,Rep 24-2,HD24-2,D,Lynn Kessler,397,149,248
+501,N Port Ludlow,Rep 24-2,HD24-2,D,Lynn Kessler,831,227,604
+502,S Port Ludlow,Rep 24-2,HD24-2,D,Lynn Kessler,632,137,495
+503,Shine,Rep 24-2,HD24-2,D,Lynn Kessler,288,83,205
+600,Hoh,Rep 24-2,HD24-2,D,Lynn Kessler,52,52,
+601,Queets,Rep 24-2,HD24-2,D,Lynn Kessler,38,38,
+701,Port Townsend 1,Rep 24-2,HD24-2,D,Lynn Kessler,684,282,402
+702,Port Townsend 2,Rep 24-2,HD24-2,D,Lynn Kessler,906,332,574
+703,Port Townsend 3,Rep 24-2,HD24-2,D,Lynn Kessler,626,221,405
+704,Port Townsend 4,Rep 24-2,HD24-2,D,Lynn Kessler,443,179,264
+705,Port Townsend 5,Rep 24-2,HD24-2,D,Lynn Kessler,833,305,528
+JEFFERSON WA,JEFFERSON WA,Rep 24-2,HD24-2,D,Lynn Kessler,10511,3925,6586
+101,Gardiner 1,Rep 24-2,HD24-2,,writeins,4,4,0
+102,Gardiner 2,Rep 24-2,HD24-2,,writeins,1,1,
+103,Gardiner 3,Rep 24-2,HD24-2,,writeins,0,0,
+104,Cape George,Rep 24-2,HD24-2,,writeins,21,7,14
+105,S Discovery,Rep 24-2,HD24-2,,writeins,5,2,3
+106,North Jacob,Rep 24-2,HD24-2,,writeins,4,2,2
+107,Eaglemount,Rep 24-2,HD24-2,,writeins,0,0,
+108,Port Discovery,Rep 24-2,HD24-2,,writeins,2,2,
+109,Crocker Lake,Rep 24-2,HD24-2,,writeins,3,3,
+110,Leland,Rep 24-2,HD24-2,,writeins,3,3,
+200,Coyle 1,Rep 24-2,HD24-2,,writeins,2,2,
+201,Quilcene,Rep 24-2,HD24-2,,writeins,18,10,8
+203,Coyle 2,Rep 24-2,HD24-2,,writeins,2,2,
+204,Brinnon,Rep 24-2,HD24-2,,writeins,11,2,9
+206,Thorndyke,Rep 24-2,HD24-2,,writeins,0,0,
+301,Chimacum,Rep 24-2,HD24-2,,writeins,7,3,4
+302,Center,Rep 24-2,HD24-2,,writeins,7,2,5
+303,Hadlock,Rep 24-2,HD24-2,,writeins,20,7,13
+304,Kala Point,Rep 24-2,HD24-2,,writeins,6,2,4
+305,Irondale,Rep 24-2,HD24-2,,writeins,7,3,4
+401,Nordland,Rep 24-2,HD24-2,,writeins,10,2,8
+501,N Port Ludlow,Rep 24-2,HD24-2,,writeins,13,4,9
+502,S Port Ludlow,Rep 24-2,HD24-2,,writeins,16,6,10
+503,Shine,Rep 24-2,HD24-2,,writeins,8,3,5
+600,Hoh,Rep 24-2,HD24-2,,writeins,1,1,
+601,Queets,Rep 24-2,HD24-2,,writeins,0,0,
+701,Port Townsend 1,Rep 24-2,HD24-2,,writeins,9,1,8
+702,Port Townsend 2,Rep 24-2,HD24-2,,writeins,14,8,6
+703,Port Townsend 3,Rep 24-2,HD24-2,,writeins,12,6,6
+704,Port Townsend 4,Rep 24-2,HD24-2,,writeins,11,4,7
+705,Port Townsend 5,Rep 24-2,HD24-2,,writeins,15,7,8
+JEFFERSON WA,JEFFERSON WA,Rep 24-2,HD24-2,,writeins,232,99,133

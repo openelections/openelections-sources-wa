@@ -1,0 +1,896 @@
+,precinct,office,district,party,candidate,machine,hand
+7002,Anglin,,7,,Ballots,86,86
+7003,Beeman,,7,,Ballots,99,99
+7004,Bodie,,7,,Ballots,43,43
+7005,Bonaparte,,7,,Ballots,73,73
+7009,Chesaw,,7,,Ballots,62,62
+7010,Conconully rural,,7,,Ballots,58,58
+7011,Duck Lake,,7,,Ballots,48,48
+7013,Eastlake,,7,,Ballots,69,69
+7015,Ellisforde,,7,,Ballots,82,82
+7017,Elmway,,7,,Ballots,115,115
+7018,Havillah,,7,,Ballots,126,126
+7019,Loomis,,7,,Ballots,101,101
+7023,Mission,,7,,Ballots,67,67
+7024,Molson,,7,,Ballots,78,78
+7027,Nespelem rural,,7,,Ballots,39,39
+7028,Nighthawk,,7,,Ballots,25,25
+7029,North Omak,,7,,Ballots,69,69
+7031,Pine Creek,,7,,Ballots,46,46
+7033,Riverside rural,,7,,Ballots,100,100
+7034,San Poil,,7,,Ballots,116,116
+7035,South Oroville,,7,,Ballots,68,68
+7037,Tonasket rural,,7,,Ballots,46,46
+7038,Tunk Creek,,7,,Ballots,95,95
+7041,Wauconda,,7,,Ballots,76,76
+7042,Westlake,,7,,Ballots,46,46
+7043,Whitestone,,7,,Ballots,62,62
+7048,Aeneas,,7,,Ballots,71,71
+7050,Crumbacher,,7,,Ballots,111,111
+7053,Kipling,,7,,Ballots,53,53
+7054,Orchard,,7,,Ballots,59,59
+7055,Toroda,,7,,Ballots,74,74
+7059,Copple,,7,,Ballots,77,77
+7061,Engh,,7,,Ballots,89,89
+7063,Janis,,7,,Ballots,65,65
+7064,Leese,,7,,Ballots,36,36
+7068,Owhi,,7,,Ballots,60,60
+7069,Palmer Lake,,7,,Ballots,57,57
+7070,Pine Cone,,7,,Ballots,52,52
+7072,Sand Flat,,7,,Ballots,100,100
+7074,Sourdough,,7,,Ballots,97,97
+7077,Wannacut,,7,,Ballots,85,85
+7079,Canal,,7,,Ballots,64,64
+7086,Greenacres,,7,,Ballots,45,45
+7087,Johnson Creek,,7,,Ballots,59,59
+7089,Lime Belt,,7,,Ballots,40,40
+7095,Boundary,,7,,Ballots,97,97
+7096,Buckhorn,,7,,Ballots,38,38
+7097,Eder,,7,,Ballots,83,83
+7098,Horseshoe Lake,,7,,Ballots,70,70
+7099,Lake Andrews,,7,,Ballots,68,68
+7100,Myers Creek,,7,,Ballots,62,62
+7930,Nespelem city 104,,7,,Ballots,73,73
+7401,Okanogan city 1-105,,7,,Ballots,74,74
+7402,Okanogan city 2-106,,7,,Ballots,71,71
+7403,Okanogan city 3-107,,7,,Ballots,66,66
+7404,Okanogan city 4-108,,7,,Ballots,92,92
+7301,Omak city 1-109,,7,,Ballots,54,54
+7302,Omak city 2-110,,7,,Ballots,114,114
+7303,Omak city 3-111,,7,,Ballots,58,58
+7304,Omak city 4-112,,7,,Ballots,64,64
+7305,Omak city 5-113,,7,,Ballots,96,96
+7306,Omak city 6-114,,7,,Ballots,72,73
+7307,Omak city 7-115,,7,,Ballots,79,79
+7308,Omak city 8-116,,7,,Ballots,48,48
+7309,Omak city 9-117,,7,,Ballots,114,114
+7501,Oroville city 1-118,,7,,Ballots,75,75
+7502,Oroville city 2-119,,7,,Ballots,43,43
+7503,Oroville city 3-120,,7,,Ballots,59,59
+7601,Tonasket city 1-121,,7,,Ballots,60,60
+7602,Tonasket city 2-122,,7,,Ballots,58,58
+7603,Tonasket city 3-123,,7,,Ballots,37,37
+7910,Conconully City-131,,7,,Ballots,105,105
+7950,Riverside city-134,,7,,Ballots,135,135
+7138,Shoreline,,7,,Ballots,68,68
+7139,Similkameen,,7,,Ballots,42,42
+7140,Teal Lake,,7,,Ballots,55,55
+7141,Tonasket Creek,,7,,Ballots,68,68
+7504,Oroville city 4-142,,7,,Ballots,59,59
+7505,Oroville city 5-143,,7,,Ballots,90,90
+7506,Oroville city 6-144,,7,,Ballots,38,38
+7507,Oroville city 7-145,,7,,Ballots,40,40
+7508,Oroville city 8-146,,7,,Ballots,41,41
+7509,Oroville city 9-147,,7,,Ballots,60,60
+7510,Oroville city 10-148,,7,,Ballots,71,71
+7149,Jennings Loop,,7,,Ballots,30,30
+7150,Blue Lake,,7,,Ballots,83,83
+7151,Aeneas Creek,,12,,Ballots,61,61
+7152,Aeneas Lake,,12,,Ballots,90,90
+7153,Antoine Creek,,12,,Ballots,41,41
+7154,Antoine Peak,,12,,Ballots,43,43
+7155,Cape Labelle,,12,,Ballots,49,49
+7156,Cayuse Mtn,,12,,Ballots,53,53
+7157,Chewiliken,,12,,Ballots,40,40
+7158,Duffy Mtn,,12,,Ballots,62,62
+7159,Frontage,,12,,Ballots,23,23
+7160,Gusty Ridge,,12,,Ballots,59,59
+7161,Longanecker,,12,,Ballots,78,78
+7162,North Tonasket,,12,,Ballots,89,89
+7163,Pickens Mtn,,12,,Ballots,58,58
+7164,Ranches,,12,,Ballots,45,45
+7165,Siwash Creek,,12,,Ballots,70,70
+7166,Spectacle Lake,,12,,Ballots,67,67
+7167,Highway,,12,,Ballots,60,60
+7168,Whiskey Mtn,,12,,Ballots,36,36
+7169,Yarnell,,12,,Ballots,45,45
+7604,Tonasket city 4-170,,12,,Ballots,67,67
+7605,Tonasket city 5-171,,12,,Ballots,75,75
+7606,Tonasket city 6-172,,12,,Ballots,34,34
+7607,Tonasket city 7-173,,12,,Ballots,57,57
+7185,Coleman Butte,,12,,Ballots,88,88
+7186,Aston,,12,,Ballots,67,67
+7187,West River,,12,,Ballots,57,57
+7188,Omak River,,12,,Ballots,70,70
+7189,Cherokee,,12,,Ballots,63,63
+7190,Nichols,,12,,Ballots,79,79
+7191,Lone Pine,,12,,Ballots,63,63
+7192,Omak Mtn,,12,,Ballots,54,54
+7194,Fiker,,12,,Ballots,73,73
+7195,Ross Canyon,,12,,Ballots,73,73
+7196,Hendrick,,12,,Ballots,110,110
+7310,Omak city 10-202,,12,,Ballots,86,86
+7311,Omak city 11-203,,12,,Ballots,91,91
+7312,Omak city 12-204,,12,,Ballots,85,85
+7313,Omak city 13-205,,12,,Ballots,59,59
+7314,Omak city 14-206,,12,,Ballots,46,46
+7315,Omak city 15-207,,12,,Ballots,72,72
+7316,Omak city 16-208,,12,,Ballots,72,72
+7317,Omak city 17-209,,12,,Ballots,90,90
+7318,Omak city 18-210,,12,,Ballots,50,50
+7319,Omak city 19-211,,12,,Ballots,56,56
+7320,Omak city 20-212,,12,,Ballots,67,67
+7321,Omak city 21-213,,12,,Ballots,62,62
+7322,Omak city 22-214,,12,,Ballots,75,75
+7323,Omak city 23-215,,12,,Ballots,48,48
+7324,Omak city 24-216,,12,,Ballots,52,52
+7405,Okanogan city 5-217,,12,,Ballots,94,94
+7406,Okanogan city 6-218,,12,,Ballots,85,85
+7407,Okanogan city 7-219,,12,,Ballots,44,44
+7408,Okanogan city 8-220,,12,,Ballots,73,73
+7409,Okanogan city 9-221,,12,,Ballots,81,81
+7410,Okanogan city 10-222,,12,,Ballots,85,85
+7411,Okanogan city 11-223,,12,,Ballots,89,89
+7412,Okanogan city 12-224,,12,,Ballots,64,64
+12001,Alma,,12,,Ballots,67,67
+12006,Boston,,12,,Ballots,135,135
+12007,Brewster rural,,12,,Ballots,83,83
+12008,Carlton,,12,,Ballots,70,70
+12012,Duley Lake,,12,,Ballots,53,53
+12014,Eastside,,12,,Ballots,106,106
+12016,Elmerton rural,,12,,Ballots,111,111
+12020,Malott,,12,,Ballots,133,132
+12021,Mazama,,12,,Ballots,153,153
+12022,Methow,,12,,Ballots,92,92
+12025,Monse 1,,12,,Ballots,86,86
+12026,Monse 2,,12,,Ballots,21,21
+12030,Pateros rural,,12,,Ballots,74,74
+12032,Pogue,,12,,Ballots,107,107
+12036,Spring Coulee,,12,,Ballots,105,105
+12039,Twisp rural,,12,,Ballots,94,94
+12040,Wolf Creek,,12,,Ballots,77,77
+12044,Winthrop rural,,12,,Ballots,120,120
+12045,Chiliwist,,12,,Ballots,89,89
+12046,Monse 3,,12,,Ballots,55,55
+12047,Okanogan rural,,12,,Ballots,63,63
+12049,Columbia,,12,,Ballots,55,55
+12051,Disautel,,12,,Ballots,76,76
+12052,Hudson,,12,,Ballots,46,46
+12056,Beaver Creek,,12,,Ballots,70,70
+12057,Black Canyon,,12,,Ballots,113,113
+12058,Buffalo Lake,,12,,Ballots,53,53
+12060,Edelweiss,,12,,Ballots,108,108
+12062,Finley Canyon,,12,,Ballots,108,108
+12065,Libby Creek,,12,,Ballots,138,138
+12066,McGinnis Lake,,12,,Ballots,39,39
+12067,North Star,,12,,Ballots,38,38
+12071,Poorman Creek,,12,,Ballots,102,102
+12075,Twin Lakes,,12,,Ballots,100,100
+12076,Valley,,12,,Ballots,73,73
+12078,West Chewuch,,12,,Ballots,105,105
+12081,Airport,,12,,Ballots,81,81
+12082,Balky Hill,,12,,Ballots,57,57
+12083,Bridge Creek,,12,,Ballots,79,79
+12084,Crossroads,,12,,Ballots,115,115
+12085,Davis Lake,,12,,Ballots,96,96
+12088,Lewis Butte,,12,,Ballots,105,105
+12090,McClure Mt,,12,,Ballots,138,138
+12091,Moccasin Lake,,12,,Ballots,112,112
+12092,North Malott,,12,,Ballots,119,119
+12093,Patterson Lake,,12,,Ballots,119,119
+12094,Pearrygin Lake,,12,,Ballots,75,75
+12701,Coulee Dam city 1-101,,12,,Ballots,122,122
+12702,Coulee Dam city 2-102,,12,,Ballots,111,111
+12703,Coulee Dam city 3-103,,12,,Ballots,82,82
+12801,Brewster city 1-124,,12,,Ballots,57,57
+12802,Brewster city 2-125,,12,,Ballots,86,86
+12941,Pateros city 1-126,,12,,Ballots,65,65
+12942,Pateros city 2-127,,12,,Ballots,69,69
+12961,Twisp city 1-128,,12,,Ballots,129,129
+12962,Twisp city 2-129,,12,,Ballots,131,131
+12971,Winthrop city 1-130,,12,,Ballots,138,138
+12704,Coulee Dam city 4-132,,12,,Ballots,85,85
+12920,Elmer City-133,,12,,Ballots,121,121
+12963,Twisp city 3-135,,12,,Ballots,130,130
+12964,Twisp city 4-136,,12,,Ballots,74,74
+12972,Winthrop city 2-137,,12,,Ballots,92,92
+12174,Leecher Mtn,,12,,Ballots,94,94
+12175,Alta Lake,,12,,Ballots,77,77
+12176,Starr,,12,,Ballots,53,53
+12943,Pateros city 3-177,,12,,Ballots,72,72
+12178,Rat Lake,,12,,Ballots,61,61
+12179,Brewster flat,,12,,Ballots,71,71
+12803,Brewster city 3-180,,12,,Ballots,70,70
+12804,Brewster city 4-181,,12,,Ballots,63,63
+12805,Brewster city 5-182,,12,,Ballots,68,68
+12806,Brewster city 6-183,,12,,Ballots,46,46
+12184,Pioneer,,12,,Ballots,69,69
+12193,Omak Lake,,12,,Ballots,37,37
+12197,Dixon,,12,,Ballots,81,81
+12198,Kermel,,12,,Ballots,69,69
+12199,Glover,,12,,Ballots,83,83
+12200,Fletcher,,12,,Ballots,81,81
+12201,Mook,,12,,Ballots,88,88
+OKANOGAN WA,OKANOGAN WA,,,,Ballots,16613,16613
+,precinct,office,district,party,candidate,machine,hand
+7002,Anglin,Governor,,D,Christine Gregoire,19,19
+7003,Beeman,Governor,,D,Christine Gregoire,30,30
+7004,Bodie,Governor,,D,Christine Gregoire,10,10
+7005,Bonaparte,Governor,,D,Christine Gregoire,13,13
+7009,Chesaw,Governor,,D,Christine Gregoire,17,17
+7010,Conconully rural,Governor,,D,Christine Gregoire,12,12
+7011,Duck Lake,Governor,,D,Christine Gregoire,11,11
+7013,Eastlake,Governor,,D,Christine Gregoire,19,19
+7015,Ellisforde,Governor,,D,Christine Gregoire,15,15
+7017,Elmway,Governor,,D,Christine Gregoire,45,45
+7018,Havillah,Governor,,D,Christine Gregoire,47,48
+7019,Loomis,Governor,,D,Christine Gregoire,29,29
+7023,Mission,Governor,,D,Christine Gregoire,29,29
+7024,Molson,Governor,,D,Christine Gregoire,24,24
+7027,Nespelem rural,Governor,,D,Christine Gregoire,30,30
+7028,Nighthawk,Governor,,D,Christine Gregoire,3,3
+7029,North Omak,Governor,,D,Christine Gregoire,15,15
+7031,Pine Creek,Governor,,D,Christine Gregoire,3,3
+7033,Riverside rural,Governor,,D,Christine Gregoire,28,28
+7034,San Poil,Governor,,D,Christine Gregoire,48,48
+7035,South Oroville,Governor,,D,Christine Gregoire,12,12
+7037,Tonasket rural,Governor,,D,Christine Gregoire,13,13
+7038,Tunk Creek,Governor,,D,Christine Gregoire,33,33
+7041,Wauconda,Governor,,D,Christine Gregoire,20,20
+7042,Westlake,Governor,,D,Christine Gregoire,8,8
+7043,Whitestone,Governor,,D,Christine Gregoire,20,20
+7048,Aeneas,Governor,,D,Christine Gregoire,26,26
+7050,Crumbacher,Governor,,D,Christine Gregoire,29,29
+7053,Kipling,Governor,,D,Christine Gregoire,10,10
+7054,Orchard,Governor,,D,Christine Gregoire,16,16
+7055,Toroda,Governor,,D,Christine Gregoire,11,11
+7059,Copple,Governor,,D,Christine Gregoire,16,16
+7061,Engh,Governor,,D,Christine Gregoire,31,31
+7063,Janis,Governor,,D,Christine Gregoire,26,26
+7064,Leese,Governor,,D,Christine Gregoire,12,12
+7068,Owhi,Governor,,D,Christine Gregoire,45,45
+7069,Palmer Lake,Governor,,D,Christine Gregoire,14,14
+7070,Pine Cone,Governor,,D,Christine Gregoire,22,22
+7072,Sand Flat,Governor,,D,Christine Gregoire,33,33
+7074,Sourdough,Governor,,D,Christine Gregoire,31,31
+7077,Wannacut,Governor,,D,Christine Gregoire,22,22
+7079,Canal,Governor,,D,Christine Gregoire,16,16
+7086,Greenacres,Governor,,D,Christine Gregoire,10,10
+7087,Johnson Creek,Governor,,D,Christine Gregoire,21,21
+7089,Lime Belt,Governor,,D,Christine Gregoire,8,8
+7095,Boundary,Governor,,D,Christine Gregoire,26,26
+7096,Buckhorn,Governor,,D,Christine Gregoire,12,12
+7097,Eder,Governor,,D,Christine Gregoire,23,23
+7098,Horseshoe Lake,Governor,,D,Christine Gregoire,20,20
+7099,Lake Andrews,Governor,,D,Christine Gregoire,19,19
+7100,Myers Creek,Governor,,D,Christine Gregoire,15,15
+7930,Nespelem city 104,Governor,,D,Christine Gregoire,55,55
+7401,Okanogan city 1-105,Governor,,D,Christine Gregoire,30,30
+7402,Okanogan city 2-106,Governor,,D,Christine Gregoire,25,25
+7403,Okanogan city 3-107,Governor,,D,Christine Gregoire,17,17
+7404,Okanogan city 4-108,Governor,,D,Christine Gregoire,44,44
+7301,Omak city 1-109,Governor,,D,Christine Gregoire,20,20
+7302,Omak city 2-110,Governor,,D,Christine Gregoire,45,45
+7303,Omak city 3-111,Governor,,D,Christine Gregoire,42,42
+7304,Omak city 4-112,Governor,,D,Christine Gregoire,18,18
+7305,Omak city 5-113,Governor,,D,Christine Gregoire,37,38
+7306,Omak city 6-114,Governor,,D,Christine Gregoire,25,25
+7307,Omak city 7-115,Governor,,D,Christine Gregoire,33,33
+7308,Omak city 8-116,Governor,,D,Christine Gregoire,23,23
+7309,Omak city 9-117,Governor,,D,Christine Gregoire,40,40
+7501,Oroville city 1-118,Governor,,D,Christine Gregoire,22,22
+7502,Oroville city 2-119,Governor,,D,Christine Gregoire,20,20
+7503,Oroville city 3-120,Governor,,D,Christine Gregoire,16,16
+7601,Tonasket city 1-121,Governor,,D,Christine Gregoire,19,19
+7602,Tonasket city 2-122,Governor,,D,Christine Gregoire,29,29
+7603,Tonasket city 3-123,Governor,,D,Christine Gregoire,18,18
+7910,Conconully City-131,Governor,,D,Christine Gregoire,37,37
+7950,Riverside city-134,Governor,,D,Christine Gregoire,36,36
+7138,Shoreline,Governor,,D,Christine Gregoire,15,15
+7139,Similkameen,Governor,,D,Christine Gregoire,8,8
+7140,Teal Lake,Governor,,D,Christine Gregoire,11,11
+7141,Tonasket Creek,Governor,,D,Christine Gregoire,19,19
+7504,Oroville city 4-142,Governor,,D,Christine Gregoire,21,21
+7505,Oroville city 5-143,Governor,,D,Christine Gregoire,27,27
+7506,Oroville city 6-144,Governor,,D,Christine Gregoire,13,13
+7507,Oroville city 7-145,Governor,,D,Christine Gregoire,14,14
+7508,Oroville city 8-146,Governor,,D,Christine Gregoire,10,10
+7509,Oroville city 9-147,Governor,,D,Christine Gregoire,17,17
+7510,Oroville city 10-148,Governor,,D,Christine Gregoire,29,29
+7149,Jennings Loop,Governor,,D,Christine Gregoire,14,14
+7150,Blue Lake,Governor,,D,Christine Gregoire,28,28
+7151,Aeneas Creek,Governor,,D,Christine Gregoire,13,13
+7152,Aeneas Lake,Governor,,D,Christine Gregoire,26,26
+7153,Antoine Creek,Governor,,D,Christine Gregoire,12,12
+7154,Antoine Peak,Governor,,D,Christine Gregoire,24,24
+7155,Cape Labelle,Governor,,D,Christine Gregoire,14,14
+7156,Cayuse Mtn,Governor,,D,Christine Gregoire,20,20
+7157,Chewiliken,Governor,,D,Christine Gregoire,14,14
+7158,Duffy Mtn,Governor,,D,Christine Gregoire,16,16
+7159,Frontage,Governor,,D,Christine Gregoire,5,5
+7160,Gusty Ridge,Governor,,D,Christine Gregoire,10,10
+7161,Longanecker,Governor,,D,Christine Gregoire,29,29
+7162,North Tonasket,Governor,,D,Christine Gregoire,29,29
+7163,Pickens Mtn,Governor,,D,Christine Gregoire,12,12
+7164,Ranches,Governor,,D,Christine Gregoire,20,20
+7165,Siwash Creek,Governor,,D,Christine Gregoire,28,28
+7166,Spectacle Lake,Governor,,D,Christine Gregoire,5,5
+7167,Highway,Governor,,D,Christine Gregoire,27,27
+7168,Whiskey Mtn,Governor,,D,Christine Gregoire,11,11
+7169,Yarnell,Governor,,D,Christine Gregoire,15,15
+7604,Tonasket city 4-170,Governor,,D,Christine Gregoire,20,21
+7605,Tonasket city 5-171,Governor,,D,Christine Gregoire,26,26
+7606,Tonasket city 6-172,Governor,,D,Christine Gregoire,9,9
+7607,Tonasket city 7-173,Governor,,D,Christine Gregoire,19,19
+7185,Coleman Butte,Governor,,D,Christine Gregoire,24,24
+7186,Aston,Governor,,D,Christine Gregoire,21,21
+7187,West River,Governor,,D,Christine Gregoire,20,20
+7188,Omak River,Governor,,D,Christine Gregoire,19,19
+7189,Cherokee,Governor,,D,Christine Gregoire,23,23
+7190,Nichols,Governor,,D,Christine Gregoire,22,22
+7191,Lone Pine,Governor,,D,Christine Gregoire,54,54
+7192,Omak Mtn,Governor,,D,Christine Gregoire,26,26
+7194,Fiker,Governor,,D,Christine Gregoire,21,21
+7195,Ross Canyon,Governor,,D,Christine Gregoire,25,25
+7196,Hendrick,Governor,,D,Christine Gregoire,39,39
+7310,Omak city 10-202,Governor,,D,Christine Gregoire,42,42
+7311,Omak city 11-203,Governor,,D,Christine Gregoire,34,34
+7312,Omak city 12-204,Governor,,D,Christine Gregoire,30,30
+7313,Omak city 13-205,Governor,,D,Christine Gregoire,36,36
+7314,Omak city 14-206,Governor,,D,Christine Gregoire,19,19
+7315,Omak city 15-207,Governor,,D,Christine Gregoire,22,22
+7316,Omak city 16-208,Governor,,D,Christine Gregoire,26,26
+7317,Omak city 17-209,Governor,,D,Christine Gregoire,34,34
+7318,Omak city 18-210,Governor,,D,Christine Gregoire,24,24
+7319,Omak city 19-211,Governor,,D,Christine Gregoire,18,18
+7320,Omak city 20-212,Governor,,D,Christine Gregoire,25,25
+7321,Omak city 21-213,Governor,,D,Christine Gregoire,26,26
+7322,Omak city 22-214,Governor,,D,Christine Gregoire,26,26
+7323,Omak city 23-215,Governor,,D,Christine Gregoire,22,22
+7324,Omak city 24-216,Governor,,D,Christine Gregoire,33,33
+7405,Okanogan city 5-217,Governor,,D,Christine Gregoire,39,39
+7406,Okanogan city 6-218,Governor,,D,Christine Gregoire,37,37
+7407,Okanogan city 7-219,Governor,,D,Christine Gregoire,23,23
+7408,Okanogan city 8-220,Governor,,D,Christine Gregoire,25,25
+7409,Okanogan city 9-221,Governor,,D,Christine Gregoire,30,30
+7410,Okanogan city 10-222,Governor,,D,Christine Gregoire,24,24
+7411,Okanogan city 11-223,Governor,,D,Christine Gregoire,29,29
+7412,Okanogan city 12-224,Governor,,D,Christine Gregoire,31,31
+12001,Alma,Governor,,D,Christine Gregoire,21,21
+12006,Boston,Governor,,D,Christine Gregoire,41,41
+12007,Brewster rural,Governor,,D,Christine Gregoire,13,13
+12008,Carlton,Governor,,D,Christine Gregoire,35,35
+12012,Duley Lake,Governor,,D,Christine Gregoire,20,20
+12014,Eastside,Governor,,D,Christine Gregoire,32,33
+12016,Elmerton rural,Governor,,D,Christine Gregoire,62,62
+12020,Malott,Governor,,D,Christine Gregoire,39,40
+12021,Mazama,Governor,,D,Christine Gregoire,82,82
+12022,Methow,Governor,,D,Christine Gregoire,26,26
+12025,Monse 1,Governor,,D,Christine Gregoire,10,10
+12026,Monse 2,Governor,,D,Christine Gregoire,3,3
+12030,Pateros rural,Governor,,D,Christine Gregoire,31,31
+12032,Pogue,Governor,,D,Christine Gregoire,32,32
+12036,Spring Coulee,Governor,,D,Christine Gregoire,23,23
+12039,Twisp rural,Governor,,D,Christine Gregoire,57,57
+12040,Wolf Creek,Governor,,D,Christine Gregoire,42,42
+12044,Winthrop rural,Governor,,D,Christine Gregoire,61,61
+12045,Chiliwist,Governor,,D,Christine Gregoire,30,30
+12046,Monse 3,Governor,,D,Christine Gregoire,15,15
+12047,Okanogan rural,Governor,,D,Christine Gregoire,23,23
+12049,Columbia,Governor,,D,Christine Gregoire,44,44
+12051,Disautel,Governor,,D,Christine Gregoire,41,41
+12052,Hudson,Governor,,D,Christine Gregoire,12,12
+12056,Beaver Creek,Governor,,D,Christine Gregoire,28,28
+12057,Black Canyon,Governor,,D,Christine Gregoire,35,35
+12058,Buffalo Lake,Governor,,D,Christine Gregoire,49,49
+12060,Edelweiss,Governor,,D,Christine Gregoire,53,53
+12062,Finley Canyon,Governor,,D,Christine Gregoire,36,36
+12065,Libby Creek,Governor,,D,Christine Gregoire,79,79
+12066,McGinnis Lake,Governor,,D,Christine Gregoire,23,23
+12067,North Star,Governor,,D,Christine Gregoire,7,7
+12071,Poorman Creek,Governor,,D,Christine Gregoire,36,36
+12075,Twin Lakes,Governor,,D,Christine Gregoire,40,40
+12076,Valley,Governor,,D,Christine Gregoire,20,20
+12078,West Chewuch,Governor,,D,Christine Gregoire,53,53
+12081,Airport,Governor,,D,Christine Gregoire,36,36
+12082,Balky Hill,Governor,,D,Christine Gregoire,16,16
+12083,Bridge Creek,Governor,,D,Christine Gregoire,50,50
+12084,Crossroads,Governor,,D,Christine Gregoire,38,38
+12085,Davis Lake,Governor,,D,Christine Gregoire,46,46
+12088,Lewis Butte,Governor,,D,Christine Gregoire,63,63
+12090,McClure Mt,Governor,,D,Christine Gregoire,55,55
+12091,Moccasin Lake,Governor,,D,Christine Gregoire,56,56
+12092,North Malott,Governor,,D,Christine Gregoire,27,27
+12093,Patterson Lake,Governor,,D,Christine Gregoire,67,68
+12094,Pearrygin Lake,Governor,,D,Christine Gregoire,33,33
+12701,Coulee Dam city 1-101,Governor,,D,Christine Gregoire,64,64
+12702,Coulee Dam city 2-102,Governor,,D,Christine Gregoire,54,54
+12703,Coulee Dam city 3-103,Governor,,D,Christine Gregoire,43,43
+12801,Brewster city 1-124,Governor,,D,Christine Gregoire,10,10
+12802,Brewster city 2-125,Governor,,D,Christine Gregoire,28,28
+12941,Pateros city 1-126,Governor,,D,Christine Gregoire,27,27
+12942,Pateros city 2-127,Governor,,D,Christine Gregoire,19,19
+12961,Twisp city 1-128,Governor,,D,Christine Gregoire,66,66
+12962,Twisp city 2-129,Governor,,D,Christine Gregoire,60,60
+12971,Winthrop city 1-130,Governor,,D,Christine Gregoire,76,76
+12704,Coulee Dam city 4-132,Governor,,D,Christine Gregoire,50,50
+12920,Elmer City-133,Governor,,D,Christine Gregoire,67,67
+12963,Twisp city 3-135,Governor,,D,Christine Gregoire,51,51
+12964,Twisp city 4-136,Governor,,D,Christine Gregoire,39,39
+12972,Winthrop city 2-137,Governor,,D,Christine Gregoire,54,54
+12174,Leecher Mtn,Governor,,D,Christine Gregoire,39,39
+12175,Alta Lake,Governor,,D,Christine Gregoire,29,29
+12176,Starr,Governor,,D,Christine Gregoire,9,9
+12943,Pateros city 3-177,Governor,,D,Christine Gregoire,29,29
+12178,Rat Lake,Governor,,D,Christine Gregoire,17,17
+12179,Brewster flat,Governor,,D,Christine Gregoire,12,12
+12803,Brewster city 3-180,Governor,,D,Christine Gregoire,21,21
+12804,Brewster city 4-181,Governor,,D,Christine Gregoire,17,17
+12805,Brewster city 5-182,Governor,,D,Christine Gregoire,27,27
+12806,Brewster city 6-183,Governor,,D,Christine Gregoire,20,20
+12184,Pioneer,Governor,,D,Christine Gregoire,11,11
+12193,Omak Lake,Governor,,D,Christine Gregoire,29,29
+12197,Dixon,Governor,,D,Christine Gregoire,17,17
+12198,Kermel,Governor,,D,Christine Gregoire,18,18
+12199,Glover,Governor,,D,Christine Gregoire,11,11
+12200,Fletcher,Governor,,D,Christine Gregoire,21,21
+12201,Mook,Governor,,D,Christine Gregoire,28,28
+OKANOGAN WA,OKANOGAN WA,Governor,,D,Christine Gregoire,6101,6107
+,precinct,office,district,party,candidate,machine,hand
+7002,Anglin,Governor,,R,Dino Rossi,58,58
+7003,Beeman,Governor,,R,Dino Rossi,60,60
+7004,Bodie,Governor,,R,Dino Rossi,29,30
+7005,Bonaparte,Governor,,R,Dino Rossi,55,55
+7009,Chesaw,Governor,,R,Dino Rossi,33,33
+7010,Conconully rural,Governor,,R,Dino Rossi,44,44
+7011,Duck Lake,Governor,,R,Dino Rossi,36,36
+7013,Eastlake,Governor,,R,Dino Rossi,47,48
+7015,Ellisforde,Governor,,R,Dino Rossi,62,62
+7017,Elmway,Governor,,R,Dino Rossi,65,65
+7018,Havillah,Governor,,R,Dino Rossi,67,67
+7019,Loomis,Governor,,R,Dino Rossi,67,67
+7023,Mission,Governor,,R,Dino Rossi,31,32
+7024,Molson,Governor,,R,Dino Rossi,51,51
+7027,Nespelem rural,Governor,,R,Dino Rossi,8,8
+7028,Nighthawk,Governor,,R,Dino Rossi,20,20
+7029,North Omak,Governor,,R,Dino Rossi,49,49
+7031,Pine Creek,Governor,,R,Dino Rossi,42,42
+7033,Riverside rural,Governor,,R,Dino Rossi,67,67
+7034,San Poil,Governor,,R,Dino Rossi,60,60
+7035,South Oroville,Governor,,R,Dino Rossi,50,50
+7037,Tonasket rural,Governor,,R,Dino Rossi,31,31
+7038,Tunk Creek,Governor,,R,Dino Rossi,53,53
+7041,Wauconda,Governor,,R,Dino Rossi,50,50
+7042,Westlake,Governor,,R,Dino Rossi,34,34
+7043,Whitestone,Governor,,R,Dino Rossi,36,36
+7048,Aeneas,Governor,,R,Dino Rossi,37,37
+7050,Crumbacher,Governor,,R,Dino Rossi,78,78
+7053,Kipling,Governor,,R,Dino Rossi,43,43
+7054,Orchard,Governor,,R,Dino Rossi,40,40
+7055,Toroda,Governor,,R,Dino Rossi,56,56
+7059,Copple,Governor,,R,Dino Rossi,58,58
+7061,Engh,Governor,,R,Dino Rossi,53,53
+7063,Janis,Governor,,R,Dino Rossi,36,36
+7064,Leese,Governor,,R,Dino Rossi,23,23
+7068,Owhi,Governor,,R,Dino Rossi,14,14
+7069,Palmer Lake,Governor,,R,Dino Rossi,40,40
+7070,Pine Cone,Governor,,R,Dino Rossi,28,28
+7072,Sand Flat,Governor,,R,Dino Rossi,61,62
+7074,Sourdough,Governor,,R,Dino Rossi,59,59
+7077,Wannacut,Governor,,R,Dino Rossi,56,56
+7079,Canal,Governor,,R,Dino Rossi,42,42
+7086,Greenacres,Governor,,R,Dino Rossi,34,34
+7087,Johnson Creek,Governor,,R,Dino Rossi,34,34
+7089,Lime Belt,Governor,,R,Dino Rossi,28,28
+7095,Boundary,Governor,,R,Dino Rossi,66,66
+7096,Buckhorn,Governor,,R,Dino Rossi,16,16
+7097,Eder,Governor,,R,Dino Rossi,52,52
+7098,Horseshoe Lake,Governor,,R,Dino Rossi,46,46
+7099,Lake Andrews,Governor,,R,Dino Rossi,43,43
+7100,Myers Creek,Governor,,R,Dino Rossi,36,36
+7930,Nespelem city 104,Governor,,R,Dino Rossi,15,15
+7401,Okanogan city 1-105,Governor,,R,Dino Rossi,38,38
+7402,Okanogan city 2-106,Governor,,R,Dino Rossi,40,40
+7403,Okanogan city 3-107,Governor,,R,Dino Rossi,47,47
+7404,Okanogan city 4-108,Governor,,R,Dino Rossi,43,43
+7301,Omak city 1-109,Governor,,R,Dino Rossi,28,28
+7302,Omak city 2-110,Governor,,R,Dino Rossi,63,63
+7303,Omak city 3-111,Governor,,R,Dino Rossi,11,11
+7304,Omak city 4-112,Governor,,R,Dino Rossi,39,39
+7305,Omak city 5-113,Governor,,R,Dino Rossi,48,48
+7306,Omak city 6-114,Governor,,R,Dino Rossi,42,43
+7307,Omak city 7-115,Governor,,R,Dino Rossi,40,40
+7308,Omak city 8-116,Governor,,R,Dino Rossi,20,20
+7309,Omak city 9-117,Governor,,R,Dino Rossi,65,65
+7501,Oroville city 1-118,Governor,,R,Dino Rossi,45,45
+7502,Oroville city 2-119,Governor,,R,Dino Rossi,19,19
+7503,Oroville city 3-120,Governor,,R,Dino Rossi,37,37
+7601,Tonasket city 1-121,Governor,,R,Dino Rossi,37,37
+7602,Tonasket city 2-122,Governor,,R,Dino Rossi,25,25
+7603,Tonasket city 3-123,Governor,,R,Dino Rossi,15,15
+7910,Conconully City-131,Governor,,R,Dino Rossi,61,61
+7950,Riverside city-134,Governor,,R,Dino Rossi,81,81
+7138,Shoreline,Governor,,R,Dino Rossi,49,49
+7139,Similkameen,Governor,,R,Dino Rossi,33,33
+7140,Teal Lake,Governor,,R,Dino Rossi,39,39
+7141,Tonasket Creek,Governor,,R,Dino Rossi,44,44
+7504,Oroville city 4-142,Governor,,R,Dino Rossi,37,37
+7505,Oroville city 5-143,Governor,,R,Dino Rossi,57,57
+7506,Oroville city 6-144,Governor,,R,Dino Rossi,23,23
+7507,Oroville city 7-145,Governor,,R,Dino Rossi,21,21
+7508,Oroville city 8-146,Governor,,R,Dino Rossi,28,28
+7509,Oroville city 9-147,Governor,,R,Dino Rossi,39,39
+7510,Oroville city 10-148,Governor,,R,Dino Rossi,34,34
+7149,Jennings Loop,Governor,,R,Dino Rossi,15,15
+7150,Blue Lake,Governor,,R,Dino Rossi,49,49
+7151,Aeneas Creek,Governor,,R,Dino Rossi,46,46
+7152,Aeneas Lake,Governor,,R,Dino Rossi,60,60
+7153,Antoine Creek,Governor,,R,Dino Rossi,27,27
+7154,Antoine Peak,Governor,,R,Dino Rossi,16,16
+7155,Cape Labelle,Governor,,R,Dino Rossi,27,27
+7156,Cayuse Mtn,Governor,,R,Dino Rossi,31,31
+7157,Chewiliken,Governor,,R,Dino Rossi,24,24
+7158,Duffy Mtn,Governor,,R,Dino Rossi,43,43
+7159,Frontage,Governor,,R,Dino Rossi,17,17
+7160,Gusty Ridge,Governor,,R,Dino Rossi,41,41
+7161,Longanecker,Governor,,R,Dino Rossi,41,41
+7162,North Tonasket,Governor,,R,Dino Rossi,52,52
+7163,Pickens Mtn,Governor,,R,Dino Rossi,45,45
+7164,Ranches,Governor,,R,Dino Rossi,19,19
+7165,Siwash Creek,Governor,,R,Dino Rossi,36,36
+7166,Spectacle Lake,Governor,,R,Dino Rossi,58,58
+7167,Highway,Governor,,R,Dino Rossi,29,29
+7168,Whiskey Mtn,Governor,,R,Dino Rossi,24,24
+7169,Yarnell,Governor,,R,Dino Rossi,26,26
+7604,Tonasket city 4-170,Governor,,R,Dino Rossi,41,41
+7605,Tonasket city 5-171,Governor,,R,Dino Rossi,42,42
+7606,Tonasket city 6-172,Governor,,R,Dino Rossi,20,20
+7607,Tonasket city 7-173,Governor,,R,Dino Rossi,34,34
+7185,Coleman Butte,Governor,,R,Dino Rossi,57,57
+7186,Aston,Governor,,R,Dino Rossi,40,41
+7187,West River,Governor,,R,Dino Rossi,36,36
+7188,Omak River,Governor,,R,Dino Rossi,46,46
+7189,Cherokee,Governor,,R,Dino Rossi,39,39
+7190,Nichols,Governor,,R,Dino Rossi,56,56
+7191,Lone Pine,Governor,,R,Dino Rossi,6,6
+7192,Omak Mtn,Governor,,R,Dino Rossi,26,26
+7194,Fiker,Governor,,R,Dino Rossi,44,44
+7195,Ross Canyon,Governor,,R,Dino Rossi,48,48
+7196,Hendrick,Governor,,R,Dino Rossi,66,66
+7310,Omak city 10-202,Governor,,R,Dino Rossi,44,44
+7311,Omak city 11-203,Governor,,R,Dino Rossi,52,52
+7312,Omak city 12-204,Governor,,R,Dino Rossi,51,51
+7313,Omak city 13-205,Governor,,R,Dino Rossi,17,17
+7314,Omak city 14-206,Governor,,R,Dino Rossi,25,25
+7315,Omak city 15-207,Governor,,R,Dino Rossi,48,48
+7316,Omak city 16-208,Governor,,R,Dino Rossi,43,43
+7317,Omak city 17-209,Governor,,R,Dino Rossi,52,52
+7318,Omak city 18-210,Governor,,R,Dino Rossi,25,25
+7319,Omak city 19-211,Governor,,R,Dino Rossi,35,35
+7320,Omak city 20-212,Governor,,R,Dino Rossi,40,40
+7321,Omak city 21-213,Governor,,R,Dino Rossi,34,34
+7322,Omak city 22-214,Governor,,R,Dino Rossi,45,45
+7323,Omak city 23-215,Governor,,R,Dino Rossi,21,21
+7324,Omak city 24-216,Governor,,R,Dino Rossi,14,14
+7405,Okanogan city 5-217,Governor,,R,Dino Rossi,53,53
+7406,Okanogan city 6-218,Governor,,R,Dino Rossi,46,47
+7407,Okanogan city 7-219,Governor,,R,Dino Rossi,19,19
+7408,Okanogan city 8-220,Governor,,R,Dino Rossi,42,42
+7409,Okanogan city 9-221,Governor,,R,Dino Rossi,50,50
+7410,Okanogan city 10-222,Governor,,R,Dino Rossi,52,52
+7411,Okanogan city 11-223,Governor,,R,Dino Rossi,55,55
+7412,Okanogan city 12-224,Governor,,R,Dino Rossi,33,33
+12001,Alma,Governor,,R,Dino Rossi,42,42
+12006,Boston,Governor,,R,Dino Rossi,81,81
+12007,Brewster rural,Governor,,R,Dino Rossi,68,69
+12008,Carlton,Governor,,R,Dino Rossi,28,28
+12012,Duley Lake,Governor,,R,Dino Rossi,31,31
+12014,Eastside,Governor,,R,Dino Rossi,68,68
+12016,Elmerton rural,Governor,,R,Dino Rossi,45,45
+12020,Malott,Governor,,R,Dino Rossi,84,83
+12021,Mazama,Governor,,R,Dino Rossi,58,58
+12022,Methow,Governor,,R,Dino Rossi,56,56
+12025,Monse 1,Governor,,R,Dino Rossi,73,73
+12026,Monse 2,Governor,,R,Dino Rossi,16,16
+12030,Pateros rural,Governor,,R,Dino Rossi,35,35
+12032,Pogue,Governor,,R,Dino Rossi,71,71
+12036,Spring Coulee,Governor,,R,Dino Rossi,79,79
+12039,Twisp rural,Governor,,R,Dino Rossi,33,33
+12040,Wolf Creek,Governor,,R,Dino Rossi,32,32
+12044,Winthrop rural,Governor,,R,Dino Rossi,55,55
+12045,Chiliwist,Governor,,R,Dino Rossi,53,53
+12046,Monse 3,Governor,,R,Dino Rossi,39,39
+12047,Okanogan rural,Governor,,R,Dino Rossi,36,36
+12049,Columbia,Governor,,R,Dino Rossi,6,6
+12051,Disautel,Governor,,R,Dino Rossi,29,29
+12052,Hudson,Governor,,R,Dino Rossi,31,32
+12056,Beaver Creek,Governor,,R,Dino Rossi,38,38
+12057,Black Canyon,Governor,,R,Dino Rossi,72,72
+12058,Buffalo Lake,Governor,,R,Dino Rossi,4,4
+12060,Edelweiss,Governor,,R,Dino Rossi,53,53
+12062,Finley Canyon,Governor,,R,Dino Rossi,63,63
+12065,Libby Creek,Governor,,R,Dino Rossi,50,50
+12066,McGinnis Lake,Governor,,R,Dino Rossi,16,16
+12067,North Star,Governor,,R,Dino Rossi,30,30
+12071,Poorman Creek,Governor,,R,Dino Rossi,61,61
+12075,Twin Lakes,Governor,,R,Dino Rossi,53,53
+12076,Valley,Governor,,R,Dino Rossi,42,42
+12078,West Chewuch,Governor,,R,Dino Rossi,44,44
+12081,Airport,Governor,,R,Dino Rossi,39,39
+12082,Balky Hill,Governor,,R,Dino Rossi,40,40
+12083,Bridge Creek,Governor,,R,Dino Rossi,21,21
+12084,Crossroads,Governor,,R,Dino Rossi,71,72
+12085,Davis Lake,Governor,,R,Dino Rossi,44,44
+12088,Lewis Butte,Governor,,R,Dino Rossi,37,37
+12090,McClure Mt,Governor,,R,Dino Rossi,72,72
+12091,Moccasin Lake,Governor,,R,Dino Rossi,48,48
+12092,North Malott,Governor,,R,Dino Rossi,78,78
+12093,Patterson Lake,Governor,,R,Dino Rossi,46,46
+12094,Pearrygin Lake,Governor,,R,Dino Rossi,39,40
+12701,Coulee Dam city 1-101,Governor,,R,Dino Rossi,57,57
+12702,Coulee Dam city 2-102,Governor,,R,Dino Rossi,52,52
+12703,Coulee Dam city 3-103,Governor,,R,Dino Rossi,34,34
+12801,Brewster city 1-124,Governor,,R,Dino Rossi,43,43
+12802,Brewster city 2-125,Governor,,R,Dino Rossi,55,55
+12941,Pateros city 1-126,Governor,,R,Dino Rossi,36,36
+12942,Pateros city 2-127,Governor,,R,Dino Rossi,48,48
+12961,Twisp city 1-128,Governor,,R,Dino Rossi,52,52
+12962,Twisp city 2-129,Governor,,R,Dino Rossi,57,57
+12971,Winthrop city 1-130,Governor,,R,Dino Rossi,54,54
+12704,Coulee Dam city 4-132,Governor,,R,Dino Rossi,31,31
+12920,Elmer City-133,Governor,,R,Dino Rossi,51,51
+12963,Twisp city 3-135,Governor,,R,Dino Rossi,66,66
+12964,Twisp city 4-136,Governor,,R,Dino Rossi,31,31
+12972,Winthrop city 2-137,Governor,,R,Dino Rossi,32,32
+12174,Leecher Mtn,Governor,,R,Dino Rossi,49,49
+12175,Alta Lake,Governor,,R,Dino Rossi,45,45
+12176,Starr,Governor,,R,Dino Rossi,42,42
+12943,Pateros city 3-177,Governor,,R,Dino Rossi,41,41
+12178,Rat Lake,Governor,,R,Dino Rossi,40,40
+12179,Brewster flat,Governor,,R,Dino Rossi,53,53
+12803,Brewster city 3-180,Governor,,R,Dino Rossi,48,48
+12804,Brewster city 4-181,Governor,,R,Dino Rossi,42,42
+12805,Brewster city 5-182,Governor,,R,Dino Rossi,39,39
+12806,Brewster city 6-183,Governor,,R,Dino Rossi,23,23
+12184,Pioneer,Governor,,R,Dino Rossi,55,55
+12193,Omak Lake,Governor,,R,Dino Rossi,6,6
+12197,Dixon,Governor,,R,Dino Rossi,61,61
+12198,Kermel,Governor,,R,Dino Rossi,50,50
+12199,Glover,Governor,,R,Dino Rossi,69,69
+12200,Fletcher,Governor,,R,Dino Rossi,52,52
+12201,Mook,Governor,,R,Dino Rossi,56,56
+OKANOGAN WA,OKANOGAN WA,Governor,,R,Dino Rossi,9450,9460
+,precinct,office,district,party,candidate,machine,hand
+7002,Anglin,Governor,,L,Ruth Bennett,6,6
+7003,Beeman,Governor,,L,Ruth Bennett,5,5
+7004,Bodie,Governor,,L,Ruth Bennett,2,2
+7005,Bonaparte,Governor,,L,Ruth Bennett,2,2
+7009,Chesaw,Governor,,L,Ruth Bennett,11,11
+7010,Conconully rural,Governor,,L,Ruth Bennett,0,0
+7011,Duck Lake,Governor,,L,Ruth Bennett,0,0
+7013,Eastlake,Governor,,L,Ruth Bennett,0,0
+7015,Ellisforde,Governor,,L,Ruth Bennett,2,2
+7017,Elmway,Governor,,L,Ruth Bennett,2,2
+7018,Havillah,Governor,,L,Ruth Bennett,9,9
+7019,Loomis,Governor,,L,Ruth Bennett,2,2
+7023,Mission,Governor,,L,Ruth Bennett,3,3
+7024,Molson,Governor,,L,Ruth Bennett,0,3
+7027,Nespelem rural,Governor,,L,Ruth Bennett,0,1
+7028,Nighthawk,Governor,,L,Ruth Bennett,2,2
+7029,North Omak,Governor,,L,Ruth Bennett,3,3
+7031,Pine Creek,Governor,,L,Ruth Bennett,0,0
+7033,Riverside rural,Governor,,L,Ruth Bennett,2,2
+7034,San Poil,Governor,,L,Ruth Bennett,6,6
+7035,South Oroville,Governor,,L,Ruth Bennett,1,1
+7037,Tonasket rural,Governor,,L,Ruth Bennett,1,1
+7038,Tunk Creek,Governor,,L,Ruth Bennett,2,2
+7041,Wauconda,Governor,,L,Ruth Bennett,4,4
+7042,Westlake,Governor,,L,Ruth Bennett,0,0
+7043,Whitestone,Governor,,L,Ruth Bennett,1,1
+7048,Aeneas,Governor,,L,Ruth Bennett,3,3
+7050,Crumbacher,Governor,,L,Ruth Bennett,2,2
+7053,Kipling,Governor,,L,Ruth Bennett,0,0
+7054,Orchard,Governor,,L,Ruth Bennett,0,0
+7055,Toroda,Governor,,L,Ruth Bennett,1,1
+7059,Copple,Governor,,L,Ruth Bennett,0,0
+7061,Engh,Governor,,L,Ruth Bennett,1,1
+7063,Janis,Governor,,L,Ruth Bennett,3,3
+7064,Leese,Governor,,L,Ruth Bennett,0,0
+7068,Owhi,Governor,,L,Ruth Bennett,1,1
+7069,Palmer Lake,Governor,,L,Ruth Bennett,2,2
+7070,Pine Cone,Governor,,L,Ruth Bennett,1,1
+7072,Sand Flat,Governor,,L,Ruth Bennett,2,2
+7074,Sourdough,Governor,,L,Ruth Bennett,5,5
+7077,Wannacut,Governor,,L,Ruth Bennett,2,2
+7079,Canal,Governor,,L,Ruth Bennett,1,1
+7086,Greenacres,Governor,,L,Ruth Bennett,0,0
+7087,Johnson Creek,Governor,,L,Ruth Bennett,1,1
+7089,Lime Belt,Governor,,L,Ruth Bennett,2,2
+7095,Boundary,Governor,,L,Ruth Bennett,3,3
+7096,Buckhorn,Governor,,L,Ruth Bennett,7,7
+7097,Eder,Governor,,L,Ruth Bennett,4,4
+7098,Horseshoe Lake,Governor,,L,Ruth Bennett,1,1
+7099,Lake Andrews,Governor,,L,Ruth Bennett,0,0
+7100,Myers Creek,Governor,,L,Ruth Bennett,5,5
+7930,Nespelem city 104,Governor,,L,Ruth Bennett,1,1
+7401,Okanogan city 1-105,Governor,,L,Ruth Bennett,1,1
+7402,Okanogan city 2-106,Governor,,L,Ruth Bennett,5,5
+7403,Okanogan city 3-107,Governor,,L,Ruth Bennett,1,1
+7404,Okanogan city 4-108,Governor,,L,Ruth Bennett,2,2
+7301,Omak city 1-109,Governor,,L,Ruth Bennett,5,5
+7302,Omak city 2-110,Governor,,L,Ruth Bennett,2,2
+7303,Omak city 3-111,Governor,,L,Ruth Bennett,1,1
+7304,Omak city 4-112,Governor,,L,Ruth Bennett,2,2
+7305,Omak city 5-113,Governor,,L,Ruth Bennett,5,5
+7306,Omak city 6-114,Governor,,L,Ruth Bennett,1,1
+7307,Omak city 7-115,Governor,,L,Ruth Bennett,2,2
+7308,Omak city 8-116,Governor,,L,Ruth Bennett,4,4
+7309,Omak city 9-117,Governor,,L,Ruth Bennett,4,4
+7501,Oroville city 1-118,Governor,,L,Ruth Bennett,7,7
+7502,Oroville city 2-119,Governor,,L,Ruth Bennett,3,3
+7503,Oroville city 3-120,Governor,,L,Ruth Bennett,1,1
+7601,Tonasket city 1-121,Governor,,L,Ruth Bennett,0,0
+7602,Tonasket city 2-122,Governor,,L,Ruth Bennett,2,2
+7603,Tonasket city 3-123,Governor,,L,Ruth Bennett,1,1
+7910,Conconully City-131,Governor,,L,Ruth Bennett,3,3
+7950,Riverside city-134,Governor,,L,Ruth Bennett,7,7
+7138,Shoreline,Governor,,L,Ruth Bennett,0,0
+7139,Similkameen,Governor,,L,Ruth Bennett,1,1
+7140,Teal Lake,Governor,,L,Ruth Bennett,2,2
+7141,Tonasket Creek,Governor,,L,Ruth Bennett,3,3
+7504,Oroville city 4-142,Governor,,L,Ruth Bennett,0,0
+7505,Oroville city 5-143,Governor,,L,Ruth Bennett,2,2
+7506,Oroville city 6-144,Governor,,L,Ruth Bennett,0,0
+7507,Oroville city 7-145,Governor,,L,Ruth Bennett,1,1
+7508,Oroville city 8-146,Governor,,L,Ruth Bennett,1,1
+7509,Oroville city 9-147,Governor,,L,Ruth Bennett,0,0
+7510,Oroville city 10-148,Governor,,L,Ruth Bennett,2,2
+7149,Jennings Loop,Governor,,L,Ruth Bennett,1,1
+7150,Blue Lake,Governor,,L,Ruth Bennett,4,4
+7151,Aeneas Creek,Governor,,L,Ruth Bennett,1,1
+7152,Aeneas Lake,Governor,,L,Ruth Bennett,3,3
+7153,Antoine Creek,Governor,,L,Ruth Bennett,1,1
+7154,Antoine Peak,Governor,,L,Ruth Bennett,2,2
+7155,Cape Labelle,Governor,,L,Ruth Bennett,8,8
+7156,Cayuse Mtn,Governor,,L,Ruth Bennett,1,1
+7157,Chewiliken,Governor,,L,Ruth Bennett,2,2
+7158,Duffy Mtn,Governor,,L,Ruth Bennett,3,3
+7159,Frontage,Governor,,L,Ruth Bennett,0,0
+7160,Gusty Ridge,Governor,,L,Ruth Bennett,3,3
+7161,Longanecker,Governor,,L,Ruth Bennett,4,4
+7162,North Tonasket,Governor,,L,Ruth Bennett,3,3
+7163,Pickens Mtn,Governor,,L,Ruth Bennett,1,1
+7164,Ranches,Governor,,L,Ruth Bennett,3,3
+7165,Siwash Creek,Governor,,L,Ruth Bennett,3,3
+7166,Spectacle Lake,Governor,,L,Ruth Bennett,3,3
+7167,Highway,Governor,,L,Ruth Bennett,1,1
+7168,Whiskey Mtn,Governor,,L,Ruth Bennett,0,0
+7169,Yarnell,Governor,,L,Ruth Bennett,2,2
+7604,Tonasket city 4-170,Governor,,L,Ruth Bennett,2,2
+7605,Tonasket city 5-171,Governor,,L,Ruth Bennett,5,5
+7606,Tonasket city 6-172,Governor,,L,Ruth Bennett,2,2
+7607,Tonasket city 7-173,Governor,,L,Ruth Bennett,3,3
+7185,Coleman Butte,Governor,,L,Ruth Bennett,1,1
+7186,Aston,Governor,,L,Ruth Bennett,0,0
+7187,West River,Governor,,L,Ruth Bennett,0,0
+7188,Omak River,Governor,,L,Ruth Bennett,2,2
+7189,Cherokee,Governor,,L,Ruth Bennett,0,0
+7190,Nichols,Governor,,L,Ruth Bennett,0,0
+7191,Lone Pine,Governor,,L,Ruth Bennett,1,1
+7192,Omak Mtn,Governor,,L,Ruth Bennett,0,0
+7194,Fiker,Governor,,L,Ruth Bennett,5,5
+7195,Ross Canyon,Governor,,L,Ruth Bennett,0,0
+7196,Hendrick,Governor,,L,Ruth Bennett,0,0
+7310,Omak city 10-202,Governor,,L,Ruth Bennett,0,0
+7311,Omak city 11-203,Governor,,L,Ruth Bennett,1,1
+7312,Omak city 12-204,Governor,,L,Ruth Bennett,2,2
+7313,Omak city 13-205,Governor,,L,Ruth Bennett,4,4
+7314,Omak city 14-206,Governor,,L,Ruth Bennett,0,0
+7315,Omak city 15-207,Governor,,L,Ruth Bennett,0,0
+7316,Omak city 16-208,Governor,,L,Ruth Bennett,0,0
+7317,Omak city 17-209,Governor,,L,Ruth Bennett,1,1
+7318,Omak city 18-210,Governor,,L,Ruth Bennett,1,1
+7319,Omak city 19-211,Governor,,L,Ruth Bennett,2,2
+7320,Omak city 20-212,Governor,,L,Ruth Bennett,0,0
+7321,Omak city 21-213,Governor,,L,Ruth Bennett,1,1
+7322,Omak city 22-214,Governor,,L,Ruth Bennett,0,0
+7323,Omak city 23-215,Governor,,L,Ruth Bennett,4,4
+7324,Omak city 24-216,Governor,,L,Ruth Bennett,3,3
+7405,Okanogan city 5-217,Governor,,L,Ruth Bennett,0,0
+7406,Okanogan city 6-218,Governor,,L,Ruth Bennett,0,0
+7407,Okanogan city 7-219,Governor,,L,Ruth Bennett,1,1
+7408,Okanogan city 8-220,Governor,,L,Ruth Bennett,3,3
+7409,Okanogan city 9-221,Governor,,L,Ruth Bennett,0,0
+7410,Okanogan city 10-222,Governor,,L,Ruth Bennett,2,2
+7411,Okanogan city 11-223,Governor,,L,Ruth Bennett,3,3
+7412,Okanogan city 12-224,Governor,,L,Ruth Bennett,0,0
+12001,Alma,Governor,,L,Ruth Bennett,4,4
+12006,Boston,Governor,,L,Ruth Bennett,5,5
+12007,Brewster rural,Governor,,L,Ruth Bennett,1,0
+12008,Carlton,Governor,,L,Ruth Bennett,3,3
+12012,Duley Lake,Governor,,L,Ruth Bennett,0,0
+12014,Eastside,Governor,,L,Ruth Bennett,1,1
+12016,Elmerton rural,Governor,,L,Ruth Bennett,3,3
+12020,Malott,Governor,,L,Ruth Bennett,7,7
+12021,Mazama,Governor,,L,Ruth Bennett,3,3
+12022,Methow,Governor,,L,Ruth Bennett,3,3
+12025,Monse 1,Governor,,L,Ruth Bennett,1,1
+12026,Monse 2,Governor,,L,Ruth Bennett,2,2
+12030,Pateros rural,Governor,,L,Ruth Bennett,3,3
+12032,Pogue,Governor,,L,Ruth Bennett,4,4
+12036,Spring Coulee,Governor,,L,Ruth Bennett,1,1
+12039,Twisp rural,Governor,,L,Ruth Bennett,1,1
+12040,Wolf Creek,Governor,,L,Ruth Bennett,3,3
+12044,Winthrop rural,Governor,,L,Ruth Bennett,1,1
+12045,Chiliwist,Governor,,L,Ruth Bennett,3,3
+12046,Monse 3,Governor,,L,Ruth Bennett,1,1
+12047,Okanogan rural,Governor,,L,Ruth Bennett,2,2
+12049,Columbia,Governor,,L,Ruth Bennett,4,4
+12051,Disautel,Governor,,L,Ruth Bennett,2,2
+12052,Hudson,Governor,,L,Ruth Bennett,2,2
+12056,Beaver Creek,Governor,,L,Ruth Bennett,1,1
+12057,Black Canyon,Governor,,L,Ruth Bennett,2,2
+12058,Buffalo Lake,Governor,,L,Ruth Bennett,0,0
+12060,Edelweiss,Governor,,L,Ruth Bennett,1,1
+12062,Finley Canyon,Governor,,L,Ruth Bennett,4,4
+12065,Libby Creek,Governor,,L,Ruth Bennett,2,2
+12066,McGinnis Lake,Governor,,L,Ruth Bennett,0,0
+12067,North Star,Governor,,L,Ruth Bennett,0,0
+12071,Poorman Creek,Governor,,L,Ruth Bennett,2,2
+12075,Twin Lakes,Governor,,L,Ruth Bennett,2,2
+12076,Valley,Governor,,L,Ruth Bennett,4,4
+12078,West Chewuch,Governor,,L,Ruth Bennett,4,4
+12081,Airport,Governor,,L,Ruth Bennett,4,4
+12082,Balky Hill,Governor,,L,Ruth Bennett,0,0
+12083,Bridge Creek,Governor,,L,Ruth Bennett,5,5
+12084,Crossroads,Governor,,L,Ruth Bennett,2,2
+12085,Davis Lake,Governor,,L,Ruth Bennett,5,5
+12088,Lewis Butte,Governor,,L,Ruth Bennett,4,4
+12090,McClure Mt,Governor,,L,Ruth Bennett,8,8
+12091,Moccasin Lake,Governor,,L,Ruth Bennett,4,4
+12092,North Malott,Governor,,L,Ruth Bennett,6,6
+12093,Patterson Lake,Governor,,L,Ruth Bennett,1,1
+12094,Pearrygin Lake,Governor,,L,Ruth Bennett,1,1
+12701,Coulee Dam city 1-101,Governor,,L,Ruth Bennett,1,1
+12702,Coulee Dam city 2-102,Governor,,L,Ruth Bennett,2,2
+12703,Coulee Dam city 3-103,Governor,,L,Ruth Bennett,1,1
+12801,Brewster city 1-124,Governor,,L,Ruth Bennett,1,1
+12802,Brewster city 2-125,Governor,,L,Ruth Bennett,1,1
+12941,Pateros city 1-126,Governor,,L,Ruth Bennett,1,1
+12942,Pateros city 2-127,Governor,,L,Ruth Bennett,0,0
+12961,Twisp city 1-128,Governor,,L,Ruth Bennett,6,6
+12962,Twisp city 2-129,Governor,,L,Ruth Bennett,3,3
+12971,Winthrop city 1-130,Governor,,L,Ruth Bennett,3,3
+12704,Coulee Dam city 4-132,Governor,,L,Ruth Bennett,1,1
+12920,Elmer City-133,Governor,,L,Ruth Bennett,1,1
+12963,Twisp city 3-135,Governor,,L,Ruth Bennett,10,10
+12964,Twisp city 4-136,Governor,,L,Ruth Bennett,1,1
+12972,Winthrop city 2-137,Governor,,L,Ruth Bennett,5,5
+12174,Leecher Mtn,Governor,,L,Ruth Bennett,2,2
+12175,Alta Lake,Governor,,L,Ruth Bennett,1,1
+12176,Starr,Governor,,L,Ruth Bennett,2,2
+12943,Pateros city 3-177,Governor,,L,Ruth Bennett,1,1
+12178,Rat Lake,Governor,,L,Ruth Bennett,2,2
+12179,Brewster flat,Governor,,L,Ruth Bennett,4,4
+12803,Brewster city 3-180,Governor,,L,Ruth Bennett,0,0
+12804,Brewster city 4-181,Governor,,L,Ruth Bennett,1,1
+12805,Brewster city 5-182,Governor,,L,Ruth Bennett,2,2
+12806,Brewster city 6-183,Governor,,L,Ruth Bennett,1,1
+12184,Pioneer,Governor,,L,Ruth Bennett,3,3
+12193,Omak Lake,Governor,,L,Ruth Bennett,2,2
+12197,Dixon,Governor,,L,Ruth Bennett,1,1
+12198,Kermel,Governor,,L,Ruth Bennett,0,0
+12199,Glover,Governor,,L,Ruth Bennett,1,1
+12200,Fletcher,Governor,,L,Ruth Bennett,0,0
+12201,Mook,Governor,,L,Ruth Bennett,0,0
+OKANOGAN WA,OKANOGAN WA,Governor,,L,Ruth Bennett,465,468

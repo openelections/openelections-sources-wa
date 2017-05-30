@@ -1,0 +1,336 @@
+number,precinct,office,district,party,candidate,votes,,
+41312105,Coulee City,,12,,Registered,340,,
+41312006,Coulee City rural west,,12,,Registered,118,,
+41312207,Electric City,,12,,Registered,154,,
+41312318,Grand Coulee,,12,,Registered,534,,
+41312419,Hartline,,12,,Registered,475,,
+41312020,Hartline rural,,12,,Registered,96,,
+41312524,Marlin,,12,,Registered,110,,
+41312025,Marlin rural,,12,,Registered,33,,
+41312037,North Banks Lake,,12,,Registered,71,,
+41312647,Soap Lake 1,,12,,Registered,280,,
+41312048,Soap Lake rural,,12,,Registered,419,,
+41312755,Wilson Creek,,12,,Registered,140,,
+41312062,Coulee City rural east,,12,,Registered,126,,
+41313001,Airport,,13,,Registered,625,,
+41313002,Beverly,,13,,Registered,89,,
+41313003,Block 71,,13,,Registered,841,,
+41313004,Cascade Fair,,13,,Registered,558,,
+41313108,Ephrata 5,,13,,Registered,529,,
+41313109,Ephrata 2,,13,,Registered,452,,
+41313110,Ephrata 3,,13,,Registered,697,,
+41313111,Ephrata 4,,13,,Registered,521,,
+41313112,Ephrata 7,,13,,Registered,650,,
+41313113,Ephrata 9,,13,,Registered,818,,
+41313014,Ephrata rural,,13,,Registered,772,,
+41313215,George,,13,,Registered,95,,
+41313016,George rural,,13,,Registered,810,,
+41313017,Gloyd,,13,,Registered,457,,
+41313021,Lakeview Park,,13,,Registered,961,,
+41313022,Longview Park,,13,,Registered,641,,
+41313023,Mae,,13,,Registered,1162,,
+41313326,Mattawa,,13,,Registered,202,,
+41313027,Mattawa rural,,13,,Registered,768,,
+41313028,McConihe 1,,13,,Registered,141,,
+41313429,Moses Lake 5,,13,,Registered,1103,,
+41313430,Moses Lake 3,,13,,Registered,716,,
+41313431,Moses Lake 4,,13,,Registered,562,,
+41313432,Moses Lake 6,,13,,Registered,975,,
+41313433,Moses Lake 7,,13,,Registered,1334,,
+41313434,Moses Lake 8,,13,,Registered,1203,,
+41313435,Moses Lake 11,,13,,Registered,762,,
+41313436,Moses Lake 12,,13,,Registered,773,,
+41313038,O'Sullivan Dam,,13,,Registered,1369,,
+41313539,Quincy 1,,13,,Registered,368,,
+41313540,Quincy 4,,13,,Registered,389,,
+41313541,Quincy 6,,13,,Registered,751,,
+41313042,Quincy rur north,,13,,Registered,430,,
+41313043,Royal Camp,,13,,Registered,681,,
+41313644,Royal City,,13,,Registered,221,,
+41313045,Ruff,,13,,Registered,74,,
+41313046,Smyrna 1,,13,,Registered,202,,
+41313049,Stratford,,13,,Registered,57,,
+41313750,Warden,,13,,Registered,567,,
+41313051,Warden rural,,13,,Registered,669,,
+41313852,Soap Lake 2,,13,,Registered,282,,
+41313053,Westslope 1,,13,,Registered,163,,
+41313054,Wheeler,,13,,Registered,1345,,
+41313056,Wilson Ck rural,,13,,Registered,29,,
+41313057,Airport 2,,13,,Registered,622,,
+41313058,Cascade Valley,,13,,Registered,936,,
+41313059,Westslope 2,,13,,Registered,116,,
+41313060,Smyrna 2,,13,,Registered,45,,
+41313061,East Wahluke,,13,,Registered,185,,
+41313063,McConihe 2,,13,,Registered,165,,
+41313064,Quincy rur south,,13,,Registered,895,,
+41313065,Greenfield,,13,,Registered,86,,
+TOTAL,GRANT CO,,,,Registered,32760,,
+number,precinct,office,district,party,candidate,votes,machine,hand
+41312105,Coulee City,,,,Ballots,278,279,278
+41312006,Coulee City rural west,,,,Ballots,104,104,104
+41312207,Electric City,,,,Ballots,139,139,139
+41312318,Grand Coulee,,,,Ballots,442,444,442
+41312419,Hartline,,,,Ballots,357,359,359
+41312020,Hartline rural,,,,Ballots,78,78,78
+41312524,Marlin,,,,Ballots,101,101,101
+41312025,Marlin rural,,,,Ballots,31,31,31
+41312037,North Banks Lake,,,,Ballots,60,60,60
+41312647,Soap Lake 1,,,,Ballots,233,233,233
+41312048,Soap Lake rural,,,,Ballots,322,322,322
+41312755,Wilson Creek,,,,Ballots,124,124,124
+41312062,Coulee City rural east,,,,Ballots,112,113,112
+41313001,Airport,,,,Ballots,462,463,462
+41313002,Beverly,,,,Ballots,71,72,72
+41313003,Block 71,,,,Ballots,714,716,715
+41313004,Cascade Fair,,,,Ballots,425,426,425
+41313108,Ephrata 5,,,,Ballots,448,449,449
+41313109,Ephrata 2,,,,Ballots,338,340,339
+41313110,Ephrata 3,,,,Ballots,567,567,567
+41313111,Ephrata 4,,,,Ballots,402,403,402
+41313112,Ephrata 7,,,,Ballots,504,504,504
+41313113,Ephrata 9,,,,Ballots,648,649,648
+41313014,Ephrata rural,,,,Ballots,654,658,658
+41313215,George,,,,Ballots,65,67,66
+41313016,George rural,,,,Ballots,665,666,666
+41313017,Gloyd,,,,Ballots,366,367,367
+41313021,Lakeview Park,,,,Ballots,814,815,815
+41313022,Longview Park,,,,Ballots,508,510,509
+41313023,Mae,,,,Ballots,1005,1006,1006
+41313326,Mattawa,,,,Ballots,135,136,135
+41313027,Mattawa rural,,,,Ballots,635,637,636
+41313028,McConihe 1,,,,Ballots,133,133,133
+41313429,Moses Lake 5,,,,Ballots,865,865,865
+41313430,Moses Lake 3,,,,Ballots,511,512,512
+41313431,Moses Lake 4,,,,Ballots,442,443,443
+41313432,Moses Lake 6,,,,Ballots,691,692,692
+41313433,Moses Lake 7,,,,Ballots,1015,1017,1020
+41313434,Moses Lake 8,,,,Ballots,922,927,924
+41313435,Moses Lake 11,,,,Ballots,641,641,641
+41313436,Moses Lake 12,,,,Ballots,589,588,588
+41313038,O'Sullivan Dam,,,,Ballots,1166,1169,1165
+41313539,Quincy 1,,,,Ballots,249,250,249
+41313540,Quincy 4,,,,Ballots,288,288,288
+41313541,Quincy 6,,,,Ballots,609,609,609
+41313042,Quincy rur north,,,,Ballots,346,347,347
+41313043,Royal Camp,,,,Ballots,572,575,574
+41313644,Royal City,,,,Ballots,166,166,166
+41313045,Ruff,,,,Ballots,66,66,66
+41313046,Smyrna 1,,,,Ballots,177,177,177
+41313049,Stratford,,,,Ballots,52,52,52
+41313750,Warden,,,,Ballots,388,389,388
+41313051,Warden rural,,,,Ballots,564,564,564
+41313852,Soap Lake 2,,,,Ballots,237,238,238
+41313053,Westslope 1,,,,Ballots,148,148,148
+41313054,Wheeler,,,,Ballots,1144,1147,1147
+41313056,Wilson Ck rural,,,,Ballots,25,25,25
+41313057,Airport 2,,,,Ballots,368,369,369
+41313058,Cascade Valley,,,,Ballots,769,772,772
+41313059,Westslope 2,,,,Ballots,98,100,99
+41313060,Smyrna 2,,,,Ballots,39,39,39
+41313061,East Wahluke,,,,Ballots,167,167,167
+41313063,McConihe 2,,,,Ballots,152,152,152
+41313064,Quincy rur south,,,,Ballots,735,741,740
+41313065,Greenfield,,,,Ballots,79,80,80
+41313999,Canvass,,,,Ballots,0,-14,0
+GRANT WA,GRANT WA,,,,Ballots,26220,26272,26263
+41312105,Coulee City,Governor,,D,Christine Gregoire,87,87,87
+41312006,Coulee City rural west,Governor,,D,Christine Gregoire,36,36,36
+41312207,Electric City,Governor,,D,Christine Gregoire,37,37,37
+41312318,Grand Coulee,Governor,,D,Christine Gregoire,204,204,204
+41312419,Hartline,Governor,,D,Christine Gregoire,190,191,191
+41312020,Hartline rural,Governor,,D,Christine Gregoire,26,26,26
+41312524,Marlin,Governor,,D,Christine Gregoire,24,24,24
+41312025,Marlin rural,Governor,,D,Christine Gregoire,13,13,13
+41312037,North Banks Lake,Governor,,D,Christine Gregoire,11,11,11
+41312647,Soap Lake 1,Governor,,D,Christine Gregoire,104,104,104
+41312048,Soap Lake rural,Governor,,D,Christine Gregoire,148,148,148
+41312755,Wilson Creek,Governor,,D,Christine Gregoire,41,41,41
+41312062,Coulee City rural east,Governor,,D,Christine Gregoire,48,49,49
+41313001,Airport,Governor,,D,Christine Gregoire,155,155,155
+41313002,Beverly,Governor,,D,Christine Gregoire,25,25,25
+41313003,Block 71,Governor,,D,Christine Gregoire,135,135,134
+41313004,Cascade Fair,Governor,,D,Christine Gregoire,170,171,171
+41313108,Ephrata 5,Governor,,D,Christine Gregoire,124,125,125
+41313109,Ephrata 2,Governor,,D,Christine Gregoire,134,135,135
+41313110,Ephrata 3,Governor,,D,Christine Gregoire,206,206,205
+41313111,Ephrata 4,Governor,,D,Christine Gregoire,145,146,146
+41313112,Ephrata 7,Governor,,D,Christine Gregoire,163,163,163
+41313113,Ephrata 9,Governor,,D,Christine Gregoire,201,202,201
+41313014,Ephrata rural,Governor,,D,Christine Gregoire,158,161,161
+41313215,George,Governor,,D,Christine Gregoire,10,11,11
+41313016,George rural,Governor,,D,Christine Gregoire,149,149,149
+41313017,Gloyd,Governor,,D,Christine Gregoire,77,77,77
+41313021,Lakeview Park,Governor,,D,Christine Gregoire,230,231,231
+41313022,Longview Park,Governor,,D,Christine Gregoire,145,146,146
+41313023,Mae,Governor,,D,Christine Gregoire,240,240,239
+41313326,Mattawa,Governor,,D,Christine Gregoire,70,70,70
+41313027,Mattawa rural,Governor,,D,Christine Gregoire,209,209,209
+41313028,McConihe 1,Governor,,D,Christine Gregoire,36,36,36
+41313429,Moses Lake 5,Governor,,D,Christine Gregoire,261,261,261
+41313430,Moses Lake 3,Governor,,D,Christine Gregoire,170,170,170
+41313431,Moses Lake 4,Governor,,D,Christine Gregoire,117,117,117
+41313432,Moses Lake 6,Governor,,D,Christine Gregoire,271,272,272
+41313433,Moses Lake 7,Governor,,D,Christine Gregoire,351,353,353
+41313434,Moses Lake 8,Governor,,D,Christine Gregoire,285,287,287
+41313435,Moses Lake 11,Governor,,D,Christine Gregoire,195,195,195
+41313436,Moses Lake 12,Governor,,D,Christine Gregoire,198,198,198
+41313038,O'Sullivan Dam,Governor,,D,Christine Gregoire,226,227,227
+41313539,Quincy 1,Governor,,D,Christine Gregoire,101,101,101
+41313540,Quincy 4,Governor,,D,Christine Gregoire,115,116,116
+41313541,Quincy 6,Governor,,D,Christine Gregoire,162,162,162
+41313042,Quincy rur north,Governor,,D,Christine Gregoire,70,70,70
+41313043,Royal Camp,Governor,,D,Christine Gregoire,136,136,135
+41313644,Royal City,Governor,,D,Christine Gregoire,46,46,46
+41313045,Ruff,Governor,,D,Christine Gregoire,19,19,19
+41313046,Smyrna 1,Governor,,D,Christine Gregoire,30,30,30
+41313049,Stratford,Governor,,D,Christine Gregoire,5,5,5
+41313750,Warden,Governor,,D,Christine Gregoire,129,130,130
+41313051,Warden rural,Governor,,D,Christine Gregoire,110,110,110
+41313852,Soap Lake 2,Governor,,D,Christine Gregoire,97,97,97
+41313053,Westslope 1,Governor,,D,Christine Gregoire,18,18,18
+41313054,Wheeler,Governor,,D,Christine Gregoire,281,282,282
+41313056,Wilson Ck rural,Governor,,D,Christine Gregoire,3,3,3
+41313057,Airport 2,Governor,,D,Christine Gregoire,117,118,118
+41313058,Cascade Valley,Governor,,D,Christine Gregoire,260,262,262
+41313059,Westslope 2,Governor,,D,Christine Gregoire,17,17,17
+41313060,Smyrna 2,Governor,,D,Christine Gregoire,6,6,6
+41313061,East Wahluke,Governor,,D,Christine Gregoire,20,20,20
+41313063,McConihe 2,Governor,,D,Christine Gregoire,39,39,39
+41313064,Quincy rur south,Governor,,D,Christine Gregoire,169,170,170
+41313065,Greenfield,Governor,,D,Christine Gregoire,25,25,25
+41313999,Canvass,Governor,,D,Christine Gregoire,0,0,0
+GRANT WA,GRANT WA,Governor,,,Christine Gregoire,7800,7826,7821
+41312105,Coulee City,Governor,,R,Dino Rossi,176,176,176
+41312006,Coulee City rural west,Governor,,R,Dino Rossi,64,64,64
+41312207,Electric City,Governor,,R,Dino Rossi,97,97,97
+41312318,Grand Coulee,Governor,,R,Dino Rossi,213,214,214
+41312419,Hartline,Governor,,R,Dino Rossi,147,148,148
+41312020,Hartline rural,Governor,,R,Dino Rossi,50,50,50
+41312524,Marlin,Governor,,R,Dino Rossi,74,74,74
+41312025,Marlin rural,Governor,,R,Dino Rossi,16,16,16
+41312037,North Banks Lake,Governor,,R,Dino Rossi,47,47,47
+41312647,Soap Lake 1,Governor,,R,Dino Rossi,124,124,124
+41312048,Soap Lake rural,Governor,,R,Dino Rossi,162,162,162
+41312755,Wilson Creek,Governor,,R,Dino Rossi,78,78,78
+41312062,Coulee City rural east,Governor,,R,Dino Rossi,55,55,55
+41313001,Airport,Governor,,R,Dino Rossi,281,282,282
+41313002,Beverly,Governor,,R,Dino Rossi,44,45,45
+41313003,Block 71,Governor,,R,Dino Rossi,559,561,561
+41313004,Cascade Fair,Governor,,R,Dino Rossi,228,228,228
+41313108,Ephrata 5,Governor,,R,Dino Rossi,317,317,317
+41313109,Ephrata 2,Governor,,R,Dino Rossi,190,191,191
+41313110,Ephrata 3,Governor,,R,Dino Rossi,338,338,339
+41313111,Ephrata 4,Governor,,R,Dino Rossi,236,236,236
+41313112,Ephrata 7,Governor,,R,Dino Rossi,327,327,327
+41313113,Ephrata 9,Governor,,R,Dino Rossi,430,431,431
+41313014,Ephrata rural,Governor,,R,Dino Rossi,478,479,479
+41313215,George,Governor,,R,Dino Rossi,52,52,52
+41313016,George rural,Governor,,R,Dino Rossi,491,492,492
+41313017,Gloyd,Governor,,R,Dino Rossi,276,277,277
+41313021,Lakeview Park,Governor,,R,Dino Rossi,542,543,543
+41313022,Longview Park,Governor,,R,Dino Rossi,336,337,337
+41313023,Mae,Governor,,R,Dino Rossi,739,740,741
+41313326,Mattawa,Governor,,R,Dino Rossi,49,49,49
+41313027,Mattawa rural,Governor,,R,Dino Rossi,409,411,411
+41313028,McConihe 1,Governor,,R,Dino Rossi,94,94,94
+41313429,Moses Lake 5,Governor,,R,Dino Rossi,564,565,565
+41313430,Moses Lake 3,Governor,,R,Dino Rossi,308,309,309
+41313431,Moses Lake 4,Governor,,R,Dino Rossi,316,317,317
+41313432,Moses Lake 6,Governor,,R,Dino Rossi,381,383,383
+41313433,Moses Lake 7,Governor,,R,Dino Rossi,610,610,613
+41313434,Moses Lake 8,Governor,,R,Dino Rossi,603,606,606
+41313435,Moses Lake 11,Governor,,R,Dino Rossi,426,426,426
+41313436,Moses Lake 12,Governor,,R,Dino Rossi,356,355,355
+41313038,O'Sullivan Dam,Governor,,R,Dino Rossi,917,920,917
+41313539,Quincy 1,Governor,,R,Dino Rossi,130,131,131
+41313540,Quincy 4,Governor,,R,Dino Rossi,152,152,152
+41313541,Quincy 6,Governor,,R,Dino Rossi,429,429,429
+41313042,Quincy rur north,Governor,,R,Dino Rossi,268,269,269
+41313043,Royal Camp,Governor,,R,Dino Rossi,414,417,417
+41313644,Royal City,Governor,,R,Dino Rossi,107,107,107
+41313045,Ruff,Governor,,R,Dino Rossi,46,46,46
+41313046,Smyrna 1,Governor,,R,Dino Rossi,144,144,144
+41313049,Stratford,Governor,,R,Dino Rossi,46,46,46
+41313750,Warden,Governor,,R,Dino Rossi,222,222,222
+41313051,Warden rural,Governor,,R,Dino Rossi,440,441,441
+41313852,Soap Lake 2,Governor,,R,Dino Rossi,134,135,135
+41313053,Westslope 1,Governor,,R,Dino Rossi,128,128,128
+41313054,Wheeler,Governor,,R,Dino Rossi,842,844,844
+41313056,Wilson Ck rural,Governor,,R,Dino Rossi,22,22,22
+41313057,Airport 2,Governor,,R,Dino Rossi,232,232,232
+41313058,Cascade Valley,Governor,,R,Dino Rossi,477,478,478
+41313059,Westslope 2,Governor,,R,Dino Rossi,77,78,78
+41313060,Smyrna 2,Governor,,R,Dino Rossi,31,31,31
+41313061,East Wahluke,Governor,,R,Dino Rossi,143,143,143
+41313063,McConihe 2,Governor,,R,Dino Rossi,109,109,109
+41313064,Quincy rur south,Governor,,R,Dino Rossi,541,547,547
+41313065,Greenfield,Governor,,R,Dino Rossi,51,52,52
+41313999,Canvass,Governor,,R,Dino Rossi,0,0,0
+GRANT WA,GRANT WA,Governor,,R,Dino Rossi,17385,17429,17431
+41312105,Coulee City,Governor,,L,Ruth Bennett,9,9,9
+41312006,Coulee City rural west,Governor,,L,Ruth Bennett,1,1,1
+41312207,Electric City,Governor,,L,Ruth Bennett,1,1,1
+41312318,Grand Coulee,Governor,,L,Ruth Bennett,9,9,9
+41312419,Hartline,Governor,,L,Ruth Bennett,10,10,10
+41312020,Hartline rural,Governor,,L,Ruth Bennett,2,2,2
+41312524,Marlin,Governor,,L,Ruth Bennett,1,1,1
+41312025,Marlin rural,Governor,,L,Ruth Bennett,1,1,1
+41312037,North Banks Lake,Governor,,L,Ruth Bennett,1,1,1
+41312647,Soap Lake 1,Governor,,L,Ruth Bennett,3,3,3
+41312048,Soap Lake rural,Governor,,L,Ruth Bennett,10,10,10
+41312755,Wilson Creek,Governor,,L,Ruth Bennett,3,3,3
+41312062,Coulee City rural east,Governor,,L,Ruth Bennett,4,4,4
+41313001,Airport,Governor,,L,Ruth Bennett,14,14,14
+41313002,Beverly,Governor,,L,Ruth Bennett,2,2,2
+41313003,Block 71,Governor,,L,Ruth Bennett,11,11,11
+41313004,Cascade Fair,Governor,,L,Ruth Bennett,18,18,18
+41313108,Ephrata 5,Governor,,L,Ruth Bennett,5,5,5
+41313109,Ephrata 2,Governor,,L,Ruth Bennett,4,4,4
+41313110,Ephrata 3,Governor,,L,Ruth Bennett,13,13,13
+41313111,Ephrata 4,Governor,,L,Ruth Bennett,13,13,13
+41313112,Ephrata 7,Governor,,L,Ruth Bennett,5,5,5
+41313113,Ephrata 9,Governor,,L,Ruth Bennett,9,9,9
+41313014,Ephrata rural,Governor,,L,Ruth Bennett,14,14,14
+41313215,George,Governor,,L,Ruth Bennett,1,1,1
+41313016,George rural,Governor,,L,Ruth Bennett,13,13,13
+41313017,Gloyd,Governor,,L,Ruth Bennett,8,8,8
+41313021,Lakeview Park,Governor,,L,Ruth Bennett,21,21,21
+41313022,Longview Park,Governor,,L,Ruth Bennett,12,12,12
+41313023,Mae,Governor,,L,Ruth Bennett,15,15,15
+41313326,Mattawa,Governor,,L,Ruth Bennett,6,6,6
+41313027,Mattawa rural,Governor,,L,Ruth Bennett,7,7,7
+41313028,McConihe 1,Governor,,L,Ruth Bennett,2,2,2
+41313429,Moses Lake 5,Governor,,L,Ruth Bennett,19,19,19
+41313430,Moses Lake 3,Governor,,L,Ruth Bennett,18,18,18
+41313431,Moses Lake 4,Governor,,L,Ruth Bennett,1,1,1
+41313432,Moses Lake 6,Governor,,L,Ruth Bennett,22,22,22
+41313433,Moses Lake 7,Governor,,L,Ruth Bennett,24,24,24
+41313434,Moses Lake 8,Governor,,L,Ruth Bennett,16,16,16
+41313435,Moses Lake 11,Governor,,L,Ruth Bennett,12,12,12
+41313436,Moses Lake 12,Governor,,L,Ruth Bennett,20,20,20
+41313038,O'Sullivan Dam,Governor,,L,Ruth Bennett,10,10,10
+41313539,Quincy 1,Governor,,L,Ruth Bennett,10,10,10
+41313540,Quincy 4,Governor,,L,Ruth Bennett,12,12,12
+41313541,Quincy 6,Governor,,L,Ruth Bennett,4,4,4
+41313042,Quincy rur north,Governor,,L,Ruth Bennett,5,5,5
+41313043,Royal Camp,Governor,,L,Ruth Bennett,12,12,12
+41313644,Royal City,Governor,,L,Ruth Bennett,5,5,5
+41313045,Ruff,Governor,,L,Ruth Bennett,0,0,0
+41313046,Smyrna 1,Governor,,L,Ruth Bennett,3,3,3
+41313049,Stratford,Governor,,L,Ruth Bennett,0,0,0
+41313750,Warden,Governor,,L,Ruth Bennett,16,17,17
+41313051,Warden rural,Governor,,L,Ruth Bennett,10,10,10
+41313852,Soap Lake 2,Governor,,L,Ruth Bennett,3,3,3
+41313053,Westslope 1,Governor,,L,Ruth Bennett,1,1,1
+41313054,Wheeler,Governor,,L,Ruth Bennett,11,11,11
+41313056,Wilson Ck rural,Governor,,L,Ruth Bennett,0,0,0
+41313057,Airport 2,Governor,,L,Ruth Bennett,12,12,12
+41313058,Cascade Valley,Governor,,L,Ruth Bennett,20,20,20
+41313059,Westslope 2,Governor,,L,Ruth Bennett,2,2,2
+41313060,Smyrna 2,Governor,,L,Ruth Bennett,0,0,0
+41313061,East Wahluke,Governor,,L,Ruth Bennett,3,3,3
+41313063,McConihe 2,Governor,,L,Ruth Bennett,2,2,2
+41313064,Quincy rur south,Governor,,L,Ruth Bennett,12,12,12
+41313065,Greenfield,Governor,,L,Ruth Bennett,1,1,1
+41313999,Canvass,Governor,,L,Ruth Bennett,0,0,0
+GRANT WA,GRANT WA,Governor,,L,Ruth Bennett,534,535,535

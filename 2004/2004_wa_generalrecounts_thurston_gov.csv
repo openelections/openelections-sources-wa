@@ -1,0 +1,1364 @@
+#,Precinct,CD,LD,Party,Candidate,Votes,,
+64,Airport,9,22,,Registered,29,,
+56,Alderglen,9,22,,Registered,341,,
+99,Alpine,3,35,,Registered,964,,
+63,Ames,9,22,,Registered,484,,
+130,Bald Hills,3,2,,Registered,1329,,
+183,Beach Crest,9,22,,Registered,508,,
+199,Beaver Creek,3,20,,Registered,665,,
+61,Belmore,3,35,,Registered,1084,,
+193,Berry Valley,9,2,,Registered,625,,
+107,Bigelow,9,22,,Registered,545,,
+144,Black Lake,3,35,,Registered,650,,
+62,Black River,3,20,,Registered,566,,
+102,Boston Harbor,9,22,,Registered,554,,
+136,Broadway,3,22,,Registered,1076,,
+801,Bucoda,3,20,,Registered,294,,
+143,Bush,3,22,,Registered,180,,
+135,Butler Cove,3,22,,Registered,549,,
+173,Camelot,3,35,,Registered,341,,
+122,Chambers,3,20,,Registered,1063,,
+129,College,3,22,,Registered,431,,
+134,Cooper Point,3,22,,Registered,536,,
+91,Deerbrush,9,2,,Registered,835,,
+145,Delphi,3,20,,Registered,527,,
+97,Delridge,3,20,,Registered,370,,
+38,Delta,3,22,,Registered,,,
+125,Deschutes,9,2,,Registered,677,,
+87,Driftwood,3,22,,Registered,192,,
+192,East Olympia,3,20,,Registered,451,,
+166,Eaton Creek,3,20,,Registered,352,,
+164,Evergreen Shores,3,22,,Registered,577,,
+185,Fair Oaks,9,20,,Registered,473,,
+66,Fish Trap,9,22,,Registered,402,,
+118,Fleetwood,9,20,,Registered,1183,,
+115,Forest,9,20,,Registered,661,,
+179,Four Corners,9,2,,Registered,1012,,
+123,Freedom,3,22,,Registered,699,,
+174,French,3,22,,Registered,606,,
+104,Friendly Harbor,9,22,,Registered,357,,
+124,Fristoe,9,2,,Registered,562,,
+94,Frye Cove,3,35,,Registered,620,,
+191,Gallagher Cove,3,35,,Registered,883,,
+152,Gate,3,20,,Registered,559,,
+157,Gibson Valley,3,20,,Registered,150,,
+82,Glen Terra,9,22,,Registered,214,,
+181,Glenwood,3,22,,Registered,132,,
+156,Grand Mound,3,20,,Registered,404,,
+86,Greenridge,3,35,,Registered,458,,
+132,Griffin,3,35,,Registered,510,,
+103,Gull Harbor,9,22,,Registered,404,,
+194,Hartwood,9,20,,Registered,823,,
+76,Hawk Acres,9,22,,Registered,356,,
+167,Hawks Ridge,9,20,,Registered,440,,
+120,Hays,3,20,,Registered,343,,
+176,Henderson,9,22,,Registered,699,,
+198,Henness,3,20,,Registered,957,,
+100,Hewitt Lake,3,20,,Registered,445,,
+117,Hicks,9,22,,Registered,94,,
+168,Holmes,9,22,,Registered,616,,
+131,Hunter Point,3,35,,Registered,345,,
+121,Indian Summer,3,20,,Registered,723,,
+177,Israel,3,22,,Registered,14,,
+52,James,3,20,,Registered,624,,
+160,Johnson Point,9,22,,Registered,649,,
+39,Jones Beach,9,22,,Registered,324,,
+113,Kinwood,9,22,,Registered,845,,
+108,Kirsop,3,22,,Registered,386,,
+301,Lacey 1,9,22,,Registered,286,,
+310,Lacey 10,9,22,,Registered,558,,
+311,Lacey 11,9,22,,Registered,400,,
+312,Lacey 12,3,22,,Registered,74,,
+313,Lacey 13,9,22,,Registered,342,,
+314,Lacey 14,9,22,,Registered,293,,
+315,Lacey 15,9,22,,Registered,516,,
+316,Lacey 16,9,22,,Registered,392,,
+317,Lacey 17,9,22,,Registered,537,,
+318,Lacey 18,9,22,,Registered,696,,
+319,Lacey 19,9,22,,Registered,389,,
+302,Lacey 2,9,22,,Registered,533,,
+320,Lacey 20,9,22,,Registered,294,,
+321,Lacey 21,9,22,,Registered,318,,
+322,Lacey 22,3,22,,Registered,1286,,
+323,Lacey 23,9,22,,Registered,317,,
+324,Lacey 24,9,22,,Registered,1351,,
+325,Lacey 25,9,22,,Registered,0,,
+326,Lacey 26,9,22,,Registered,96,,
+327,Lacey 27,9,22,,Registered,666,,
+328,Lacey 28,9,22,,Registered,370,,
+329,Lacey 29,9,22,,Registered,664,,
+303,Lacey 3,9,22,,Registered,635,,
+330,Lacey 30,9,22,,Registered,953,,
+331,Lacey 31,9,22,,Registered,1068,,
+332,Lacey 32,9,22,,Registered,826,,
+333,Lacey 33,9,22,,Registered,434,,
+334,Lacey 34,9,22,,Registered,320,,
+335,Lacey 35,9,22,,Registered,353,,
+336,Lacey 36,9,22,,Registered,21,,
+337,Lacey 37,9,22,,Registered,188,,
+304,Lacey 4,9,22,,Registered,456,,
+305,Lacey 5,9,22,,Registered,383,,
+306,Lacey 6,9,22,,Registered,324,,
+307,Lacey 7,9,22,,Registered,617,,
+308,Lacey 8,9,22,,Registered,435,,
+309,Lacey 9,9,22,,Registered,333,,
+190,Lakeside,3,35,,Registered,348,,
+46,Lawrence Lake N,3,2,,Registered,551,,
+138,Lawrence Lake S,3,20,,Registered,435,,
+195,Libby,9,22,,Registered,504,,
+151,Littlerock,3,20,,Registered,801,,
+75,Long Lake,9,22,,Registered,145,,
+126,Longmire,9,2,,Registered,541,,
+65,Luhr Beach,9,22,,Registered,599,,
+119,Lydia Hawk,9,20,,Registered,742,,
+98,Marvin,9,20,,Registered,742,,
+169,McAllister Creek,9,2,,Registered,700,,
+149,McIntosh,3,20,,Registered,668,,
+114,McKinley,3,22,,Registered,156,,
+141,McLane,3,35,,Registered,446,,
+196,Meadows,9,20,,Registered,551,,
+57,Medicine Creek,9,2,,Registered,341,,
+159,Meridian,9,22,,Registered,326,,
+48,Michigan Hill,3,20,,Registered,374,,
+81,Military,9,20,,Registered,115,,
+110,Montgomery,9,22,,Registered,423,,
+140,Mud Bay,3,35,,Registered,514,,
+187,Mullen,9,22,,Registered,539,,
+182,Munn Lake,3,20,,Registered,1000,,
+92,Mushroom Corner,9,20,,Registered,1045,,
+111,Nisqually,9,2,,Registered,491,,
+201,Olympia 1,3,22,,Registered,425,,
+210,Olympia 10,3,22,,Registered,530,,
+211,Olympia 11,3,22,,Registered,547,,
+212,Olympia 12,3,22,,Registered,483,,
+213,Olympia 13,3,22,,Registered,902,,
+214,Olympia 14,3,22,,Registered,529,,
+215,Olympia 15,3,22,,Registered,547,,
+216,Olympia 16,3,22,,Registered,486,,
+217,Olympia 17,9,22,,Registered,90,,
+218,Olympia 18,3,22,,Registered,463,,
+219,Olympia 19,3,22,,Registered,637,,
+202,Olympia 2,3,22,,Registered,683,,
+220,Olympia 20,3,22,,Registered,666,,
+221,Olympia 21,9,22,,Registered,408,,
+223,Olympia 23,9,22,,Registered,898,,
+224,Olympia 24,3,22,,Registered,933,,
+225,Olympia 25,3,22,,Registered,470,,
+226,Olympia 26,3,22,,Registered,389,,
+227,Olympia 27,3,22,,Registered,509,,
+228,Olympia 28,3,22,,Registered,245,,
+229,Olympia 29,3,22,,Registered,671,,
+203,Olympia 3,3,22,,Registered,625,,
+230,Olympia 30,3,22,,Registered,524,,
+231,Olympia 31,3,22,,Registered,491,,
+232,Olympia 32,3,22,,Registered,420,,
+234,Olympia 34,3,22,,Registered,875,,
+235,Olympia 35,3,22,,Registered,212,,
+236,Olympia 36,3,22,,Registered,572,,
+237,Olympia 37,3,22,,Registered,330,,
+238,Olympia 38,3,22,,Registered,436,,
+239,Olympia 39,3,22,,Registered,202,,
+204,Olympia 4,3,22,,Registered,498,,
+240,Olympia 40,3,22,,Registered,860,,
+241,Olympia 41,3,22,,Registered,430,,
+242,Olympia 42,3,22,,Registered,566,,
+243,Olympia 43,3,22,,Registered,336,,
+244,Olympia 44,3,22,,Registered,628,,
+245,Olympia 45,9,22,,Registered,319,,
+246,Olympia 46,9,22,,Registered,522,,
+247,Olympia 47,3,22,,Registered,1090,,
+248,Olympia 48,3,22,,Registered,608,,
+249,Olympia 49,3,22,,Registered,631,,
+205,Olympia 5,3,22,,Registered,626,,
+250,Olympia 50,3,22,,Registered,497,,
+251,Olympia 51,3,22,,Registered,527,,
+252,Olympia 52,3,22,,Registered,363,,
+253,Olympia 53,9,22,,Registered,483,,
+254,Olympia 54,3,22,,Registered,391,,
+206,Olympia 6,3,22,,Registered,631,,
+207,Olympia 7,3,22,,Registered,514,,
+208,Olympia 8,3,22,,Registered,574,,
+209,Olympia 9,3,22,,Registered,913,,
+95,Oyster Bay,3,35,,Registered,604,,
+178,Pattison,9,22,,Registered,358,,
+74,Pines,9,2,,Registered,698,,
+139,Plainview,3,22,,Registered,779,,
+109,Pleasant Glade,9,22,,Registered,411,,
+59,Pleasant Hill,9,2,,Registered,619,,
+147,Plumb,3,20,,Registered,810,,
+83,Prine,3,20,,Registered,163,,
+106,Puget,9,22,,Registered,620,,
+601,Rainier 1,9,2,,Registered,422,,
+602,Rainier 2,9,2,,Registered,404,,
+153,Rochester 1,3,20,,Registered,560,,
+154,Rochester 2,3,20,,Registered,448,,
+170,Rochester 3,3,20,,Registered,570,,
+55,Rochester 4,3,20,,Registered,559,,
+54,Rochester 5,3,20,,Registered,667,,
+45,Rocky Prairie,3,20,,Registered,486,,
+112,Roosevelt,9,22,,Registered,684,,
+127,Ruth Prairie,3,2,,Registered,588,,
+146,S Union,3,20,,Registered,921,,
+50,Salmon Creek,3,20,,Registered,384,,
+148,Scatter Creek,3,20,,Registered,377,,
+184,Scheller,3,20,,Registered,352,,
+133,Schneiders Prairie,3,35,,Registered,474,,
+155,Scott Lake N,3,20,,Registered,305,,
+49,Scott Lake S,3,20,,Registered,505,,
+142,Simmons 1,3,35,,Registered,66,,
+68,Simmons 2,3,22,,Registered,,,
+69,Simmons 3,3,22,,Registered,33,,
+70,Simmons 4,3,22,,Registered,51,,
+42,Simmons 9,3,22,,Registered,10,,
+58,Skokomish,9,22,,Registered,430,,
+158,Skookumchuck,3,20,,Registered,652,,
+189,Sleater Kinney,9,22,,Registered,537,,
+163,Smith Lake,3,22,,Registered,542,,
+60,Smith Prairie,3,2,,Registered,540,,
+105,South Bay,9,22,,Registered,725,,
+51,Spurgeon Creek,3,20,,Registered,718,,
+116,St Clair,9,20,,Registered,623,,
+44,Steamboat Island,3,35,,Registered,392,,
+180,Stedman,3,20,,Registered,492,,
+137,Sulenes 1,3,22,,Registered,,,
+73,Sulenes 2,3,22,,Registered,17,,
+197,Summerset,9,20,,Registered,759,,
+96,Summit Lake,3,35,,Registered,527,,
+175,Sunset Beach,3,22,,Registered,682,,
+165,Sunwood Lakes,3,20,,Registered,609,,
+90,Sweet Briar,3,22,,Registered,725,,
+501,Tenino 1,3,20,,Registered,403,,
+502,Tenino 2,3,20,,Registered,413,,
+162,Thompson,9,22,,Registered,569,,
+89,Tilley,3,20,,Registered,796,,
+80,Tolmie,9,22,,Registered,343,,
+93,Traiblazer,9,20,,Registered,528,,
+78,Tri Lakes,9,20,,Registered,577,,
+84,Trosper Lake,3,22,,Registered,77,,
+401,Tumwater 1,3,22,,Registered,761,,
+410,Tumwater 10,3,22,,Registered,584,,
+411,Tumwater 11,3,22,,Registered,463,,
+412,Tumwater 12,3,22,,Registered,583,,
+413,Tumwater 13,3,22,,Registered,300,,
+414,Tumwater 14,3,22,,Registered,308,,
+415,Tumwater 15,3,22,,Registered,567,,
+417,Tumwater 17,3,22,,Registered,19,,
+402,Tumwater 2,3,22,,Registered,520,,
+421,Tumwater 21,3,22,,Registered,170,,
+423,Tumwater 23,3,20,,Registered,14,,
+403,Tumwater 3,3,22,,Registered,428,,
+404,Tumwater 4,3,22,,Registered,451,,
+405,Tumwater 5,3,22,,Registered,496,,
+406,Tumwater 6,3,22,,Registered,593,,
+407,Tumwater 7,3,22,,Registered,497,,
+408,Tumwater 8,3,22,,Registered,671,,
+409,Tumwater 9,3,22,,Registered,424,,
+172,Tykle Cove,3,22,,Registered,572,,
+43,University N,9,20,,Registered,345,,
+79,University S,9,20,,Registered,405,,
+53,Vail,3,20,,Registered,631,,
+150,Violet Prairie,3,20,,Registered,755,,
+999,Vote by mail,9,99,,Registered,43,,
+171,Waddell Creek,3,22,,Registered,526,,
+161,Wards,3,22,,Registered,288,,
+128,Weir Prairie,9,2,,Registered,766,,
+186,Wilderness,3,22,,Registered,699,,
+85,Wildflower,3,22,,Registered,29,,
+47,Woodard Creek,9,22,,Registered,431,,
+88,Woodland,9,22,,Registered,447,,
+701,Yelm 1,9,2,,Registered,1092,,
+702,Yelm 2,9,2,,Registered,869,,
+101,Zangle,9,22,,Registered,506,,
+77,Zenker Valley,3,20,,Registered,93,,
+THURSTON WA,THURSTON WA,,,,Registered,137743,,
+#,Precinct,CD,LD,Party,Candidate,Votes,Machine,Hand
+64,Airport,9,22,,Ballots,18,18,18
+56,Alderglen,9,22,,Ballots,291,291,291
+99,Alpine,3,35,,Ballots,844,844,844
+63,Ames,9,22,,Ballots,427,427,427
+130,Bald Hills,3,2,,Ballots,1083,1083,1083
+183,Beach Crest,9,22,,Ballots,430,430,430
+199,Beaver Creek,3,20,,Ballots,543,543,543
+61,Belmore,3,35,,Ballots,912,913,913
+193,Berry Valley,9,2,,Ballots,476,476,476
+107,Bigelow,9,22,,Ballots,464,464,465
+144,Black Lake,3,35,,Ballots,561,561,561
+62,Black River,3,20,,Ballots,484,484,484
+102,Boston Harbor,9,22,,Ballots,493,493,493
+136,Broadway,3,22,,Ballots,922,922,923
+801,Bucoda,3,20,,Ballots,231,231,231
+143,Bush,3,22,,Ballots,123,123,123
+135,Butler Cove,3,22,,Ballots,471,471,471
+173,Camelot,3,35,,Ballots,283,283,283
+122,Chambers,3,20,,Ballots,927,927,927
+129,College,3,22,,Ballots,353,353,353
+134,Cooper Point,3,22,,Ballots,471,471,471
+91,Deerbrush,9,2,,Ballots,655,655,654
+145,Delphi,3,20,,Ballots,465,465,465
+97,Delridge,3,20,,Ballots,320,320,320
+38,Delta,3,22,,Ballots,,,8
+125,Deschutes,9,2,,Ballots,536,536,536
+87,Driftwood,3,22,,Ballots,148,148,148
+192,East Olympia,3,20,,Ballots,356,356,356
+166,Eaton Creek,3,20,,Ballots,300,300,300
+164,Evergreen Shores,3,22,,Ballots,444,444,444
+185,Fair Oaks,9,20,,Ballots,356,356,356
+66,Fish Trap,9,22,,Ballots,359,358,359
+118,Fleetwood,9,20,,Ballots,999,999,999
+115,Forest,9,20,,Ballots,584,584,584
+179,Four Corners,9,2,,Ballots,827,827,827
+123,Freedom,3,22,,Ballots,614,614,614
+174,French,3,22,,Ballots,524,524,524
+104,Friendly Harbor,9,22,,Ballots,306,306,306
+124,Fristoe,9,2,,Ballots,411,411,411
+94,Frye Cove,3,35,,Ballots,538,538,538
+191,Gallagher Cove,3,35,,Ballots,754,754,754
+152,Gate,3,20,,Ballots,439,439,440
+157,Gibson Valley,3,20,,Ballots,124,124,123
+82,Glen Terra,9,22,,Ballots,176,176,176
+181,Glenwood,3,22,,Ballots,113,113,111
+156,Grand Mound,3,20,,Ballots,280,280,279
+86,Greenridge,3,35,,Ballots,357,357,357
+132,Griffin,3,35,,Ballots,424,424,414
+103,Gull Harbor,9,22,,Ballots,368,368,368
+194,Hartwood,9,20,,Ballots,700,700,700
+76,Hawk Acres,9,22,,Ballots,312,312,311
+167,Hawks Ridge,9,20,,Ballots,300,300,300
+120,Hays,3,20,,Ballots,310,310,310
+176,Henderson,9,22,,Ballots,596,596,597
+198,Henness,3,20,,Ballots,744,744,744
+100,Hewitt Lake,3,20,,Ballots,401,401,401
+117,Hicks,9,22,,Ballots,81,81,81
+168,Holmes,9,22,,Ballots,510,510,509
+131,Hunter Point,3,35,,Ballots,298,298,300
+121,Indian Summer,3,20,,Ballots,676,676,676
+177,Israel,3,22,,Ballots,14,14,14
+52,James,3,20,,Ballots,501,501,501
+160,Johnson Point,9,22,,Ballots,560,570,570
+39,Jones Beach,9,22,,Ballots,290,290,290
+113,Kinwood,9,22,,Ballots,699,699,700
+108,Kirsop,3,22,,Ballots,327,327,327
+301,Lacey 1,9,22,,Ballots,210,210,210
+310,Lacey 10,9,22,,Ballots,470,470,470
+311,Lacey 11,9,22,,Ballots,348,348,348
+312,Lacey 12,3,22,,Ballots,60,60,60
+313,Lacey 13,9,22,,Ballots,282,282,282
+314,Lacey 14,9,22,,Ballots,218,218,218
+315,Lacey 15,9,22,,Ballots,418,418,418
+316,Lacey 16,9,22,,Ballots,358,358,358
+317,Lacey 17,9,22,,Ballots,440,440,440
+318,Lacey 18,9,22,,Ballots,595,595,595
+319,Lacey 19,9,22,,Ballots,312,312,312
+302,Lacey 2,9,22,,Ballots,412,412,412
+320,Lacey 20,9,22,,Ballots,243,243,244
+321,Lacey 21,9,22,,Ballots,268,268,268
+322,Lacey 22,3,22,,Ballots,1082,1082,1081
+323,Lacey 23,9,22,,Ballots,266,266,266
+324,Lacey 24,9,22,,Ballots,1113,1112,1112
+325,Lacey 25,9,22,,Ballots,0,0,0
+326,Lacey 26,9,22,,Ballots,79,79,79
+327,Lacey 27,9,22,,Ballots,545,545,545
+328,Lacey 28,9,22,,Ballots,309,309,309
+329,Lacey 29,9,22,,Ballots,539,539,539
+303,Lacey 3,9,22,,Ballots,528,528,528
+330,Lacey 30,9,22,,Ballots,754,754,755
+331,Lacey 31,9,22,,Ballots,871,871,873
+332,Lacey 32,9,22,,Ballots,643,643,644
+333,Lacey 33,9,22,,Ballots,337,337,337
+334,Lacey 34,9,22,,Ballots,241,241,241
+335,Lacey 35,9,22,,Ballots,274,274,274
+336,Lacey 36,9,22,,Ballots,16,16,16
+337,Lacey 37,9,22,,Ballots,155,155,155
+304,Lacey 4,9,22,,Ballots,318,317,318
+305,Lacey 5,9,22,,Ballots,330,330,330
+306,Lacey 6,9,22,,Ballots,238,238,238
+307,Lacey 7,9,22,,Ballots,468,468,468
+308,Lacey 8,9,22,,Ballots,313,313,313
+309,Lacey 9,9,22,,Ballots,263,263,263
+190,Lakeside,3,35,,Ballots,287,287,287
+46,Lawrence Lake N,3,2,,Ballots,436,436,436
+138,Lawrence Lake S,3,20,,Ballots,330,330,330
+195,Libby,9,22,,Ballots,449,449,449
+151,Littlerock,3,20,,Ballots,674,674,675
+75,Long Lake,9,22,,Ballots,127,127,127
+126,Longmire,9,2,,Ballots,385,385,385
+65,Luhr Beach,9,22,,Ballots,515,515,515
+119,Lydia Hawk,9,20,,Ballots,583,583,583
+98,Marvin,9,20,,Ballots,635,635,635
+169,McAllister Creek,9,2,,Ballots,486,486,486
+149,McIntosh,3,20,,Ballots,562,562,562
+114,McKinley,3,22,,Ballots,124,124,124
+141,McLane,3,35,,Ballots,373,373,374
+196,Meadows,9,20,,Ballots,421,421,421
+57,Medicine Creek,9,2,,Ballots,242,242,242
+159,Meridian,9,22,,Ballots,251,241,241
+48,Michigan Hill,3,20,,Ballots,300,300,300
+81,Military,9,20,,Ballots,85,85,85
+110,Montgomery,9,22,,Ballots,314,314,314
+140,Mud Bay,3,35,,Ballots,448,448,447
+187,Mullen,9,22,,Ballots,447,447,447
+182,Munn Lake,3,20,,Ballots,861,861,861
+92,Mushroom Corner,9,20,,Ballots,821,821,821
+111,Nisqually,9,2,,Ballots,360,360,360
+201,Olympia 1,3,22,,Ballots,344,344,455
+210,Olympia 10,3,22,,Ballots,456,456,498
+211,Olympia 11,3,22,,Ballots,498,498,446
+212,Olympia 12,3,22,,Ballots,446,446,741
+213,Olympia 13,3,22,,Ballots,741,741,473
+214,Olympia 14,3,22,,Ballots,473,473,479
+215,Olympia 15,3,22,,Ballots,479,479,414
+216,Olympia 16,3,22,,Ballots,414,414,79
+217,Olympia 17,9,22,,Ballots,79,79,370
+218,Olympia 18,3,22,,Ballots,370,370,517
+219,Olympia 19,3,22,,Ballots,517,517,574
+202,Olympia 2,3,22,,Ballots,574,574,541
+220,Olympia 20,3,22,,Ballots,541,541,324
+221,Olympia 21,9,22,,Ballots,323,324,789
+223,Olympia 23,9,22,,Ballots,788,788,814
+224,Olympia 24,3,22,,Ballots,813,814,417
+225,Olympia 25,3,22,,Ballots,417,417,354
+226,Olympia 26,3,22,,Ballots,354,354,443
+227,Olympia 27,3,22,,Ballots,443,443,207
+228,Olympia 28,3,22,,Ballots,207,207,576
+229,Olympia 29,3,22,,Ballots,576,576,551
+203,Olympia 3,3,22,,Ballots,551,551,440
+230,Olympia 30,3,22,,Ballots,440,440,429
+231,Olympia 31,3,22,,Ballots,429,429,363
+232,Olympia 32,3,22,,Ballots,365,365,726
+234,Olympia 34,3,22,,Ballots,726,726,140
+235,Olympia 35,3,22,,Ballots,140,140,514
+236,Olympia 36,3,22,,Ballots,514,514,283
+237,Olympia 37,3,22,,Ballots,283,283,392
+238,Olympia 38,3,22,,Ballots,392,392,149
+239,Olympia 39,3,22,,Ballots,149,149,448
+204,Olympia 4,3,22,,Ballots,448,448,699
+240,Olympia 40,3,22,,Ballots,699,699,393
+241,Olympia 41,3,22,,Ballots,393,393,518
+242,Olympia 42,3,22,,Ballots,517,517,302
+243,Olympia 43,3,22,,Ballots,302,302,540
+244,Olympia 44,3,22,,Ballots,540,540,280
+245,Olympia 45,9,22,,Ballots,280,280,401
+246,Olympia 46,9,22,,Ballots,401,401,860
+247,Olympia 47,3,22,,Ballots,861,861,506
+248,Olympia 48,3,22,,Ballots,506,506,509
+249,Olympia 49,3,22,,Ballots,509,509,537
+205,Olympia 5,3,22,,Ballots,537,537,334
+250,Olympia 50,3,22,,Ballots,424,424,424
+251,Olympia 51,3,22,,Ballots,463,463,463
+252,Olympia 52,3,22,,Ballots,305,305,305
+253,Olympia 53,9,22,,Ballots,397,397,397
+254,Olympia 54,3,22,,Ballots,338,338,338
+206,Olympia 6,3,22,,Ballots,528,528,528
+207,Olympia 7,3,22,,Ballots,397,397,396
+208,Olympia 8,3,22,,Ballots,517,517,517
+209,Olympia 9,3,22,,Ballots,820,820,820
+95,Oyster Bay,3,35,,Ballots,540,540,540
+178,Pattison,9,22,,Ballots,293,293,293
+74,Pines,9,2,,Ballots,494,494,494
+139,Plainview,3,22,,Ballots,672,672,672
+109,Pleasant Glade,9,22,,Ballots,342,342,342
+59,Pleasant Hill,9,2,,Ballots,503,503,503
+147,Plumb,3,20,,Ballots,636,636,636
+83,Prine,3,20,,Ballots,120,120,120
+106,Puget,9,22,,Ballots,538,538,538
+601,Rainier 1,9,2,,Ballots,314,314,313
+602,Rainier 2,9,2,,Ballots,314,314,313
+153,Rochester 1,3,20,,Ballots,434,434,434
+154,Rochester 2,3,20,,Ballots,342,342,344
+170,Rochester 3,3,20,,Ballots,457,457,457
+55,Rochester 4,3,20,,Ballots,446,446,446
+54,Rochester 5,3,20,,Ballots,536,537,537
+45,Rocky Prairie,3,20,,Ballots,360,360,359
+112,Roosevelt,9,22,,Ballots,558,558,557
+127,Ruth Prairie,3,2,,Ballots,487,486,486
+146,S Union,3,20,,Ballots,768,768,768
+50,Salmon Creek,3,20,,Ballots,301,301,302
+148,Scatter Creek,3,20,,Ballots,301,301,301
+184,Scheller,3,20,,Ballots,279,279,279
+133,Schneiders Prairie,3,35,,Ballots,394,394,394
+155,Scott Lake N,3,20,,Ballots,249,250,250
+49,Scott Lake S,3,20,,Ballots,415,415,415
+142,Simmons 1,3,35,,Ballots,57,57,57
+68,Simmons 2,3,22,,Ballots,,,0
+69,Simmons 3,3,22,,Ballots,23,23,23
+70,Simmons 4,3,22,,Ballots,40,40,40
+42,Simmons 9,3,22,,Ballots,6,6,7
+58,Skokomish,9,22,,Ballots,314,314,314
+158,Skookumchuck,3,20,,Ballots,534,534,534
+189,Sleater Kinney,9,22,,Ballots,439,439,439
+163,Smith Lake,3,22,,Ballots,466,466,466
+60,Smith Prairie,3,2,,Ballots,410,410,411
+105,South Bay,9,22,,Ballots,615,615,615
+51,Spurgeon Creek,3,20,,Ballots,594,594,593
+116,St Clair,9,20,,Ballots,527,527,527
+44,Steamboat Island,3,35,,Ballots,351,351,351
+180,Stedman,3,20,,Ballots,422,422,423
+137,Sulenes 1,3,22,,Ballots,,,0
+73,Sulenes 2,3,22,,Ballots,12,12,0
+197,Summerset,9,20,,Ballots,640,640,640
+96,Summit Lake,3,35,,Ballots,439,439,439
+175,Sunset Beach,3,22,,Ballots,588,588,588
+165,Sunwood Lakes,3,20,,Ballots,514,514,514
+90,Sweet Briar,3,22,,Ballots,614,614,614
+501,Tenino 1,3,20,,Ballots,322,322,322
+502,Tenino 2,3,20,,Ballots,329,329,329
+162,Thompson,9,22,,Ballots,419,419,420
+89,Tilley,3,20,,Ballots,667,668,667
+80,Tolmie,9,22,,Ballots,266,266,266
+93,Traiblazer,9,20,,Ballots,404,404,404
+78,Tri Lakes,9,20,,Ballots,444,444,444
+84,Trosper Lake,3,22,,Ballots,63,63,63
+401,Tumwater 1,3,22,,Ballots,629,629,628
+410,Tumwater 10,3,22,,Ballots,486,486,487
+411,Tumwater 11,3,22,,Ballots,401,401,400
+412,Tumwater 12,3,22,,Ballots,485,485,485
+413,Tumwater 13,3,22,,Ballots,257,257,257
+414,Tumwater 14,3,22,,Ballots,259,259,259
+415,Tumwater 15,3,22,,Ballots,488,488,488
+417,Tumwater 17,3,22,,Ballots,17,17,17
+402,Tumwater 2,3,22,,Ballots,475,475,476
+421,Tumwater 21,3,22,,Ballots,146,146,146
+423,Tumwater 23,3,20,,Ballots,12,12,0
+403,Tumwater 3,3,22,,Ballots,340,340,340
+404,Tumwater 4,3,22,,Ballots,325,325,325
+405,Tumwater 5,3,22,,Ballots,388,388,388
+406,Tumwater 6,3,22,,Ballots,503,503,503
+407,Tumwater 7,3,22,,Ballots,423,423,423
+408,Tumwater 8,3,22,,Ballots,562,562,562
+409,Tumwater 9,3,22,,Ballots,362,362,362
+172,Tykle Cove,3,22,,Ballots,514,515,515
+43,University N,9,20,,Ballots,264,264,264
+79,University S,9,20,,Ballots,330,330,330
+53,Vail,3,20,,Ballots,508,508,509
+150,Violet Prairie,3,20,,Ballots,585,585,585
+999,Vote by mail,9,99,,Ballots,37,40,54
+171,Waddell Creek,3,22,,Ballots,447,447,447
+161,Wards,3,22,,Ballots,258,259,259
+128,Weir Prairie,9,2,,Ballots,640,640,640
+186,Wilderness,3,22,,Ballots,611,612,612
+85,Wildflower,3,22,,Ballots,24,24,24
+47,Woodard Creek,9,22,,Ballots,369,369,369
+88,Woodland,9,22,,Ballots,399,399,399
+701,Yelm 1,9,2,,Ballots,846,846,846
+702,Yelm 2,9,2,,Ballots,696,696,696
+101,Zangle,9,22,,Ballots,452,452,451
+77,Zenker Valley,3,20,,Ballots,80,80,80
+THURSTON WA,THURSTON WA,,,,Ballots,113989,113997,113980
+#,precinct,office,district,party,candidate,votes,machine,hand
+64,Airport,Governor,,D,Christine Gregoire,4,4,4
+56,Alderglen,Governor,,D,Christine Gregoire,143,143,143
+99,Alpine,Governor,,D,Christine Gregoire,440,440,440
+63,Ames,Governor,,D,Christine Gregoire,253,253,253
+130,Bald Hills,Governor,,D,Christine Gregoire,513,513,513
+183,Beach Crest,Governor,,D,Christine Gregoire,226,226,226
+199,Beaver Creek,Governor,,D,Christine Gregoire,201,201,201
+61,Belmore,Governor,,D,Christine Gregoire,410,410,412
+193,Berry Valley,Governor,,D,Christine Gregoire,241,241,241
+107,Bigelow,Governor,,D,Christine Gregoire,217,217,217
+144,Black Lake,Governor,,D,Christine Gregoire,262,262,262
+62,Black River,Governor,,D,Christine Gregoire,209,209,209
+102,Boston Harbor,Governor,,D,Christine Gregoire,336,336,336
+136,Broadway,Governor,,D,Christine Gregoire,522,522,523
+801,Bucoda,Governor,,D,Christine Gregoire,100,100,100
+143,Bush,Governor,,D,Christine Gregoire,59,59,59
+135,Butler Cove,Governor,,D,Christine Gregoire,255,255,255
+173,Camelot,Governor,,D,Christine Gregoire,156,156,156
+122,Chambers,Governor,,D,Christine Gregoire,379,379,379
+129,College,Governor,,D,Christine Gregoire,269,269,269
+134,Cooper Point,Governor,,D,Christine Gregoire,242,242,242
+91,Deerbrush,Governor,,D,Christine Gregoire,304,304,304
+145,Delphi,Governor,,D,Christine Gregoire,225,225,225
+97,Delridge,Governor,,D,Christine Gregoire,163,163,164
+38,Delta,Governor,,D,Christine Gregoire,,,6
+125,Deschutes,Governor,,D,Christine Gregoire,241,241,241
+87,Driftwood,Governor,,D,Christine Gregoire,111,111,111
+192,East Olympia,Governor,,D,Christine Gregoire,170,170,170
+166,Eaton Creek,Governor,,D,Christine Gregoire,129,129,129
+164,Evergreen Shores,Governor,,D,Christine Gregoire,226,226,226
+185,Fair Oaks,Governor,,D,Christine Gregoire,170,170,170
+66,Fish Trap,Governor,,D,Christine Gregoire,198,197,198
+118,Fleetwood,Governor,,D,Christine Gregoire,462,462,462
+115,Forest,Governor,,D,Christine Gregoire,287,287,287
+179,Four Corners,Governor,,D,Christine Gregoire,333,333,333
+123,Freedom,Governor,,D,Christine Gregoire,269,269,269
+174,French,Governor,,D,Christine Gregoire,323,323,323
+104,Friendly Harbor,Governor,,D,Christine Gregoire,164,164,164
+124,Fristoe,Governor,,D,Christine Gregoire,163,163,163
+94,Frye Cove,Governor,,D,Christine Gregoire,312,312,312
+191,Gallagher Cove,Governor,,D,Christine Gregoire,385,385,385
+152,Gate,Governor,,D,Christine Gregoire,158,158,158
+157,Gibson Valley,Governor,,D,Christine Gregoire,44,44,44
+82,Glen Terra,Governor,,D,Christine Gregoire,99,99,100
+181,Glenwood,Governor,,D,Christine Gregoire,58,58,57
+156,Grand Mound,Governor,,D,Christine Gregoire,101,101,101
+86,Greenridge,Governor,,D,Christine Gregoire,202,202,202
+132,Griffin,Governor,,D,Christine Gregoire,241,241,241
+103,Gull Harbor,Governor,,D,Christine Gregoire,208,208,208
+194,Hartwood,Governor,,D,Christine Gregoire,298,298,298
+76,Hawk Acres,Governor,,D,Christine Gregoire,146,146,146
+167,Hawks Ridge,Governor,,D,Christine Gregoire,148,148,148
+120,Hays,Governor,,D,Christine Gregoire,165,165,165
+176,Henderson,Governor,,D,Christine Gregoire,317,317,317
+198,Henness,Governor,,D,Christine Gregoire,302,302,302
+100,Hewitt Lake,Governor,,D,Christine Gregoire,223,223,223
+117,Hicks,Governor,,D,Christine Gregoire,48,48,48
+168,Holmes,Governor,,D,Christine Gregoire,255,255,255
+131,Hunter Point,Governor,,D,Christine Gregoire,171,171,171
+121,Indian Summer,Governor,,D,Christine Gregoire,288,288,288
+177,Israel,Governor,,D,Christine Gregoire,9,9,9
+52,James,Governor,,D,Christine Gregoire,181,181,181
+160,Johnson Point,Governor,,D,Christine Gregoire,272,279,279
+39,Jones Beach,Governor,,D,Christine Gregoire,147,147,147
+113,Kinwood,Governor,,D,Christine Gregoire,347,347,347
+108,Kirsop,Governor,,D,Christine Gregoire,163,163,163
+301,Lacey 1,Governor,,D,Christine Gregoire,100,100,100
+310,Lacey 10,Governor,,D,Christine Gregoire,246,246,246
+311,Lacey 11,Governor,,D,Christine Gregoire,188,188,188
+312,Lacey 12,Governor,,D,Christine Gregoire,26,26,26
+313,Lacey 13,Governor,,D,Christine Gregoire,149,149,149
+314,Lacey 14,Governor,,D,Christine Gregoire,110,110,110
+315,Lacey 15,Governor,,D,Christine Gregoire,208,208,208
+316,Lacey 16,Governor,,D,Christine Gregoire,204,204,204
+317,Lacey 17,Governor,,D,Christine Gregoire,220,220,220
+318,Lacey 18,Governor,,D,Christine Gregoire,280,280,280
+319,Lacey 19,Governor,,D,Christine Gregoire,165,165,165
+302,Lacey 2,Governor,,D,Christine Gregoire,207,207,207
+320,Lacey 20,Governor,,D,Christine Gregoire,116,116,117
+321,Lacey 21,Governor,,D,Christine Gregoire,131,131,131
+322,Lacey 22,Governor,,D,Christine Gregoire,557,557,556
+323,Lacey 23,Governor,,D,Christine Gregoire,117,117,117
+324,Lacey 24,Governor,,D,Christine Gregoire,470,471,471
+325,Lacey 25,Governor,,D,Christine Gregoire,0,0,0
+326,Lacey 26,Governor,,D,Christine Gregoire,32,32,32
+327,Lacey 27,Governor,,D,Christine Gregoire,274,274,274
+328,Lacey 28,Governor,,D,Christine Gregoire,138,138,138
+329,Lacey 29,Governor,,D,Christine Gregoire,265,265,265
+303,Lacey 3,Governor,,D,Christine Gregoire,262,262,262
+330,Lacey 30,Governor,,D,Christine Gregoire,352,352,352
+331,Lacey 31,Governor,,D,Christine Gregoire,401,401,401
+332,Lacey 32,Governor,,D,Christine Gregoire,283,283,283
+333,Lacey 33,Governor,,D,Christine Gregoire,192,192,192
+334,Lacey 34,Governor,,D,Christine Gregoire,118,118,118
+335,Lacey 35,Governor,,D,Christine Gregoire,131,131,131
+336,Lacey 36,Governor,,D,Christine Gregoire,8,8,8
+337,Lacey 37,Governor,,D,Christine Gregoire,88,88,88
+304,Lacey 4,Governor,,D,Christine Gregoire,165,165,165
+305,Lacey 5,Governor,,D,Christine Gregoire,161,161,161
+306,Lacey 6,Governor,,D,Christine Gregoire,137,137,137
+307,Lacey 7,Governor,,D,Christine Gregoire,234,234,234
+308,Lacey 8,Governor,,D,Christine Gregoire,157,157,157
+309,Lacey 9,Governor,,D,Christine Gregoire,151,151,151
+190,Lakeside,Governor,,D,Christine Gregoire,156,156,156
+46,Lawrence Lake N,Governor,,D,Christine Gregoire,199,199,199
+138,Lawrence Lake S,Governor,,D,Christine Gregoire,148,148,148
+195,Libby,Governor,,D,Christine Gregoire,252,252,252
+151,Littlerock,Governor,,D,Christine Gregoire,284,284,284
+75,Long Lake,Governor,,D,Christine Gregoire,57,57,57
+126,Longmire,Governor,,D,Christine Gregoire,143,143,143
+65,Luhr Beach,Governor,,D,Christine Gregoire,249,249,249
+119,Lydia Hawk,Governor,,D,Christine Gregoire,270,270,270
+98,Marvin,Governor,,D,Christine Gregoire,302,302,302
+169,McAllister Creek,Governor,,D,Christine Gregoire,217,217,217
+149,McIntosh,Governor,,D,Christine Gregoire,269,269,269
+114,McKinley,Governor,,D,Christine Gregoire,58,58,58
+141,McLane,Governor,,D,Christine Gregoire,199,199,199
+196,Meadows,Governor,,D,Christine Gregoire,189,189,189
+57,Medicine Creek,Governor,,D,Christine Gregoire,101,101,101
+159,Meridian,Governor,,D,Christine Gregoire,116,109,109
+48,Michigan Hill,Governor,,D,Christine Gregoire,133,133,133
+81,Military,Governor,,D,Christine Gregoire,37,37,37
+110,Montgomery,Governor,,D,Christine Gregoire,163,163,163
+140,Mud Bay,Governor,,D,Christine Gregoire,229,229,229
+187,Mullen,Governor,,D,Christine Gregoire,217,217,217
+182,Munn Lake,Governor,,D,Christine Gregoire,435,435,435
+92,Mushroom Corner,Governor,,D,Christine Gregoire,353,353,353
+111,Nisqually,Governor,,D,Christine Gregoire,176,176,176
+201,Olympia 1,Governor,,D,Christine Gregoire,239,239,313
+210,Olympia 10,Governor,,D,Christine Gregoire,314,314,397
+211,Olympia 11,Governor,,D,Christine Gregoire,397,397,336
+212,Olympia 12,Governor,,D,Christine Gregoire,336,336,398
+213,Olympia 13,Governor,,D,Christine Gregoire,398,398,353
+214,Olympia 14,Governor,,D,Christine Gregoire,353,353,309
+215,Olympia 15,Governor,,D,Christine Gregoire,309,309,327
+216,Olympia 16,Governor,,D,Christine Gregoire,327,327,51
+217,Olympia 17,Governor,,D,Christine Gregoire,51,51,209
+218,Olympia 18,Governor,,D,Christine Gregoire,209,209,392
+219,Olympia 19,Governor,,D,Christine Gregoire,392,392,324
+202,Olympia 2,Governor,,D,Christine Gregoire,324,324,314
+220,Olympia 20,Governor,,D,Christine Gregoire,314,314,247
+221,Olympia 21,Governor,,D,Christine Gregoire,246,247,542
+223,Olympia 23,Governor,,D,Christine Gregoire,541,541,557
+224,Olympia 24,Governor,,D,Christine Gregoire,556,557,274
+225,Olympia 25,Governor,,D,Christine Gregoire,274,274,217
+226,Olympia 26,Governor,,D,Christine Gregoire,217,217,345
+227,Olympia 27,Governor,,D,Christine Gregoire,345,345,116
+228,Olympia 28,Governor,,D,Christine Gregoire,116,116,410
+229,Olympia 29,Governor,,D,Christine Gregoire,410,410,285
+203,Olympia 3,Governor,,D,Christine Gregoire,285,285,287
+230,Olympia 30,Governor,,D,Christine Gregoire,287,287,310
+231,Olympia 31,Governor,,D,Christine Gregoire,310,310,180
+232,Olympia 32,Governor,,D,Christine Gregoire,180,180,356
+234,Olympia 34,Governor,,D,Christine Gregoire,356,356,73
+235,Olympia 35,Governor,,D,Christine Gregoire,73,73,286
+236,Olympia 36,Governor,,D,Christine Gregoire,286,286,185
+237,Olympia 37,Governor,,D,Christine Gregoire,185,185,208
+238,Olympia 38,Governor,,D,Christine Gregoire,206,206,90
+239,Olympia 39,Governor,,D,Christine Gregoire,90,90,263
+204,Olympia 4,Governor,,D,Christine Gregoire,263,263,476
+240,Olympia 40,Governor,,D,Christine Gregoire,476,476,230
+241,Olympia 41,Governor,,D,Christine Gregoire,230,230,391
+242,Olympia 42,Governor,,D,Christine Gregoire,390,390,206
+243,Olympia 43,Governor,,D,Christine Gregoire,206,206,375
+244,Olympia 44,Governor,,D,Christine Gregoire,375,375,223
+245,Olympia 45,Governor,,D,Christine Gregoire,223,223,240
+246,Olympia 46,Governor,,D,Christine Gregoire,240,240,509
+247,Olympia 47,Governor,,D,Christine Gregoire,509,509,327
+248,Olympia 48,Governor,,D,Christine Gregoire,327,327,277
+249,Olympia 49,Governor,,D,Christine Gregoire,277,277,403
+205,Olympia 5,Governor,,D,Christine Gregoire,403,403,239
+250,Olympia 50,Governor,,D,Christine Gregoire,307,307,307
+251,Olympia 51,Governor,,D,Christine Gregoire,258,258,258
+252,Olympia 52,Governor,,D,Christine Gregoire,201,201,201
+253,Olympia 53,Governor,,D,Christine Gregoire,209,209,209
+254,Olympia 54,Governor,,D,Christine Gregoire,244,244,244
+206,Olympia 6,Governor,,D,Christine Gregoire,303,303,303
+207,Olympia 7,Governor,,D,Christine Gregoire,249,249,249
+208,Olympia 8,Governor,,D,Christine Gregoire,283,283,283
+209,Olympia 9,Governor,,D,Christine Gregoire,466,466,466
+95,Oyster Bay,Governor,,D,Christine Gregoire,285,285,285
+178,Pattison,Governor,,D,Christine Gregoire,128,128,128
+74,Pines,Governor,,D,Christine Gregoire,238,238,238
+139,Plainview,Governor,,D,Christine Gregoire,394,394,394
+109,Pleasant Glade,Governor,,D,Christine Gregoire,206,206,207
+59,Pleasant Hill,Governor,,D,Christine Gregoire,211,211,211
+147,Plumb,Governor,,D,Christine Gregoire,314,314,314
+83,Prine,Governor,,D,Christine Gregoire,47,47,47
+106,Puget,Governor,,D,Christine Gregoire,237,237,237
+601,Rainier 1,Governor,,D,Christine Gregoire,135,135,134
+602,Rainier 2,Governor,,D,Christine Gregoire,148,148,149
+153,Rochester 1,Governor,,D,Christine Gregoire,167,167,167
+154,Rochester 2,Governor,,D,Christine Gregoire,125,125,125
+170,Rochester 3,Governor,,D,Christine Gregoire,167,167,167
+55,Rochester 4,Governor,,D,Christine Gregoire,180,180,180
+54,Rochester 5,Governor,,D,Christine Gregoire,206,206,206
+45,Rocky Prairie,Governor,,D,Christine Gregoire,130,130,129
+112,Roosevelt,Governor,,D,Christine Gregoire,289,289,289
+127,Ruth Prairie,Governor,,D,Christine Gregoire,216,215,216
+146,S Union,Governor,,D,Christine Gregoire,341,341,341
+50,Salmon Creek,Governor,,D,Christine Gregoire,137,137,138
+148,Scatter Creek,Governor,,D,Christine Gregoire,120,120,120
+184,Scheller,Governor,,D,Christine Gregoire,128,128,128
+133,Schneiders Prairie,Governor,,D,Christine Gregoire,200,200,200
+155,Scott Lake N,Governor,,D,Christine Gregoire,117,117,117
+49,Scott Lake S,Governor,,D,Christine Gregoire,184,184,184
+142,Simmons 1,Governor,,D,Christine Gregoire,29,29,29
+68,Simmons 2,Governor,,D,Christine Gregoire,,,0
+69,Simmons 3,Governor,,D,Christine Gregoire,13,13,13
+70,Simmons 4,Governor,,D,Christine Gregoire,18,18,18
+42,Simmons 9,Governor,,D,Christine Gregoire,2,2,3
+58,Skokomish,Governor,,D,Christine Gregoire,150,150,150
+158,Skookumchuck,Governor,,D,Christine Gregoire,229,229,229
+189,Sleater Kinney,Governor,,D,Christine Gregoire,249,249,249
+163,Smith Lake,Governor,,D,Christine Gregoire,230,230,230
+60,Smith Prairie,Governor,,D,Christine Gregoire,169,169,170
+105,South Bay,Governor,,D,Christine Gregoire,302,302,302
+51,Spurgeon Creek,Governor,,D,Christine Gregoire,238,238,237
+116,St Clair,Governor,,D,Christine Gregoire,232,232,232
+44,Steamboat Island,Governor,,D,Christine Gregoire,213,213,213
+180,Stedman,Governor,,D,Christine Gregoire,201,201,202
+137,Sulenes 1,Governor,,D,Christine Gregoire,,,0
+73,Sulenes 2,Governor,,D,Christine Gregoire,6,6,0
+197,Summerset,Governor,,D,Christine Gregoire,277,277,277
+96,Summit Lake,Governor,,D,Christine Gregoire,196,196,196
+175,Sunset Beach,Governor,,D,Christine Gregoire,369,369,369
+165,Sunwood Lakes,Governor,,D,Christine Gregoire,241,241,241
+90,Sweet Briar,Governor,,D,Christine Gregoire,322,322,322
+501,Tenino 1,Governor,,D,Christine Gregoire,166,166,166
+502,Tenino 2,Governor,,D,Christine Gregoire,157,157,157
+162,Thompson,Governor,,D,Christine Gregoire,229,229,229
+89,Tilley,Governor,,D,Christine Gregoire,276,277,276
+80,Tolmie,Governor,,D,Christine Gregoire,123,123,123
+93,Traiblazer,Governor,,D,Christine Gregoire,214,214,214
+78,Tri Lakes,Governor,,D,Christine Gregoire,185,185,185
+84,Trosper Lake,Governor,,D,Christine Gregoire,28,28,28
+401,Tumwater 1,Governor,,D,Christine Gregoire,326,326,327
+410,Tumwater 10,Governor,,D,Christine Gregoire,249,249,249
+411,Tumwater 11,Governor,,D,Christine Gregoire,201,201,201
+412,Tumwater 12,Governor,,D,Christine Gregoire,284,284,284
+413,Tumwater 13,Governor,,D,Christine Gregoire,147,147,147
+414,Tumwater 14,Governor,,D,Christine Gregoire,154,154,154
+415,Tumwater 15,Governor,,D,Christine Gregoire,281,281,281
+417,Tumwater 17,Governor,,D,Christine Gregoire,12,12,12
+402,Tumwater 2,Governor,,D,Christine Gregoire,301,301,301
+421,Tumwater 21,Governor,,D,Christine Gregoire,72,72,72
+423,Tumwater 23,Governor,,D,Christine Gregoire,2,2,0
+403,Tumwater 3,Governor,,D,Christine Gregoire,196,196,196
+404,Tumwater 4,Governor,,D,Christine Gregoire,176,176,177
+405,Tumwater 5,Governor,,D,Christine Gregoire,201,201,201
+406,Tumwater 6,Governor,,D,Christine Gregoire,251,251,251
+407,Tumwater 7,Governor,,D,Christine Gregoire,201,201,201
+408,Tumwater 8,Governor,,D,Christine Gregoire,331,331,331
+409,Tumwater 9,Governor,,D,Christine Gregoire,185,185,185
+172,Tykle Cove,Governor,,D,Christine Gregoire,280,280,280
+43,University N,Governor,,D,Christine Gregoire,116,116,116
+79,University S,Governor,,D,Christine Gregoire,173,173,173
+53,Vail,Governor,,D,Christine Gregoire,189,189,189
+150,Violet Prairie,Governor,,D,Christine Gregoire,224,224,224
+999,Vote by mail,Governor,,D,Christine Gregoire,24,24,25
+171,Waddell Creek,Governor,,D,Christine Gregoire,199,199,199
+161,Wards,Governor,,D,Christine Gregoire,134,135,135
+128,Weir Prairie,Governor,,D,Christine Gregoire,293,293,294
+186,Wilderness,Governor,,D,Christine Gregoire,319,319,319
+85,Wildflower,Governor,,D,Christine Gregoire,15,15,15
+47,Woodard Creek,Governor,,D,Christine Gregoire,177,177,177
+88,Woodland,Governor,,D,Christine Gregoire,205,205,206
+701,Yelm 1,Governor,,D,Christine Gregoire,342,342,342
+702,Yelm 2,Governor,,D,Christine Gregoire,294,294,294
+101,Zangle,Governor,,D,Christine Gregoire,251,251,251
+77,Zenker Valley,Governor,,D,Christine Gregoire,11,11,11
+THURSTON WA,THURSTON WA,Governor,,D,Christine Gregoire,58953,58956,58970
+#,Precinct,office,district,party,candidate,votes,machine,hand
+64,Airport,Governor,,R,Dino Rossi,13,13,13
+56,Alderglen,Governor,,R,Dino Rossi,129,129,129
+99,Alpine,Governor,,R,Dino Rossi,370,370,370
+63,Ames,Governor,,R,Dino Rossi,154,154,154
+130,Bald Hills,Governor,,R,Dino Rossi,494,494,494
+183,Beach Crest,Governor,,R,Dino Rossi,185,185,185
+199,Beaver Creek,Governor,,R,Dino Rossi,310,310,310
+61,Belmore,Governor,,R,Dino Rossi,456,457,457
+193,Berry Valley,Governor,,R,Dino Rossi,205,205,205
+107,Bigelow,Governor,,R,Dino Rossi,231,231,232
+144,Black Lake,Governor,,R,Dino Rossi,281,281,281
+62,Black River,Governor,,R,Dino Rossi,259,259,259
+102,Boston Harbor,Governor,,R,Dino Rossi,143,143,143
+136,Broadway,Governor,,R,Dino Rossi,354,354,354
+801,Bucoda,Governor,,R,Dino Rossi,113,113,113
+143,Bush,Governor,,R,Dino Rossi,60,60,60
+135,Butler Cove,Governor,,R,Dino Rossi,190,190,190
+173,Camelot,Governor,,R,Dino Rossi,116,116,116
+122,Chambers,Governor,,R,Dino Rossi,502,502,502
+129,College,Governor,,R,Dino Rossi,30,30,30
+134,Cooper Point,Governor,,R,Dino Rossi,213,213,213
+91,Deerbrush,Governor,,R,Dino Rossi,327,327,327
+145,Delphi,Governor,,R,Dino Rossi,225,225,225
+97,Delridge,Governor,,R,Dino Rossi,146,146,146
+38,Delta,Governor,,R,Dino Rossi,,,2
+125,Deschutes,Governor,,R,Dino Rossi,261,261,261
+87,Driftwood,Governor,,R,Dino Rossi,10,10,10
+192,East Olympia,Governor,,R,Dino Rossi,179,179,179
+166,Eaton Creek,Governor,,R,Dino Rossi,165,165,165
+164,Evergreen Shores,Governor,,R,Dino Rossi,189,189,189
+185,Fair Oaks,Governor,,R,Dino Rossi,171,171,171
+66,Fish Trap,Governor,,R,Dino Rossi,149,149,149
+118,Fleetwood,Governor,,R,Dino Rossi,487,487,487
+115,Forest,Governor,,R,Dino Rossi,277,277,277
+179,Four Corners,Governor,,R,Dino Rossi,451,451,451
+123,Freedom,Governor,,R,Dino Rossi,323,323,323
+174,French,Governor,,R,Dino Rossi,175,175,175
+104,Friendly Harbor,Governor,,R,Dino Rossi,127,127,127
+124,Fristoe,Governor,,R,Dino Rossi,220,220,220
+94,Frye Cove,Governor,,R,Dino Rossi,204,204,204
+191,Gallagher Cove,Governor,,R,Dino Rossi,342,342,342
+152,Gate,Governor,,R,Dino Rossi,253,253,254
+157,Gibson Valley,Governor,,R,Dino Rossi,74,74,73
+82,Glen Terra,Governor,,R,Dino Rossi,65,65,65
+181,Glenwood,Governor,,R,Dino Rossi,48,48,47
+156,Grand Mound,Governor,,R,Dino Rossi,164,164,163
+86,Greenridge,Governor,,R,Dino Rossi,137,137,137
+132,Griffin,Governor,,R,Dino Rossi,161,161,161
+103,Gull Harbor,Governor,,R,Dino Rossi,143,143,143
+194,Hartwood,Governor,,R,Dino Rossi,374,374,374
+76,Hawk Acres,Governor,,R,Dino Rossi,161,161,160
+167,Hawks Ridge,Governor,,R,Dino Rossi,118,118,118
+120,Hays,Governor,,R,Dino Rossi,138,138,138
+176,Henderson,Governor,,R,Dino Rossi,262,262,263
+198,Henness,Governor,,R,Dino Rossi,397,397,397
+100,Hewitt Lake,Governor,,R,Dino Rossi,163,163,163
+117,Hicks,Governor,,R,Dino Rossi,31,31,31
+168,Holmes,Governor,,R,Dino Rossi,236,236,235
+131,Hunter Point,Governor,,R,Dino Rossi,113,113,113
+121,Indian Summer,Governor,,R,Dino Rossi,370,370,370
+177,Israel,Governor,,R,Dino Rossi,4,4,4
+52,James,Governor,,R,Dino Rossi,296,296,296
+160,Johnson Point,Governor,,R,Dino Rossi,275,278,278
+39,Jones Beach,Governor,,R,Dino Rossi,135,135,135
+113,Kinwood,Governor,,R,Dino Rossi,323,323,325
+108,Kirsop,Governor,,R,Dino Rossi,151,151,151
+301,Lacey 1,Governor,,R,Dino Rossi,100,100,100
+310,Lacey 10,Governor,,R,Dino Rossi,207,207,207
+311,Lacey 11,Governor,,R,Dino Rossi,143,143,144
+312,Lacey 12,Governor,,R,Dino Rossi,33,33,33
+313,Lacey 13,Governor,,R,Dino Rossi,124,124,124
+314,Lacey 14,Governor,,R,Dino Rossi,96,96,96
+315,Lacey 15,Governor,,R,Dino Rossi,188,188,188
+316,Lacey 16,Governor,,R,Dino Rossi,139,139,140
+317,Lacey 17,Governor,,R,Dino Rossi,208,208,208
+318,Lacey 18,Governor,,R,Dino Rossi,293,293,293
+319,Lacey 19,Governor,,R,Dino Rossi,126,126,126
+302,Lacey 2,Governor,,R,Dino Rossi,184,184,185
+320,Lacey 20,Governor,,R,Dino Rossi,117,117,117
+321,Lacey 21,Governor,,R,Dino Rossi,126,126,126
+322,Lacey 22,Governor,,R,Dino Rossi,463,463,463
+323,Lacey 23,Governor,,R,Dino Rossi,140,140,140
+324,Lacey 24,Governor,,R,Dino Rossi,585,584,584
+325,Lacey 25,Governor,,R,Dino Rossi,0,0,0
+326,Lacey 26,Governor,,R,Dino Rossi,44,44,44
+327,Lacey 27,Governor,,R,Dino Rossi,246,246,246
+328,Lacey 28,Governor,,R,Dino Rossi,159,159,159
+329,Lacey 29,Governor,,R,Dino Rossi,236,236,236
+303,Lacey 3,Governor,,R,Dino Rossi,241,241,241
+330,Lacey 30,Governor,,R,Dino Rossi,359,359,360
+331,Lacey 31,Governor,,R,Dino Rossi,435,435,436
+332,Lacey 32,Governor,,R,Dino Rossi,341,341,343
+333,Lacey 33,Governor,,R,Dino Rossi,135,135,135
+334,Lacey 34,Governor,,R,Dino Rossi,114,114,114
+335,Lacey 35,Governor,,R,Dino Rossi,128,128,128
+336,Lacey 36,Governor,,R,Dino Rossi,8,8,8
+337,Lacey 37,Governor,,R,Dino Rossi,61,61,61
+304,Lacey 4,Governor,,R,Dino Rossi,134,133,134
+305,Lacey 5,Governor,,R,Dino Rossi,156,156,156
+306,Lacey 6,Governor,,R,Dino Rossi,85,85,86
+307,Lacey 7,Governor,,R,Dino Rossi,208,208,208
+308,Lacey 8,Governor,,R,Dino Rossi,134,134,134
+309,Lacey 9,Governor,,R,Dino Rossi,101,101,101
+190,Lakeside,Governor,,R,Dino Rossi,125,125,125
+46,Lawrence Lake N,Governor,,R,Dino Rossi,216,216,216
+138,Lawrence Lake S,Governor,,R,Dino Rossi,149,149,149
+195,Libby,Governor,,R,Dino Rossi,182,182,182
+151,Littlerock,Governor,,R,Dino Rossi,354,354,355
+75,Long Lake,Governor,,R,Dino Rossi,67,67,67
+126,Longmire,Governor,,R,Dino Rossi,221,221,221
+65,Luhr Beach,Governor,,R,Dino Rossi,253,253,253
+119,Lydia Hawk,Governor,,R,Dino Rossi,287,287,287
+98,Marvin,Governor,,R,Dino Rossi,315,315,316
+169,McAllister Creek,Governor,,R,Dino Rossi,246,246,246
+149,McIntosh,Governor,,R,Dino Rossi,265,265,265
+114,McKinley,Governor,,R,Dino Rossi,59,59,59
+141,McLane,Governor,,R,Dino Rossi,159,159,161
+196,Meadows,Governor,,R,Dino Rossi,216,216,216
+57,Medicine Creek,Governor,,R,Dino Rossi,126,126,126
+159,Meridian,Governor,,R,Dino Rossi,124,121,121
+48,Michigan Hill,Governor,,R,Dino Rossi,153,153,153
+81,Military,Governor,,R,Dino Rossi,47,47,47
+110,Montgomery,Governor,,R,Dino Rossi,135,135,135
+140,Mud Bay,Governor,,R,Dino Rossi,189,189,188
+187,Mullen,Governor,,R,Dino Rossi,212,212,212
+182,Munn Lake,Governor,,R,Dino Rossi,387,387,387
+92,Mushroom Corner,Governor,,R,Dino Rossi,425,425,425
+111,Nisqually,Governor,,R,Dino Rossi,169,169,169
+201,Olympia 1,Governor,,R,Dino Rossi,76,76,113
+210,Olympia 10,Governor,,R,Dino Rossi,113,113,82
+211,Olympia 11,Governor,,R,Dino Rossi,82,82,94
+212,Olympia 12,Governor,,R,Dino Rossi,94,94,287
+213,Olympia 13,Governor,,R,Dino Rossi,287,287,92
+214,Olympia 14,Governor,,R,Dino Rossi,92,92,147
+215,Olympia 15,Governor,,R,Dino Rossi,147,147,65
+216,Olympia 16,Governor,,R,Dino Rossi,65,65,25
+217,Olympia 17,Governor,,R,Dino Rossi,25,25,150
+218,Olympia 18,Governor,,R,Dino Rossi,150,150,94
+219,Olympia 19,Governor,,R,Dino Rossi,94,94,198
+202,Olympia 2,Governor,,R,Dino Rossi,198,198,190
+220,Olympia 20,Governor,,R,Dino Rossi,190,190,56
+221,Olympia 21,Governor,,R,Dino Rossi,56,56,220
+223,Olympia 23,Governor,,R,Dino Rossi,220,220,214
+224,Olympia 24,Governor,,R,Dino Rossi,214,214,121
+225,Olympia 25,Governor,,R,Dino Rossi,121,121,126
+226,Olympia 26,Governor,,R,Dino Rossi,126,126,79
+227,Olympia 27,Governor,,R,Dino Rossi,79,79,79
+228,Olympia 28,Governor,,R,Dino Rossi,79,79,127
+229,Olympia 29,Governor,,R,Dino Rossi,127,127,244
+203,Olympia 3,Governor,,R,Dino Rossi,244,244,136
+230,Olympia 30,Governor,,R,Dino Rossi,136,136,98
+231,Olympia 31,Governor,,R,Dino Rossi,98,98,170
+232,Olympia 32,Governor,,R,Dino Rossi,171,171,333
+234,Olympia 34,Governor,,R,Dino Rossi,333,333,53
+235,Olympia 35,Governor,,R,Dino Rossi,53,53,216
+236,Olympia 36,Governor,,R,Dino Rossi,216,216,79
+237,Olympia 37,Governor,,R,Dino Rossi,79,79,167
+238,Olympia 38,Governor,,R,Dino Rossi,167,167,45
+239,Olympia 39,Governor,,R,Dino Rossi,45,45,178
+204,Olympia 4,Governor,,R,Dino Rossi,178,178,163
+240,Olympia 40,Governor,,R,Dino Rossi,163,163,149
+241,Olympia 41,Governor,,R,Dino Rossi,149,149,99
+242,Olympia 42,Governor,,R,Dino Rossi,99,99,84
+243,Olympia 43,Governor,,R,Dino Rossi,84,84,137
+244,Olympia 44,Governor,,R,Dino Rossi,137,137,37
+245,Olympia 45,Governor,,R,Dino Rossi,37,37,132
+246,Olympia 46,Governor,,R,Dino Rossi,132,132,309
+247,Olympia 47,Governor,,R,Dino Rossi,309,309,158
+248,Olympia 48,Governor,,R,Dino Rossi,158,158,206
+249,Olympia 49,Governor,,R,Dino Rossi,206,206,110
+205,Olympia 5,Governor,,R,Dino Rossi,110,110,76
+250,Olympia 50,Governor,,R,Dino Rossi,95,95,95
+251,Olympia 51,Governor,,R,Dino Rossi,192,192,192
+252,Olympia 52,Governor,,R,Dino Rossi,83,83,83
+253,Olympia 53,Governor,,R,Dino Rossi,172,172,172
+254,Olympia 54,Governor,,R,Dino Rossi,62,62,62
+206,Olympia 6,Governor,,R,Dino Rossi,200,200,200
+207,Olympia 7,Governor,,R,Dino Rossi,106,106,106
+208,Olympia 8,Governor,,R,Dino Rossi,207,207,207
+209,Olympia 9,Governor,,R,Dino Rossi,318,318,318
+95,Oyster Bay,Governor,,R,Dino Rossi,230,230,230
+178,Pattison,Governor,,R,Dino Rossi,151,151,151
+74,Pines,Governor,,R,Dino Rossi,223,223,223
+139,Plainview,Governor,,R,Dino Rossi,248,248,248
+109,Pleasant Glade,Governor,,R,Dino Rossi,126,126,126
+59,Pleasant Hill,Governor,,R,Dino Rossi,268,268,268
+147,Plumb,Governor,,R,Dino Rossi,290,290,290
+83,Prine,Governor,,R,Dino Rossi,67,67,67
+106,Puget,Governor,,R,Dino Rossi,283,283,283
+601,Rainier 1,Governor,,R,Dino Rossi,157,157,158
+602,Rainier 2,Governor,,R,Dino Rossi,151,151,150
+153,Rochester 1,Governor,,R,Dino Rossi,241,241,241
+154,Rochester 2,Governor,,R,Dino Rossi,203,203,204
+170,Rochester 3,Governor,,R,Dino Rossi,267,267,267
+55,Rochester 4,Governor,,R,Dino Rossi,248,248,248
+54,Rochester 5,Governor,,R,Dino Rossi,307,308,308
+45,Rocky Prairie,Governor,,R,Dino Rossi,209,209,209
+112,Roosevelt,Governor,,R,Dino Rossi,244,244,243
+127,Ruth Prairie,Governor,,R,Dino Rossi,232,232,241
+146,S Union,Governor,,R,Dino Rossi,389,389,389
+50,Salmon Creek,Governor,,R,Dino Rossi,148,148,148
+148,Scatter Creek,Governor,,R,Dino Rossi,156,156,156
+184,Scheller,Governor,,R,Dino Rossi,130,130,130
+133,Schneiders Prairie,Governor,,R,Dino Rossi,181,181,181
+155,Scott Lake N,Governor,,R,Dino Rossi,123,124,124
+49,Scott Lake S,Governor,,R,Dino Rossi,204,204,204
+142,Simmons 1,Governor,,R,Dino Rossi,27,27,27
+68,Simmons 2,Governor,,R,Dino Rossi,,,0
+69,Simmons 3,Governor,,R,Dino Rossi,9,9,9
+70,Simmons 4,Governor,,R,Dino Rossi,20,20,20
+42,Simmons 9,Governor,,R,Dino Rossi,4,4,4
+58,Skokomish,Governor,,R,Dino Rossi,140,140,140
+158,Skookumchuck,Governor,,R,Dino Rossi,277,277,277
+189,Sleater Kinney,Governor,,R,Dino Rossi,167,167,167
+163,Smith Lake,Governor,,R,Dino Rossi,224,224,224
+60,Smith Prairie,Governor,,R,Dino Rossi,219,219,219
+105,South Bay,Governor,,R,Dino Rossi,288,288,288
+51,Spurgeon Creek,Governor,,R,Dino Rossi,325,325,325
+116,St Clair,Governor,,R,Dino Rossi,273,273,273
+44,Steamboat Island,Governor,,R,Dino Rossi,123,123,123
+180,Stedman,Governor,,R,Dino Rossi,203,203,203
+137,Sulenes 1,Governor,,R,Dino Rossi,,,0
+73,Sulenes 2,Governor,,R,Dino Rossi,6,6,0
+197,Summerset,Governor,,R,Dino Rossi,327,327,327
+96,Summit Lake,Governor,,R,Dino Rossi,222,222,222
+175,Sunset Beach,Governor,,R,Dino Rossi,192,192,192
+165,Sunwood Lakes,Governor,,R,Dino Rossi,250,250,250
+90,Sweet Briar,Governor,,R,Dino Rossi,269,269,269
+501,Tenino 1,Governor,,R,Dino Rossi,135,135,135
+502,Tenino 2,Governor,,R,Dino Rossi,156,156,156
+162,Thompson,Governor,,R,Dino Rossi,167,167,168
+89,Tilley,Governor,,R,Dino Rossi,369,369,369
+80,Tolmie,Governor,,R,Dino Rossi,131,131,131
+93,Traiblazer,Governor,,R,Dino Rossi,161,161,161
+78,Tri Lakes,Governor,,R,Dino Rossi,235,235,235
+84,Trosper Lake,Governor,,R,Dino Rossi,32,32,32
+401,Tumwater 1,Governor,,R,Dino Rossi,267,267,268
+410,Tumwater 10,Governor,,R,Dino Rossi,211,211,212
+411,Tumwater 11,Governor,,R,Dino Rossi,174,174,173
+412,Tumwater 12,Governor,,R,Dino Rossi,178,178,178
+413,Tumwater 13,Governor,,R,Dino Rossi,98,98,98
+414,Tumwater 14,Governor,,R,Dino Rossi,99,99,99
+415,Tumwater 15,Governor,,R,Dino Rossi,191,191,191
+417,Tumwater 17,Governor,,R,Dino Rossi,5,5,5
+402,Tumwater 2,Governor,,R,Dino Rossi,155,155,155
+421,Tumwater 21,Governor,,R,Dino Rossi,68,68,68
+423,Tumwater 23,Governor,,R,Dino Rossi,10,10,0
+403,Tumwater 3,Governor,,R,Dino Rossi,128,128,128
+404,Tumwater 4,Governor,,R,Dino Rossi,120,120,120
+405,Tumwater 5,Governor,,R,Dino Rossi,164,164,164
+406,Tumwater 6,Governor,,R,Dino Rossi,234,234,235
+407,Tumwater 7,Governor,,R,Dino Rossi,197,197,197
+408,Tumwater 8,Governor,,R,Dino Rossi,202,202,202
+409,Tumwater 9,Governor,,R,Dino Rossi,158,158,158
+172,Tykle Cove,Governor,,R,Dino Rossi,218,219,219
+43,University N,Governor,,R,Dino Rossi,139,139,139
+79,University S,Governor,,R,Dino Rossi,146,146,146
+53,Vail,Governor,,R,Dino Rossi,283,283,283
+150,Violet Prairie,Governor,,R,Dino Rossi,322,323,323
+999,Vote by mail,Governor,,R,Dino Rossi,13,13,28
+171,Waddell Creek,Governor,,R,Dino Rossi,230,230,230
+161,Wards,Governor,,R,Dino Rossi,114,114,114
+128,Weir Prairie,Governor,,R,Dino Rossi,301,301,301
+186,Wilderness,Governor,,R,Dino Rossi,266,267,267
+85,Wildflower,Governor,,R,Dino Rossi,8,8,8
+47,Woodard Creek,Governor,,R,Dino Rossi,174,174,174
+88,Woodland,Governor,,R,Dino Rossi,180,180,180
+701,Yelm 1,Governor,,R,Dino Rossi,453,453,453
+702,Yelm 2,Governor,,R,Dino Rossi,343,343,343
+101,Zangle,Governor,,R,Dino Rossi,186,186,186
+77,Zenker Valley,Governor,,R,Dino Rossi,67,67,67
+THURSTON WA,THURSTON WA,Governor,,R,Dino Rossi,49409,49413,49437
+64,Airport,Governor,,L,Ruth Bennett,1,1,1
+56,Alderglen,Governor,,L,Ruth Bennett,8,8,8
+99,Alpine,Governor,,L,Ruth Bennett,17,17,17
+63,Ames,Governor,,L,Ruth Bennett,10,10,10
+130,Bald Hills,Governor,,L,Ruth Bennett,44,44,44
+183,Beach Crest,Governor,,L,Ruth Bennett,10,10,10
+199,Beaver Creek,Governor,,L,Ruth Bennett,15,15,15
+61,Belmore,Governor,,L,Ruth Bennett,17,17,17
+193,Berry Valley,Governor,,L,Ruth Bennett,20,20,20
+107,Bigelow,Governor,,L,Ruth Bennett,5,5,5
+144,Black Lake,Governor,,L,Ruth Bennett,10,10,10
+62,Black River,Governor,,L,Ruth Bennett,10,10,10
+102,Boston Harbor,Governor,,L,Ruth Bennett,7,7,7
+136,Broadway,Governor,,L,Ruth Bennett,26,26,26
+801,Bucoda,Governor,,L,Ruth Bennett,10,10,10
+143,Bush,Governor,,L,Ruth Bennett,1,1,1
+135,Butler Cove,Governor,,L,Ruth Bennett,10,10,10
+173,Camelot,Governor,,L,Ruth Bennett,4,4,4
+122,Chambers,Governor,,L,Ruth Bennett,22,22,22
+129,College,Governor,,L,Ruth Bennett,23,23,23
+134,Cooper Point,Governor,,L,Ruth Bennett,4,4,4
+91,Deerbrush,Governor,,L,Ruth Bennett,11,11,11
+145,Delphi,Governor,,L,Ruth Bennett,7,7,7
+97,Delridge,Governor,,L,Ruth Bennett,7,7,7
+38,Delta,Governor,,L,Ruth Bennett,,,0
+125,Deschutes,Governor,,L,Ruth Bennett,23,23,23
+87,Driftwood,Governor,,L,Ruth Bennett,20,20,20
+192,East Olympia,Governor,,L,Ruth Bennett,2,2,2
+166,Eaton Creek,Governor,,L,Ruth Bennett,4,4,4
+164,Evergreen Shores,Governor,,L,Ruth Bennett,18,18,18
+185,Fair Oaks,Governor,,L,Ruth Bennett,7,7,7
+66,Fish Trap,Governor,,L,Ruth Bennett,5,5,5
+118,Fleetwood,Governor,,L,Ruth Bennett,19,19,19
+115,Forest,Governor,,L,Ruth Bennett,6,6,6
+179,Four Corners,Governor,,L,Ruth Bennett,22,22,22
+123,Freedom,Governor,,L,Ruth Bennett,9,9,9
+174,French,Governor,,L,Ruth Bennett,11,11,11
+104,Friendly Harbor,Governor,,L,Ruth Bennett,4,4,4
+124,Fristoe,Governor,,L,Ruth Bennett,13,13,13
+94,Frye Cove,Governor,,L,Ruth Bennett,11,11,11
+191,Gallagher Cove,Governor,,L,Ruth Bennett,10,10,10
+152,Gate,Governor,,L,Ruth Bennett,13,13,13
+157,Gibson Valley,Governor,,L,Ruth Bennett,3,3,3
+82,Glen Terra,Governor,,L,Ruth Bennett,8,8,8
+181,Glenwood,Governor,,L,Ruth Bennett,2,2,2
+156,Grand Mound,Governor,,L,Ruth Bennett,9,9,9
+86,Greenridge,Governor,,L,Ruth Bennett,12,12,12
+132,Griffin,Governor,,L,Ruth Bennett,12,12,12
+103,Gull Harbor,Governor,,L,Ruth Bennett,9,9,9
+194,Hartwood,Governor,,L,Ruth Bennett,11,11,11
+76,Hawk Acres,Governor,,L,Ruth Bennett,3,3,3
+167,Hawks Ridge,Governor,,L,Ruth Bennett,17,17,17
+120,Hays,Governor,,L,Ruth Bennett,2,2,2
+176,Henderson,Governor,,L,Ruth Bennett,6,6,6
+198,Henness,Governor,,L,Ruth Bennett,23,23,23
+100,Hewitt Lake,Governor,,L,Ruth Bennett,6,6,6
+117,Hicks,Governor,,L,Ruth Bennett,1,1,1
+168,Holmes,Governor,,L,Ruth Bennett,9,9,9
+131,Hunter Point,Governor,,L,Ruth Bennett,9,9,9
+121,Indian Summer,Governor,,L,Ruth Bennett,4,4,4
+177,Israel,Governor,,L,Ruth Bennett,0,0,0
+52,James,Governor,,L,Ruth Bennett,12,12,12
+160,Johnson Point,Governor,,L,Ruth Bennett,4,4,4
+39,Jones Beach,Governor,,L,Ruth Bennett,1,1,1
+113,Kinwood,Governor,,L,Ruth Bennett,13,13,13
+108,Kirsop,Governor,,L,Ruth Bennett,6,6,6
+301,Lacey 1,Governor,,L,Ruth Bennett,5,5,5
+310,Lacey 10,Governor,,L,Ruth Bennett,1,1,1
+311,Lacey 11,Governor,,L,Ruth Bennett,5,5,5
+312,Lacey 12,Governor,,L,Ruth Bennett,1,1,1
+313,Lacey 13,Governor,,L,Ruth Bennett,3,3,3
+314,Lacey 14,Governor,,L,Ruth Bennett,4,4,4
+315,Lacey 15,Governor,,L,Ruth Bennett,6,6,6
+316,Lacey 16,Governor,,L,Ruth Bennett,4,4,4
+317,Lacey 17,Governor,,L,Ruth Bennett,6,6,6
+318,Lacey 18,Governor,,L,Ruth Bennett,3,3,3
+319,Lacey 19,Governor,,L,Ruth Bennett,8,8,8
+302,Lacey 2,Governor,,L,Ruth Bennett,12,12,12
+320,Lacey 20,Governor,,L,Ruth Bennett,5,5,5
+321,Lacey 21,Governor,,L,Ruth Bennett,6,6,6
+322,Lacey 22,Governor,,L,Ruth Bennett,23,23,23
+323,Lacey 23,Governor,,L,Ruth Bennett,5,5,5
+324,Lacey 24,Governor,,L,Ruth Bennett,21,23,23
+325,Lacey 25,Governor,,L,Ruth Bennett,0,0,0
+326,Lacey 26,Governor,,L,Ruth Bennett,1,1,1
+327,Lacey 27,Governor,,L,Ruth Bennett,16,16,16
+328,Lacey 28,Governor,,L,Ruth Bennett,4,4,4
+329,Lacey 29,Governor,,L,Ruth Bennett,15,15,15
+303,Lacey 3,Governor,,L,Ruth Bennett,10,10,10
+330,Lacey 30,Governor,,L,Ruth Bennett,18,18,18
+331,Lacey 31,Governor,,L,Ruth Bennett,9,9,9
+332,Lacey 32,Governor,,L,Ruth Bennett,9,9,9
+333,Lacey 33,Governor,,L,Ruth Bennett,3,3,3
+334,Lacey 34,Governor,,L,Ruth Bennett,6,6,6
+335,Lacey 35,Governor,,L,Ruth Bennett,8,8,8
+336,Lacey 36,Governor,,L,Ruth Bennett,0,0,0
+337,Lacey 37,Governor,,L,Ruth Bennett,3,3,3
+304,Lacey 4,Governor,,L,Ruth Bennett,12,12,12
+305,Lacey 5,Governor,,L,Ruth Bennett,4,4,4
+306,Lacey 6,Governor,,L,Ruth Bennett,8,8,8
+307,Lacey 7,Governor,,L,Ruth Bennett,8,8,8
+308,Lacey 8,Governor,,L,Ruth Bennett,14,14,14
+309,Lacey 9,Governor,,L,Ruth Bennett,1,1,1
+190,Lakeside,Governor,,L,Ruth Bennett,2,2,2
+46,Lawrence Lake N,Governor,,L,Ruth Bennett,10,10,10
+138,Lawrence Lake S,Governor,,L,Ruth Bennett,17,17,17
+195,Libby,Governor,,L,Ruth Bennett,8,8,8
+151,Littlerock,Governor,,L,Ruth Bennett,18,18,18
+75,Long Lake,Governor,,L,Ruth Bennett,1,1,1
+126,Longmire,Governor,,L,Ruth Bennett,11,11,11
+65,Luhr Beach,Governor,,L,Ruth Bennett,5,5,5
+119,Lydia Hawk,Governor,,L,Ruth Bennett,13,13,13
+98,Marvin,Governor,,L,Ruth Bennett,7,7,7
+169,McAllister Creek,Governor,,L,Ruth Bennett,8,8,8
+149,McIntosh,Governor,,L,Ruth Bennett,13,13,13
+114,McKinley,Governor,,L,Ruth Bennett,3,3,3
+141,McLane,Governor,,L,Ruth Bennett,5,5,5
+196,Meadows,Governor,,L,Ruth Bennett,10,10,10
+57,Medicine Creek,Governor,,L,Ruth Bennett,6,6,6
+159,Meridian,Governor,,L,Ruth Bennett,4,4,4
+48,Michigan Hill,Governor,,L,Ruth Bennett,5,5,5
+81,Military,Governor,,L,Ruth Bennett,0,0,0
+110,Montgomery,Governor,,L,Ruth Bennett,7,7,7
+140,Mud Bay,Governor,,L,Ruth Bennett,14,14,14
+187,Mullen,Governor,,L,Ruth Bennett,11,11,11
+182,Munn Lake,Governor,,L,Ruth Bennett,15,15,15
+92,Mushroom Corner,Governor,,L,Ruth Bennett,22,22,22
+111,Nisqually,Governor,,L,Ruth Bennett,7,7,7
+201,Olympia 1,Governor,,L,Ruth Bennett,19,19,12
+210,Olympia 10,Governor,,L,Ruth Bennett,12,12,8
+211,Olympia 11,Governor,,L,Ruth Bennett,8,8,7
+212,Olympia 12,Governor,,L,Ruth Bennett,7,7,15
+213,Olympia 13,Governor,,L,Ruth Bennett,15,15,14
+214,Olympia 14,Governor,,L,Ruth Bennett,14,14,12
+215,Olympia 15,Governor,,L,Ruth Bennett,12,12,6
+216,Olympia 16,Governor,,L,Ruth Bennett,6,6,2
+217,Olympia 17,Governor,,L,Ruth Bennett,2,2,4
+218,Olympia 18,Governor,,L,Ruth Bennett,4,4,18
+219,Olympia 19,Governor,,L,Ruth Bennett,18,18,24
+202,Olympia 2,Governor,,L,Ruth Bennett,24,24,21
+220,Olympia 20,Governor,,L,Ruth Bennett,21,21,12
+221,Olympia 21,Governor,,L,Ruth Bennett,12,12,15
+223,Olympia 23,Governor,,L,Ruth Bennett,15,15,23
+224,Olympia 24,Governor,,L,Ruth Bennett,23,23,11
+225,Olympia 25,Governor,,L,Ruth Bennett,11,11,3
+226,Olympia 26,Governor,,L,Ruth Bennett,3,3,12
+227,Olympia 27,Governor,,L,Ruth Bennett,12,12,7
+228,Olympia 28,Governor,,L,Ruth Bennett,7,7,18
+229,Olympia 29,Governor,,L,Ruth Bennett,18,18,9
+203,Olympia 3,Governor,,L,Ruth Bennett,9,9,7
+230,Olympia 30,Governor,,L,Ruth Bennett,7,7,11
+231,Olympia 31,Governor,,L,Ruth Bennett,11,11,2
+232,Olympia 32,Governor,,L,Ruth Bennett,2,2,17
+234,Olympia 34,Governor,,L,Ruth Bennett,17,17,7
+235,Olympia 35,Governor,,L,Ruth Bennett,7,7,2
+236,Olympia 36,Governor,,L,Ruth Bennett,2,2,5
+237,Olympia 37,Governor,,L,Ruth Bennett,5,5,7
+238,Olympia 38,Governor,,L,Ruth Bennett,7,7,8
+239,Olympia 39,Governor,,L,Ruth Bennett,8,8,2
+204,Olympia 4,Governor,,L,Ruth Bennett,2,2,36
+240,Olympia 40,Governor,,L,Ruth Bennett,36,36,6
+241,Olympia 41,Governor,,L,Ruth Bennett,6,6,18
+242,Olympia 42,Governor,,L,Ruth Bennett,18,18,4
+243,Olympia 43,Governor,,L,Ruth Bennett,4,4,12
+244,Olympia 44,Governor,,L,Ruth Bennett,12,12,11
+245,Olympia 45,Governor,,L,Ruth Bennett,11,11,11
+246,Olympia 46,Governor,,L,Ruth Bennett,11,11,18
+247,Olympia 47,Governor,,L,Ruth Bennett,18,18,8
+248,Olympia 48,Governor,,L,Ruth Bennett,8,8,10
+249,Olympia 49,Governor,,L,Ruth Bennett,10,10,14
+205,Olympia 5,Governor,,L,Ruth Bennett,14,14,19
+250,Olympia 50,Governor,,L,Ruth Bennett,13,13,13
+251,Olympia 51,Governor,,L,Ruth Bennett,3,3,3
+252,Olympia 52,Governor,,L,Ruth Bennett,9,9,9
+253,Olympia 53,Governor,,L,Ruth Bennett,6,6,6
+254,Olympia 54,Governor,,L,Ruth Bennett,15,15,15
+206,Olympia 6,Governor,,L,Ruth Bennett,14,14,14
+207,Olympia 7,Governor,,L,Ruth Bennett,21,21,21
+208,Olympia 8,Governor,,L,Ruth Bennett,12,12,12
+209,Olympia 9,Governor,,L,Ruth Bennett,15,15,15
+95,Oyster Bay,Governor,,L,Ruth Bennett,9,9,9
+178,Pattison,Governor,,L,Ruth Bennett,6,6,6
+74,Pines,Governor,,L,Ruth Bennett,15,15,15
+139,Plainview,Governor,,L,Ruth Bennett,13,13,13
+109,Pleasant Glade,Governor,,L,Ruth Bennett,3,3,3
+59,Pleasant Hill,Governor,,L,Ruth Bennett,7,7,7
+147,Plumb,Governor,,L,Ruth Bennett,22,22,22
+83,Prine,Governor,,L,Ruth Bennett,4,4,4
+106,Puget,Governor,,L,Ruth Bennett,9,9,9
+601,Rainier 1,Governor,,L,Ruth Bennett,11,11,11
+602,Rainier 2,Governor,,L,Ruth Bennett,5,5,5
+153,Rochester 1,Governor,,L,Ruth Bennett,13,13,13
+154,Rochester 2,Governor,,L,Ruth Bennett,5,5,5
+170,Rochester 3,Governor,,L,Ruth Bennett,10,10,10
+55,Rochester 4,Governor,,L,Ruth Bennett,11,11,11
+54,Rochester 5,Governor,,L,Ruth Bennett,11,11,11
+45,Rocky Prairie,Governor,,L,Ruth Bennett,12,12,12
+112,Roosevelt,Governor,,L,Ruth Bennett,14,14,14
+127,Ruth Prairie,Governor,,L,Ruth Bennett,21,21,21
+146,S Union,Governor,,L,Ruth Bennett,21,21,21
+50,Salmon Creek,Governor,,L,Ruth Bennett,11,11,11
+148,Scatter Creek,Governor,,L,Ruth Bennett,15,15,15
+184,Scheller,Governor,,L,Ruth Bennett,5,5,5
+133,Schneiders Prairie,Governor,,L,Ruth Bennett,9,9,9
+155,Scott Lake N,Governor,,L,Ruth Bennett,3,3,3
+49,Scott Lake S,Governor,,L,Ruth Bennett,8,8,8
+142,Simmons 1,Governor,,L,Ruth Bennett,1,1,1
+68,Simmons 2,Governor,,L,Ruth Bennett,,,0
+69,Simmons 3,Governor,,L,Ruth Bennett,0,0,0
+70,Simmons 4,Governor,,L,Ruth Bennett,0,0,0
+42,Simmons 9,Governor,,L,Ruth Bennett,0,0,0
+58,Skokomish,Governor,,L,Ruth Bennett,13,13,13
+158,Skookumchuck,Governor,,L,Ruth Bennett,9,9,9
+189,Sleater Kinney,Governor,,L,Ruth Bennett,9,9,9
+163,Smith Lake,Governor,,L,Ruth Bennett,4,4,4
+60,Smith Prairie,Governor,,L,Ruth Bennett,13,13,13
+105,South Bay,Governor,,L,Ruth Bennett,13,13,13
+51,Spurgeon Creek,Governor,,L,Ruth Bennett,16,16,16
+116,St Clair,Governor,,L,Ruth Bennett,12,12,12
+44,Steamboat Island,Governor,,L,Ruth Bennett,4,4,4
+180,Stedman,Governor,,L,Ruth Bennett,9,9,10
+137,Sulenes 1,Governor,,L,Ruth Bennett,,,0
+73,Sulenes 2,Governor,,L,Ruth Bennett,0,0,0
+197,Summerset,Governor,,L,Ruth Bennett,21,21,21
+96,Summit Lake,Governor,,L,Ruth Bennett,9,9,9
+175,Sunset Beach,Governor,,L,Ruth Bennett,11,11,11
+165,Sunwood Lakes,Governor,,L,Ruth Bennett,11,11,11
+90,Sweet Briar,Governor,,L,Ruth Bennett,9,9,9
+501,Tenino 1,Governor,,L,Ruth Bennett,9,9,9
+502,Tenino 2,Governor,,L,Ruth Bennett,9,9,9
+162,Thompson,Governor,,L,Ruth Bennett,13,13,13
+89,Tilley,Governor,,L,Ruth Bennett,9,9,9
+80,Tolmie,Governor,,L,Ruth Bennett,6,6,6
+93,Traiblazer,Governor,,L,Ruth Bennett,14,14,14
+78,Tri Lakes,Governor,,L,Ruth Bennett,11,11,11
+84,Trosper Lake,Governor,,L,Ruth Bennett,2,2,2
+401,Tumwater 1,Governor,,L,Ruth Bennett,11,11,11
+410,Tumwater 10,Governor,,L,Ruth Bennett,9,9,9
+411,Tumwater 11,Governor,,L,Ruth Bennett,11,11,11
+412,Tumwater 12,Governor,,L,Ruth Bennett,9,9,9
+413,Tumwater 13,Governor,,L,Ruth Bennett,6,6,6
+414,Tumwater 14,Governor,,L,Ruth Bennett,3,3,3
+415,Tumwater 15,Governor,,L,Ruth Bennett,3,3,3
+417,Tumwater 17,Governor,,L,Ruth Bennett,0,0,0
+402,Tumwater 2,Governor,,L,Ruth Bennett,5,5,5
+421,Tumwater 21,Governor,,L,Ruth Bennett,2,2,2
+423,Tumwater 23,Governor,,L,Ruth Bennett,0,0,0
+403,Tumwater 3,Governor,,L,Ruth Bennett,5,5,5
+404,Tumwater 4,Governor,,L,Ruth Bennett,15,15,15
+405,Tumwater 5,Governor,,L,Ruth Bennett,10,10,10
+406,Tumwater 6,Governor,,L,Ruth Bennett,6,6,6
+407,Tumwater 7,Governor,,L,Ruth Bennett,6,6,6
+408,Tumwater 8,Governor,,L,Ruth Bennett,10,10,10
+409,Tumwater 9,Governor,,L,Ruth Bennett,4,4,4
+172,Tykle Cove,Governor,,L,Ruth Bennett,3,3,3
+43,University N,Governor,,L,Ruth Bennett,6,5,5
+79,University S,Governor,,L,Ruth Bennett,3,3,3
+53,Vail,Governor,,L,Ruth Bennett,17,17,17
+150,Violet Prairie,Governor,,L,Ruth Bennett,23,23,23
+999,Vote by mail,Governor,,L,Ruth Bennett,1,0,0
+171,Waddell Creek,Governor,,L,Ruth Bennett,10,10,10
+161,Wards,Governor,,L,Ruth Bennett,4,4,4
+128,Weir Prairie,Governor,,L,Ruth Bennett,35,35,35
+186,Wilderness,Governor,,L,Ruth Bennett,9,9,9
+85,Wildflower,Governor,,L,Ruth Bennett,0,0,0
+47,Woodard Creek,Governor,,L,Ruth Bennett,8,8,8
+88,Woodland,Governor,,L,Ruth Bennett,4,4,4
+701,Yelm 1,Governor,,L,Ruth Bennett,24,24,24
+702,Yelm 2,Governor,,L,Ruth Bennett,30,30,30
+101,Zangle,Governor,,L,Ruth Bennett,8,8,8
+77,Zenker Valley,Governor,,L,Ruth Bennett,1,1,1
+THURSTON WA,THURSTON WA,Governor,,L,Ruth Bennett,2574,2574,2575

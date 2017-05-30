@@ -1,0 +1,476 @@
+County,Precinct,Office,Dist,Party,Candidate,Vote
+San Juan,Blakely-Decatur,President,,D,Al Gore,30
+San Juan,Blakely-Decatur,President,,R,George Bush,47
+San Juan,Blakely-Decatur,President,,G,Ralph Nader,4
+San Juan,Blakely-Decatur,U S Senate,,D,Maria Cantwell,30
+San Juan,Blakely-Decatur,U S Senate,,R,Slade Gorton,52
+San Juan,Blakely-Decatur,Congress 2,2,D,Rick Larsen,23
+San Juan,Blakely-Decatur,Congress 2,2,R,John Koster,47
+San Juan,Blakely-Decatur,Congress 2,2,L,Stewart Andrews,1
+San Juan,Blakely-Decatur,Congress 2,2,NL,Glen Johnson,2
+San Juan,Blakely-Decatur,Governor,,D,Gary Locke,35
+San Juan,Blakely-Decatur,Governor,,R,John Carlson,47
+San Juan,Blakely-Decatur,Senate 40,40,D,Harriet Spanel,29
+San Juan,Blakely-Decatur,Senate 40,40,R,Jerry Ferrier,41
+San Juan,Blakely-Decatur,Senate 40,40,L,Ian Bannerman,2
+San Juan,Blakely-Decatur,Rep 40-1,40,D,Dave Quall,40
+San Juan,Blakely-Decatur,Rep 40-1,40,L,Mark Leigh,25
+San Juan,Blakely-Decatur,Rep 40-1,40,,write-in,1
+San Juan,Blakely-Decatur,Rep 40-2,40,D,Jeff Morris,27
+San Juan,Blakely-Decatur,Rep 40-2,40,R,Bruce Ayers,38
+San Juan,Blakely-Decatur,Rep 40-2,40,L,Charles Mann,9
+San Juan,Blakely-Decatur,Voters,,,Registered,89
+San Juan,Blakely-Decatur,Voters,,,Ballots,82
+San Juan,SJ1 Southend,President,,D,Al Gore,477
+San Juan,SJ1 Southend,President,,R,George Bush,381
+San Juan,SJ1 Southend,President,,L,Harry Browne,3
+San Juan,SJ1 Southend,President,,G,Ralph Nader,90
+San Juan,SJ1 Southend,President,,F,Pat Buchanan,1
+San Juan,SJ1 Southend,President,,NL,John Hagelin,2
+San Juan,SJ1 Southend,President,,,write-in,1
+San Juan,SJ1 Southend,U S Senate,,D,Maria Cantwell,498
+San Juan,SJ1 Southend,U S Senate,,R,Slade Gorton,418
+San Juan,SJ1 Southend,U S Senate,,L,Jeff Jared,27
+San Juan,SJ1 Southend,U S Senate,,,write-in,1
+San Juan,SJ1 Southend,Congress 2,2,D,Rick Larsen,483
+San Juan,SJ1 Southend,Congress 2,2,R,John Koster,367
+San Juan,SJ1 Southend,Congress 2,2,L,Stewart Andrews,35
+San Juan,SJ1 Southend,Congress 2,2,NL,Glen Johnson,16
+San Juan,SJ1 Southend,Governor,,D,Gary Locke,584
+San Juan,SJ1 Southend,Governor,,R,John Carlson,340
+San Juan,SJ1 Southend,Governor,,L,Steve LePage,22
+San Juan,SJ1 Southend,Governor,,,write-in,1
+San Juan,SJ1 Southend,Senate 40,40,D,Harriet Spanel,550
+San Juan,SJ1 Southend,Senate 40,40,R,Jerry Ferrier,294
+San Juan,SJ1 Southend,Senate 40,40,L,Ian Bannerman,40
+San Juan,SJ1 Southend,Senate 40,40,,write-in,1
+San Juan,SJ1 Southend,Rep 40-1,40,D,Dave Quall,596
+San Juan,SJ1 Southend,Rep 40-1,40,L,Mark Leigh,191
+San Juan,SJ1 Southend,Rep 40-1,40,,write-in,4
+San Juan,SJ1 Southend,Rep 40-2,40,D,Jeff Morris,522
+San Juan,SJ1 Southend,Rep 40-2,40,R,Bruce Ayers,299
+San Juan,SJ1 Southend,Rep 40-2,40,L,Charles Mann,33
+San Juan,SJ1 Southend,Rep 40-2,40,,write-in,1
+San Juan,SJ1 Southend,Voters,,,Registered,1069
+San Juan,SJ1 Southend,Voters,,,Ballots,959
+San Juan,SJ2 Univ-Turn Pt,President,,D,Al Gore,332
+San Juan,SJ2 Univ-Turn Pt,President,,R,George Bush,288
+San Juan,SJ2 Univ-Turn Pt,President,,L,Harry Browne,5
+San Juan,SJ2 Univ-Turn Pt,President,,G,Ralph Nader,82
+San Juan,SJ2 Univ-Turn Pt,President,,WW,Monica Moorehead,1
+San Juan,SJ2 Univ-Turn Pt,President,,F,Pat Buchanan,1
+San Juan,SJ2 Univ-Turn Pt,President,,NL,John Hagelin,1
+San Juan,SJ2 Univ-Turn Pt,President,,,write-in,2
+San Juan,SJ2 Univ-Turn Pt,U S Senate,,D,Maria Cantwell,380
+San Juan,SJ2 Univ-Turn Pt,U S Senate,,R,Slade Gorton,308
+San Juan,SJ2 Univ-Turn Pt,U S Senate,,L,Jeff Jared,15
+San Juan,SJ2 Univ-Turn Pt,U S Senate,,,write-in,0
+San Juan,SJ2 Univ-Turn Pt,Congress 2,2,D,Rick Larsen,362
+San Juan,SJ2 Univ-Turn Pt,Congress 2,2,R,John Koster,275
+San Juan,SJ2 Univ-Turn Pt,Congress 2,2,L,Stewart Andrews,32
+San Juan,SJ2 Univ-Turn Pt,Congress 2,2,NL,Glen Johnson,8
+San Juan,SJ2 Univ-Turn Pt,Governor,,D,Gary Locke,420
+San Juan,SJ2 Univ-Turn Pt,Governor,,R,John Carlson,259
+San Juan,SJ2 Univ-Turn Pt,Governor,,L,Steve LePage,18
+San Juan,SJ2 Univ-Turn Pt,Senate 40,40,D,Harriet Spanel,407
+San Juan,SJ2 Univ-Turn Pt,Senate 40,40,R,Jerry Ferrier,233
+San Juan,SJ2 Univ-Turn Pt,Senate 40,40,L,Ian Bannerman,30
+San Juan,SJ2 Univ-Turn Pt,Rep 40-1,40,D,Dave Quall,430
+San Juan,SJ2 Univ-Turn Pt,Rep 40-1,40,L,Mark Leigh,171
+San Juan,SJ2 Univ-Turn Pt,Rep 40-2,40,D,Jeff Morris,373
+San Juan,SJ2 Univ-Turn Pt,Rep 40-2,40,R,Bruce Ayers,242
+San Juan,SJ2 Univ-Turn Pt,Rep 40-2,40,L,Charles Mann,31
+San Juan,SJ2 Univ-Turn Pt,Voters,,,Registered,828
+San Juan,SJ2 Univ-Turn Pt,Voters,,,Ballots,714
+San Juan,SJ3 Roche Harbor,President,,D,Al Gore,182
+San Juan,SJ3 Roche Harbor,President,,R,George Bush,219
+San Juan,SJ3 Roche Harbor,President,,L,Harry Browne,2
+San Juan,SJ3 Roche Harbor,President,,G,Ralph Nader,28
+San Juan,SJ3 Roche Harbor,President,,NL,John Hagelin,2
+San Juan,SJ3 Roche Harbor,U S Senate,,D,Maria Cantwell,182
+San Juan,SJ3 Roche Harbor,U S Senate,,R,Slade Gorton,236
+San Juan,SJ3 Roche Harbor,U S Senate,,L,Jeff Jared,9
+San Juan,SJ3 Roche Harbor,Congress 2,2,D,Rick Larsen,184
+San Juan,SJ3 Roche Harbor,Congress 2,2,R,John Koster,198
+San Juan,SJ3 Roche Harbor,Congress 2,2,L,Stewart Andrews,15
+San Juan,SJ3 Roche Harbor,Congress 2,2,NL,Glen Johnson,5
+San Juan,SJ3 Roche Harbor,Governor,,D,Gary Locke,224
+San Juan,SJ3 Roche Harbor,Governor,,R,John Carlson,192
+San Juan,SJ3 Roche Harbor,Governor,,L,Steve LePage,10
+San Juan,SJ3 Roche Harbor,Senate 40,40,D,Harriet Spanel,207
+San Juan,SJ3 Roche Harbor,Senate 40,40,R,Jerry Ferrier,177
+San Juan,SJ3 Roche Harbor,Senate 40,40,L,Ian Bannerman,15
+San Juan,SJ3 Roche Harbor,Rep 40-1,40,D,Dave Quall,235
+San Juan,SJ3 Roche Harbor,Rep 40-1,40,L,Mark Leigh,113
+San Juan,SJ3 Roche Harbor,Rep 40-1,40,,write-in,1
+San Juan,SJ3 Roche Harbor,Rep 40-2,40,D,Jeff Morris,200
+San Juan,SJ3 Roche Harbor,Rep 40-2,40,R,Bruce Ayers,173
+San Juan,SJ3 Roche Harbor,Rep 40-2,40,L,Charles Mann,13
+San Juan,SJ3 Roche Harbor,Voters,,,Registered,496
+San Juan,SJ3 Roche Harbor,Voters,,,Ballots,435
+San Juan,SJ4 Westside,President,,D,Al Gore,277
+San Juan,SJ4 Westside,President,,R,George Bush,211
+San Juan,SJ4 Westside,President,,L,Harry Browne,3
+San Juan,SJ4 Westside,President,,G,Ralph Nader,72
+San Juan,SJ4 Westside,President,,F,Pat Buchanan,1
+San Juan,SJ4 Westside,President,,NL,John Hagelin,3
+San Juan,SJ4 Westside,President,,,write-in,2
+San Juan,SJ4 Westside,U S Senate,,D,Maria Cantwell,309
+San Juan,SJ4 Westside,U S Senate,,R,Slade Gorton,238
+San Juan,SJ4 Westside,U S Senate,,L,Jeff Jared,10
+San Juan,SJ4 Westside,Congress 2,2,D,Rick Larsen,296
+San Juan,SJ4 Westside,Congress 2,2,R,John Koster,200
+San Juan,SJ4 Westside,Congress 2,2,L,Stewart Andrews,23
+San Juan,SJ4 Westside,Congress 2,2,NL,Glen Johnson,15
+San Juan,SJ4 Westside,Governor,,D,Gary Locke,339
+San Juan,SJ4 Westside,Governor,,R,John Carlson,193
+San Juan,SJ4 Westside,Governor,,L,Steve LePage,23
+San Juan,SJ4 Westside,Senate 40,40,D,Harriet Spanel,317
+San Juan,SJ4 Westside,Senate 40,40,R,Jerry Ferrier,168
+San Juan,SJ4 Westside,Senate 40,40,L,Ian Bannerman,32
+San Juan,SJ4 Westside,Rep 40-1,40,D,Dave Quall,349
+San Juan,SJ4 Westside,Rep 40-1,40,L,Mark Leigh,108
+San Juan,SJ4 Westside,Rep 40-1,40,,write-in,2
+San Juan,SJ4 Westside,Rep 40-2,40,D,Jeff Morris,309
+San Juan,SJ4 Westside,Rep 40-2,40,R,Bruce Ayers,165
+San Juan,SJ4 Westside,Rep 40-2,40,L,Charles Mann,27
+San Juan,SJ4 Westside,Voters,,,Registered,635
+San Juan,SJ4 Westside,Voters,,,Ballots,572
+San Juan,SJ5 San Juan Valley,President,,D,Al Gore,280
+San Juan,SJ5 San Juan Valley,President,,R,George Bush,149
+San Juan,SJ5 San Juan Valley,President,,L,Harry Browne,7
+San Juan,SJ5 San Juan Valley,President,,G,Ralph Nader,58
+San Juan,SJ5 San Juan Valley,President,,F,Pat Buchanan,1
+San Juan,SJ5 San Juan Valley,President,,NL,John Hagelin,1
+San Juan,SJ5 San Juan Valley,President,,,write-in,1
+San Juan,SJ5 San Juan Valley,U S Senate,,D,Maria Cantwell,293
+San Juan,SJ5 San Juan Valley,U S Senate,,R,Slade Gorton,181
+San Juan,SJ5 San Juan Valley,U S Senate,,L,Jeff Jared,14
+San Juan,SJ5 San Juan Valley,U S Senate,,,write-in,1
+San Juan,SJ5 San Juan Valley,Congress 2,2,D,Rick Larsen,280
+San Juan,SJ5 San Juan Valley,Congress 2,2,R,John Koster,140
+San Juan,SJ5 San Juan Valley,Congress 2,2,L,Stewart Andrews,22
+San Juan,SJ5 San Juan Valley,Congress 2,2,NL,Glen Johnson,10
+San Juan,SJ5 San Juan Valley,Congress 2,2,,write-in,3
+San Juan,SJ5 San Juan Valley,Governor,,D,Gary Locke,341
+San Juan,SJ5 San Juan Valley,Governor,,R,John Carlson,131
+San Juan,SJ5 San Juan Valley,Governor,,L,Steve LePage,18
+San Juan,SJ5 San Juan Valley,Governor,,,write-in,1
+San Juan,SJ5 San Juan Valley,Senate 40,40,D,Harriet Spanel,330
+San Juan,SJ5 San Juan Valley,Senate 40,40,R,Jerry Ferrier,107
+San Juan,SJ5 San Juan Valley,Senate 40,40,L,Ian Bannerman,16
+San Juan,SJ5 San Juan Valley,Senate 40,40,,write-in,1
+San Juan,SJ5 San Juan Valley,Rep 40-1,40,D,Dave Quall,325
+San Juan,SJ5 San Juan Valley,Rep 40-1,40,L,Mark Leigh,87
+San Juan,SJ5 San Juan Valley,Rep 40-1,40,,write-in,1
+San Juan,SJ5 San Juan Valley,Rep 40-2,40,D,Jeff Morris,289
+San Juan,SJ5 San Juan Valley,Rep 40-2,40,R,Bruce Ayers,104
+San Juan,SJ5 San Juan Valley,Rep 40-2,40,L,Charles Mann,27
+San Juan,SJ5 San Juan Valley,Rep 40-2,40,,write-in,1
+San Juan,SJ5 San Juan Valley,Voters,,,Registered,596
+San Juan,SJ5 San Juan Valley,Voters,,,Ballots,504
+San Juan,FH1 Friday Harbor 1,President,,D,Al Gore,254
+San Juan,FH1 Friday Harbor 1,President,,R,George Bush,162
+San Juan,FH1 Friday Harbor 1,President,,L,Harry Browne,4
+San Juan,FH1 Friday Harbor 1,President,,G,Ralph Nader,59
+San Juan,FH1 Friday Harbor 1,President,,F,Pat Buchanan,5
+San Juan,FH1 Friday Harbor 1,President,,WW,Monica Moorehead,2
+San Juan,FH1 Friday Harbor 1,President,,,write-in,1
+San Juan,FH1 Friday Harbor 1,U S Senate,,D,Maria Cantwell,261
+San Juan,FH1 Friday Harbor 1,U S Senate,,R,Slade Gorton,192
+San Juan,FH1 Friday Harbor 1,U S Senate,,L,Jeff Jared,26
+San Juan,FH1 Friday Harbor 1,U S Senate,,,write-in,1
+San Juan,FH1 Friday Harbor 1,Congress 2,2,D,Rick Larsen,258
+San Juan,FH1 Friday Harbor 1,Congress 2,2,R,John Koster,156
+San Juan,FH1 Friday Harbor 1,Congress 2,2,L,Stewart Andrews,34
+San Juan,FH1 Friday Harbor 1,Congress 2,2,NL,Glen Johnson,8
+San Juan,FH1 Friday Harbor 1,Governor,,D,Gary Locke,322
+San Juan,FH1 Friday Harbor 1,Governor,,R,John Carlson,141
+San Juan,FH1 Friday Harbor 1,Governor,,L,Steve LePage,21
+San Juan,FH1 Friday Harbor 1,Governor,,,write-in,2
+San Juan,FH1 Friday Harbor 1,Senate 40,40,D,Harriet Spanel,279
+San Juan,FH1 Friday Harbor 1,Senate 40,40,R,Jerry Ferrier,128
+San Juan,FH1 Friday Harbor 1,Senate 40,40,L,Ian Bannerman,32
+San Juan,FH1 Friday Harbor 1,Rep 40-1,40,D,Dave Quall,302
+San Juan,FH1 Friday Harbor 1,Rep 40-1,40,L,Mark Leigh,88
+San Juan,FH1 Friday Harbor 1,Rep 40-1,40,,write-in,2
+San Juan,FH1 Friday Harbor 1,Rep 40-2,40,D,Jeff Morris,286
+San Juan,FH1 Friday Harbor 1,Rep 40-2,40,R,Bruce Ayers,110
+San Juan,FH1 Friday Harbor 1,Rep 40-2,40,L,Charles Mann,31
+San Juan,FH1 Friday Harbor 1,Voters,,,Registered,652
+San Juan,FH1 Friday Harbor 1,Voters,,,Ballots,490
+San Juan,FH2 Friday Harbor 2,President,,D,Al Gore,196
+San Juan,FH2 Friday Harbor 2,President,,R,George Bush,142
+San Juan,FH2 Friday Harbor 2,President,,L,Harry Browne,1
+San Juan,FH2 Friday Harbor 2,President,,S,David McReynolds,1
+San Juan,FH2 Friday Harbor 2,President,,G,Ralph Nader,30
+San Juan,FH2 Friday Harbor 2,President,,NL,John Hagelin,3
+San Juan,FH2 Friday Harbor 2,President,,WW,Monica Moorehead,2
+San Juan,FH2 Friday Harbor 2,President,,,write-in,1
+San Juan,FH2 Friday Harbor 2,U S Senate,,D,Maria Cantwell,201
+San Juan,FH2 Friday Harbor 2,U S Senate,,R,Slade Gorton,161
+San Juan,FH2 Friday Harbor 2,U S Senate,,L,Jeff Jared,9
+San Juan,FH2 Friday Harbor 2,Congress 2,2,D,Rick Larsen,189
+San Juan,FH2 Friday Harbor 2,Congress 2,2,R,John Koster,141
+San Juan,FH2 Friday Harbor 2,Congress 2,2,L,Stewart Andrews,16
+San Juan,FH2 Friday Harbor 2,Congress 2,2,NL,Glen Johnson,9
+San Juan,FH2 Friday Harbor 2,Governor,,D,Gary Locke,243
+San Juan,FH2 Friday Harbor 2,Governor,,R,John Carlson,124
+San Juan,FH2 Friday Harbor 2,Governor,,L,Steve LePage,4
+San Juan,FH2 Friday Harbor 2,Senate 40,40,D,Harriet Spanel,204
+San Juan,FH2 Friday Harbor 2,Senate 40,40,R,Jerry Ferrier,123
+San Juan,FH2 Friday Harbor 2,Senate 40,40,L,Ian Bannerman,11
+San Juan,FH2 Friday Harbor 2,Rep 40-1,40,D,Dave Quall,237
+San Juan,FH2 Friday Harbor 2,Rep 40-1,40,L,Mark Leigh,62
+San Juan,FH2 Friday Harbor 2,Rep 40-1,40,,write-in,1
+San Juan,FH2 Friday Harbor 2,Rep 40-2,40,D,Jeff Morris,209
+San Juan,FH2 Friday Harbor 2,Rep 40-2,40,R,Bruce Ayers,108
+San Juan,FH2 Friday Harbor 2,Rep 40-2,40,L,Charles Mann,17
+San Juan,FH2 Friday Harbor 2,Voters,,,Registered,497
+San Juan,FH2 Friday Harbor 2,Voters,,,Ballots,380
+San Juan,Orcas 1 DH-WS,President,,D,Al Gore,507
+San Juan,Orcas 1 DH-WS,President,,R,George Bush,278
+San Juan,Orcas 1 DH-WS,President,,L,Harry Browne,7
+San Juan,Orcas 1 DH-WS,President,,G,Ralph Nader,96
+San Juan,Orcas 1 DH-WS,President,,,write-in,4
+San Juan,Orcas 1 DH-WS,U S Senate,,D,Maria Cantwell,548
+San Juan,Orcas 1 DH-WS,U S Senate,,R,Slade Gorton,309
+San Juan,Orcas 1 DH-WS,U S Senate,,L,Jeff Jared,19
+San Juan,Orcas 1 DH-WS,U S Senate,,,write-in,1
+San Juan,Orcas 1 DH-WS,Congress 2,2,D,Rick Larsen,470
+San Juan,Orcas 1 DH-WS,Congress 2,2,R,John Koster,287
+San Juan,Orcas 1 DH-WS,Congress 2,2,L,Stewart Andrews,62
+San Juan,Orcas 1 DH-WS,Congress 2,2,NL,Glen Johnson,23
+San Juan,Orcas 1 DH-WS,Congress 2,,,write-in,1
+San Juan,Orcas 1 DH-WS,Governor,,D,Gary Locke,590
+San Juan,Orcas 1 DH-WS,Governor,,R,John Carlson,259
+San Juan,Orcas 1 DH-WS,Governor,,L,Steve LePage,29
+San Juan,Orcas 1 DH-WS,Senate 40,40,D,Harriet Spanel,555
+San Juan,Orcas 1 DH-WS,Senate 40,40,R,Jerry Ferrier,225
+San Juan,Orcas 1 DH-WS,Senate 40,40,L,Ian Bannerman,41
+San Juan,Orcas 1 DH-WS,Rep 40-1,40,D,Dave Quall,558
+San Juan,Orcas 1 DH-WS,Rep 40-1,40,L,Mark Leigh,175
+San Juan,Orcas 1 DH-WS,Rep 40-1,40,,write-in,1
+San Juan,Orcas 1 DH-WS,Rep 40-2,40,D,Jeff Morris,527
+San Juan,Orcas 1 DH-WS,Rep 40-2,40,R,Bruce Ayers,217
+San Juan,Orcas 1 DH-WS,Rep 40-2,40,L,Charles Mann,56
+San Juan,Orcas 1 DH-WS,Voters,,,Registered,1007
+San Juan,Orcas 1 DH-WS,Voters,,,Ballots,896
+San Juan,Orcas 2 Eastsound 1,President,,D,Al Gore,270
+San Juan,Orcas 2 Eastsound 1,President,,R,George Bush,177
+San Juan,Orcas 2 Eastsound 1,President,,L,Harry Browne,3
+San Juan,Orcas 2 Eastsound 1,President,,G,Ralph Nader,54
+San Juan,Orcas 2 Eastsound 1,President,,NL,John Hagelin,3
+San Juan,Orcas 2 Eastsound 1,U S Senate,,D,Maria Cantwell,280
+San Juan,Orcas 2 Eastsound 1,U S Senate,,R,Slade Gorton,207
+San Juan,Orcas 2 Eastsound 1,U S Senate,,L,Jeff Jared,14
+San Juan,Orcas 2 Eastsound 1,U S Senate,,,write-in,1
+San Juan,Orcas 2 Eastsound 1,Congress 2,2,D,Rick Larsen,276
+San Juan,Orcas 2 Eastsound 1,Congress 2,2,R,John Koster,175
+San Juan,Orcas 2 Eastsound 1,Congress 2,2,L,Stewart Andrews,25
+San Juan,Orcas 2 Eastsound 1,Congress 2,2,NL,Glen Johnson,15
+San Juan,Orcas 2 Eastsound 1,Governor,,D,Gary Locke,329
+San Juan,Orcas 2 Eastsound 1,Governor,,R,John Carlson,156
+San Juan,Orcas 2 Eastsound 1,Governor,,L,Steve LePage,16
+San Juan,Orcas 2 Eastsound 1,Senate 40,40,D,Harriet Spanel,313
+San Juan,Orcas 2 Eastsound 1,Senate 40,40,R,Jerry Ferrier,119
+San Juan,Orcas 2 Eastsound 1,Senate 40,40,L,Ian Bannerman,27
+San Juan,Orcas 2 Eastsound 1,Rep 40-1,40,D,Dave Quall,323
+San Juan,Orcas 2 Eastsound 1,Rep 40-1,40,L,Mark Leigh,103
+San Juan,Orcas 2 Eastsound 1,Rep 40-1,40,,write-in,3
+San Juan,Orcas 2 Eastsound 1,Rep 40-2,40,D,Jeff Morris,295
+San Juan,Orcas 2 Eastsound 1,Rep 40-2,40,R,Bruce Ayers,137
+San Juan,Orcas 2 Eastsound 1,Rep 40-2,40,L,Charles Mann,27
+San Juan,Orcas 2 Eastsound 1,Voters,,,Registered,605
+San Juan,Orcas 2 Eastsound 1,Voters,,,Ballots,509
+San Juan,Orcas 3 Eastsound 2,President,,D,Al Gore,284
+San Juan,Orcas 3 Eastsound 2,President,,R,George Bush,186
+San Juan,Orcas 3 Eastsound 2,President,,L,Harry Browne,3
+San Juan,Orcas 3 Eastsound 2,President,,G,Ralph Nader,36
+San Juan,Orcas 3 Eastsound 2,President,,NL,John Hagelin,2
+San Juan,Orcas 3 Eastsound 2,President,,C,Howard Phillips,1
+San Juan,Orcas 3 Eastsound 2,U S Senate,,D,Maria Cantwell,287
+San Juan,Orcas 3 Eastsound 2,U S Senate,,R,Slade Gorton,203
+San Juan,Orcas 3 Eastsound 2,U S Senate,,L,Jeff Jared,14
+San Juan,Orcas 3 Eastsound 2,Congress 2,2,D,Rick Larsen,276
+San Juan,Orcas 3 Eastsound 2,Congress 2,2,R,John Koster,176
+San Juan,Orcas 3 Eastsound 2,Congress 2,2,L,Stewart Andrews,32
+San Juan,Orcas 3 Eastsound 2,Congress 2,2,NL,Glen Johnson,6
+San Juan,Orcas 3 Eastsound 2,Governor,,D,Gary Locke,327
+San Juan,Orcas 3 Eastsound 2,Governor,,R,John Carlson,171
+San Juan,Orcas 3 Eastsound 2,Governor,,L,Steve LePage,9
+San Juan,Orcas 3 Eastsound 2,Senate 40,40,D,Harriet Spanel,306
+San Juan,Orcas 3 Eastsound 2,Senate 40,40,R,Jerry Ferrier,153
+San Juan,Orcas 3 Eastsound 2,Senate 40,40,L,Ian Bannerman,17
+San Juan,Orcas 3 Eastsound 2,Rep 40-1,40,D,Dave Quall,333
+San Juan,Orcas 3 Eastsound 2,Rep 40-1,40,L,Mark Leigh,97
+San Juan,Orcas 3 Eastsound 2,Rep 40-2,40,D,Jeff Morris,306
+San Juan,Orcas 3 Eastsound 2,Rep 40-2,40,R,Bruce Ayers,142
+San Juan,Orcas 3 Eastsound 2,Rep 40-2,40,L,Charles Mann,17
+San Juan,Orcas 3 Eastsound 2,Voters,,,Registered,583
+San Juan,Orcas 3 Eastsound 2,Voters,,,Ballots,516
+San Juan,Orcas 4 Olga-Doe Bay,President,,D,Al Gore,398
+San Juan,Orcas 4 Olga-Doe Bay,President,,R,George Bush,246
+San Juan,Orcas 4 Olga-Doe Bay,President,,L,Harry Browne,3
+San Juan,Orcas 4 Olga-Doe Bay,President,,G,Ralph Nader,66
+San Juan,Orcas 4 Olga-Doe Bay,President,,F,Pat Buchanan,2
+San Juan,Orcas 4 Olga-Doe Bay,President,,WW,Monica Moorehead,1
+San Juan,Orcas 4 Olga-Doe Bay,President,,NL,John Hagelin,4
+San Juan,Orcas 4 Olga-Doe Bay,President,,,write-in,1
+San Juan,Orcas 4 Olga-Doe Bay,U S Senate,,D,Maria Cantwell,423
+San Juan,Orcas 4 Olga-Doe Bay,U S Senate,,R,Slade Gorton,266
+San Juan,Orcas 4 Olga-Doe Bay,U S Senate,,L,Jeff Jared,20
+San Juan,Orcas 4 Olga-Doe Bay,Congress 2,2,D,Rick Larsen,390
+San Juan,Orcas 4 Olga-Doe Bay,Congress 2,2,R,John Koster,241
+San Juan,Orcas 4 Olga-Doe Bay,Congress 2,2,L,Stewart Andrews,43
+San Juan,Orcas 4 Olga-Doe Bay,Congress 2,2,NL,Glen Johnson,21
+San Juan,Orcas 4 Olga-Doe Bay,Governor,,D,Gary Locke,464
+San Juan,Orcas 4 Olga-Doe Bay,Governor,,R,John Carlson,224
+San Juan,Orcas 4 Olga-Doe Bay,Governor,,L,Steve LePage,22
+San Juan,Orcas 4 Olga-Doe Bay,Senate 40,40,D,Harriet Spanel,441
+San Juan,Orcas 4 Olga-Doe Bay,Senate 40,40,R,Jerry Ferrier,192
+San Juan,Orcas 4 Olga-Doe Bay,Senate 40,40,L,Ian Bannerman,37
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-1,40,D,Dave Quall,476
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-1,40,L,Mark Leigh,131
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-1,40,,write-in,3
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-2,40,D,Jeff Morris,412
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-2,40,R,Bruce Ayers,211
+San Juan,Orcas 4 Olga-Doe Bay,Rep 40-2,40,L,Charles Mann,28
+San Juan,Orcas 4 Olga-Doe Bay,Voters,,,Registered,794
+San Juan,Orcas 4 Olga-Doe Bay,Voters,,,Ballots,726
+San Juan,Shaw Island,President,,D,Al Gore,86
+San Juan,Shaw Island,President,,R,George Bush,60
+San Juan,Shaw Island,President,,L,Harry Browne,3
+San Juan,Shaw Island,President,,G,Ralph Nader,17
+San Juan,Shaw Island,President,,NL,John Hagelin,1
+San Juan,Shaw Island,President,,,write-in,1
+San Juan,Shaw Island,U S Senate,,D,Maria Cantwell,95
+San Juan,Shaw Island,U S Senate,,R,Slade Gorton,68
+San Juan,Shaw Island,U S Senate,,L,Jeff Jared,5
+San Juan,Shaw Island,Congress 2,2,D,Rick Larsen,90
+San Juan,Shaw Island,Congress 2,2,R,John Koster,64
+San Juan,Shaw Island,Congress 2,2,L,Stewart Andrews,7
+San Juan,Shaw Island,Congress 2,2,NL,Glen Johnson,2
+San Juan,Shaw Island,Governor,,D,Gary Locke,108
+San Juan,Shaw Island,Governor,,R,John Carlson,56
+San Juan,Shaw Island,Governor,,L,Steve LePage,4
+San Juan,Shaw Island,Senate 40,40,D,Harriet Spanel,107
+San Juan,Shaw Island,Senate 40,40,R,Jerry Ferrier,44
+San Juan,Shaw Island,Senate 40,40,L,Ian Bannerman,13
+San Juan,Shaw Island,Rep 40-1,40,D,Dave Quall,124
+San Juan,Shaw Island,Rep 40-1,40,L,Mark Leigh,27
+San Juan,Shaw Island,Rep 40-2,40,D,Jeff Morris,104
+San Juan,Shaw Island,Rep 40-2,40,R,Bruce Ayers,48
+San Juan,Shaw Island,Rep 40-2,40,L,Charles Mann,7
+San Juan,Shaw Island,Voters,,,Registered,177
+San Juan,Shaw Island,Voters,,,Ballots,169
+San Juan,Lopez 1 Northend,President,,D,Al Gore,409
+San Juan,Lopez 1 Northend,President,,R,George Bush,262
+San Juan,Lopez 1 Northend,President,,L,Harry Browne,1
+San Juan,Lopez 1 Northend,President,,G,Ralph Nader,74
+San Juan,Lopez 1 Northend,President,,WW,Monica Moorehead,1
+San Juan,Lopez 1 Northend,President,,C,Howard Phillips,3
+San Juan,Lopez 1 Northend,President,,F,Pat Buchanan,1
+San Juan,Lopez 1 Northend,President,,NL,John Hagelin,1
+San Juan,Lopez 1 Northend,U S Senate,,D,Maria Cantwell,455
+San Juan,Lopez 1 Northend,U S Senate,,R,Slade Gorton,275
+San Juan,Lopez 1 Northend,U S Senate,,L,Jeff Jared,14
+San Juan,Lopez 1 Northend,Congress 2,2,D,Rick Larsen,421
+San Juan,Lopez 1 Northend,Congress 2,2,R,John Koster,247
+San Juan,Lopez 1 Northend,Congress 2,2,L,Stewart Andrews,24
+San Juan,Lopez 1 Northend,Congress 2,2,NL,Glen Johnson,18
+San Juan,Lopez 1 Northend,Governor,,D,Gary Locke,509
+San Juan,Lopez 1 Northend,Governor,,R,John Carlson,217
+San Juan,Lopez 1 Northend,Governor,,L,Steve LePage,15
+San Juan,Lopez 1 Northend,Governor,,,write-in,1
+San Juan,Lopez 1 Northend,Senate 40,40,D,Harriet Spanel,494
+San Juan,Lopez 1 Northend,Senate 40,40,R,Jerry Ferrier,193
+San Juan,Lopez 1 Northend,Senate 40,40,L,Ian Bannerman,24
+San Juan,Lopez 1 Northend,Senate 40,40,,write-in,1
+San Juan,Lopez 1 Northend,Rep 40-1,40,D,Dave Quall,518
+San Juan,Lopez 1 Northend,Rep 40-1,40,L,Mark Leigh,139
+San Juan,Lopez 1 Northend,Rep 40-1,40,,write-in,3
+San Juan,Lopez 1 Northend,Rep 40-2,40,D,Jeff Morris,468
+San Juan,Lopez 1 Northend,Rep 40-2,40,R,Bruce Ayers,190
+San Juan,Lopez 1 Northend,Rep 40-2,40,L,Charles Mann,36
+San Juan,Lopez 1 Northend,Voters,,,Registered,840
+San Juan,Lopez 1 Northend,Voters,,,Ballots,756
+San Juan,Lopez 2 Southend,President,,D,Al Gore,371
+San Juan,Lopez 2 Southend,President,,R,George Bush,175
+San Juan,Lopez 2 Southend,President,,L,Harry Browne,4
+San Juan,Lopez 2 Southend,President,,G,Ralph Nader,80
+San Juan,Lopez 2 Southend,President,,WW,Monica Moorehead,1
+San Juan,Lopez 2 Southend,President,,,write-in,3
+San Juan,Lopez 2 Southend,President,,F,Pat Buchanan,2
+San Juan,Lopez 2 Southend,President,,NL,John Hagelin,1
+San Juan,Lopez 2 Southend,U S Senate,,D,Maria Cantwell,394
+San Juan,Lopez 2 Southend,U S Senate,,R,Slade Gorton,219
+San Juan,Lopez 2 Southend,U S Senate,,L,Jeff Jared,19
+San Juan,Lopez 2 Southend,U S Senate,,,write-in,1
+San Juan,Lopez 2 Southend,Congress 2,2,D,Rick Larsen,402
+San Juan,Lopez 2 Southend,Congress 2,2,R,John Koster,174
+San Juan,Lopez 2 Southend,Congress 2,2,L,Stewart Andrews,18
+San Juan,Lopez 2 Southend,Congress 2,2,NL,Glen Johnson,21
+San Juan,Lopez 2 Southend,Governor,,D,Gary Locke,454
+San Juan,Lopez 2 Southend,Governor,,R,John Carlson,154
+San Juan,Lopez 2 Southend,Governor,,L,Steve LePage,20
+San Juan,Lopez 2 Southend,Governor,,,write-in,1
+San Juan,Lopez 2 Southend,Senate 40,40,D,Harriet Spanel,433
+San Juan,Lopez 2 Southend,Senate 40,40,R,Jerry Ferrier,131
+San Juan,Lopez 2 Southend,Senate 40,40,L,Ian Bannerman,41
+San Juan,Lopez 2 Southend,Rep 40-1,40,D,Dave Quall,451
+San Juan,Lopez 2 Southend,Rep 40-1,40,L,Mark Leigh,117
+San Juan,Lopez 2 Southend,Rep 40-1,40,,write-in,2
+San Juan,Lopez 2 Southend,Rep 40-2,40,D,Jeff Morris,416
+San Juan,Lopez 2 Southend,Rep 40-2,40,R,Bruce Ayers,131
+San Juan,Lopez 2 Southend,Rep 40-2,40,L,Charles Mann,36
+San Juan,Lopez 2 Southend,Rep 40-2,40,,write-in,1
+San Juan,Lopez 2 Southend,Voters,,,Registered,727
+San Juan,Lopez 2 Southend,Voters,,,Ballots,642
+San Juan,Stuart Island,President,,D,Al Gore,17
+San Juan,Stuart Island,President,,R,George Bush,17
+San Juan,Stuart Island,President,,G,Ralph Nader,3
+San Juan,Stuart Island,U S Senate,,D,Maria Cantwell,11
+San Juan,Stuart Island,U S Senate,,R,Slade Gorton,24
+San Juan,Stuart Island,U S Senate,,L,Jeff Jared,2
+San Juan,Stuart Island,Congress 2,2,D,Rick Larsen,14
+San Juan,Stuart Island,Congress 2,2,R,John Koster,17
+San Juan,Stuart Island,Congress 2,2,L,Stewart Andrews,3
+San Juan,Stuart Island,Congress 2,2,NL,Glen Johnson,1
+San Juan,Stuart Island,Governor,,D,Gary Locke,20
+San Juan,Stuart Island,Governor,,R,John Carlson,15
+San Juan,Stuart Island,Governor,,L,Steve LePage,2
+San Juan,Stuart Island,Senate 40,40,D,Harriet Spanel,22
+San Juan,Stuart Island,Senate 40,40,R,Jerry Ferrier,12
+San Juan,Stuart Island,Senate 40,40,L,Ian Bannerman,3
+San Juan,Stuart Island,Rep 40-1,40,D,Dave Quall,22
+San Juan,Stuart Island,Rep 40-1,40,L,Mark Leigh,12
+San Juan,Stuart Island,Rep 40-2,40,D,Jeff Morris,19
+San Juan,Stuart Island,Rep 40-2,40,R,Bruce Ayers,14
+San Juan,Stuart Island,Rep 40-2,40,L,Charles Mann,3
+San Juan,Stuart Island,Voters,,,Registered,42
+San Juan,Stuart Island,Voters,,,Ballots,37
+San Juan,Waldron Island,President,,D,Al Gore,56
+San Juan,Waldron Island,President,,R,George Bush,5
+San Juan,Waldron Island,President,,L,Harry Browne,1
+San Juan,Waldron Island,President,,G,Ralph Nader,26
+San Juan,Waldron Island,U S Senate,,D,Maria Cantwell,77
+San Juan,Waldron Island,U S Senate,,R,Slade Gorton,7
+San Juan,Waldron Island,U S Senate,,L,Jeff Jared,3
+San Juan,Waldron Island,Congress 2,2,D,Rick Larsen,74
+San Juan,Waldron Island,Congress 2,2,R,John Koster,5
+San Juan,Waldron Island,Congress 2,2,L,Stewart Andrews,2
+San Juan,Waldron Island,Congress 2,2,NL,Glen Johnson,3
+San Juan,Waldron Island,Governor,,D,Gary Locke,76
+San Juan,Waldron Island,Governor,,R,John Carlson,5
+San Juan,Waldron Island,Governor,,L,Steve LePage,4
+San Juan,Waldron Island,Senate 40,40,D,Harriet Spanel,81
+San Juan,Waldron Island,Senate 40,40,R,Jerry Ferrier,2
+San Juan,Waldron Island,Senate 40,40,L,Ian Bannerman,2
+San Juan,Waldron Island,Rep 40-1,40,D,Dave Quall,78
+San Juan,Waldron Island,Rep 40-1,40,L,Mark Leigh,2
+San Juan,Waldron Island,Rep 40-2,40,D,Jeff Morris,79
+San Juan,Waldron Island,Rep 40-2,40,R,Bruce Ayers,3
+San Juan,Waldron Island,Rep 40-2,40,L,Charles Mann,1
+San Juan,Waldron Island,Voters,,,Registered,93
+San Juan,Waldron Island,Voters,,,Ballots,88
